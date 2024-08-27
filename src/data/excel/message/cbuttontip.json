@@ -1,0 +1,146 @@
+{
+    "Data": {
+        "1": {
+            "Content": "使用道具",
+            "id": 1,
+            "Icon": 10207,
+            "ContentTextID": 700001
+        },
+        "2": {
+            "Content": "砍倒",
+            "id": 2,
+            "Icon": 10206,
+            "ContentTextID": 700002
+        },
+        "3": {
+            "Content": "开门",
+            "id": 3,
+            "Icon": 10206,
+            "ContentTextID": 700003
+        },
+        "4": {
+            "Content": "推动",
+            "id": 4,
+            "Icon": 10205,
+            "ContentTextID": 700004
+        },
+        "5": {
+            "Content": "扳动",
+            "id": 5,
+            "Icon": 11881,
+            "ContentTextID": 700005
+        },
+        "6": {
+            "Content": "开锁",
+            "id": 6,
+            "Icon": 10206,
+            "ContentTextID": 700006
+        },
+        "7": {
+            "Content": "获得",
+            "id": 7,
+            "Icon": 11889,
+            "ContentTextID": 700007
+        },
+        "8": {
+            "Content": "翻转",
+            "id": 8,
+            "Icon": 11886,
+            "ContentTextID": 700008
+        },
+        "9": {
+            "Content": "发射",
+            "id": 9,
+            "Icon": 11887,
+            "ContentTextID": 700009
+        },
+        "10": {
+            "Content": "打开",
+            "id": 10,
+            "Icon": 11884,
+            "ContentTextID": 700010
+        },
+        "11": {
+            "Content": "阅读",
+            "id": 11,
+            "Icon": 11893,
+            "ContentTextID": 700011
+        },
+        "12": {
+            "Content": "查看",
+            "id": 12,
+            "Icon": 11882,
+            "ContentTextID": 700012
+        },
+        "13": {
+            "Content": "对话",
+            "id": 13,
+            "Icon": 11885,
+            "ContentTextID": 700013
+        },
+        "14": {
+            "Content": "恢复",
+            "id": 14,
+            "Icon": 11888,
+            "ContentTextID": 700014
+        },
+        "15": {
+            "Content": "触碰",
+            "id": 15,
+            "Icon": 11883,
+            "ContentTextID": 700015
+        },
+        "16": {
+            "Content": "触碰",
+            "id": 16,
+            "Icon": 11883,
+            "ContentTextID": 700016
+        },
+        "24": {
+            "Content": "激活",
+            "id": 24,
+            "Icon": 11890,
+            "ContentTextID": 700017
+        },
+        "25": {
+            "Content": "进入",
+            "id": 25,
+            "Icon": 11891,
+            "ContentTextID": 700650
+        },
+        "26": {
+            "Content": "离开",
+            "id": 26,
+            "Icon": 11892,
+            "ContentTextID": 700655
+        },
+        "27": {
+            "Content": "拾取",
+            "id": 27,
+            "Icon": 11884,
+            "ContentTextID": 701138
+        }
+    },
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        24,
+        25,
+        26,
+        27
+    ]
+}

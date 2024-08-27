@@ -1,0 +1,55 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8
+    ],
+    "Data": {
+        "8": {
+            "assetName": "tower_hp_01",
+            "eventName": "圣坛",
+            "id": 8,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1": {
+            "assetName": "tower_battle_01",
+            "eventName": "普通怪物",
+            "id": 1,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "2": {
+            "assetName": "tower_battle_02",
+            "eventName": "精英怪物",
+            "id": 2,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "3": {
+            "assetName": "tower_chest_02",
+            "eventName": "普通宝箱",
+            "id": 3,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "5": {
+            "assetName": "tower_chest_03",
+            "eventName": "极品宝箱",
+            "id": 5,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "6": {
+            "assetName": "tower_event_01",
+            "eventName": "故事",
+            "id": 6,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "7": {
+            "assetName": "tower_battle_03",
+            "eventName": "BOSS",
+            "id": 7,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        }
+    }
+}

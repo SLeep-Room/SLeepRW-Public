@@ -1,0 +1,55 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "worldNameTextID": 1300646,
+            "worldName": "奇洛拉",
+            "icon": 11463
+        },
+        {
+            "id": 2,
+            "worldNameTextID": 1300647,
+            "worldName": "伊敏瑟伦",
+            "icon": 11464
+        },
+        {
+            "id": 3,
+            "worldNameTextID": 1300648,
+            "worldName": "谢波契卡",
+            "icon": 11465
+        },
+        {
+            "id": 4,
+            "worldNameTextID": 1300649,
+            "worldName": "浮岛嘉庇艾尔",
+            "icon": 11466
+        },
+        {
+            "id": 5,
+            "worldNameTextID": 1300650,
+            "worldName": "黄沙世界",
+            "icon": 11467
+        },
+        {
+            "id": 6,
+            "worldNameTextID": 1300651,
+            "worldName": "太阳信仰世界",
+            "icon": 10943
+        },
+        {
+            "id": 7,
+            "worldNameTextID": 1300652,
+            "worldName": "幽冥边境",
+            "icon": 11468
+        }
+    ]
+}

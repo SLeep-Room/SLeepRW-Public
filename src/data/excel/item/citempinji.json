@@ -1,0 +1,72 @@
+{
+    "Data": [
+        {
+            "name": 1185,
+            "tipsBackground": 11854,
+            "equipStrengthenImageDir": 10659,
+            "shopBackground": 11436,
+            "buyBackground": 11936,
+            "equipWorkshop": 12271,
+            "id": 1,
+            "imageDir": 10375
+        },
+        {
+            "name": 1186,
+            "tipsBackground": 11855,
+            "equipStrengthenImageDir": 10660,
+            "shopBackground": 11437,
+            "buyBackground": 11937,
+            "equipWorkshop": 12272,
+            "id": 2,
+            "imageDir": 10376
+        },
+        {
+            "name": 1187,
+            "tipsBackground": 11856,
+            "equipStrengthenImageDir": 10661,
+            "shopBackground": 11438,
+            "buyBackground": 11938,
+            "equipWorkshop": 12273,
+            "id": 3,
+            "imageDir": 10377
+        },
+        {
+            "name": 1188,
+            "tipsBackground": 11857,
+            "equipStrengthenImageDir": 10661,
+            "shopBackground": 11439,
+            "buyBackground": 11939,
+            "equipWorkshop": 12274,
+            "id": 4,
+            "imageDir": 11339
+        },
+        {
+            "name": 1189,
+            "tipsBackground": 11857,
+            "equipStrengthenImageDir": 10661,
+            "shopBackground": 11439,
+            "buyBackground": 11939,
+            "equipWorkshop": 12274,
+            "id": 5,
+            "imageDir": 11339
+        },
+        {
+            "name": 1190,
+            "tipsBackground": 11854,
+            "equipStrengthenImageDir": 0,
+            "shopBackground": 11439,
+            "buyBackground": 11939,
+            "equipWorkshop": 12274,
+            "id": 6,
+            "imageDir": 10701
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+}

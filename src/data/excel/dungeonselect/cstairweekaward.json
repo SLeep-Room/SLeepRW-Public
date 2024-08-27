@@ -1,0 +1,102 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+    ],
+    "Data": [
+        {
+            "awardID": 3227,
+            "ItemNum": 50,
+            "passedPoints": 9,
+            "id": 1,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3227,
+            "ItemNum": 50,
+            "passedPoints": 18,
+            "id": 2,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3227,
+            "ItemNum": 50,
+            "passedPoints": 27,
+            "id": 3,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3227,
+            "ItemNum": 50,
+            "passedPoints": 36,
+            "id": 4,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3228,
+            "ItemNum": 80,
+            "passedPoints": 45,
+            "id": 5,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3228,
+            "ItemNum": 80,
+            "passedPoints": 54,
+            "id": 6,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3228,
+            "ItemNum": 80,
+            "passedPoints": 63,
+            "id": 7,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3228,
+            "ItemNum": 80,
+            "passedPoints": 72,
+            "id": 8,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3229,
+            "ItemNum": 120,
+            "passedPoints": 81,
+            "id": 9,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3229,
+            "ItemNum": 120,
+            "passedPoints": 90,
+            "id": 10,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3229,
+            "ItemNum": 120,
+            "passedPoints": 99,
+            "id": 11,
+            "showItem": 35026
+        },
+        {
+            "awardID": 3229,
+            "ItemNum": 120,
+            "passedPoints": 108,
+            "id": 12,
+            "showItem": 35026
+        }
+    ]
+}

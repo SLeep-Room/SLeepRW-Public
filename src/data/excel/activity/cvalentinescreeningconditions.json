@@ -1,0 +1,118 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "typename": 501836,
+            "sort": 2,
+            "nameid": 501831,
+            "type": 1
+        },
+        {
+            "id": 2,
+            "typename": 501836,
+            "sort": 3,
+            "nameid": 501832,
+            "type": 1
+        },
+        {
+            "id": 3,
+            "typename": 501836,
+            "sort": 4,
+            "nameid": 501833,
+            "type": 1
+        },
+        {
+            "id": 4,
+            "typename": 501837,
+            "sort": 1,
+            "nameid": 501805,
+            "type": 2
+        },
+        {
+            "id": 5,
+            "typename": 501837,
+            "sort": 2,
+            "nameid": 501806,
+            "type": 2
+        },
+        {
+            "id": 6,
+            "typename": 501837,
+            "sort": 3,
+            "nameid": 501807,
+            "type": 2
+        },
+        {
+            "id": 7,
+            "typename": 501837,
+            "sort": 4,
+            "nameid": 501808,
+            "type": 2
+        },
+        {
+            "id": 8,
+            "typename": 501837,
+            "sort": 5,
+            "nameid": 501809,
+            "type": 2
+        },
+        {
+            "id": 9,
+            "typename": 501837,
+            "sort": 6,
+            "nameid": 501810,
+            "type": 2
+        },
+        {
+            "id": 10,
+            "typename": 501836,
+            "sort": 1,
+            "nameid": 501834,
+            "type": 1
+        },
+        {
+            "id": 11,
+            "typename": 501836,
+            "sort": 5,
+            "nameid": 502614,
+            "type": 1
+        },
+        {
+            "id": 12,
+            "typename": 502778,
+            "sort": 1,
+            "nameid": 502771,
+            "type": 3
+        },
+        {
+            "id": 13,
+            "typename": 502778,
+            "sort": 2,
+            "nameid": 502772,
+            "type": 3
+        },
+        {
+            "id": 14,
+            "typename": 502778,
+            "sort": 3,
+            "nameid": 502773,
+            "type": 3
+        }
+    ]
+}

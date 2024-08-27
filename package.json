@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@types/node-fetch": "3.0.2",
+    "ts-node-dev": "^2.0.0"
+  },
+  "scripts": {
+    "start": "npx ts-node-dev --respawn --transpile-only --ignore-watch data -- src/index.ts"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "@types/json-bigint": "1.0.0",
+    "@types/node": "^22.1.0",
+    "byte-buffer": "^2.0.0",
+    "coa-echo": "^1.2.1",
+    "coa-helper": "^1.2.1",
+    "express": "^4.19.2",
+    "json-bigint": "^1.0.0"
+  }
+}

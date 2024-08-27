@@ -1,0 +1,36 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "Data": [
+        {
+            "otherName": "青蛙骑士",
+            "otherNameTextID": 900001,
+            "id": 1
+        },
+        {
+            "otherName": "称谓测试2",
+            "otherNameTextID": 900002,
+            "id": 2
+        },
+        {
+            "otherName": "称谓测试3",
+            "otherNameTextID": 900003,
+            "id": 3
+        },
+        {
+            "otherName": "称谓测试4",
+            "otherNameTextID": 900004,
+            "id": 4
+        },
+        {
+            "otherName": "称谓测试5",
+            "otherNameTextID": 900005,
+            "id": 5
+        }
+    ]
+}

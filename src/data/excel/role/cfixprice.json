@@ -1,0 +1,18 @@
+{
+    "AllIds": [
+        0,
+        100
+    ],
+    "Data": {
+        "0": {
+            "id": 0,
+            "manaPerMin": 1,
+            "timeMax": 99
+        },
+        "100": {
+            "id": 100,
+            "manaPerMin": 2,
+            "timeMax": 99999
+        }
+    }
+}

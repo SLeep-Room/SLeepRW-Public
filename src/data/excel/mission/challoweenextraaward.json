@@ -1,0 +1,28 @@
+{
+    "AllIds": [
+        1,
+        2
+    ],
+    "Data": [
+        {
+            "neednum": 10,
+            "rewardquantity": [
+                300000
+            ],
+            "id": 1,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 20,
+            "rewardquantity": [
+                5
+            ],
+            "id": 2,
+            "rewarditem": [
+                35036
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "AllIds": [
+        1,
+        2
+    ],
+    "Data": [
+        {
+            "nameLength": 6,
+            "id": 1
+        },
+        {
+            "nameLength": 6,
+            "id": 2
+        }
+    ]
+}

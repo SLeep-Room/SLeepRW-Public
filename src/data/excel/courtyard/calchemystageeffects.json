@@ -1,0 +1,46 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "stageeffectparameter1": 2,
+            "stageeffecttype": 1,
+            "stageeffectparameter2": 0,
+            "stageeffecttxtid": 800114
+        },
+        {
+            "id": 2,
+            "stageeffectparameter1": 15,
+            "stageeffecttype": 2,
+            "stageeffectparameter2": 0,
+            "stageeffecttxtid": 800115
+        },
+        {
+            "id": 3,
+            "stageeffectparameter1": 2,
+            "stageeffecttype": 1,
+            "stageeffectparameter2": 0,
+            "stageeffecttxtid": 800114
+        },
+        {
+            "id": 4,
+            "stageeffectparameter1": 2,
+            "stageeffecttype": 1,
+            "stageeffectparameter2": 0,
+            "stageeffecttxtid": 800114
+        },
+        {
+            "id": 5,
+            "stageeffectparameter1": 5,
+            "stageeffecttype": 3,
+            "stageeffectparameter2": 2,
+            "stageeffecttxtid": 800116
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "reward": 35026,
+            "rewardNum": 200,
+            "roleNum": 1
+        },
+        {
+            "id": 2,
+            "reward": 79001,
+            "rewardNum": 30,
+            "roleNum": 5
+        },
+        {
+            "id": 3,
+            "reward": 79002,
+            "rewardNum": 20,
+            "roleNum": 10
+        },
+        {
+            "id": 4,
+            "reward": 79004,
+            "rewardNum": 3,
+            "roleNum": 15
+        },
+        {
+            "id": 5,
+            "reward": 30076,
+            "rewardNum": 2,
+            "roleNum": 20
+        }
+    ]
+}

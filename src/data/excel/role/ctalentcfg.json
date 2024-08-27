@@ -1,0 +1,110 @@
+{
+    "Data": [
+        {
+            "costAP": 1,
+            "parameter1": 20,
+            "type": 1,
+            "id": 1,
+            "parameter2": 10
+        },
+        {
+            "costAP": 1,
+            "parameter1": 30,
+            "type": 1,
+            "id": 2,
+            "parameter2": 10
+        },
+        {
+            "costAP": 1,
+            "parameter1": 40,
+            "type": 1,
+            "id": 3,
+            "parameter2": 10
+        },
+        {
+            "costAP": 1,
+            "parameter1": 50,
+            "type": 1,
+            "id": 4,
+            "parameter2": 10
+        },
+        {
+            "costAP": 1,
+            "parameter1": 60,
+            "type": 1,
+            "id": 5,
+            "parameter2": 10
+        },
+        {
+            "costAP": 1,
+            "parameter1": 20,
+            "type": 1,
+            "id": 6,
+            "parameter2": 10
+        },
+        {
+            "costAP": 1,
+            "parameter1": 30,
+            "type": 1,
+            "id": 7,
+            "parameter2": 10
+        },
+        {
+            "costAP": 2,
+            "parameter1": 40,
+            "type": 1,
+            "id": 8,
+            "parameter2": 20
+        },
+        {
+            "costAP": 2,
+            "parameter1": 50,
+            "type": 1,
+            "id": 9,
+            "parameter2": 20
+        },
+        {
+            "costAP": 2,
+            "parameter1": 60,
+            "type": 1,
+            "id": 10,
+            "parameter2": 20
+        },
+        {
+            "costAP": 2,
+            "parameter1": 20,
+            "type": 1,
+            "id": 11,
+            "parameter2": 20
+        },
+        {
+            "costAP": 2,
+            "parameter1": 40,
+            "type": 1,
+            "id": 12,
+            "parameter2": 20
+        },
+        {
+            "costAP": 2,
+            "parameter1": 500021,
+            "type": 2,
+            "id": 13,
+            "parameter2": 500041
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ]
+}

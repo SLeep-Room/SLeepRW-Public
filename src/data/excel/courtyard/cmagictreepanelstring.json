@@ -1,0 +1,90 @@
+{
+    "AllIds": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700
+    ],
+    "Data": {
+        "200": {
+            "id": 200,
+            "scenariostring": [
+                800098,
+                800099,
+                800100
+            ],
+            "stayingnumber": 1439,
+            "illustration": 11901,
+            "stayingfunction": 800088
+        },
+        "700": {
+            "id": 700,
+            "scenariostring": [
+                800192,
+                800192,
+                800192
+            ],
+            "stayingnumber": -1,
+            "illustration": 11904,
+            "stayingfunction": 800315
+        },
+        "600": {
+            "id": 600,
+            "scenariostring": [
+                800185,
+                800186,
+                800187
+            ],
+            "stayingnumber": 1439,
+            "illustration": 11904,
+            "stayingfunction": 800184
+        },
+        "100": {
+            "id": 100,
+            "scenariostring": [
+                800092,
+                800093,
+                800094
+            ],
+            "stayingnumber": -1,
+            "illustration": 11900,
+            "stayingfunction": 800104
+        },
+        "500": {
+            "id": 500,
+            "scenariostring": [
+                800095,
+                800096,
+                800097
+            ],
+            "stayingnumber": 1330,
+            "illustration": 11904,
+            "stayingfunction": 800087
+        },
+        "400": {
+            "id": 400,
+            "scenariostring": [
+                800089,
+                800090,
+                800091
+            ],
+            "stayingnumber": 1439,
+            "illustration": 11903,
+            "stayingfunction": 800086
+        },
+        "300": {
+            "id": 300,
+            "scenariostring": [
+                800101,
+                800102,
+                800103
+            ],
+            "stayingnumber": -1,
+            "illustration": 11902,
+            "stayingfunction": 800105
+        }
+    }
+}

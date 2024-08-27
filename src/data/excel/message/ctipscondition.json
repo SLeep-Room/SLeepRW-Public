@@ -1,0 +1,167 @@
+{
+    "Data": {
+        "2016": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2016,
+            "unlockedArea": 10035
+        },
+        "2017": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2017,
+            "unlockedArea": 10041
+        },
+        "2018": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2018,
+            "unlockedArea": 15035
+        },
+        "2019": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2019,
+            "unlockedArea": 10040
+        },
+        "2020": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2020,
+            "unlockedArea": 15001
+        },
+        "1001": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 1001,
+            "unlockedArea": 10004
+        },
+        "1002": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 10016,
+            "id": 1002,
+            "unlockedArea": 0
+        },
+        "1003": {
+            "unlockedCharacter": 17,
+            "goingScenceID": 0,
+            "id": 1003,
+            "unlockedArea": 0
+        },
+        "2001": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2001,
+            "unlockedArea": 12002
+        },
+        "2002": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2002,
+            "unlockedArea": 10011
+        },
+        "2003": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2003,
+            "unlockedArea": 10009
+        },
+        "2004": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2004,
+            "unlockedArea": 10001
+        },
+        "2005": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2005,
+            "unlockedArea": 10001
+        },
+        "2006": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2006,
+            "unlockedArea": 10002
+        },
+        "2007": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2007,
+            "unlockedArea": 13009
+        },
+        "2008": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2008,
+            "unlockedArea": 12003
+        },
+        "2009": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2009,
+            "unlockedArea": 30004
+        },
+        "2010": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2010,
+            "unlockedArea": 10003
+        },
+        "2011": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2011,
+            "unlockedArea": 10003
+        },
+        "2012": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2012,
+            "unlockedArea": 10003
+        },
+        "2013": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2013,
+            "unlockedArea": 10001
+        },
+        "2014": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2014,
+            "unlockedArea": 14018
+        },
+        "2015": {
+            "unlockedCharacter": 0,
+            "goingScenceID": 0,
+            "id": 2015,
+            "unlockedArea": 15001
+        }
+    },
+    "AllIds": [
+        1001,
+        1002,
+        1003,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+    ]
+}

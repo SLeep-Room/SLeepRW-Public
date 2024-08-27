@@ -1,0 +1,18 @@
+{
+    "AllIds": [
+        1,
+        2
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "length": 0.2,
+            "InitialCoordinate": "-2,0,0"
+        },
+        {
+            "id": 2,
+            "length": 0.2,
+            "InitialCoordinate": "-2,0,-0.8"
+        }
+    ]
+}

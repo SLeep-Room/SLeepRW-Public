@@ -1,0 +1,54 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "Data": [
+        {
+            "NameId": 2000013,
+            "BigUiId": 12585,
+            "UiId": 12537,
+            "id": 1,
+            "SortId": 1
+        },
+        {
+            "NameId": 2000014,
+            "BigUiId": 12586,
+            "UiId": 12538,
+            "id": 2,
+            "SortId": 2
+        },
+        {
+            "NameId": 2000015,
+            "BigUiId": 12587,
+            "UiId": 12539,
+            "id": 3,
+            "SortId": 3
+        },
+        {
+            "NameId": 2000016,
+            "BigUiId": 12588,
+            "UiId": 12540,
+            "id": 4,
+            "SortId": 4
+        },
+        {
+            "NameId": 2000017,
+            "BigUiId": 12589,
+            "UiId": 12541,
+            "id": 5,
+            "SortId": 5
+        },
+        {
+            "NameId": 2000018,
+            "BigUiId": 12590,
+            "UiId": 12542,
+            "id": 6,
+            "SortId": 6
+        }
+    ]
+}

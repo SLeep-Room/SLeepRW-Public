@@ -1,0 +1,86 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        100,
+        2001,
+        2002
+    ],
+    "Data": {
+        "1": {
+            "id": 1,
+            "Image": 0,
+            "Sort": 1,
+            "TypeNameTextID": 1100014,
+            "TypeName": "商品推荐"
+        },
+        "2": {
+            "id": 2,
+            "Image": 0,
+            "Sort": 2,
+            "TypeNameTextID": 1100015,
+            "TypeName": "充值"
+        },
+        "3": {
+            "id": 3,
+            "Image": 0,
+            "Sort": 4,
+            "TypeNameTextID": 1100016,
+            "TypeName": "礼包"
+        },
+        "4": {
+            "id": 4,
+            "Image": 0,
+            "Sort": 5,
+            "TypeNameTextID": 1100017,
+            "TypeName": "人偶外观"
+        },
+        "5": {
+            "id": 5,
+            "Image": 0,
+            "Sort": 7,
+            "TypeNameTextID": 1100018,
+            "TypeName": "杂货"
+        },
+        "7": {
+            "id": 7,
+            "Image": 0,
+            "Sort": 8,
+            "TypeNameTextID": 1100028,
+            "TypeName": "试炼"
+        },
+        "8": {
+            "id": 8,
+            "Image": -1,
+            "Sort": -1,
+            "TypeNameTextID": -1,
+            "TypeName": "限时活动"
+        },
+        "2002": {
+            "id": 2002,
+            "Image": 0,
+            "Sort": 3,
+            "TypeNameTextID": 1100021,
+            "TypeName": "梦境"
+        },
+        "2001": {
+            "id": 2001,
+            "Image": 0,
+            "Sort": 3,
+            "TypeNameTextID": 1100020,
+            "TypeName": "梦境"
+        },
+        "100": {
+            "id": 100,
+            "Image": 0,
+            "Sort": 100,
+            "TypeNameTextID": 1100019,
+            "TypeName": "春节限时"
+        }
+    }
+}

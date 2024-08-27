@@ -1,0 +1,112 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "Data": [
+        {
+            "stagename": "第一天奖励",
+            "missionid": 120001,
+            "id": 1,
+            "rewardnum": [
+                80,
+                1,
+                0,
+                0
+            ],
+            "costnum": 1,
+            "rewarditem": [
+                35008,
+                31038
+            ],
+            "finalrewardnum": 0,
+            "finalrewarditem": -1,
+            "costid": 31252,
+            "stagenameid": 1001569
+        },
+        {
+            "stagename": "第二天奖励",
+            "missionid": 120002,
+            "id": 2,
+            "rewardnum": [
+                80,
+                1,
+                0,
+                0
+            ],
+            "costnum": 1,
+            "rewarditem": [
+                35008,
+                31038
+            ],
+            "finalrewardnum": 0,
+            "finalrewarditem": -1,
+            "costid": 31253,
+            "stagenameid": 1001570
+        },
+        {
+            "stagename": "第三天奖励",
+            "missionid": 120003,
+            "id": 3,
+            "rewardnum": [
+                80,
+                1,
+                0,
+                0
+            ],
+            "costnum": 1,
+            "rewarditem": [
+                35008,
+                31038
+            ],
+            "finalrewardnum": 0,
+            "finalrewarditem": -1,
+            "costid": 31254,
+            "stagenameid": 1001571
+        },
+        {
+            "stagename": "第四天奖励",
+            "missionid": 120004,
+            "id": 4,
+            "rewardnum": [
+                80,
+                1,
+                0,
+                0
+            ],
+            "costnum": 1,
+            "rewarditem": [
+                35008,
+                31038
+            ],
+            "finalrewardnum": 0,
+            "finalrewarditem": -1,
+            "costid": 31255,
+            "stagenameid": 1001572
+        },
+        {
+            "stagename": "第五天奖励",
+            "missionid": 120005,
+            "id": 5,
+            "rewardnum": [
+                1,
+                80,
+                1,
+                0
+            ],
+            "costnum": 1,
+            "rewarditem": [
+                80186,
+                35008,
+                31038
+            ],
+            "finalrewardnum": 0,
+            "finalrewarditem": -1,
+            "costid": 31256,
+            "stagenameid": 1001573
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "nameID": 702343,
+            "unlockCondition": 0,
+            "buffID": 71001,
+            "typeID": 1
+        },
+        {
+            "id": 2,
+            "nameID": 702344,
+            "unlockCondition": 15000,
+            "buffID": 71002,
+            "typeID": 1
+        },
+        {
+            "id": 3,
+            "nameID": 702345,
+            "unlockCondition": 30000,
+            "buffID": 71003,
+            "typeID": 1
+        },
+        {
+            "id": 4,
+            "nameID": 702346,
+            "unlockCondition": 0,
+            "buffID": 71004,
+            "typeID": 2
+        },
+        {
+            "id": 5,
+            "nameID": 702347,
+            "unlockCondition": 20000,
+            "buffID": 71005,
+            "typeID": 2
+        },
+        {
+            "id": 6,
+            "nameID": 702348,
+            "unlockCondition": 40000,
+            "buffID": 71006,
+            "typeID": 2
+        },
+        {
+            "id": 7,
+            "nameID": 702349,
+            "unlockCondition": 0,
+            "buffID": 71007,
+            "typeID": 3
+        },
+        {
+            "id": 8,
+            "nameID": 702350,
+            "unlockCondition": 20000,
+            "buffID": 71008,
+            "typeID": 3
+        },
+        {
+            "id": 9,
+            "nameID": 702351,
+            "unlockCondition": 40000,
+            "buffID": 71009,
+            "typeID": 3
+        },
+        {
+            "id": 10,
+            "nameID": 702352,
+            "unlockCondition": 0,
+            "buffID": 71010,
+            "typeID": 4
+        },
+        {
+            "id": 11,
+            "nameID": 702353,
+            "unlockCondition": 10000,
+            "buffID": 71011,
+            "typeID": 4
+        },
+        {
+            "id": 12,
+            "nameID": 702354,
+            "unlockCondition": 20000,
+            "buffID": 71012,
+            "typeID": 4
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "AllIds": [
+        15,
+        30,
+        50,
+        75,
+        100
+    ],
+    "Data": {
+        "50": {
+            "showItemNum": [
+                1
+            ],
+            "awardid": 31067,
+            "id": 50,
+            "showItemId": [
+                31038
+            ]
+        },
+        "75": {
+            "showItemNum": [
+                25000
+            ],
+            "awardid": 31068,
+            "id": 75,
+            "showItemId": [
+                35002
+            ]
+        },
+        "100": {
+            "showItemNum": [
+                150
+            ],
+            "awardid": 31069,
+            "id": 100,
+            "showItemId": [
+                35008
+            ]
+        },
+        "30": {
+            "showItemNum": [
+                15000
+            ],
+            "awardid": 31066,
+            "id": 30,
+            "showItemId": [
+                35002
+            ]
+        },
+        "15": {
+            "showItemNum": [
+                20
+            ],
+            "awardid": 31065,
+            "id": 15,
+            "showItemId": [
+                35011
+            ]
+        }
+    }
+}

@@ -1,0 +1,306 @@
+{
+    "Data": [
+        {
+            "num": -1,
+            "itemID": -1,
+            "id": 1,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 20,
+            "basicHealth": 100
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 2,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 28,
+            "basicHealth": 120
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 3,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 36,
+            "basicHealth": 140
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 4,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 44,
+            "basicHealth": 160
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 5,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 52,
+            "basicHealth": 180
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 6,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 60,
+            "basicHealth": 200
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 7,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 68,
+            "basicHealth": 220
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 8,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 76,
+            "basicHealth": 240
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 9,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 84,
+            "basicHealth": 260
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 10,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 92,
+            "basicHealth": 280
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 11,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 100,
+            "basicHealth": 300
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 12,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 108,
+            "basicHealth": 320
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 13,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 116,
+            "basicHealth": 340
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 14,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 124,
+            "basicHealth": 360
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 15,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 132,
+            "basicHealth": 380
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 16,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 140,
+            "basicHealth": 400
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 17,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 148,
+            "basicHealth": 420
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 18,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 156,
+            "basicHealth": 440
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 19,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 164,
+            "basicHealth": 460
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 20,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 172,
+            "basicHealth": 480
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 21,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 180,
+            "basicHealth": 500
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 22,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 188,
+            "basicHealth": 520
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 23,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 196,
+            "basicHealth": 540
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 24,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 204,
+            "basicHealth": 560
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 25,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 212,
+            "basicHealth": 580
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 26,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 220,
+            "basicHealth": 600
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 27,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 228,
+            "basicHealth": 620
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 28,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 236,
+            "basicHealth": 640
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 29,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 244,
+            "basicHealth": 660
+        },
+        {
+            "num": 20,
+            "itemID": 35060,
+            "id": 30,
+            "upgradeID": 702081,
+            "roleNameID": 702080,
+            "basicAttack": 252,
+            "basicHealth": 680
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+    ]
+}

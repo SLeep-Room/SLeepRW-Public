@@ -1,0 +1,17 @@
+{
+    "Data": [
+        {
+            "rankingmarktxt": 702296,
+            "nameTextID": 702296,
+            "id": 1,
+            "name": "挑战模式",
+            "tapimageid": 15338,
+            "bosspos": "50,-210",
+            "bossshapeid": 20171,
+            "bossscale": "0.7"
+        }
+    ],
+    "AllIds": [
+        1
+    ]
+}

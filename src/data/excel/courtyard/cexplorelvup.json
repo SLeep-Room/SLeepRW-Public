@@ -1,0 +1,42 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "refreshTimes": 3,
+            "refreshRate": 60,
+            "volume": 1000,
+            "roleNum": 3,
+            "teamNum": 1
+        },
+        {
+            "id": 2,
+            "refreshTimes": 3,
+            "refreshRate": 60,
+            "volume": 1000,
+            "roleNum": 3,
+            "teamNum": 2
+        },
+        {
+            "id": 3,
+            "refreshTimes": 3,
+            "refreshRate": 60,
+            "volume": 1000,
+            "roleNum": 3,
+            "teamNum": 3
+        },
+        {
+            "id": 4,
+            "refreshTimes": 3,
+            "refreshRate": 60,
+            "volume": 1000,
+            "roleNum": 3,
+            "teamNum": 4
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "AllIds": [
+        1
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "joinBattleNpcID": 20054,
+            "joinBattleCondition": "石巨人20015生命值低于（参数）%时",
+            "joinBattleAnimation": "Special",
+            "joinBattleMessage": 10002,
+            "beginPoint": "L15",
+            "battleID": 1135,
+            "attr": "25"
+        }
+    ]
+}

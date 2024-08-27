@@ -1,0 +1,110 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "rewardQuantity": [],
+            "topShow": 0,
+            "rewardItem": [],
+            "rewardNum": 0
+        },
+        {
+            "id": 2,
+            "rewardQuantity": [
+                10
+            ],
+            "topShow": 0,
+            "rewardItem": [
+                31380
+            ],
+            "rewardNum": 20
+        },
+        {
+            "id": 3,
+            "rewardQuantity": [
+                60
+            ],
+            "topShow": 0,
+            "rewardItem": [
+                74002
+            ],
+            "rewardNum": 50
+        },
+        {
+            "id": 4,
+            "rewardQuantity": [
+                200
+            ],
+            "topShow": 0,
+            "rewardItem": [
+                35008
+            ],
+            "rewardNum": 80
+        },
+        {
+            "id": 5,
+            "rewardQuantity": [
+                2
+            ],
+            "topShow": 0,
+            "rewardItem": [
+                30076
+            ],
+            "rewardNum": 120
+        },
+        {
+            "id": 6,
+            "rewardQuantity": [
+                2
+            ],
+            "topShow": 0,
+            "rewardItem": [
+                31038
+            ],
+            "rewardNum": 160
+        },
+        {
+            "id": 7,
+            "rewardQuantity": [
+                10
+            ],
+            "topShow": 0,
+            "rewardItem": [
+                31383
+            ],
+            "rewardNum": 200
+        },
+        {
+            "id": 8,
+            "rewardQuantity": [
+                1
+            ],
+            "topShow": 0,
+            "rewardItem": [
+                70003
+            ],
+            "rewardNum": 250
+        },
+        {
+            "id": 9,
+            "rewardQuantity": [
+                3
+            ],
+            "topShow": 1,
+            "rewardItem": [
+                30076
+            ],
+            "rewardNum": 300
+        }
+    ]
+}

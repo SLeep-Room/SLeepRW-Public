@@ -1,0 +1,318 @@
+{
+    "AllIds": [
+        180009,
+        180010,
+        180011,
+        180014,
+        180015,
+        180016,
+        180017,
+        180018,
+        180019,
+        180020,
+        180021,
+        180022
+    ],
+    "Data": {
+        "180016": {
+            "missiontype": 18,
+            "id": 180016,
+            "progresspath": [
+                "16,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001903,
+            "rewardid": 4335,
+            "sortid": 10,
+            "rewardquantity": [
+                20
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 16,
+            "description": "消耗500特调甜品",
+            "missionname": "消耗500特调甜品",
+            "missionnameTextID": 1001903,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180017": {
+            "missiontype": 18,
+            "id": 180017,
+            "progresspath": [
+                "17,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001907,
+            "rewardid": 4335,
+            "sortid": 5,
+            "rewardquantity": [
+                20
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 17,
+            "description": "领取活动内每日补给5次",
+            "missionname": "活动内每日补给5次",
+            "missionnameTextID": 1001907,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180018": {
+            "missiontype": 18,
+            "id": 180018,
+            "progresspath": [
+                "18,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001908,
+            "rewardid": 4336,
+            "sortid": 6,
+            "rewardquantity": [
+                30
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 18,
+            "description": "领取活动内每日补给10次",
+            "missionname": "活动内每日补给10次",
+            "missionnameTextID": 1001908,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180019": {
+            "missiontype": 18,
+            "id": 180019,
+            "progresspath": [
+                "19,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001901,
+            "rewardid": 4336,
+            "sortid": 8,
+            "rewardquantity": [
+                30
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 19,
+            "description": "消耗1000古怪糖果",
+            "missionname": "消耗1000古怪糖果",
+            "missionnameTextID": 1001901,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180020": {
+            "missiontype": 18,
+            "id": 180020,
+            "progresspath": [
+                "20,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001902,
+            "rewardid": 4338,
+            "sortid": 9,
+            "rewardquantity": [
+                50
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 20,
+            "description": "消耗2000古怪糖果",
+            "missionname": "消耗2000古怪糖果",
+            "missionnameTextID": 1001902,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180021": {
+            "missiontype": 18,
+            "id": 180021,
+            "progresspath": [
+                "21,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001904,
+            "rewardid": 4336,
+            "sortid": 11,
+            "rewardquantity": [
+                30
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 21,
+            "description": "消耗1000特调甜品",
+            "missionname": "消耗1000特调甜品",
+            "missionnameTextID": 1001904,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180022": {
+            "missiontype": 18,
+            "id": 180022,
+            "progresspath": [
+                "22,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001905,
+            "rewardid": 4338,
+            "sortid": 12,
+            "rewardquantity": [
+                50
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 22,
+            "description": "消耗2000特调甜品",
+            "missionname": "消耗2000特调甜品",
+            "missionnameTextID": 1001905,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180009": {
+            "missiontype": 18,
+            "id": 180009,
+            "progresspath": [
+                "9,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001909,
+            "rewardid": 4334,
+            "sortid": 1,
+            "rewardquantity": [
+                10
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 9,
+            "description": "消耗1000体力",
+            "missionname": "消耗1000体力",
+            "missionnameTextID": 1001909,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180010": {
+            "missiontype": 18,
+            "id": 180010,
+            "progresspath": [
+                "10,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001910,
+            "rewardid": 4335,
+            "sortid": 2,
+            "rewardquantity": [
+                20
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 10,
+            "description": "消耗2000体力",
+            "missionname": "消耗2000体力",
+            "missionnameTextID": 1001910,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180011": {
+            "missiontype": 18,
+            "id": 180011,
+            "progresspath": [
+                "11,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001911,
+            "rewardid": 4336,
+            "sortid": 3,
+            "rewardquantity": [
+                30
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 11,
+            "description": "消耗3000体力",
+            "missionname": "消耗3000体力",
+            "missionnameTextID": 1001911,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180014": {
+            "missiontype": 18,
+            "id": 180014,
+            "progresspath": [
+                "14,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001906,
+            "rewardid": 4334,
+            "sortid": 4,
+            "rewardquantity": [
+                10
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 14,
+            "description": "领取活动内每日补给2次",
+            "missionname": "活动内每日补给2次",
+            "missionnameTextID": 1001906,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "180015": {
+            "missiontype": 18,
+            "id": 180015,
+            "progresspath": [
+                "15,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35075
+            ],
+            "descriptionTextID": 1001900,
+            "rewardid": 4335,
+            "sortid": 7,
+            "rewardquantity": [
+                20
+            ],
+            "UIjumpvalue": 35,
+            "endevent": 15,
+            "description": "消耗500古怪糖果",
+            "missionname": "消耗500古怪糖果",
+            "missionnameTextID": 1001900,
+            "jumpvalue": [
+                0
+            ]
+        }
+    }
+}

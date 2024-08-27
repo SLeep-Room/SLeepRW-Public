@@ -1,0 +1,89 @@
+{
+    "Data": [
+        {
+            "EventType": 1,
+            "id": 1,
+            "parm": [
+                "base.basemainmenudialog",
+                "MainMenuBtn/Effect",
+                "1001"
+            ]
+        },
+        {
+            "EventType": 1,
+            "id": 2,
+            "parm": [
+                "base.basemainmenudialog",
+                "CharInfo/Effect",
+                "1001"
+            ]
+        },
+        {
+            "EventType": 1,
+            "id": 3,
+            "parm": [
+                "character.basecharacterlistdialog",
+                "UI/PageUp/Effect",
+                "1001"
+            ]
+        },
+        {
+            "EventType": 1,
+            "id": 4,
+            "parm": [
+                "character.basecharacterlistalldialog",
+                "CharacterCell/Effect",
+                "1001"
+            ]
+        },
+        {
+            "EventType": 1,
+            "id": 5,
+            "parm": [
+                "character.basecharacterinfodialog",
+                "Cost/CommonButton2/Effect",
+                "1001"
+            ]
+        },
+        {
+            "EventType": 2,
+            "id": 6,
+            "parm": []
+        },
+        {
+            "EventType": 2,
+            "id": 7,
+            "parm": []
+        },
+        {
+            "EventType": 1,
+            "id": 8,
+            "parm": [
+                "character.basecharacterinfodialog",
+                "RightArrow/Effect"
+            ]
+        },
+        {
+            "EventType": 1,
+            "id": 9,
+            "parm": []
+        },
+        {
+            "EventType": 2,
+            "id": 10,
+            "parm": []
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ]
+}

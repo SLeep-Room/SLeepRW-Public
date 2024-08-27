@@ -1,0 +1,48 @@
+{
+    "AllIds": [
+        76000,
+        76001,
+        76002,
+        76003,
+        76004,
+        76005
+    ],
+    "Data": {
+        "76000": {
+            "Exp": 50,
+            "sort": 1,
+            "decomposereturn": 1,
+            "id": 76000
+        },
+        "76001": {
+            "Exp": 200,
+            "sort": 2,
+            "decomposereturn": 1,
+            "id": 76001
+        },
+        "76002": {
+            "Exp": 500,
+            "sort": 3,
+            "decomposereturn": 1,
+            "id": 76002
+        },
+        "76003": {
+            "Exp": 1000,
+            "sort": 4,
+            "decomposereturn": 1,
+            "id": 76003
+        },
+        "76004": {
+            "Exp": 1500,
+            "sort": 5,
+            "decomposereturn": 0,
+            "id": 76004
+        },
+        "76005": {
+            "Exp": 2000,
+            "sort": 6,
+            "decomposereturn": 0,
+            "id": 76005
+        }
+    }
+}

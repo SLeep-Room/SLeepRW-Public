@@ -1,0 +1,84 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "closeTime": "",
+            "onChannelId": "",
+            "itemNum": [
+                50
+            ],
+            "openTime": "",
+            "itemID": [
+                35008
+            ]
+        },
+        {
+            "id": 2,
+            "closeTime": "",
+            "onChannelId": "",
+            "itemNum": [
+                80
+            ],
+            "openTime": "",
+            "itemID": [
+                35008
+            ]
+        },
+        {
+            "id": 3,
+            "closeTime": "",
+            "onChannelId": "",
+            "itemNum": [
+                80
+            ],
+            "openTime": "",
+            "itemID": [
+                35008
+            ]
+        },
+        {
+            "id": 4,
+            "closeTime": "2050-08-07 04:00:00",
+            "onChannelId": "",
+            "itemNum": [
+                80
+            ],
+            "openTime": "2021-01-14 04:00:00",
+            "itemID": [
+                35008
+            ]
+        },
+        {
+            "id": 5,
+            "closeTime": "2021-12-09 15:00:00",
+            "onChannelId": "",
+            "itemNum": [
+                200
+            ],
+            "openTime": "2021-11-25 15:00:00",
+            "itemID": [
+                35008
+            ]
+        },
+        {
+            "id": 6,
+            "closeTime": "2022-07-14 04:00:00",
+            "onChannelId": "",
+            "itemNum": [
+                30
+            ],
+            "openTime": "2021-11-25 15:00:00",
+            "itemID": [
+                35008
+            ]
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+}

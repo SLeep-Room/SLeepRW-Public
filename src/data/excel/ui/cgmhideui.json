@@ -1,0 +1,413 @@
+{
+    "Data": {
+        "1": {
+            "defaultDisplay": 1,
+            "uIname": 1228,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 1,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "PauseBtn,LeaveBtn",
+            "uInameRemark": "暂停图标"
+        },
+        "2": {
+            "defaultDisplay": 1,
+            "uIname": 1229,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 2,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "WinBtn",
+            "uInameRemark": "战斗胜利图标"
+        },
+        "3": {
+            "defaultDisplay": 1,
+            "uIname": 1230,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 3,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "LoseBtn",
+            "uInameRemark": "战斗失败图标"
+        },
+        "4": {
+            "defaultDisplay": 1,
+            "uIname": 1231,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 4,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "DetailBtn,GMBtn,Element",
+            "uInameRemark": "战斗信息图标"
+        },
+        "5": {
+            "defaultDisplay": 1,
+            "uIname": 1232,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 5,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "HPCell",
+            "uInameRemark": "血条UI"
+        },
+        "7": {
+            "defaultDisplay": 1,
+            "uIname": 1234,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 7,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "SkillPanel",
+            "uInameRemark": "技能图标"
+        },
+        "8": {
+            "defaultDisplay": 1,
+            "uIname": 1235,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 8,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "BattleProgressBack,BattleEnergyBtn",
+            "uInameRemark": "能量UI"
+        },
+        "10": {
+            "defaultDisplay": 1,
+            "uIname": 1237,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 10,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "DamageNum",
+            "uInameRemark": "伤害数字"
+        },
+        "11": {
+            "defaultDisplay": 1,
+            "uIname": 1238,
+            "scene": 2,
+            "layoutName": "DungeonHUD",
+            "id": 11,
+            "fileName": "dungeon.dungeonhud",
+            "nodePath": "Back/Char1",
+            "uInameRemark": "角色头像1"
+        },
+        "12": {
+            "defaultDisplay": 1,
+            "uIname": 1260,
+            "scene": 2,
+            "layoutName": "DungeonHUD",
+            "id": 12,
+            "fileName": "dungeon.dungeonhud",
+            "nodePath": "Back/Char2",
+            "uInameRemark": "角色头像2"
+        },
+        "13": {
+            "defaultDisplay": 1,
+            "uIname": 1261,
+            "scene": 2,
+            "layoutName": "DungeonHUD",
+            "id": 13,
+            "fileName": "dungeon.dungeonhud",
+            "nodePath": "Back/Char3",
+            "uInameRemark": "角色头像3"
+        },
+        "14": {
+            "defaultDisplay": 1,
+            "uIname": 1239,
+            "scene": 2,
+            "layoutName": "DungeonHUD",
+            "id": 14,
+            "fileName": "dungeon.dungeonhud",
+            "nodePath": "Back/BagListBtn",
+            "uInameRemark": "战利品图标"
+        },
+        "15": {
+            "defaultDisplay": 1,
+            "uIname": 1240,
+            "scene": 2,
+            "layoutName": "DungeonHUD",
+            "id": 15,
+            "fileName": "dungeon.dungeonhud",
+            "nodePath": "GM",
+            "uInameRemark": "GM指令图标"
+        },
+        "16": {
+            "defaultDisplay": 1,
+            "uIname": 1241,
+            "scene": 2,
+            "layoutName": "DungeonHUD",
+            "id": 16,
+            "fileName": "dungeon.dungeonhud",
+            "nodePath": "MapArea,Back/NameBack,Back/Name,Back/Leave",
+            "uInameRemark": "小地图UI"
+        },
+        "17": {
+            "defaultDisplay": 1,
+            "uIname": 1262,
+            "scene": 2,
+            "layoutName": "DungeonHUD",
+            "id": 17,
+            "fileName": "dungeon.dungeonhud",
+            "nodePath": "MapBack",
+            "uInameRemark": "小地图背景"
+        },
+        "18": {
+            "defaultDisplay": 1,
+            "uIname": 1242,
+            "scene": 2,
+            "layoutName": "DungeonHUD",
+            "id": 18,
+            "fileName": "dungeon.dungeonhud",
+            "nodePath": "Back/ChatBtn",
+            "uInameRemark": "聊天图标"
+        },
+        "19": {
+            "defaultDisplay": 1,
+            "uIname": 1243,
+            "scene": 2,
+            "layoutName": "DungeonAct1",
+            "id": 19,
+            "fileName": "dungeon.dungeonact",
+            "nodePath": "",
+            "uInameRemark": "交互状态UI"
+        },
+        "20": {
+            "defaultDisplay": 1,
+            "uIname": 1244,
+            "scene": 2,
+            "layoutName": "ControlStick",
+            "id": 20,
+            "fileName": "dungeon.rockerdialog",
+            "nodePath": "",
+            "uInameRemark": "摇杆UI"
+        },
+        "21": {
+            "defaultDisplay": 1,
+            "uIname": 1245,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 21,
+            "fileName": "base.basemainui",
+            "nodePath": "PlayerInfo",
+            "uInameRemark": "角色及名称"
+        },
+        "22": {
+            "defaultDisplay": 1,
+            "uIname": 1246,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 22,
+            "fileName": "base.basemainui",
+            "nodePath": "TopGroup",
+            "uInameRemark": "资源显示UI"
+        },
+        "23": {
+            "defaultDisplay": 1,
+            "uIname": 1247,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 23,
+            "fileName": "base.basemainui",
+            "nodePath": "MenuBtn",
+            "uInameRemark": "设置图标"
+        },
+        "24": {
+            "defaultDisplay": 1,
+            "uIname": 1248,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 24,
+            "fileName": "base.basemainui",
+            "nodePath": "GM",
+            "uInameRemark": "GM指令图标"
+        },
+        "25": {
+            "defaultDisplay": 1,
+            "uIname": 1249,
+            "scene": 3,
+            "layoutName": "BaseInteract",
+            "id": 25,
+            "fileName": "base.baseinteractdialog",
+            "nodePath": "",
+            "uInameRemark": "文字UI"
+        },
+        "26": {
+            "defaultDisplay": 1,
+            "uIname": 1250,
+            "scene": 3,
+            "layoutName": "BaseMainMenu",
+            "id": 26,
+            "fileName": "base.basemainmenudialog",
+            "nodePath": "",
+            "uInameRemark": "左下角功能区"
+        },
+        "27": {
+            "defaultDisplay": 1,
+            "uIname": 1251,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 27,
+            "fileName": "base.basemainui",
+            "nodePath": "Mail",
+            "uInameRemark": "邮件图标"
+        },
+        "28": {
+            "defaultDisplay": 1,
+            "uIname": 1252,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 28,
+            "fileName": "base.basemainui",
+            "nodePath": "Chat",
+            "uInameRemark": "聊天图标"
+        },
+        "29": {
+            "defaultDisplay": 1,
+            "uIname": 1255,
+            "scene": 3,
+            "layoutName": "ClickEffectPoint",
+            "id": 29,
+            "fileName": "clickeffect.clickeffectdialog",
+            "nodePath": "",
+            "uInameRemark": "点击特效"
+        },
+        "30": {
+            "defaultDisplay": 1,
+            "uIname": 1256,
+            "scene": 2,
+            "layoutName": "DungeonAct1",
+            "id": 30,
+            "fileName": "npc.npcactbutton",
+            "nodePath": "",
+            "uInameRemark": "角色交互状态UI"
+        },
+        "31": {
+            "defaultDisplay": 1,
+            "uIname": 1257,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 31,
+            "fileName": "base.basemainui",
+            "nodePath": "Friends",
+            "uInameRemark": "好友图标"
+        },
+        "32": {
+            "defaultDisplay": 1,
+            "uIname": 1258,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 32,
+            "fileName": "base.basemainui",
+            "nodePath": "Welfare",
+            "uInameRemark": "福利图标"
+        },
+        "33": {
+            "defaultDisplay": 1,
+            "uIname": 1259,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 33,
+            "fileName": "base.basemainui",
+            "nodePath": "Shop,FirstRecharge",
+            "uInameRemark": "商城图标"
+        },
+        "34": {
+            "defaultDisplay": 1,
+            "uIname": 1263,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 34,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "BattleAssistBack",
+            "uInameRemark": "支援攻击图标"
+        },
+        "35": {
+            "defaultDisplay": 1,
+            "uIname": 1264,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 35,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "HPBar",
+            "uInameRemark": "顶部图标"
+        },
+        "36": {
+            "defaultDisplay": 1,
+            "uIname": 1265,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 36,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "AutoBtn",
+            "uInameRemark": "自动战斗图标"
+        },
+        "37": {
+            "defaultDisplay": 1,
+            "uIname": 1266,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 37,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "SpeedBtn",
+            "uInameRemark": "战斗速度图标"
+        },
+        "38": {
+            "defaultDisplay": 1,
+            "uIname": 1280,
+            "scene": 3,
+            "layoutName": "BaseMainHUD",
+            "id": 38,
+            "fileName": "base.basemainui",
+            "nodePath": "Active,Activity",
+            "uInameRemark": "活动图标"
+        },
+        "39": {
+            "defaultDisplay": 1,
+            "uIname": 1283,
+            "scene": 1,
+            "layoutName": "BattleNewMain",
+            "id": 39,
+            "fileName": "newbattle.battlenewmaindialog",
+            "nodePath": "AutoBtnCancel,Auto",
+            "uInameRemark": "自动战斗选中状态"
+        }
+    },
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+    ]
+}

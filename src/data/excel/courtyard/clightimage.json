@@ -1,0 +1,62 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        10
+    ],
+    "Data": {
+        "10": {
+            "id": 10,
+            "fireflyEffect": 0,
+            "fireflyBig": 11155,
+            "fireflySmall": 11386,
+            "lvButton": 0,
+            "manjusakastopeffect": 0,
+            "cell": 11160,
+            "leftcell": 11156,
+            "manjusakaeffect": 1129,
+            "backLight": 0,
+            "title": 0
+        },
+        "1": {
+            "id": 1,
+            "fireflyEffect": 1023,
+            "fireflyBig": 10977,
+            "fireflySmall": 11386,
+            "lvButton": 11385,
+            "manjusakastopeffect": 1133,
+            "cell": 10983,
+            "leftcell": 11158,
+            "manjusakaeffect": 1130,
+            "backLight": 1071,
+            "title": 11344
+        },
+        "2": {
+            "id": 2,
+            "fireflyEffect": 1024,
+            "fireflyBig": 10976,
+            "fireflySmall": 11386,
+            "lvButton": 11385,
+            "manjusakastopeffect": 1134,
+            "cell": 10982,
+            "leftcell": 11157,
+            "manjusakaeffect": 1131,
+            "backLight": 1072,
+            "title": 11343
+        },
+        "3": {
+            "id": 3,
+            "fireflyEffect": 1025,
+            "fireflyBig": 10978,
+            "fireflySmall": 11386,
+            "lvButton": 11385,
+            "manjusakastopeffect": 1135,
+            "cell": 10984,
+            "leftcell": 11159,
+            "manjusakaeffect": 1132,
+            "backLight": 1073,
+            "title": 11345
+        }
+    }
+}

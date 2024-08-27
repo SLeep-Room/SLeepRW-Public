@@ -1,0 +1,100 @@
+{
+    "Data": [
+        {
+            "badgeIDList": [
+                1
+            ],
+            "id": 1,
+            "nameTextID": 1000921
+        },
+        {
+            "badgeIDList": [
+                4,
+                5,
+                6
+            ],
+            "id": 2,
+            "nameTextID": 1000922
+        },
+        {
+            "badgeIDList": [
+                7,
+                8,
+                9
+            ],
+            "id": 3,
+            "nameTextID": 1000923
+        },
+        {
+            "badgeIDList": [
+                13,
+                14,
+                15
+            ],
+            "id": 4,
+            "nameTextID": 1000924
+        },
+        {
+            "badgeIDList": [
+                18
+            ],
+            "id": 5,
+            "nameTextID": 1000925
+        },
+        {
+            "badgeIDList": [
+                19,
+                20,
+                21
+            ],
+            "id": 6,
+            "nameTextID": 1000926
+        },
+        {
+            "badgeIDList": [
+                24
+            ],
+            "id": 7,
+            "nameTextID": 1000927
+        },
+        {
+            "badgeIDList": [
+                25,
+                26,
+                27
+            ],
+            "id": 8,
+            "nameTextID": 1000928
+        },
+        {
+            "badgeIDList": [
+                28,
+                29,
+                30
+            ],
+            "id": 9,
+            "nameTextID": 1000929
+        },
+        {
+            "badgeIDList": [
+                31,
+                32,
+                33
+            ],
+            "id": 10,
+            "nameTextID": 1000930
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ]
+}

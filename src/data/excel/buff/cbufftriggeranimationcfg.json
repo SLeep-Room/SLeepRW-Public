@@ -1,0 +1,76 @@
+{
+    "Data": {
+        "20144": {
+            "animation": "magicshock4",
+            "id": 20144
+        },
+        "20145": {
+            "animation": "magicshock5",
+            "id": 20145
+        },
+        "20018": {
+            "animation": "blowup",
+            "id": 20018
+        },
+        "21779": {
+            "animation": "crash",
+            "id": 21779
+        },
+        "20212": {
+            "animation": "repel",
+            "id": 20212
+        },
+        "20262": {
+            "animation": "repel",
+            "id": 20262
+        },
+        "20876": {
+            "animation": "blowup3",
+            "id": 20876
+        },
+        "20937": {
+            "animation": "blowup4",
+            "id": 20937
+        },
+        "20400": {
+            "animation": "blowup",
+            "id": 20400
+        },
+        "20765": {
+            "animation": "blowup2",
+            "id": 20765
+        },
+        "20796": {
+            "animation": "beatback",
+            "id": 20796
+        },
+        "20141": {
+            "animation": "magicshock1",
+            "id": 20141
+        },
+        "20142": {
+            "animation": "magicshock2",
+            "id": 20142
+        },
+        "20143": {
+            "animation": "magicshock3",
+            "id": 20143
+        }
+    },
+    "AllIds": [
+        20018,
+        20141,
+        20142,
+        20143,
+        20144,
+        20145,
+        20212,
+        20262,
+        20400,
+        20765,
+        20796,
+        20876,
+        20937,
+        21779
+    ]
+}

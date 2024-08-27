@@ -1,0 +1,90 @@
+{
+    "Data": [
+        {
+            "skinID": 90016,
+            "id": 1,
+            "openTime": 1001886
+        },
+        {
+            "skinID": 90037,
+            "id": 2,
+            "openTime": 1001887
+        },
+        {
+            "skinID": 90032,
+            "id": 3,
+            "openTime": 1001888
+        },
+        {
+            "skinID": 90030,
+            "id": 4,
+            "openTime": 1001889
+        },
+        {
+            "skinID": 90038,
+            "id": 5,
+            "openTime": 1001890
+        },
+        {
+            "skinID": 90020,
+            "id": 6,
+            "openTime": 1001891
+        },
+        {
+            "skinID": 90016,
+            "id": 7,
+            "openTime": 1001892
+        },
+        {
+            "skinID": 90037,
+            "id": 8,
+            "openTime": 1001893
+        },
+        {
+            "skinID": 90032,
+            "id": 9,
+            "openTime": 1001894
+        },
+        {
+            "skinID": 90030,
+            "id": 10,
+            "openTime": 1001895
+        },
+        {
+            "skinID": 90038,
+            "id": 11,
+            "openTime": 1001896
+        },
+        {
+            "skinID": 90020,
+            "id": 12,
+            "openTime": 1001897
+        },
+        {
+            "skinID": 90016,
+            "id": 13,
+            "openTime": 1001898
+        },
+        {
+            "skinID": 90037,
+            "id": 14,
+            "openTime": 1001899
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+    ]
+}

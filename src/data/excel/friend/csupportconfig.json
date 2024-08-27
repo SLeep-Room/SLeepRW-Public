@@ -1,0 +1,15 @@
+{
+    "Data": [
+        {
+            "dungeon": 8,
+            "supportPointStranger": 5,
+            "supportPointFriend": 10,
+            "supportFriendNum": 10,
+            "id": 1,
+            "supportNum": 20
+        }
+    ],
+    "AllIds": [
+        1
+    ]
+}

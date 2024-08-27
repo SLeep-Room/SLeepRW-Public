@@ -1,0 +1,12 @@
+{
+    "Data": [
+        {
+            "getPoint": 5,
+            "id": 1,
+            "sendPoint": 5
+        }
+    ],
+    "AllIds": [
+        1
+    ]
+}

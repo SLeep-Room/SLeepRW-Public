@@ -1,0 +1,369 @@
+{
+    "Data": {
+        "200001": {
+            "msgNumTextID": 700264,
+            "msgTitle": "",
+            "msgMain": "解锁传送点：",
+            "msgTitleTextID": -1,
+            "msgType": 1,
+            "msgNum": "$parameter1$",
+            "id": 200001,
+            "msgMainTextID": 700232
+        },
+        "200002": {
+            "msgNumTextID": 700265,
+            "msgTitle": "",
+            "msgMain": "主线：伊敏瑟伦镜片回收",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200002,
+            "msgMainTextID": 700233
+        },
+        "200003": {
+            "msgNumTextID": 700266,
+            "msgTitle": "",
+            "msgMain": "解锁传送点：",
+            "msgTitleTextID": -1,
+            "msgType": 1,
+            "msgNum": "$parameter1$",
+            "id": 200003,
+            "msgMainTextID": 700234
+        },
+        "200004": {
+            "msgNumTextID": 700267,
+            "msgTitle": "",
+            "msgMain": "祈愿",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200004,
+            "msgMainTextID": 700235
+        },
+        "200005": {
+            "msgNumTextID": 700268,
+            "msgTitle": "",
+            "msgMain": "主线：",
+            "msgTitleTextID": -1,
+            "msgType": 1,
+            "msgNum": "$parameter1$完成",
+            "id": 200005,
+            "msgMainTextID": 700236
+        },
+        "200006": {
+            "msgNumTextID": 700269,
+            "msgTitle": "",
+            "msgMain": "主线：镜片收集",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200006,
+            "msgMainTextID": 700237
+        },
+        "200007": {
+            "msgNumTextID": 700270,
+            "msgTitle": "",
+            "msgMain": "祈愿：胜利女神·一",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200007,
+            "msgMainTextID": 700238
+        },
+        "200008": {
+            "msgNumTextID": 700271,
+            "msgTitle": "",
+            "msgMain": "祈愿：胜利女神·二",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200008,
+            "msgMainTextID": 700239
+        },
+        "200009": {
+            "msgNumTextID": 700272,
+            "msgTitle": "",
+            "msgMain": "祈愿：梦境探索",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200009,
+            "msgMainTextID": 700240
+        },
+        "200010": {
+            "msgNumTextID": 700273,
+            "msgTitle": "",
+            "msgMain": "祈愿：玛那收集",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200010,
+            "msgMainTextID": 700241
+        },
+        "200011": {
+            "msgNumTextID": 700274,
+            "msgTitle": "",
+            "msgMain": "祈愿：怪物猎手·一",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200011,
+            "msgMainTextID": 700242
+        },
+        "200012": {
+            "msgNumTextID": 700275,
+            "msgTitle": "",
+            "msgMain": "祈愿：怪物猎手·二",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200012,
+            "msgMainTextID": 700243
+        },
+        "200013": {
+            "msgNumTextID": 700276,
+            "msgTitle": "",
+            "msgMain": "祈愿：日常探索·一",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200013,
+            "msgMainTextID": 700244
+        },
+        "200014": {
+            "msgNumTextID": 700277,
+            "msgTitle": "",
+            "msgMain": "祈愿：日常探索·二",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200014,
+            "msgMainTextID": 700245
+        },
+        "200015": {
+            "msgNumTextID": 700278,
+            "msgTitle": "",
+            "msgMain": "祈愿：人偶强化",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200015,
+            "msgMainTextID": 700246
+        },
+        "200016": {
+            "msgNumTextID": 700279,
+            "msgTitle": "",
+            "msgMain": "祈愿：装备强化·一",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200016,
+            "msgMainTextID": 700247
+        },
+        "200017": {
+            "msgNumTextID": 700280,
+            "msgTitle": "",
+            "msgMain": "祈愿：装备收集",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200017,
+            "msgMainTextID": 700248
+        },
+        "200018": {
+            "msgNumTextID": 700281,
+            "msgTitle": "",
+            "msgMain": "祈愿：装备强化·二",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200018,
+            "msgMainTextID": 700249
+        },
+        "200019": {
+            "msgNumTextID": 700282,
+            "msgTitle": "",
+            "msgMain": "祈愿：装备收集·三",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200019,
+            "msgMainTextID": 700250
+        },
+        "200020": {
+            "msgNumTextID": 700283,
+            "msgTitle": "",
+            "msgMain": "祈愿：怪物猎手·三",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200020,
+            "msgMainTextID": 700251
+        },
+        "200021": {
+            "msgNumTextID": 700284,
+            "msgTitle": "",
+            "msgMain": "祈愿：胜利女神·三",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200021,
+            "msgMainTextID": 700252
+        },
+        "200022": {
+            "msgNumTextID": 700285,
+            "msgTitle": "",
+            "msgMain": "祈愿：人偶突破",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200022,
+            "msgMainTextID": 700253
+        },
+        "200023": {
+            "msgNumTextID": 700286,
+            "msgTitle": "",
+            "msgMain": "祈愿：召唤大师",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200023,
+            "msgMainTextID": 700254
+        },
+        "200024": {
+            "msgNumTextID": 700287,
+            "msgTitle": "",
+            "msgMain": "主线：玛那的运用·一",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200024,
+            "msgMainTextID": 700255
+        },
+        "200025": {
+            "msgNumTextID": 700288,
+            "msgTitle": "",
+            "msgMain": "主线：玛那的运用·二",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200025,
+            "msgMainTextID": 700256
+        },
+        "200026": {
+            "msgNumTextID": 700289,
+            "msgTitle": "",
+            "msgMain": "主线：玛那的运用·三",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200026,
+            "msgMainTextID": 700257
+        },
+        "200027": {
+            "msgNumTextID": 700290,
+            "msgTitle": "",
+            "msgMain": "支线：",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": "$parameter1$完成",
+            "id": 200027,
+            "msgMainTextID": 700258
+        },
+        "200028": {
+            "msgNumTextID": 700291,
+            "msgTitle": "",
+            "msgMain": "已领取：",
+            "msgTitleTextID": -1,
+            "msgType": 1,
+            "msgNum": " $parameter1$",
+            "id": 200028,
+            "msgMainTextID": 700259
+        },
+        "200029": {
+            "msgNumTextID": 700292,
+            "msgTitle": "",
+            "msgMain": "主线：玛那的运用·四",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200029,
+            "msgMainTextID": 700260
+        },
+        "200030": {
+            "msgNumTextID": 700293,
+            "msgTitle": "",
+            "msgMain": "主线：强化装备",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": " $parameter1$ / $parameter2$",
+            "id": 200030,
+            "msgMainTextID": 700261
+        },
+        "200031": {
+            "msgNumTextID": 700294,
+            "msgTitle": "",
+            "msgMain": "主线：上限突破",
+            "msgTitleTextID": -1,
+            "msgType": 1,
+            "msgNum": "完成",
+            "id": 200031,
+            "msgMainTextID": 700262
+        },
+        "200032": {
+            "msgNumTextID": 700295,
+            "msgTitle": "",
+            "msgMain": "角色剧情：",
+            "msgTitleTextID": -1,
+            "msgType": 2,
+            "msgNum": "$parameter1$完成",
+            "id": 200032,
+            "msgMainTextID": 700263
+        },
+        "200033": {
+            "msgNumTextID": 700781,
+            "msgTitle": "",
+            "msgMain": "成就达成：",
+            "msgTitleTextID": -1,
+            "msgType": 1,
+            "msgNum": "$parameter1$",
+            "id": 200033,
+            "msgMainTextID": 700780
+        }
+    },
+    "AllIds": [
+        200001,
+        200002,
+        200003,
+        200004,
+        200005,
+        200006,
+        200007,
+        200008,
+        200009,
+        200010,
+        200011,
+        200012,
+        200013,
+        200014,
+        200015,
+        200016,
+        200017,
+        200018,
+        200019,
+        200020,
+        200021,
+        200022,
+        200023,
+        200024,
+        200025,
+        200026,
+        200027,
+        200028,
+        200029,
+        200030,
+        200031,
+        200032,
+        200033
+    ]
+}

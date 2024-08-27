@@ -1,0 +1,36 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "parameter": 80
+        },
+        {
+            "id": 2,
+            "parameter": 20
+        },
+        {
+            "id": 3,
+            "parameter": 5
+        },
+        {
+            "id": 4,
+            "parameter": 999
+        },
+        {
+            "id": 5,
+            "parameter": 12658
+        },
+        {
+            "id": 6,
+            "parameter": 12896
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+}

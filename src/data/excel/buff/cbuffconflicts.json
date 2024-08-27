@@ -1,0 +1,2121 @@
+{
+    "AllIds": [
+        5,
+        10005,
+        10006,
+        10013,
+        10015,
+        10019,
+        20014,
+        20020,
+        20048,
+        20083,
+        20084,
+        20087,
+        20088,
+        20099,
+        20110,
+        20115,
+        20116,
+        20165,
+        20168,
+        20177,
+        20178,
+        20197,
+        20208,
+        20211,
+        20243,
+        20281,
+        20285,
+        20307,
+        20308,
+        20309,
+        20310,
+        20311,
+        20318,
+        20331,
+        20332,
+        20356,
+        20367,
+        20375,
+        20376,
+        20377,
+        20378,
+        20403,
+        20406,
+        20409,
+        20410,
+        20411,
+        20412,
+        20437,
+        20443,
+        20444,
+        20445,
+        20446,
+        20461,
+        20485,
+        20489,
+        20493,
+        20502,
+        20516,
+        20521,
+        20524,
+        20538,
+        20545,
+        20548,
+        20550,
+        20551,
+        20554,
+        20567,
+        20590,
+        20591,
+        20592,
+        20597,
+        20602,
+        20651,
+        20652,
+        20653,
+        20663,
+        20677,
+        20689,
+        20726,
+        20742,
+        20745,
+        20749,
+        20755,
+        20788,
+        20789,
+        20790,
+        20797,
+        20817,
+        20818,
+        20819,
+        20820,
+        20822,
+        20823,
+        20835,
+        20841,
+        20842,
+        20869,
+        20870,
+        20871,
+        20878,
+        20879,
+        20899,
+        20922,
+        20927,
+        20936,
+        20938,
+        20941,
+        20943,
+        20945,
+        20947,
+        20949,
+        20952,
+        20953,
+        20958,
+        20961,
+        20969,
+        20970,
+        20973,
+        20977,
+        20985,
+        21018,
+        21026,
+        21029,
+        21035,
+        21038,
+        21040,
+        21041,
+        21053,
+        21054,
+        21055,
+        21058,
+        21064,
+        21065,
+        21077,
+        21078,
+        21190,
+        21192,
+        21209,
+        21210,
+        21211,
+        21216,
+        21225,
+        21237,
+        21239,
+        21244,
+        21245,
+        21252,
+        21306,
+        21310,
+        21314,
+        21322,
+        21331,
+        21339,
+        21373,
+        21408,
+        21415,
+        21416,
+        21427,
+        21432,
+        21441,
+        21449,
+        21466,
+        21469,
+        21478,
+        21499,
+        21506,
+        21508,
+        21524,
+        21525,
+        21565,
+        21566,
+        21568,
+        21571,
+        21590,
+        21609,
+        21613,
+        21617,
+        21618,
+        21621,
+        21625,
+        21626,
+        21631,
+        21632,
+        21634,
+        21635,
+        21637,
+        21642,
+        21644,
+        21645,
+        21650,
+        21655,
+        21677,
+        21679,
+        21682,
+        21683,
+        21706,
+        21707,
+        21708,
+        21709,
+        21725,
+        21726,
+        21733,
+        21738,
+        21754,
+        21755,
+        21758,
+        21760,
+        21765,
+        21766,
+        21771,
+        21790,
+        21791,
+        21792,
+        21793,
+        21805,
+        21812,
+        21813,
+        21819,
+        21822,
+        21837,
+        21847,
+        21848,
+        21858,
+        21859,
+        21860,
+        21861,
+        21868,
+        21888,
+        21903,
+        21916,
+        21934,
+        21945,
+        21947,
+        21984,
+        21992
+    ],
+    "Data": {
+        "21760": {
+            "id": 21760,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21756",
+            "name": "驱散狂暴调用连携-超大",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21506": {
+            "id": 21506,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21505",
+            "name": "夜之托奈兰-护盾-破碎互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21252": {
+            "id": 21252,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21251",
+            "name": "圣迹-驱散计数buff",
+            "immunebuff": "21251",
+            "immunebuffGroud": ""
+        },
+        "5": {
+            "id": 5,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20835;20863;20946;20888;20955",
+            "name": "打断类型技能",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20742": {
+            "id": 20742,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20738;20739",
+            "name": "圣灵之辉光-互斥",
+            "immunebuff": "20738;20739",
+            "immunebuffGroud": ""
+        },
+        "20489": {
+            "id": 20489,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20483;20484",
+            "name": "免疫buff",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "21771": {
+            "id": 21771,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21770;21801;21800;21799;21798",
+            "name": "流失之殇 2技能-释放顶buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20493": {
+            "id": 20493,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20455",
+            "name": "清除降低消耗buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20243": {
+            "id": 20243,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20084",
+            "name": "棺之璧-驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21524": {
+            "id": 21524,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21520",
+            "name": "年兽-盐石-形态转换水-火-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "10005": {
+            "id": 10005,
+            "cancelbuffGroud": "3;5",
+            "cancelbuff": "",
+            "name": "净化",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "10006": {
+            "id": 10006,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20000",
+            "name": "复活",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21018": {
+            "id": 21018,
+            "cancelbuffGroud": "2",
+            "cancelbuff": "",
+            "name": "炎击术-净化",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "10013": {
+            "id": 10013,
+            "cancelbuffGroud": "2",
+            "cancelbuff": "",
+            "name": "驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21790": {
+            "id": 21790,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21794",
+            "name": "第六章怪物30%魔法抗性",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "10015": {
+            "id": 10015,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20199",
+            "name": "驱散",
+            "immunebuff": "",
+            "immunebuffGroud": "20201"
+        },
+        "21792": {
+            "id": 21792,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21796",
+            "name": "第六章怪物30%物理抗性",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21793": {
+            "id": 21793,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21797",
+            "name": "第六章怪物50%物理抗性",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21026": {
+            "id": 21026,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21016",
+            "name": "元素亲和-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "10019": {
+            "id": 10019,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21249;21250;21251;21269;21270;21271;21272;21273;21274;21275;21276",
+            "name": "驱散计数buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20516": {
+            "id": 20516,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20515",
+            "name": "清除炫色旋律buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21029": {
+            "id": 21029,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21030",
+            "name": "镜中人-互斥1",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20521": {
+            "id": 20521,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20555;20556",
+            "name": "清除神官之祝福",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21035": {
+            "id": 21035,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21029",
+            "name": "镜中人-互斥2",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20524": {
+            "id": 20524,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20557;20558",
+            "name": "清除冥府之力",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21805": {
+            "id": 21805,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21804",
+            "name": "卡蜜莉安驱散真理",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20014": {
+            "id": 20014,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20020",
+            "name": "无敌",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21040": {
+            "id": 21040,
+            "cancelbuffGroud": "3",
+            "cancelbuff": "",
+            "name": "百合之力",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21041": {
+            "id": 21041,
+            "cancelbuffGroud": "",
+            "cancelbuff": "10006",
+            "name": "召唤物免疫复活",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20949": {
+            "id": 20949,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "免疫控制",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "21984": {
+            "id": 21984,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21983",
+            "name": "埃列什嘉尔专武驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20020": {
+            "id": 20020,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20014",
+            "name": "大硬直-3倍伤害",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20789": {
+            "id": 20789,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "资源副本-破坏刺杀-狂战士之血免疫控制",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20790": {
+            "id": 20790,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20789",
+            "name": "资源副本-破坏刺杀-狂战士之血虚弱驱散免疫控制",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21947": {
+            "id": 21947,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21946",
+            "name": "夕音-专武-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21945": {
+            "id": 21945,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21943;21944",
+            "name": "夕音-被动-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20281": {
+            "id": 20281,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20280",
+            "name": "驱散一阶段暴风雪伤害",
+            "immunebuff": "20280",
+            "immunebuffGroud": ""
+        },
+        "20538": {
+            "id": 20538,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20559;20560",
+            "name": "清除神之诺",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21819": {
+            "id": 21819,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21820;21823",
+            "name": "葛淑丝驱散免疫被动",
+            "immunebuff": "21820;21823",
+            "immunebuffGroud": ""
+        },
+        "20945": {
+            "id": 20945,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "免疫伤害",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "5"
+        },
+        "20285": {
+            "id": 20285,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20282",
+            "name": "二阶段暴风雪驱散一阶段暴风雪特效",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21054": {
+            "id": 21054,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21053;21220",
+            "name": "喜",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21055": {
+            "id": 21055,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21054;21221",
+            "name": "怒",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21568": {
+            "id": 21568,
+            "cancelbuffGroud": "3",
+            "cancelbuff": "",
+            "name": "辛妮-一技能净化效果",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20545": {
+            "id": 20545,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20561;20562",
+            "name": "清除凝珠成雨",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21058": {
+            "id": 21058,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21057",
+            "name": "清除自身伤害增益buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21571": {
+            "id": 21571,
+            "cancelbuffGroud": "2",
+            "cancelbuff": "",
+            "name": "荷恩-幻境力场-净化",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20548": {
+            "id": 20548,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20563;20564",
+            "name": "清除森之庇护",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21637": {
+            "id": 21637,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21652",
+            "name": "年幼的剑姬阿卡莎-驱散被动5",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20550": {
+            "id": 20550,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20486;20487",
+            "name": "清除圣灵之辉光buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20551": {
+            "id": 20551,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20512;20513",
+            "name": "清除绚丽buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21064": {
+            "id": 21064,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21066",
+            "name": "灵魂箭加成清除挂载buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21065": {
+            "id": 21065,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21064",
+            "name": "灵魂箭清除伤害加成",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20554": {
+            "id": 20554,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20552;20553",
+            "name": "清除暗之飨宴",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21903": {
+            "id": 21903,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21900",
+            "name": "异次元游商专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21888": {
+            "id": 21888,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21887",
+            "name": "散华专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21837": {
+            "id": 21837,
+            "cancelbuffGroud": "3",
+            "cancelbuff": "",
+            "name": "达奈莉姆-净化",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21868": {
+            "id": 21868,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21845;21846",
+            "name": "达奈莉姆驱散免疫被动",
+            "immunebuff": "21845;21846",
+            "immunebuffGroud": ""
+        },
+        "21765": {
+            "id": 21765,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21761",
+            "name": "驱散狂暴调用连携-大",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20048": {
+            "id": 20048,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "无敌（势不可挡）",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20817": {
+            "id": 20817,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "梦魇护盾-护盾特效1",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20818": {
+            "id": 20818,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "梦魇护盾-护盾特效2",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20307": {
+            "id": 20307,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20335;20336;20337;20338;20339",
+            "name": "极光祝福-LV1",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20308": {
+            "id": 20308,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20335;20336;20337;20338;20339",
+            "name": "极光祝福-LV2",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20309": {
+            "id": 20309,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20335;20336;20337;20338;20339",
+            "name": "极光祝福-LV3",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20310": {
+            "id": 20310,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20335;20336;20337;20338;20339",
+            "name": "极光祝福-LV4",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20311": {
+            "id": 20311,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20335;20336;20337;20338;20339",
+            "name": "极光祝福-LV5",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21848": {
+            "id": 21848,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21845;21846",
+            "name": "达奈莉姆驱散免疫被动",
+            "immunebuff": "21845;21846",
+            "immunebuffGroud": ""
+        },
+        "21766": {
+            "id": 21766,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21763",
+            "name": "驱散狂暴调用连携-中",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21859": {
+            "id": 21859,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21858",
+            "name": "海中匿影专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21339": {
+            "id": 21339,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "未定之路木桩无敌",
+            "immunebuff": "10000;10001;10007;10016;10017;20981",
+            "immunebuffGroud": "3;5"
+        },
+        "21791": {
+            "id": 21791,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21795",
+            "name": "第六章怪物50%魔法抗性",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21847": {
+            "id": 21847,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "达奈莉姆-被动无敌",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20318": {
+            "id": 20318,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20319;20320",
+            "name": "涅槃后清除挂载buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21822": {
+            "id": 21822,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "葛淑丝-被动无敌",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "21813": {
+            "id": 21813,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21811",
+            "name": "卡蜜莉安驱散减伤",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21812": {
+            "id": 21812,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21810",
+            "name": "卡蜜莉安驱散反伤",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21858": {
+            "id": 21858,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21859",
+            "name": "海中匿影专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20835": {
+            "id": 20835,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "梦境之蛾相位移动",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3"
+        },
+        "21860": {
+            "id": 21860,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21861",
+            "name": "海中匿影专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21861": {
+            "id": 21861,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21860",
+            "name": "海中匿影专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20502": {
+            "id": 20502,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20501;20504",
+            "name": "清除痛觉享受",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21755": {
+            "id": 21755,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "boss轮换-魔法免疫",
+            "immunebuff": "10001;10017",
+            "immunebuffGroud": ""
+        },
+        "20745": {
+            "id": 20745,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "幻境之佑-无敌",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20841": {
+            "id": 20841,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "免疫buff",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20842": {
+            "id": 20842,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "免疫感染狂化",
+            "immunebuff": "20766",
+            "immunebuffGroud": ""
+        },
+        "20331": {
+            "id": 20331,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20332",
+            "name": "红刺",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20332": {
+            "id": 20332,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20331",
+            "name": "千本",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21613": {
+            "id": 21613,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21608;21609",
+            "name": "拉苏-被动单次触发",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20590": {
+            "id": 20590,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20592",
+            "name": "喜",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20591": {
+            "id": 20591,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20590",
+            "name": "哀",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20592": {
+            "id": 20592,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20591",
+            "name": "怒",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21617": {
+            "id": 21617,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21616",
+            "name": "拉芬-专武驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21618": {
+            "id": 21618,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "拉芬-被动无敌",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20083": {
+            "id": 20083,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20254;20279;20904;20944;20955",
+            "name": "BOSS虚弱取消蓄力",
+            "immunebuff": "20568",
+            "immunebuffGroud": ""
+        },
+        "20084": {
+            "id": 20084,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20176",
+            "name": "守护状态",
+            "immunebuff": "20176",
+            "immunebuffGroud": ""
+        },
+        "20597": {
+            "id": 20597,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20598;20599",
+            "name": "boss献祭深渊的少女变人清除恶魔buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21738": {
+            "id": 21738,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21737",
+            "name": "女神达娜",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20087": {
+            "id": 20087,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "回旋斩",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20088": {
+            "id": 20088,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "雷电回旋斩",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "21625": {
+            "id": 21625,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21626;21627",
+            "name": "暗之艾妮萌专武-被动互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20602": {
+            "id": 20602,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20598;20599",
+            "name": "献祭深渊的少女虚弱状态",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21733": {
+            "id": 21733,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21711;21712",
+            "name": "弗莱尔驱散被动",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21726": {
+            "id": 21726,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21721;21728",
+            "name": "埃舍雷被动-2技能互斥计数",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21373": {
+            "id": 21373,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21371",
+            "name": "爱迪希亚-潮起潮落-驱散计数buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21725": {
+            "id": 21725,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21720;21727",
+            "name": "埃舍雷被动-1技能互斥计数",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21631": {
+            "id": 21631,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21630",
+            "name": "柯塔娜专武-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21632": {
+            "id": 21632,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "年幼阿卡莎-格挡无敌",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "21709": {
+            "id": 21709,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21708",
+            "name": "玛特薇芙专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21634": {
+            "id": 21634,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21651",
+            "name": "年幼的剑姬阿卡莎-驱散被动4",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20099": {
+            "id": 20099,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20455",
+            "name": "流光斩免疫buff",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20356": {
+            "id": 20356,
+            "cancelbuffGroud": "3;5",
+            "cancelbuff": "",
+            "name": "净化之音",
+            "immunebuff": "",
+            "immunebuffGroud": "3;5"
+        },
+        "20869": {
+            "id": 20869,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "召唤怪物使免疫伤害",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20870": {
+            "id": 20870,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "召唤怪物使免疫伤害",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20871": {
+            "id": 20871,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "召唤怪物使免疫伤害",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "21211": {
+            "id": 21211,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "状态buff免疫伤害",
+            "immunebuff": "20981;10000;10001;10007;10016;10017",
+            "immunebuffGroud": ""
+        },
+        "20749": {
+            "id": 20749,
+            "cancelbuffGroud": "2",
+            "cancelbuff": "",
+            "name": "解脱-驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21642": {
+            "id": 21642,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21641",
+            "name": "爱迪希亚专武驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21706": {
+            "id": 21706,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21707",
+            "name": "玛特薇芙专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21644": {
+            "id": 21644,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21634",
+            "name": "年幼的剑姬阿卡莎-驱散被动1",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21645": {
+            "id": 21645,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21637",
+            "name": "年幼的剑姬阿卡莎-驱散被动2",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20110": {
+            "id": 20110,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "免疫buff",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20367": {
+            "id": 20367,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20366",
+            "name": "赤瞳",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21683": {
+            "id": 21683,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21676",
+            "name": "魔女素体进阶-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21306": {
+            "id": 21306,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21310;21311",
+            "name": "",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21650": {
+            "id": 21650,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21644;21645",
+            "name": "年幼的剑姬阿卡莎-驱散被动3",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20115": {
+            "id": 20115,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "孢子爆炸免疫控制",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20116": {
+            "id": 20116,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "大型怪免疫击飞",
+            "immunebuff": "20018;20108;20212;20765",
+            "immunebuffGroud": ""
+        },
+        "21469": {
+            "id": 21469,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21467",
+            "name": "梅莫菲斯专武-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21677": {
+            "id": 21677,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21670",
+            "name": "守护素体进阶-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20375": {
+            "id": 20375,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20376",
+            "name": "命运-弱",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20376": {
+            "id": 20376,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20375",
+            "name": "命运-强",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20377": {
+            "id": 20377,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20378",
+            "name": "占卜-弱",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20378": {
+            "id": 20378,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20377",
+            "name": "占卜-强",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21655": {
+            "id": 21655,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21653",
+            "name": "双子绞杀者-专武-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21916": {
+            "id": 21916,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21915",
+            "name": "情感诊疗师专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21635": {
+            "id": 21635,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21633",
+            "name": "年幼的剑姬阿卡莎-驱散星辰buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21626": {
+            "id": 21626,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21625",
+            "name": "暗之艾妮萌专武-伤害提高",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21621": {
+            "id": 21621,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "古代机械魔像-转阶段无敌",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "21408": {
+            "id": 21408,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21402",
+            "name": "暗之艾妮萌1技能计数互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21609": {
+            "id": 21609,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21608",
+            "name": "拉芬-被动技能互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21590": {
+            "id": 21590,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21589",
+            "name": "艾迪恩-专属装备技能-互斥释放",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20899": {
+            "id": 20899,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20898",
+            "name": "黑化炼金术士-汲取释放",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21566": {
+            "id": 21566,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21557",
+            "name": "双子绞杀者-专武-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21565": {
+            "id": 21565,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21560;21561;21562;21563;21564",
+            "name": "卡普拉-二技能互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21525": {
+            "id": 21525,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21524",
+            "name": "年兽-盐石-形态转换火-土-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21415": {
+            "id": 21415,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21407",
+            "name": "暗之艾妮萌技能挂载互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21416": {
+            "id": 21416,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21317;21417;21418",
+            "name": "神居2技能互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21508": {
+            "id": 21508,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21472",
+            "name": "阿鵺伦专武互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20689": {
+            "id": 20689,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "贯穿之枪-枪舞/乱舞-霸体",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20651": {
+            "id": 20651,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20652",
+            "name": "测试用buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20652": {
+            "id": 20652,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20651;20653",
+            "name": "测试用buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20653": {
+            "id": 20653,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20652",
+            "name": "测试用buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21934": {
+            "id": 21934,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21933",
+            "name": "晨星光耀专武-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21679": {
+            "id": 21679,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21672",
+            "name": "刺杀素体进阶-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21466": {
+            "id": 21466,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21446",
+            "name": "idol芙洛莱中间商",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21225": {
+            "id": 21225,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21219;21220;21221;21224",
+            "name": "清除非常驻增益buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21682": {
+            "id": 21682,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21675",
+            "name": "魔导素体进阶-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20403": {
+            "id": 20403,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20402",
+            "name": "抹杀-增加一次技能威力",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21331": {
+            "id": 21331,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21330",
+            "name": "停止能量转移-爆发",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21427": {
+            "id": 21427,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21425;21426",
+            "name": "神居灵魂技能互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20406": {
+            "id": 20406,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "蝴蝶护盾，免疫控制",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20663": {
+            "id": 20663,
+            "cancelbuffGroud": "2",
+            "cancelbuff": "",
+            "name": "破魔之枪-驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21432": {
+            "id": 21432,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21431",
+            "name": "艾拉-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20409": {
+            "id": 20409,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20408",
+            "name": "盔甲熊-狂暴2",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20410": {
+            "id": 20410,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20409",
+            "name": "盔甲熊-狂暴3",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20411": {
+            "id": 20411,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20410",
+            "name": "盔甲熊-狂暴4",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20412": {
+            "id": 20412,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20411",
+            "name": "盔甲熊-狂暴5",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21322": {
+            "id": 21322,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21323",
+            "name": "驱散增益buff",
+            "immunebuff": "21323",
+            "immunebuffGroud": ""
+        },
+        "21314": {
+            "id": 21314,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21316",
+            "name": "驱散计数buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20927": {
+            "id": 20927,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20938",
+            "name": "清除无敌buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21310": {
+            "id": 21310,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21306",
+            "name": "",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21441": {
+            "id": 21441,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21056;21068",
+            "name": "凯多尼娅-破甲计数互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20567": {
+            "id": 20567,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20492;21072",
+            "name": "献祭深渊-变人时驱散地狱火效果",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20677": {
+            "id": 20677,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20673",
+            "name": "双子绞杀者-绞杀清除连击点",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20788": {
+            "id": 20788,
+            "cancelbuffGroud": "2;3;5",
+            "cancelbuff": "",
+            "name": "复活-互斥消失",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20165": {
+            "id": 20165,
+            "cancelbuffGroud": "3;5",
+            "cancelbuff": "",
+            "name": "誓言",
+            "immunebuff": "10001;10017;10013",
+            "immunebuffGroud": "3;5"
+        },
+        "21190": {
+            "id": 21190,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21177",
+            "name": "驱散复活buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20797": {
+            "id": 20797,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20798",
+            "name": "冰锥扩散-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20168": {
+            "id": 20168,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20167",
+            "name": "宿命",
+            "immunebuff": "10000;10001;10007;10016;10017;20167",
+            "immunebuffGroud": "3;5"
+        },
+        "21449": {
+            "id": 21449,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21445",
+            "name": "idol芙洛莱-减少混沌消耗-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20938": {
+            "id": 20938,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "宝珠出现时免疫伤害",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "21707": {
+            "id": 21707,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21706",
+            "name": "玛特薇芙专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21708": {
+            "id": 21708,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21709",
+            "name": "玛特薇芙专武 互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20941": {
+            "id": 20941,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20940;20777;20778;20779;20780;20781",
+            "name": "复活加血-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21053": {
+            "id": 21053,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21055;21219",
+            "name": "哀",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20943": {
+            "id": 20943,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "艾琳娜II免疫击飞",
+            "immunebuff": "20018;20108;20212;20765",
+            "immunebuffGroud": ""
+        },
+        "21209": {
+            "id": 21209,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "状态buff免疫伤害",
+            "immunebuff": "20981;10000;10001;10007;10016;10017",
+            "immunebuffGroud": ""
+        },
+        "20177": {
+            "id": 20177,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "机械核心",
+            "immunebuff": "60167;60171;60172;60173;60174",
+            "immunebuffGroud": ""
+        },
+        "20178": {
+            "id": 20178,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20177;20265",
+            "name": "机械核心-释放",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20947": {
+            "id": 20947,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "索拉迪乌斯 免疫控制",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "21192": {
+            "id": 21192,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21169",
+            "name": "核心击穿-驱散挂载",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20437": {
+            "id": 20437,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20436",
+            "name": "炼金术师技能用buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21078": {
+            "id": 21078,
+            "cancelbuffGroud": "2",
+            "cancelbuff": "",
+            "name": "抱枕-净化",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21077": {
+            "id": 21077,
+            "cancelbuffGroud": "2",
+            "cancelbuff": "",
+            "name": "抱枕-净化",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20952": {
+            "id": 20952,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20860",
+            "name": "双子-解除拘束",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20953": {
+            "id": 20953,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20770;20775;20772;20773;20774;20806;20807;20808;20809;20810;20811;20812;20813;20814;20815",
+            "name": "复活-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21210": {
+            "id": 21210,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "状态buff免疫伤害",
+            "immunebuff": "20981;10000;10001;10007;10016;10017",
+            "immunebuffGroud": ""
+        },
+        "20443": {
+            "id": 20443,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20442",
+            "name": "赤色战姬-深红2buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20444": {
+            "id": 20444,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20443;20442",
+            "name": "赤色战姬-深红3buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20445": {
+            "id": 20445,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20444;20443;20442",
+            "name": "赤色战姬-深红4buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20446": {
+            "id": 20446,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20445;20444;20443;20442",
+            "name": "赤色战姬-深红5buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21038": {
+            "id": 21038,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21036;21037",
+            "name": "镜之反射-清除计数",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21216": {
+            "id": 21216,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21214;21215",
+            "name": "清除逝灵咏叹者被动技能挂载",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20961": {
+            "id": 20961,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20770;20775;20772;20773;20774;20806;20807;20808;20809;20810;20811;20812;20813;20814;20815",
+            "name": "复活-免疫祝福效果",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20822": {
+            "id": 20822,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20817;20818;20819;20820;20856;20947",
+            "name": "脆弱状态清除护盾",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20973": {
+            "id": 20973,
+            "cancelbuffGroud": "2",
+            "cancelbuff": "",
+            "name": "圣灵惩戒者净化",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20936": {
+            "id": 20936,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "无敌-通用",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": "3;5"
+        },
+        "20197": {
+            "id": 20197,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "免疫伤害",
+            "immunebuff": "10000;10001;10007;10016;10017",
+            "immunebuffGroud": ""
+        },
+        "21478": {
+            "id": 21478,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21450;21451",
+            "name": "瑟希薇被动互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20958": {
+            "id": 20958,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20888",
+            "name": "双子专用虚弱",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21992": {
+            "id": 21992,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21990",
+            "name": "精灵凝莎专武-互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20969": {
+            "id": 20969,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20967",
+            "name": "圣灵惩戒者被动失效",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20970": {
+            "id": 20970,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20968",
+            "name": "圣灵惩戒者被动失效",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20922": {
+            "id": 20922,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20921;20923",
+            "name": "宝珠自爆时驱散挂载buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20879": {
+            "id": 20879,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "双子绞杀者-删除拘束连携",
+            "immunebuff": "20861",
+            "immunebuffGroud": ""
+        },
+        "20461": {
+            "id": 20461,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20420",
+            "name": "冰霜独角仙-高双抗",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20878": {
+            "id": 20878,
+            "cancelbuffGroud": "20873",
+            "cancelbuff": "",
+            "name": "装备副本-攻击类型改变",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20823": {
+            "id": 20823,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20821",
+            "name": "阴影-易伤状态驱散buff",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20208": {
+            "id": 20208,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20206;20207",
+            "name": "骑士团驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20977": {
+            "id": 20977,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20975",
+            "name": "神之馈赠烟花",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20820": {
+            "id": 20820,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "梦魇护盾-护盾特效4",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "20211": {
+            "id": 20211,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20282;20083",
+            "name": "变身驱散一阶段暴风雪特效",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20819": {
+            "id": 20819,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "梦魇护盾-护盾特效3",
+            "immunebuff": "",
+            "immunebuffGroud": "5"
+        },
+        "21237": {
+            "id": 21237,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "免疫控制技能",
+            "immunebuff": " ",
+            "immunebuffGroud": "5"
+        },
+        "20726": {
+            "id": 20726,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20724;20725",
+            "name": "圣迹-神之光辉-互斥",
+            "immunebuff": "20724;20725",
+            "immunebuffGroud": ""
+        },
+        "21239": {
+            "id": 21239,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21238",
+            "name": "驱散静止buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20755": {
+            "id": 20755,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20750;20754;20760;20756;2757;20758;20759",
+            "name": "星光采集者-星能转移互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "20985": {
+            "id": 20985,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20984",
+            "name": "灵魂操纵者初始形态解除",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21754": {
+            "id": 21754,
+            "cancelbuffGroud": "",
+            "cancelbuff": "",
+            "name": "boss轮换-物理免疫",
+            "immunebuff": "10000;10016",
+            "immunebuffGroud": ""
+        },
+        "21499": {
+            "id": 21499,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21493",
+            "name": "卡普拉被动-计数互斥",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21244": {
+            "id": 21244,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21242;21243;21241",
+            "name": "眩晕驱散",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21245": {
+            "id": 21245,
+            "cancelbuffGroud": "",
+            "cancelbuff": "21240;21242;21243",
+            "name": "驱散计数buff",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        },
+        "21758": {
+            "id": 21758,
+            "cancelbuffGroud": "6",
+            "cancelbuff": "",
+            "name": "boss轮换-狂暴-免疫驱散无敌",
+            "immunebuff": "",
+            "immunebuffGroud": "6"
+        },
+        "20485": {
+            "id": 20485,
+            "cancelbuffGroud": "",
+            "cancelbuff": "20457",
+            "name": "龙之少女顶掉人形态普通攻击触发龙息",
+            "immunebuff": "",
+            "immunebuffGroud": ""
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "transferType": 0,
+            "effectID": 2
+        },
+        {
+            "id": 2,
+            "transferType": 1,
+            "effectID": 1
+        },
+        {
+            "id": 3,
+            "transferType": 0,
+            "effectID": 3
+        },
+        {
+            "id": 4,
+            "transferType": 2,
+            "effectID": 1
+        }
+    ]
+}

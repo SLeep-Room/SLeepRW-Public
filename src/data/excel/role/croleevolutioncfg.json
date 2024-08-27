@@ -1,0 +1,3666 @@
+{
+    "Data": {
+        "1": {
+            "addProperty": 61,
+            "currentItem": "",
+            "addPropertyValue": 97,
+            "exclusiveItem": "30068_1",
+            "evolutionLevel": 1,
+            "id": 1,
+            "evolutionType": 1
+        },
+        "2": {
+            "addProperty": 31,
+            "currentItem": "",
+            "addPropertyValue": 437,
+            "exclusiveItem": "30070_1",
+            "evolutionLevel": 2,
+            "id": 2,
+            "evolutionType": 1
+        },
+        "3": {
+            "addProperty": 21,
+            "currentItem": "",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "31020_1",
+            "evolutionLevel": 3,
+            "id": 3,
+            "evolutionType": 1
+        },
+        "4": {
+            "addProperty": 51,
+            "currentItem": "78015_4",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78100_1",
+            "evolutionLevel": 1,
+            "id": 4,
+            "evolutionType": 2
+        },
+        "5": {
+            "addProperty": 21,
+            "currentItem": "78015_8",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78100_2",
+            "evolutionLevel": 2,
+            "id": 5,
+            "evolutionType": 2
+        },
+        "6": {
+            "addProperty": 31,
+            "currentItem": "78015_12",
+            "addPropertyValue": 291,
+            "exclusiveItem": "78100_3",
+            "evolutionLevel": 3,
+            "id": 6,
+            "evolutionType": 2
+        },
+        "7": {
+            "addProperty": 51,
+            "currentItem": "78012_4",
+            "addPropertyValue": 97,
+            "exclusiveItem": "78101_1",
+            "evolutionLevel": 1,
+            "id": 7,
+            "evolutionType": 3
+        },
+        "8": {
+            "addProperty": 31,
+            "currentItem": "78012_8",
+            "addPropertyValue": 413,
+            "exclusiveItem": "78101_2",
+            "evolutionLevel": 2,
+            "id": 8,
+            "evolutionType": 3
+        },
+        "9": {
+            "addProperty": 21,
+            "currentItem": "78012_12",
+            "addPropertyValue": 2041,
+            "exclusiveItem": "78101_3",
+            "evolutionLevel": 3,
+            "id": 9,
+            "evolutionType": 3
+        },
+        "10": {
+            "addProperty": 61,
+            "currentItem": "78005_4",
+            "addPropertyValue": 73,
+            "exclusiveItem": "78102_1",
+            "evolutionLevel": 1,
+            "id": 10,
+            "evolutionType": 4
+        },
+        "11": {
+            "addProperty": 31,
+            "currentItem": "78005_8",
+            "addPropertyValue": 275,
+            "exclusiveItem": "78102_2",
+            "evolutionLevel": 2,
+            "id": 11,
+            "evolutionType": 4
+        },
+        "12": {
+            "addProperty": 21,
+            "currentItem": "78005_12",
+            "addPropertyValue": 1377,
+            "exclusiveItem": "78102_3",
+            "evolutionLevel": 3,
+            "id": 12,
+            "evolutionType": 4
+        },
+        "13": {
+            "addProperty": 21,
+            "currentItem": "78024_4",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78103_1",
+            "evolutionLevel": 1,
+            "id": 13,
+            "evolutionType": 5
+        },
+        "14": {
+            "addProperty": 61,
+            "currentItem": "78024_8",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78103_2",
+            "evolutionLevel": 2,
+            "id": 14,
+            "evolutionType": 5
+        },
+        "15": {
+            "addProperty": 31,
+            "currentItem": "78024_12",
+            "addPropertyValue": 307,
+            "exclusiveItem": "78103_3",
+            "evolutionLevel": 3,
+            "id": 15,
+            "evolutionType": 5
+        },
+        "16": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78104_1",
+            "evolutionLevel": 1,
+            "id": 16,
+            "evolutionType": 6
+        },
+        "17": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78104_2",
+            "evolutionLevel": 2,
+            "id": 17,
+            "evolutionType": 6
+        },
+        "18": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78104_3",
+            "evolutionLevel": 3,
+            "id": 18,
+            "evolutionType": 6
+        },
+        "19": {
+            "addProperty": 21,
+            "currentItem": "78002_4",
+            "addPropertyValue": 1927,
+            "exclusiveItem": "78105_1",
+            "evolutionLevel": 1,
+            "id": 19,
+            "evolutionType": 7
+        },
+        "20": {
+            "addProperty": 61,
+            "currentItem": "78002_8",
+            "addPropertyValue": 91,
+            "exclusiveItem": "78105_2",
+            "evolutionLevel": 2,
+            "id": 20,
+            "evolutionType": 7
+        },
+        "21": {
+            "addProperty": 31,
+            "currentItem": "78002_12",
+            "addPropertyValue": 390,
+            "exclusiveItem": "78105_3",
+            "evolutionLevel": 3,
+            "id": 21,
+            "evolutionType": 7
+        },
+        "22": {
+            "addProperty": 21,
+            "currentItem": "78031_4",
+            "addPropertyValue": 3240,
+            "exclusiveItem": "78106_1",
+            "evolutionLevel": 1,
+            "id": 22,
+            "evolutionType": 8
+        },
+        "23": {
+            "addProperty": 61,
+            "currentItem": "78031_8",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78106_2",
+            "evolutionLevel": 2,
+            "id": 23,
+            "evolutionType": 8
+        },
+        "24": {
+            "addProperty": 51,
+            "currentItem": "78031_12",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78106_3",
+            "evolutionLevel": 3,
+            "id": 24,
+            "evolutionType": 8
+        },
+        "25": {
+            "addProperty": 61,
+            "currentItem": "78005_4",
+            "addPropertyValue": 73,
+            "exclusiveItem": "78107_1",
+            "evolutionLevel": 1,
+            "id": 25,
+            "evolutionType": 9
+        },
+        "26": {
+            "addProperty": 21,
+            "currentItem": "78005_8",
+            "addPropertyValue": 1377,
+            "exclusiveItem": "78107_2",
+            "evolutionLevel": 2,
+            "id": 26,
+            "evolutionType": 9
+        },
+        "27": {
+            "addProperty": 31,
+            "currentItem": "78005_12",
+            "addPropertyValue": 275,
+            "exclusiveItem": "78107_3",
+            "evolutionLevel": 3,
+            "id": 27,
+            "evolutionType": 9
+        },
+        "28": {
+            "addProperty": 61,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78108_1",
+            "evolutionLevel": 1,
+            "id": 28,
+            "evolutionType": 10
+        },
+        "29": {
+            "addProperty": 21,
+            "currentItem": "78035_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78108_2",
+            "evolutionLevel": 2,
+            "id": 29,
+            "evolutionType": 10
+        },
+        "30": {
+            "addProperty": 31,
+            "currentItem": "78035_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78108_3",
+            "evolutionLevel": 3,
+            "id": 30,
+            "evolutionType": 10
+        },
+        "31": {
+            "addProperty": 21,
+            "currentItem": "78031_4",
+            "addPropertyValue": 3240,
+            "exclusiveItem": "78109_1",
+            "evolutionLevel": 1,
+            "id": 31,
+            "evolutionType": 11
+        },
+        "32": {
+            "addProperty": 51,
+            "currentItem": "78031_8",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78109_2",
+            "evolutionLevel": 2,
+            "id": 32,
+            "evolutionType": 11
+        },
+        "33": {
+            "addProperty": 61,
+            "currentItem": "78031_12",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78109_3",
+            "evolutionLevel": 3,
+            "id": 33,
+            "evolutionType": 11
+        },
+        "34": {
+            "addProperty": 61,
+            "currentItem": "78036_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78110_1",
+            "evolutionLevel": 1,
+            "id": 34,
+            "evolutionType": 12
+        },
+        "35": {
+            "addProperty": 31,
+            "currentItem": "78036_8",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78110_2",
+            "evolutionLevel": 2,
+            "id": 35,
+            "evolutionType": 12
+        },
+        "36": {
+            "addProperty": 21,
+            "currentItem": "78036_12",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78110_3",
+            "evolutionLevel": 3,
+            "id": 36,
+            "evolutionType": 12
+        },
+        "37": {
+            "addProperty": 51,
+            "currentItem": "78033_4",
+            "addPropertyValue": 64,
+            "exclusiveItem": "78111_1",
+            "evolutionLevel": 1,
+            "id": 37,
+            "evolutionType": 13
+        },
+        "38": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1296,
+            "exclusiveItem": "78111_2",
+            "evolutionLevel": 2,
+            "id": 38,
+            "evolutionType": 13
+        },
+        "39": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 540,
+            "exclusiveItem": "78111_3",
+            "evolutionLevel": 3,
+            "id": 39,
+            "evolutionType": 13
+        },
+        "40": {
+            "addProperty": 51,
+            "currentItem": "78013_4",
+            "addPropertyValue": 58,
+            "exclusiveItem": "78112_1",
+            "evolutionLevel": 1,
+            "id": 40,
+            "evolutionType": 14
+        },
+        "41": {
+            "addProperty": 21,
+            "currentItem": "78013_8",
+            "addPropertyValue": 1166,
+            "exclusiveItem": "78112_2",
+            "evolutionLevel": 2,
+            "id": 41,
+            "evolutionType": 14
+        },
+        "42": {
+            "addProperty": 31,
+            "currentItem": "78013_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78112_3",
+            "evolutionLevel": 3,
+            "id": 42,
+            "evolutionType": 14
+        },
+        "43": {
+            "addProperty": 31,
+            "currentItem": "78016_4",
+            "addPropertyValue": 437,
+            "exclusiveItem": "78113_1",
+            "evolutionLevel": 1,
+            "id": 43,
+            "evolutionType": 15
+        },
+        "44": {
+            "addProperty": 61,
+            "currentItem": "78016_8",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78113_2",
+            "evolutionLevel": 2,
+            "id": 44,
+            "evolutionType": 15
+        },
+        "45": {
+            "addProperty": 21,
+            "currentItem": "78016_12",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78113_3",
+            "evolutionLevel": 3,
+            "id": 45,
+            "evolutionType": 15
+        },
+        "46": {
+            "addProperty": 31,
+            "currentItem": "78012_4",
+            "addPropertyValue": 413,
+            "exclusiveItem": "78114_1",
+            "evolutionLevel": 1,
+            "id": 46,
+            "evolutionType": 16
+        },
+        "47": {
+            "addProperty": 51,
+            "currentItem": "78012_8",
+            "addPropertyValue": 97,
+            "exclusiveItem": "78114_2",
+            "evolutionLevel": 2,
+            "id": 47,
+            "evolutionType": 16
+        },
+        "48": {
+            "addProperty": 21,
+            "currentItem": "78012_12",
+            "addPropertyValue": 2041,
+            "exclusiveItem": "78114_3",
+            "evolutionLevel": 3,
+            "id": 48,
+            "evolutionType": 16
+        },
+        "49": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 108,
+            "exclusiveItem": "78115_1",
+            "evolutionLevel": 1,
+            "id": 49,
+            "evolutionType": 17
+        },
+        "50": {
+            "addProperty": 21,
+            "currentItem": "78032_8",
+            "addPropertyValue": 2268,
+            "exclusiveItem": "78115_2",
+            "evolutionLevel": 2,
+            "id": 50,
+            "evolutionType": 17
+        },
+        "51": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 459,
+            "exclusiveItem": "78115_3",
+            "evolutionLevel": 3,
+            "id": 51,
+            "evolutionType": 17
+        },
+        "52": {
+            "addProperty": 21,
+            "currentItem": "78024_4",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78116_1",
+            "evolutionLevel": 1,
+            "id": 52,
+            "evolutionType": 18
+        },
+        "53": {
+            "addProperty": 61,
+            "currentItem": "78024_8",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78116_2",
+            "evolutionLevel": 2,
+            "id": 53,
+            "evolutionType": 18
+        },
+        "54": {
+            "addProperty": 31,
+            "currentItem": "78024_12",
+            "addPropertyValue": 307,
+            "exclusiveItem": "78116_3",
+            "evolutionLevel": 3,
+            "id": 54,
+            "evolutionType": 18
+        },
+        "55": {
+            "addProperty": 31,
+            "currentItem": "78014_4",
+            "addPropertyValue": 291,
+            "exclusiveItem": "78117_1",
+            "evolutionLevel": 1,
+            "id": 55,
+            "evolutionType": 19
+        },
+        "56": {
+            "addProperty": 61,
+            "currentItem": "78014_8",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78117_2",
+            "evolutionLevel": 2,
+            "id": 56,
+            "evolutionType": 19
+        },
+        "57": {
+            "addProperty": 21,
+            "currentItem": "78014_12",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78117_3",
+            "evolutionLevel": 3,
+            "id": 57,
+            "evolutionType": 19
+        },
+        "58": {
+            "addProperty": 51,
+            "currentItem": "78002_4",
+            "addPropertyValue": 91,
+            "exclusiveItem": "78118_1",
+            "evolutionLevel": 1,
+            "id": 58,
+            "evolutionType": 20
+        },
+        "59": {
+            "addProperty": 31,
+            "currentItem": "78002_8",
+            "addPropertyValue": 390,
+            "exclusiveItem": "78118_2",
+            "evolutionLevel": 2,
+            "id": 59,
+            "evolutionType": 20
+        },
+        "60": {
+            "addProperty": 21,
+            "currentItem": "78002_12",
+            "addPropertyValue": 1927,
+            "exclusiveItem": "78118_3",
+            "evolutionLevel": 3,
+            "id": 60,
+            "evolutionType": 20
+        },
+        "61": {
+            "addProperty": 51,
+            "currentItem": "78002_4",
+            "addPropertyValue": 91,
+            "exclusiveItem": "78119_1",
+            "evolutionLevel": 1,
+            "id": 61,
+            "evolutionType": 21
+        },
+        "62": {
+            "addProperty": 31,
+            "currentItem": "78002_8",
+            "addPropertyValue": 390,
+            "exclusiveItem": "78119_2",
+            "evolutionLevel": 2,
+            "id": 62,
+            "evolutionType": 21
+        },
+        "63": {
+            "addProperty": 21,
+            "currentItem": "78002_12",
+            "addPropertyValue": 1927,
+            "exclusiveItem": "78119_3",
+            "evolutionLevel": 3,
+            "id": 63,
+            "evolutionType": 21
+        },
+        "64": {
+            "addProperty": 51,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78120_1",
+            "evolutionLevel": 1,
+            "id": 64,
+            "evolutionType": 22
+        },
+        "65": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78120_2",
+            "evolutionLevel": 2,
+            "id": 65,
+            "evolutionType": 22
+        },
+        "66": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78120_3",
+            "evolutionLevel": 3,
+            "id": 66,
+            "evolutionType": 22
+        },
+        "67": {
+            "addProperty": 51,
+            "currentItem": "78031_4",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78121_1",
+            "evolutionLevel": 1,
+            "id": 67,
+            "evolutionType": 23
+        },
+        "68": {
+            "addProperty": 31,
+            "currentItem": "78031_8",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78121_2",
+            "evolutionLevel": 2,
+            "id": 68,
+            "evolutionType": 23
+        },
+        "69": {
+            "addProperty": 21,
+            "currentItem": "78031_12",
+            "addPropertyValue": 3240,
+            "exclusiveItem": "78121_3",
+            "evolutionLevel": 3,
+            "id": 69,
+            "evolutionType": 23
+        },
+        "70": {
+            "addProperty": 51,
+            "currentItem": "78014_4",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78122_1",
+            "evolutionLevel": 1,
+            "id": 70,
+            "evolutionType": 24
+        },
+        "71": {
+            "addProperty": 31,
+            "currentItem": "78014_8",
+            "addPropertyValue": 291,
+            "exclusiveItem": "78122_2",
+            "evolutionLevel": 2,
+            "id": 71,
+            "evolutionType": 24
+        },
+        "72": {
+            "addProperty": 21,
+            "currentItem": "78014_12",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78122_3",
+            "evolutionLevel": 3,
+            "id": 72,
+            "evolutionType": 24
+        },
+        "73": {
+            "addProperty": 21,
+            "currentItem": "78026_4",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78123_1",
+            "evolutionLevel": 1,
+            "id": 73,
+            "evolutionType": 25
+        },
+        "74": {
+            "addProperty": 51,
+            "currentItem": "78026_8",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78123_2",
+            "evolutionLevel": 2,
+            "id": 74,
+            "evolutionType": 25
+        },
+        "75": {
+            "addProperty": 31,
+            "currentItem": "78026_12",
+            "addPropertyValue": 461,
+            "exclusiveItem": "78123_3",
+            "evolutionLevel": 3,
+            "id": 75,
+            "evolutionType": 25
+        },
+        "76": {
+            "addProperty": 31,
+            "currentItem": "78013_4",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78124_1",
+            "evolutionLevel": 1,
+            "id": 76,
+            "evolutionType": 26
+        },
+        "77": {
+            "addProperty": 51,
+            "currentItem": "78013_8",
+            "addPropertyValue": 58,
+            "exclusiveItem": "78124_2",
+            "evolutionLevel": 2,
+            "id": 77,
+            "evolutionType": 26
+        },
+        "78": {
+            "addProperty": 21,
+            "currentItem": "78013_12",
+            "addPropertyValue": 1166,
+            "exclusiveItem": "78124_3",
+            "evolutionLevel": 3,
+            "id": 78,
+            "evolutionType": 26
+        },
+        "79": {
+            "addProperty": 51,
+            "currentItem": "78011_4",
+            "addPropertyValue": 194,
+            "exclusiveItem": "78125_1",
+            "evolutionLevel": 1,
+            "id": 79,
+            "evolutionType": 27
+        },
+        "80": {
+            "addProperty": 31,
+            "currentItem": "78011_8",
+            "addPropertyValue": 194,
+            "exclusiveItem": "78125_2",
+            "evolutionLevel": 2,
+            "id": 80,
+            "evolutionType": 27
+        },
+        "81": {
+            "addProperty": 21,
+            "currentItem": "78011_12",
+            "addPropertyValue": 2916,
+            "exclusiveItem": "78125_3",
+            "evolutionLevel": 3,
+            "id": 81,
+            "evolutionType": 27
+        },
+        "82": {
+            "addProperty": 61,
+            "currentItem": "78026_4",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78126_1",
+            "evolutionLevel": 1,
+            "id": 82,
+            "evolutionType": 28
+        },
+        "83": {
+            "addProperty": 21,
+            "currentItem": "78026_8",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78126_2",
+            "evolutionLevel": 2,
+            "id": 83,
+            "evolutionType": 28
+        },
+        "84": {
+            "addProperty": 31,
+            "currentItem": "78026_12",
+            "addPropertyValue": 461,
+            "exclusiveItem": "78126_3",
+            "evolutionLevel": 3,
+            "id": 84,
+            "evolutionType": 28
+        },
+        "85": {
+            "addProperty": 51,
+            "currentItem": "78033_4",
+            "addPropertyValue": 64,
+            "exclusiveItem": "78127_1",
+            "evolutionLevel": 1,
+            "id": 85,
+            "evolutionType": 29
+        },
+        "86": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1296,
+            "exclusiveItem": "78127_2",
+            "evolutionLevel": 2,
+            "id": 86,
+            "evolutionType": 29
+        },
+        "87": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 540,
+            "exclusiveItem": "78127_3",
+            "evolutionLevel": 3,
+            "id": 87,
+            "evolutionType": 29
+        },
+        "88": {
+            "addProperty": 51,
+            "currentItem": "78024_4",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78128_1",
+            "evolutionLevel": 1,
+            "id": 88,
+            "evolutionType": 30
+        },
+        "89": {
+            "addProperty": 61,
+            "currentItem": "78024_8",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78128_2",
+            "evolutionLevel": 2,
+            "id": 89,
+            "evolutionType": 30
+        },
+        "90": {
+            "addProperty": 21,
+            "currentItem": "78024_12",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78128_3",
+            "evolutionLevel": 3,
+            "id": 90,
+            "evolutionType": 30
+        },
+        "94": {
+            "addProperty": 51,
+            "currentItem": "78013_4",
+            "addPropertyValue": 58,
+            "exclusiveItem": "78130_1",
+            "evolutionLevel": 1,
+            "id": 94,
+            "evolutionType": 32
+        },
+        "95": {
+            "addProperty": 21,
+            "currentItem": "78013_8",
+            "addPropertyValue": 1166,
+            "exclusiveItem": "78130_2",
+            "evolutionLevel": 2,
+            "id": 95,
+            "evolutionType": 32
+        },
+        "96": {
+            "addProperty": 31,
+            "currentItem": "78013_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78130_3",
+            "evolutionLevel": 3,
+            "id": 96,
+            "evolutionType": 32
+        },
+        "97": {
+            "addProperty": 51,
+            "currentItem": "78025_4",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78131_1",
+            "evolutionLevel": 1,
+            "id": 97,
+            "evolutionType": 33
+        },
+        "98": {
+            "addProperty": 21,
+            "currentItem": "78025_8",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78131_2",
+            "evolutionLevel": 2,
+            "id": 98,
+            "evolutionType": 33
+        },
+        "99": {
+            "addProperty": 31,
+            "currentItem": "78025_12",
+            "addPropertyValue": 307,
+            "exclusiveItem": "78131_3",
+            "evolutionLevel": 3,
+            "id": 99,
+            "evolutionType": 33
+        },
+        "100": {
+            "addProperty": 21,
+            "currentItem": "78023_4",
+            "addPropertyValue": 1231,
+            "exclusiveItem": "78132_1",
+            "evolutionLevel": 1,
+            "id": 100,
+            "evolutionType": 34
+        },
+        "101": {
+            "addProperty": 51,
+            "currentItem": "78023_8",
+            "addPropertyValue": 61,
+            "exclusiveItem": "78132_2",
+            "evolutionLevel": 2,
+            "id": 101,
+            "evolutionType": 34
+        },
+        "102": {
+            "addProperty": 31,
+            "currentItem": "78023_12",
+            "addPropertyValue": 513,
+            "exclusiveItem": "78132_3",
+            "evolutionLevel": 3,
+            "id": 102,
+            "evolutionType": 34
+        },
+        "103": {
+            "addProperty": 61,
+            "currentItem": "78036_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78133_1",
+            "evolutionLevel": 1,
+            "id": 103,
+            "evolutionType": 35
+        },
+        "104": {
+            "addProperty": 21,
+            "currentItem": "78036_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78133_2",
+            "evolutionLevel": 2,
+            "id": 104,
+            "evolutionType": 35
+        },
+        "105": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78133_3",
+            "evolutionLevel": 3,
+            "id": 105,
+            "evolutionType": 35
+        },
+        "106": {
+            "addProperty": 61,
+            "currentItem": "78006_4",
+            "addPropertyValue": 73,
+            "exclusiveItem": "78134_1",
+            "evolutionLevel": 1,
+            "id": 106,
+            "evolutionType": 36
+        },
+        "107": {
+            "addProperty": 31,
+            "currentItem": "78006_8",
+            "addPropertyValue": 413,
+            "exclusiveItem": "78134_2",
+            "evolutionLevel": 2,
+            "id": 107,
+            "evolutionType": 36
+        },
+        "108": {
+            "addProperty": 21,
+            "currentItem": "78006_12",
+            "addPropertyValue": 1377,
+            "exclusiveItem": "78134_3",
+            "evolutionLevel": 3,
+            "id": 108,
+            "evolutionType": 36
+        },
+        "112": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78136_1",
+            "evolutionLevel": 1,
+            "id": 112,
+            "evolutionType": 38
+        },
+        "113": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78136_2",
+            "evolutionLevel": 2,
+            "id": 113,
+            "evolutionType": 38
+        },
+        "114": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78136_3",
+            "evolutionLevel": 3,
+            "id": 114,
+            "evolutionType": 38
+        },
+        "115": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 108,
+            "exclusiveItem": "78137_1",
+            "evolutionLevel": 1,
+            "id": 115,
+            "evolutionType": 39
+        },
+        "116": {
+            "addProperty": 21,
+            "currentItem": "78032_8",
+            "addPropertyValue": 2268,
+            "exclusiveItem": "78137_2",
+            "evolutionLevel": 2,
+            "id": 116,
+            "evolutionType": 39
+        },
+        "117": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 459,
+            "exclusiveItem": "78137_3",
+            "evolutionLevel": 3,
+            "id": 117,
+            "evolutionType": 39
+        },
+        "118": {
+            "addProperty": 61,
+            "currentItem": "78016_4",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78138_1",
+            "evolutionLevel": 1,
+            "id": 118,
+            "evolutionType": 40
+        },
+        "119": {
+            "addProperty": 31,
+            "currentItem": "78016_8",
+            "addPropertyValue": 437,
+            "exclusiveItem": "78138_2",
+            "evolutionLevel": 2,
+            "id": 119,
+            "evolutionType": 40
+        },
+        "120": {
+            "addProperty": 21,
+            "currentItem": "78016_12",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78138_3",
+            "evolutionLevel": 3,
+            "id": 120,
+            "evolutionType": 40
+        },
+        "121": {
+            "addProperty": 61,
+            "currentItem": "78026_4",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78139_1",
+            "evolutionLevel": 1,
+            "id": 121,
+            "evolutionType": 41
+        },
+        "122": {
+            "addProperty": 21,
+            "currentItem": "78026_8",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78139_2",
+            "evolutionLevel": 2,
+            "id": 122,
+            "evolutionType": 41
+        },
+        "123": {
+            "addProperty": 31,
+            "currentItem": "78026_12",
+            "addPropertyValue": 461,
+            "exclusiveItem": "78139_3",
+            "evolutionLevel": 3,
+            "id": 123,
+            "evolutionType": 41
+        },
+        "124": {
+            "addProperty": 21,
+            "currentItem": "78026_4",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78140_1",
+            "evolutionLevel": 1,
+            "id": 124,
+            "evolutionType": 42
+        },
+        "125": {
+            "addProperty": 61,
+            "currentItem": "78026_8",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78140_2",
+            "evolutionLevel": 2,
+            "id": 125,
+            "evolutionType": 42
+        },
+        "126": {
+            "addProperty": 31,
+            "currentItem": "78026_12",
+            "addPropertyValue": 461,
+            "exclusiveItem": "78140_3",
+            "evolutionLevel": 3,
+            "id": 126,
+            "evolutionType": 42
+        },
+        "127": {
+            "addProperty": 21,
+            "currentItem": "78025_4",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78141_1",
+            "evolutionLevel": 1,
+            "id": 127,
+            "evolutionType": 43
+        },
+        "128": {
+            "addProperty": 61,
+            "currentItem": "78025_8",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78141_2",
+            "evolutionLevel": 2,
+            "id": 128,
+            "evolutionType": 43
+        },
+        "129": {
+            "addProperty": 31,
+            "currentItem": "78025_12",
+            "addPropertyValue": 307,
+            "exclusiveItem": "78141_3",
+            "evolutionLevel": 3,
+            "id": 129,
+            "evolutionType": 43
+        },
+        "130": {
+            "addProperty": 61,
+            "currentItem": "78006_4",
+            "addPropertyValue": 73,
+            "exclusiveItem": "78142_1",
+            "evolutionLevel": 1,
+            "id": 130,
+            "evolutionType": 44
+        },
+        "131": {
+            "addProperty": 31,
+            "currentItem": "78006_8",
+            "addPropertyValue": 413,
+            "exclusiveItem": "78142_2",
+            "evolutionLevel": 2,
+            "id": 131,
+            "evolutionType": 44
+        },
+        "132": {
+            "addProperty": 21,
+            "currentItem": "78006_12",
+            "addPropertyValue": 1377,
+            "exclusiveItem": "78142_3",
+            "evolutionLevel": 3,
+            "id": 132,
+            "evolutionType": 44
+        },
+        "133": {
+            "addProperty": 61,
+            "currentItem": "78016_4",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78144_1",
+            "evolutionLevel": 1,
+            "id": 133,
+            "evolutionType": 45
+        },
+        "134": {
+            "addProperty": 31,
+            "currentItem": "78016_8",
+            "addPropertyValue": 437,
+            "exclusiveItem": "78144_2",
+            "evolutionLevel": 2,
+            "id": 134,
+            "evolutionType": 45
+        },
+        "135": {
+            "addProperty": 21,
+            "currentItem": "78016_12",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78144_3",
+            "evolutionLevel": 3,
+            "id": 135,
+            "evolutionType": 45
+        },
+        "136": {
+            "addProperty": 51,
+            "currentItem": "78002_4",
+            "addPropertyValue": 97,
+            "exclusiveItem": "78144_1",
+            "evolutionLevel": 1,
+            "id": 136,
+            "evolutionType": 46
+        },
+        "137": {
+            "addProperty": 31,
+            "currentItem": "78002_8",
+            "addPropertyValue": 413,
+            "exclusiveItem": "78144_2",
+            "evolutionLevel": 2,
+            "id": 137,
+            "evolutionType": 46
+        },
+        "138": {
+            "addProperty": 21,
+            "currentItem": "78002_12",
+            "addPropertyValue": 2041,
+            "exclusiveItem": "78144_3",
+            "evolutionLevel": 3,
+            "id": 138,
+            "evolutionType": 46
+        },
+        "139": {
+            "addProperty": 51,
+            "currentItem": "78023_4",
+            "addPropertyValue": 61,
+            "exclusiveItem": "78145_1",
+            "evolutionLevel": 1,
+            "id": 139,
+            "evolutionType": 47
+        },
+        "140": {
+            "addProperty": 31,
+            "currentItem": "78023_8",
+            "addPropertyValue": 513,
+            "exclusiveItem": "78145_2",
+            "evolutionLevel": 2,
+            "id": 140,
+            "evolutionType": 47
+        },
+        "141": {
+            "addProperty": 21,
+            "currentItem": "78023_12",
+            "addPropertyValue": 1231,
+            "exclusiveItem": "78145_3",
+            "evolutionLevel": 3,
+            "id": 141,
+            "evolutionType": 47
+        },
+        "142": {
+            "addProperty": 51,
+            "currentItem": "78022_4",
+            "addPropertyValue": 102,
+            "exclusiveItem": "78146_1",
+            "evolutionLevel": 1,
+            "id": 142,
+            "evolutionType": 48
+        },
+        "143": {
+            "addProperty": 31,
+            "currentItem": "78022_8",
+            "addPropertyValue": 436,
+            "exclusiveItem": "78146_2",
+            "evolutionLevel": 2,
+            "id": 143,
+            "evolutionType": 48
+        },
+        "144": {
+            "addProperty": 21,
+            "currentItem": "78022_12",
+            "addPropertyValue": 2154,
+            "exclusiveItem": "78146_3",
+            "evolutionLevel": 3,
+            "id": 144,
+            "evolutionType": 48
+        },
+        "145": {
+            "addProperty": 21,
+            "currentItem": "78011_4",
+            "addPropertyValue": 2916,
+            "exclusiveItem": "78147_1",
+            "evolutionLevel": 1,
+            "id": 145,
+            "evolutionType": 49
+        },
+        "146": {
+            "addProperty": 51,
+            "currentItem": "78011_8",
+            "addPropertyValue": 194,
+            "exclusiveItem": "78147_2",
+            "evolutionLevel": 2,
+            "id": 146,
+            "evolutionType": 49
+        },
+        "147": {
+            "addProperty": 61,
+            "currentItem": "78011_12",
+            "addPropertyValue": 194,
+            "exclusiveItem": "78147_3",
+            "evolutionLevel": 3,
+            "id": 147,
+            "evolutionType": 49
+        },
+        "148": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 108,
+            "exclusiveItem": "78148_1",
+            "evolutionLevel": 1,
+            "id": 148,
+            "evolutionType": 50
+        },
+        "149": {
+            "addProperty": 31,
+            "currentItem": "78032_8",
+            "addPropertyValue": 459,
+            "exclusiveItem": "78148_2",
+            "evolutionLevel": 2,
+            "id": 149,
+            "evolutionType": 50
+        },
+        "150": {
+            "addProperty": 21,
+            "currentItem": "78032_12",
+            "addPropertyValue": 2268,
+            "exclusiveItem": "78148_3",
+            "evolutionLevel": 3,
+            "id": 150,
+            "evolutionType": 50
+        },
+        "151": {
+            "addProperty": 51,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78149_1",
+            "evolutionLevel": 1,
+            "id": 151,
+            "evolutionType": 51
+        },
+        "152": {
+            "addProperty": 21,
+            "currentItem": "78035_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78149_2",
+            "evolutionLevel": 2,
+            "id": 152,
+            "evolutionType": 51
+        },
+        "153": {
+            "addProperty": 31,
+            "currentItem": "78035_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78149_3",
+            "evolutionLevel": 3,
+            "id": 153,
+            "evolutionType": 51
+        },
+        "154": {
+            "addProperty": 51,
+            "currentItem": "78015_4",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78150_1",
+            "evolutionLevel": 1,
+            "id": 154,
+            "evolutionType": 52
+        },
+        "155": {
+            "addProperty": 31,
+            "currentItem": "78015_8",
+            "addPropertyValue": 291,
+            "exclusiveItem": "78150_2",
+            "evolutionLevel": 2,
+            "id": 155,
+            "evolutionType": 52
+        },
+        "156": {
+            "addProperty": 21,
+            "currentItem": "78015_12",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78150_3",
+            "evolutionLevel": 3,
+            "id": 156,
+            "evolutionType": 52
+        },
+        "157": {
+            "addProperty": 51,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78151_1",
+            "evolutionLevel": 1,
+            "id": 157,
+            "evolutionType": 53
+        },
+        "158": {
+            "addProperty": 31,
+            "currentItem": "78035_8",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78151_2",
+            "evolutionLevel": 2,
+            "id": 158,
+            "evolutionType": 53
+        },
+        "159": {
+            "addProperty": 21,
+            "currentItem": "78035_12",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78151_3",
+            "evolutionLevel": 3,
+            "id": 159,
+            "evolutionType": 53
+        },
+        "160": {
+            "addProperty": 21,
+            "currentItem": "78025_4",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78152_1",
+            "evolutionLevel": 1,
+            "id": 160,
+            "evolutionType": 54
+        },
+        "161": {
+            "addProperty": 51,
+            "currentItem": "78025_8",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78152_2",
+            "evolutionLevel": 2,
+            "id": 161,
+            "evolutionType": 54
+        },
+        "162": {
+            "addProperty": 31,
+            "currentItem": "78025_12",
+            "addPropertyValue": 307,
+            "exclusiveItem": "78152_3",
+            "evolutionLevel": 3,
+            "id": 162,
+            "evolutionType": 54
+        },
+        "163": {
+            "addProperty": 51,
+            "currentItem": "78023_4",
+            "addPropertyValue": 61,
+            "exclusiveItem": "78153_1",
+            "evolutionLevel": 1,
+            "id": 163,
+            "evolutionType": 55
+        },
+        "164": {
+            "addProperty": 21,
+            "currentItem": "78023_8",
+            "addPropertyValue": 1231,
+            "exclusiveItem": "78153_2",
+            "evolutionLevel": 2,
+            "id": 164,
+            "evolutionType": 55
+        },
+        "165": {
+            "addProperty": 31,
+            "currentItem": "78023_12",
+            "addPropertyValue": 513,
+            "exclusiveItem": "78153_3",
+            "evolutionLevel": 3,
+            "id": 165,
+            "evolutionType": 55
+        },
+        "166": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78154_1",
+            "evolutionLevel": 1,
+            "id": 166,
+            "evolutionType": 56
+        },
+        "167": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78154_2",
+            "evolutionLevel": 2,
+            "id": 167,
+            "evolutionType": 56
+        },
+        "168": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78154_3",
+            "evolutionLevel": 3,
+            "id": 168,
+            "evolutionType": 56
+        },
+        "169": {
+            "addProperty": 21,
+            "currentItem": "78001_4",
+            "addPropertyValue": 2754,
+            "exclusiveItem": "78148_1",
+            "evolutionLevel": 1,
+            "id": 169,
+            "evolutionType": 57
+        },
+        "170": {
+            "addProperty": 51,
+            "currentItem": "78001_8",
+            "addPropertyValue": 183,
+            "exclusiveItem": "78148_2",
+            "evolutionLevel": 2,
+            "id": 170,
+            "evolutionType": 57
+        },
+        "171": {
+            "addProperty": 61,
+            "currentItem": "78001_12",
+            "addPropertyValue": 183,
+            "exclusiveItem": "78148_3",
+            "evolutionLevel": 3,
+            "id": 171,
+            "evolutionType": 57
+        },
+        "172": {
+            "addProperty": 31,
+            "currentItem": "78013_4",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78156_1",
+            "evolutionLevel": 1,
+            "id": 172,
+            "evolutionType": 58
+        },
+        "173": {
+            "addProperty": 51,
+            "currentItem": "78013_8",
+            "addPropertyValue": 58,
+            "exclusiveItem": "78156_2",
+            "evolutionLevel": 2,
+            "id": 173,
+            "evolutionType": 58
+        },
+        "174": {
+            "addProperty": 21,
+            "currentItem": "78013_12",
+            "addPropertyValue": 1166,
+            "exclusiveItem": "78156_3",
+            "evolutionLevel": 3,
+            "id": 174,
+            "evolutionType": 58
+        },
+        "175": {
+            "addProperty": 61,
+            "currentItem": "78021_4",
+            "addPropertyValue": 205,
+            "exclusiveItem": "78157_1",
+            "evolutionLevel": 1,
+            "id": 175,
+            "evolutionType": 59
+        },
+        "176": {
+            "addProperty": 51,
+            "currentItem": "78021_8",
+            "addPropertyValue": 205,
+            "exclusiveItem": "78157_2",
+            "evolutionLevel": 2,
+            "id": 176,
+            "evolutionType": 59
+        },
+        "177": {
+            "addProperty": 21,
+            "currentItem": "78021_12",
+            "addPropertyValue": 3078,
+            "exclusiveItem": "78157_3",
+            "evolutionLevel": 3,
+            "id": 177,
+            "evolutionType": 59
+        },
+        "178": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78158_1",
+            "evolutionLevel": 1,
+            "id": 178,
+            "evolutionType": 60
+        },
+        "179": {
+            "addProperty": 31,
+            "currentItem": "78034_8",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78158_2",
+            "evolutionLevel": 2,
+            "id": 179,
+            "evolutionType": 60
+        },
+        "180": {
+            "addProperty": 21,
+            "currentItem": "78034_12",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78158_3",
+            "evolutionLevel": 3,
+            "id": 180,
+            "evolutionType": 60
+        },
+        "181": {
+            "addProperty": 51,
+            "currentItem": "78022_4",
+            "addPropertyValue": 102,
+            "exclusiveItem": "78159_1",
+            "evolutionLevel": 1,
+            "id": 181,
+            "evolutionType": 61
+        },
+        "182": {
+            "addProperty": 21,
+            "currentItem": "78022_8",
+            "addPropertyValue": 2154,
+            "exclusiveItem": "78159_2",
+            "evolutionLevel": 2,
+            "id": 182,
+            "evolutionType": 61
+        },
+        "183": {
+            "addProperty": 31,
+            "currentItem": "78022_12",
+            "addPropertyValue": 436,
+            "exclusiveItem": "78159_3",
+            "evolutionLevel": 3,
+            "id": 183,
+            "evolutionType": 61
+        },
+        "184": {
+            "addProperty": 61,
+            "currentItem": "78036_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78160_1",
+            "evolutionLevel": 1,
+            "id": 184,
+            "evolutionType": 62
+        },
+        "185": {
+            "addProperty": 21,
+            "currentItem": "78036_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78160_2",
+            "evolutionLevel": 2,
+            "id": 185,
+            "evolutionType": 62
+        },
+        "186": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78160_3",
+            "evolutionLevel": 3,
+            "id": 186,
+            "evolutionType": 62
+        },
+        "187": {
+            "addProperty": 51,
+            "currentItem": "78031_4",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78161_1",
+            "evolutionLevel": 1,
+            "id": 187,
+            "evolutionType": 63
+        },
+        "188": {
+            "addProperty": 61,
+            "currentItem": "78031_8",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78161_2",
+            "evolutionLevel": 2,
+            "id": 188,
+            "evolutionType": 63
+        },
+        "189": {
+            "addProperty": 21,
+            "currentItem": "78031_12",
+            "addPropertyValue": 3240,
+            "exclusiveItem": "78161_3",
+            "evolutionLevel": 3,
+            "id": 189,
+            "evolutionType": 63
+        },
+        "190": {
+            "addProperty": 51,
+            "currentItem": "78033_4",
+            "addPropertyValue": 64,
+            "exclusiveItem": "78162_1",
+            "evolutionLevel": 1,
+            "id": 190,
+            "evolutionType": 64
+        },
+        "191": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1296,
+            "exclusiveItem": "78162_2",
+            "evolutionLevel": 2,
+            "id": 191,
+            "evolutionType": 64
+        },
+        "192": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 540,
+            "exclusiveItem": "78162_3",
+            "evolutionLevel": 3,
+            "id": 192,
+            "evolutionType": 64
+        },
+        "193": {
+            "addProperty": 51,
+            "currentItem": "78024_4",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78163_1",
+            "evolutionLevel": 1,
+            "id": 193,
+            "evolutionType": 65
+        },
+        "194": {
+            "addProperty": 31,
+            "currentItem": "78024_8",
+            "addPropertyValue": 307,
+            "exclusiveItem": "78163_2",
+            "evolutionLevel": 2,
+            "id": 194,
+            "evolutionType": 65
+        },
+        "195": {
+            "addProperty": 31,
+            "currentItem": "78024_12",
+            "addPropertyValue": 307,
+            "exclusiveItem": "78163_3",
+            "evolutionLevel": 3,
+            "id": 195,
+            "evolutionType": 65
+        },
+        "196": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78164_1",
+            "evolutionLevel": 1,
+            "id": 196,
+            "evolutionType": 66
+        },
+        "197": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78164_2",
+            "evolutionLevel": 2,
+            "id": 197,
+            "evolutionType": 66
+        },
+        "198": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78164_3",
+            "evolutionLevel": 3,
+            "id": 198,
+            "evolutionType": 66
+        },
+        "199": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 108,
+            "exclusiveItem": "78129_1",
+            "evolutionLevel": 1,
+            "id": 199,
+            "evolutionType": 67
+        },
+        "200": {
+            "addProperty": 21,
+            "currentItem": "78032_8",
+            "addPropertyValue": 2268,
+            "exclusiveItem": "78129_2",
+            "evolutionLevel": 2,
+            "id": 200,
+            "evolutionType": 67
+        },
+        "201": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 459,
+            "exclusiveItem": "78129_3",
+            "evolutionLevel": 3,
+            "id": 201,
+            "evolutionType": 67
+        },
+        "202": {
+            "addProperty": 61,
+            "currentItem": "78024_4",
+            "addPropertyValue": 73,
+            "exclusiveItem": "78166_1",
+            "evolutionLevel": 1,
+            "id": 202,
+            "evolutionType": 68
+        },
+        "203": {
+            "addProperty": 31,
+            "currentItem": "78024_8",
+            "addPropertyValue": 275,
+            "exclusiveItem": "78166_2",
+            "evolutionLevel": 2,
+            "id": 203,
+            "evolutionType": 68
+        },
+        "204": {
+            "addProperty": 21,
+            "currentItem": "78024_12",
+            "addPropertyValue": 1377,
+            "exclusiveItem": "78166_3",
+            "evolutionLevel": 3,
+            "id": 204,
+            "evolutionType": 68
+        },
+        "205": {
+            "addProperty": 61,
+            "currentItem": "78026_4",
+            "addPropertyValue": 82,
+            "exclusiveItem": "78167_1",
+            "evolutionLevel": 1,
+            "id": 205,
+            "evolutionType": 69
+        },
+        "206": {
+            "addProperty": 31,
+            "currentItem": "78026_8",
+            "addPropertyValue": 461,
+            "exclusiveItem": "78167_2",
+            "evolutionLevel": 2,
+            "id": 206,
+            "evolutionType": 69
+        },
+        "207": {
+            "addProperty": 21,
+            "currentItem": "78026_12",
+            "addPropertyValue": 1539,
+            "exclusiveItem": "78167_3",
+            "evolutionLevel": 3,
+            "id": 207,
+            "evolutionType": 69
+        },
+        "208": {
+            "addProperty": 21,
+            "currentItem": "78036_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78168_1",
+            "evolutionLevel": 1,
+            "id": 208,
+            "evolutionType": 70
+        },
+        "209": {
+            "addProperty": 61,
+            "currentItem": "78036_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78168_2",
+            "evolutionLevel": 2,
+            "id": 209,
+            "evolutionType": 70
+        },
+        "210": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78168_3",
+            "evolutionLevel": 3,
+            "id": 210,
+            "evolutionType": 70
+        },
+        "211": {
+            "addProperty": 51,
+            "currentItem": "78033_4",
+            "addPropertyValue": 64,
+            "exclusiveItem": "78169_1",
+            "evolutionLevel": 1,
+            "id": 211,
+            "evolutionType": 71
+        },
+        "212": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1296,
+            "exclusiveItem": "78169_2",
+            "evolutionLevel": 2,
+            "id": 212,
+            "evolutionType": 71
+        },
+        "213": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 540,
+            "exclusiveItem": "78169_3",
+            "evolutionLevel": 3,
+            "id": 213,
+            "evolutionType": 71
+        },
+        "214": {
+            "addProperty": 51,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78170_1",
+            "evolutionLevel": 1,
+            "id": 214,
+            "evolutionType": 72
+        },
+        "215": {
+            "addProperty": 21,
+            "currentItem": "78035_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78170_2",
+            "evolutionLevel": 2,
+            "id": 215,
+            "evolutionType": 72
+        },
+        "216": {
+            "addProperty": 31,
+            "currentItem": "78035_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78170_3",
+            "evolutionLevel": 3,
+            "id": 216,
+            "evolutionType": 72
+        },
+        "217": {
+            "addProperty": 61,
+            "currentItem": "78015_4",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78171_1",
+            "evolutionLevel": 1,
+            "id": 217,
+            "evolutionType": 73
+        },
+        "218": {
+            "addProperty": 21,
+            "currentItem": "78015_8",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78171_2",
+            "evolutionLevel": 2,
+            "id": 218,
+            "evolutionType": 73
+        },
+        "219": {
+            "addProperty": 31,
+            "currentItem": "78015_12",
+            "addPropertyValue": 291,
+            "exclusiveItem": "78171_3",
+            "evolutionLevel": 3,
+            "id": 219,
+            "evolutionType": 73
+        },
+        "220": {
+            "addProperty": 51,
+            "currentItem": "78012_4",
+            "addPropertyValue": 97,
+            "exclusiveItem": "78172_1",
+            "evolutionLevel": 1,
+            "id": 220,
+            "evolutionType": 74
+        },
+        "221": {
+            "addProperty": 31,
+            "currentItem": "78012_8",
+            "addPropertyValue": 413,
+            "exclusiveItem": "78172_2",
+            "evolutionLevel": 2,
+            "id": 221,
+            "evolutionType": 74
+        },
+        "222": {
+            "addProperty": 21,
+            "currentItem": "78012_12",
+            "addPropertyValue": 2041,
+            "exclusiveItem": "78172_3",
+            "evolutionLevel": 3,
+            "id": 222,
+            "evolutionType": 74
+        },
+        "223": {
+            "addProperty": 51,
+            "currentItem": "78002_4",
+            "addPropertyValue": 91,
+            "exclusiveItem": "78173_1",
+            "evolutionLevel": 1,
+            "id": 223,
+            "evolutionType": 75
+        },
+        "224": {
+            "addProperty": 31,
+            "currentItem": "78002_8",
+            "addPropertyValue": 390,
+            "exclusiveItem": "78173_2",
+            "evolutionLevel": 2,
+            "id": 224,
+            "evolutionType": 75
+        },
+        "225": {
+            "addProperty": 21,
+            "currentItem": "78002_12",
+            "addPropertyValue": 1927,
+            "exclusiveItem": "78173_3",
+            "evolutionLevel": 3,
+            "id": 225,
+            "evolutionType": 75
+        },
+        "226": {
+            "addProperty": 51,
+            "currentItem": "78015_4",
+            "addPropertyValue": 77,
+            "exclusiveItem": "78174_1",
+            "evolutionLevel": 1,
+            "id": 226,
+            "evolutionType": 76
+        },
+        "227": {
+            "addProperty": 21,
+            "currentItem": "78015_8",
+            "addPropertyValue": 1458,
+            "exclusiveItem": "78174_2",
+            "evolutionLevel": 2,
+            "id": 227,
+            "evolutionType": 76
+        },
+        "228": {
+            "addProperty": 31,
+            "currentItem": "78015_12",
+            "addPropertyValue": 291,
+            "exclusiveItem": "78174_3",
+            "evolutionLevel": 3,
+            "id": 228,
+            "evolutionType": 76
+        },
+        "229": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78154_1",
+            "evolutionLevel": 1,
+            "id": 229,
+            "evolutionType": 77
+        },
+        "230": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78154_2",
+            "evolutionLevel": 2,
+            "id": 230,
+            "evolutionType": 77
+        },
+        "231": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78154_3",
+            "evolutionLevel": 3,
+            "id": 231,
+            "evolutionType": 77
+        },
+        "232": {
+            "addProperty": 51,
+            "currentItem": "78022_4",
+            "addPropertyValue": 102,
+            "exclusiveItem": "78178_1",
+            "evolutionLevel": 1,
+            "id": 232,
+            "evolutionType": 78
+        },
+        "233": {
+            "addProperty": 21,
+            "currentItem": "78022_8",
+            "addPropertyValue": 2154,
+            "exclusiveItem": "78178_2",
+            "evolutionLevel": 2,
+            "id": 233,
+            "evolutionType": 78
+        },
+        "234": {
+            "addProperty": 21,
+            "currentItem": "78022_12",
+            "addPropertyValue": 3240,
+            "exclusiveItem": "78178_3",
+            "evolutionLevel": 3,
+            "id": 234,
+            "evolutionType": 78
+        },
+        "235": {
+            "addProperty": 51,
+            "currentItem": "78031_4",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78179_1",
+            "evolutionLevel": 1,
+            "id": 235,
+            "evolutionType": 79
+        },
+        "236": {
+            "addProperty": 61,
+            "currentItem": "78031_8",
+            "addPropertyValue": 216,
+            "exclusiveItem": "78179_2",
+            "evolutionLevel": 2,
+            "id": 236,
+            "evolutionType": 79
+        },
+        "237": {
+            "addProperty": 31,
+            "currentItem": "78031_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78179_3",
+            "evolutionLevel": 3,
+            "id": 237,
+            "evolutionType": 79
+        },
+        "238": {
+            "addProperty": 61,
+            "currentItem": "78036_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78160_1",
+            "evolutionLevel": 1,
+            "id": 238,
+            "evolutionType": 80
+        },
+        "239": {
+            "addProperty": 21,
+            "currentItem": "78036_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78160_2",
+            "evolutionLevel": 2,
+            "id": 239,
+            "evolutionType": 80
+        },
+        "240": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78160_3",
+            "evolutionLevel": 3,
+            "id": 240,
+            "evolutionType": 80
+        },
+        "241": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78181_1",
+            "evolutionLevel": 1,
+            "id": 241,
+            "evolutionType": 81
+        },
+        "242": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78181_2",
+            "evolutionLevel": 2,
+            "id": 242,
+            "evolutionType": 81
+        },
+        "243": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78181_3",
+            "evolutionLevel": 3,
+            "id": 243,
+            "evolutionType": 81
+        },
+        "247": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78183_1",
+            "evolutionLevel": 1,
+            "id": 247,
+            "evolutionType": 83
+        },
+        "248": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78183_2",
+            "evolutionLevel": 2,
+            "id": 248,
+            "evolutionType": 83
+        },
+        "249": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78183_3",
+            "evolutionLevel": 3,
+            "id": 249,
+            "evolutionType": 83
+        },
+        "250": {
+            "addProperty": 61,
+            "currentItem": "78033_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78184_1",
+            "evolutionLevel": 1,
+            "id": 250,
+            "evolutionType": 84
+        },
+        "251": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78184_2",
+            "evolutionLevel": 2,
+            "id": 251,
+            "evolutionType": 84
+        },
+        "252": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78184_3",
+            "evolutionLevel": 3,
+            "id": 252,
+            "evolutionType": 84
+        },
+        "253": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78185_1",
+            "evolutionLevel": 1,
+            "id": 253,
+            "evolutionType": 85
+        },
+        "254": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78185_2",
+            "evolutionLevel": 2,
+            "id": 254,
+            "evolutionType": 85
+        },
+        "255": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78185_3",
+            "evolutionLevel": 3,
+            "id": 255,
+            "evolutionType": 85
+        },
+        "256": {
+            "addProperty": 51,
+            "currentItem": "78023_4",
+            "addPropertyValue": 61,
+            "exclusiveItem": "78186_1",
+            "evolutionLevel": 1,
+            "id": 256,
+            "evolutionType": 86
+        },
+        "257": {
+            "addProperty": 21,
+            "currentItem": "78023_8",
+            "addPropertyValue": 1231,
+            "exclusiveItem": "78186_2",
+            "evolutionLevel": 2,
+            "id": 257,
+            "evolutionType": 86
+        },
+        "258": {
+            "addProperty": 31,
+            "currentItem": "78023_12",
+            "addPropertyValue": 513,
+            "exclusiveItem": "78186_3",
+            "evolutionLevel": 3,
+            "id": 258,
+            "evolutionType": 86
+        },
+        "259": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78154_1",
+            "evolutionLevel": 1,
+            "id": 259,
+            "evolutionType": 87
+        },
+        "260": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78154_2",
+            "evolutionLevel": 2,
+            "id": 260,
+            "evolutionType": 87
+        },
+        "261": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78154_3",
+            "evolutionLevel": 3,
+            "id": 261,
+            "evolutionType": 87
+        },
+        "262": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 102,
+            "exclusiveItem": "78188_1",
+            "evolutionLevel": 1,
+            "id": 262,
+            "evolutionType": 88
+        },
+        "263": {
+            "addProperty": 21,
+            "currentItem": "78032_8",
+            "addPropertyValue": 2154,
+            "exclusiveItem": "78188_2",
+            "evolutionLevel": 2,
+            "id": 263,
+            "evolutionType": 88
+        },
+        "264": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 436,
+            "exclusiveItem": "78188_3",
+            "evolutionLevel": 3,
+            "id": 264,
+            "evolutionType": 88
+        },
+        "265": {
+            "addProperty": 51,
+            "currentItem": "78033_4",
+            "addPropertyValue": 64,
+            "exclusiveItem": "78189_1",
+            "evolutionLevel": 1,
+            "id": 265,
+            "evolutionType": 89
+        },
+        "266": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1296,
+            "exclusiveItem": "78189_2",
+            "evolutionLevel": 2,
+            "id": 266,
+            "evolutionType": 89
+        },
+        "267": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 540,
+            "exclusiveItem": "78189_3",
+            "evolutionLevel": 3,
+            "id": 267,
+            "evolutionType": 89
+        },
+        "268": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 102,
+            "exclusiveItem": "78190_1",
+            "evolutionLevel": 1,
+            "id": 268,
+            "evolutionType": 90
+        },
+        "269": {
+            "addProperty": 21,
+            "currentItem": "78032_8",
+            "addPropertyValue": 2154,
+            "exclusiveItem": "78190_2",
+            "evolutionLevel": 2,
+            "id": 269,
+            "evolutionType": 90
+        },
+        "270": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 436,
+            "exclusiveItem": "78190_3",
+            "evolutionLevel": 3,
+            "id": 270,
+            "evolutionType": 90
+        },
+        "271": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 102,
+            "exclusiveItem": "78191_1",
+            "evolutionLevel": 1,
+            "id": 271,
+            "evolutionType": 91
+        },
+        "272": {
+            "addProperty": 21,
+            "currentItem": "78032_8",
+            "addPropertyValue": 2154,
+            "exclusiveItem": "78191_2",
+            "evolutionLevel": 2,
+            "id": 272,
+            "evolutionType": 91
+        },
+        "273": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 436,
+            "exclusiveItem": "78191_3",
+            "evolutionLevel": 3,
+            "id": 273,
+            "evolutionType": 91
+        },
+        "274": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 102,
+            "exclusiveItem": "78192_1",
+            "evolutionLevel": 1,
+            "id": 274,
+            "evolutionType": 92
+        },
+        "275": {
+            "addProperty": 21,
+            "currentItem": "78032_8",
+            "addPropertyValue": 2154,
+            "exclusiveItem": "78192_2",
+            "evolutionLevel": 2,
+            "id": 275,
+            "evolutionType": 92
+        },
+        "276": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 436,
+            "exclusiveItem": "78192_3",
+            "evolutionLevel": 3,
+            "id": 276,
+            "evolutionType": 92
+        },
+        "280": {
+            "addProperty": 21,
+            "currentItem": "78036_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78194_1",
+            "evolutionLevel": 1,
+            "id": 280,
+            "evolutionType": 94
+        },
+        "281": {
+            "addProperty": 61,
+            "currentItem": "78036_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78194_2",
+            "evolutionLevel": 2,
+            "id": 281,
+            "evolutionType": 94
+        },
+        "282": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78194_3",
+            "evolutionLevel": 3,
+            "id": 282,
+            "evolutionType": 94
+        },
+        "283": {
+            "addProperty": 21,
+            "currentItem": "78036_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78195_1",
+            "evolutionLevel": 1,
+            "id": 283,
+            "evolutionType": 95
+        },
+        "284": {
+            "addProperty": 61,
+            "currentItem": "78036_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78195_2",
+            "evolutionLevel": 2,
+            "id": 284,
+            "evolutionType": 95
+        },
+        "285": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "78195_3",
+            "evolutionLevel": 3,
+            "id": 285,
+            "evolutionType": 95
+        },
+        "289": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78197_1",
+            "evolutionLevel": 1,
+            "id": 289,
+            "evolutionType": 97
+        },
+        "290": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78197_2",
+            "evolutionLevel": 2,
+            "id": 290,
+            "evolutionType": 97
+        },
+        "291": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78197_3",
+            "evolutionLevel": 3,
+            "id": 291,
+            "evolutionType": 97
+        },
+        "292": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78198_1",
+            "evolutionLevel": 1,
+            "id": 292,
+            "evolutionType": 98
+        },
+        "293": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78198_2",
+            "evolutionLevel": 2,
+            "id": 293,
+            "evolutionType": 98
+        },
+        "294": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78198_3",
+            "evolutionLevel": 3,
+            "id": 294,
+            "evolutionType": 98
+        },
+        "295": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "78199_1",
+            "evolutionLevel": 1,
+            "id": 295,
+            "evolutionType": 99
+        },
+        "296": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "78199_2",
+            "evolutionLevel": 2,
+            "id": 296,
+            "evolutionType": 99
+        },
+        "297": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "78199_3",
+            "evolutionLevel": 3,
+            "id": 297,
+            "evolutionType": 99
+        },
+        "298": {
+            "addProperty": 21,
+            "currentItem": "78035_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781100_1",
+            "evolutionLevel": 1,
+            "id": 298,
+            "evolutionType": 100
+        },
+        "299": {
+            "addProperty": 61,
+            "currentItem": "78035_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781100_2",
+            "evolutionLevel": 2,
+            "id": 299,
+            "evolutionType": 100
+        },
+        "300": {
+            "addProperty": 31,
+            "currentItem": "78035_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781100_3",
+            "evolutionLevel": 3,
+            "id": 300,
+            "evolutionType": 100
+        },
+        "301": {
+            "addProperty": 51,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781101_1",
+            "evolutionLevel": 1,
+            "id": 301,
+            "evolutionType": 101
+        },
+        "302": {
+            "addProperty": 31,
+            "currentItem": "78035_8",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781101_2",
+            "evolutionLevel": 2,
+            "id": 302,
+            "evolutionType": 101
+        },
+        "303": {
+            "addProperty": 21,
+            "currentItem": "78035_12",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781101_3",
+            "evolutionLevel": 3,
+            "id": 303,
+            "evolutionType": 101
+        },
+        "304": {
+            "addProperty": 51,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781102_1",
+            "evolutionLevel": 1,
+            "id": 304,
+            "evolutionType": 102
+        },
+        "305": {
+            "addProperty": 31,
+            "currentItem": "78035_8",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781102_2",
+            "evolutionLevel": 2,
+            "id": 305,
+            "evolutionType": 102
+        },
+        "306": {
+            "addProperty": 21,
+            "currentItem": "78035_12",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781102_3",
+            "evolutionLevel": 3,
+            "id": 306,
+            "evolutionType": 102
+        },
+        "307": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781103_1",
+            "evolutionLevel": 1,
+            "id": 307,
+            "evolutionType": 103
+        },
+        "308": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781103_2",
+            "evolutionLevel": 2,
+            "id": 308,
+            "evolutionType": 103
+        },
+        "309": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781103_3",
+            "evolutionLevel": 3,
+            "id": 309,
+            "evolutionType": 103
+        },
+        "310": {
+            "addProperty": 21,
+            "currentItem": "78036_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781104_1",
+            "evolutionLevel": 1,
+            "id": 310,
+            "evolutionType": 104
+        },
+        "311": {
+            "addProperty": 61,
+            "currentItem": "78036_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781104_2",
+            "evolutionLevel": 2,
+            "id": 311,
+            "evolutionType": 104
+        },
+        "312": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781104_3",
+            "evolutionLevel": 3,
+            "id": 312,
+            "evolutionType": 104
+        },
+        "313": {
+            "addProperty": 21,
+            "currentItem": "78036_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781105_1",
+            "evolutionLevel": 1,
+            "id": 313,
+            "evolutionType": 105
+        },
+        "314": {
+            "addProperty": 61,
+            "currentItem": "78036_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781105_2",
+            "evolutionLevel": 2,
+            "id": 314,
+            "evolutionType": 105
+        },
+        "315": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781105_3",
+            "evolutionLevel": 3,
+            "id": 315,
+            "evolutionType": 105
+        },
+        "316": {
+            "addProperty": 21,
+            "currentItem": "78033_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781106_1",
+            "evolutionLevel": 1,
+            "id": 316,
+            "evolutionType": 106
+        },
+        "317": {
+            "addProperty": 61,
+            "currentItem": "78033_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781106_2",
+            "evolutionLevel": 2,
+            "id": 317,
+            "evolutionType": 106
+        },
+        "318": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781106_3",
+            "evolutionLevel": 3,
+            "id": 318,
+            "evolutionType": 106
+        },
+        "319": {
+            "addProperty": 21,
+            "currentItem": "78033_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781107_1",
+            "evolutionLevel": 1,
+            "id": 319,
+            "evolutionType": 107
+        },
+        "320": {
+            "addProperty": 61,
+            "currentItem": "78033_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781107_2",
+            "evolutionLevel": 2,
+            "id": 320,
+            "evolutionType": 107
+        },
+        "321": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781107_3",
+            "evolutionLevel": 3,
+            "id": 321,
+            "evolutionType": 107
+        },
+        "322": {
+            "addProperty": 21,
+            "currentItem": "78031_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781108_1",
+            "evolutionLevel": 1,
+            "id": 322,
+            "evolutionType": 108
+        },
+        "323": {
+            "addProperty": 61,
+            "currentItem": "78031_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781108_2",
+            "evolutionLevel": 2,
+            "id": 323,
+            "evolutionType": 108
+        },
+        "324": {
+            "addProperty": 31,
+            "currentItem": "78031_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781108_3",
+            "evolutionLevel": 3,
+            "id": 324,
+            "evolutionType": 108
+        },
+        "325": {
+            "addProperty": 21,
+            "currentItem": "78031_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781109_1",
+            "evolutionLevel": 1,
+            "id": 325,
+            "evolutionType": 109
+        },
+        "326": {
+            "addProperty": 61,
+            "currentItem": "78031_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781109_2",
+            "evolutionLevel": 2,
+            "id": 326,
+            "evolutionType": 109
+        },
+        "327": {
+            "addProperty": 31,
+            "currentItem": "78031_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781109_3",
+            "evolutionLevel": 3,
+            "id": 327,
+            "evolutionType": 109
+        },
+        "328": {
+            "addProperty": 21,
+            "currentItem": "78032_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781110_1",
+            "evolutionLevel": 1,
+            "id": 328,
+            "evolutionType": 110
+        },
+        "329": {
+            "addProperty": 61,
+            "currentItem": "78032_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781110_2",
+            "evolutionLevel": 2,
+            "id": 329,
+            "evolutionType": 110
+        },
+        "330": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781110_3",
+            "evolutionLevel": 3,
+            "id": 330,
+            "evolutionType": 110
+        },
+        "331": {
+            "addProperty": 21,
+            "currentItem": "78031_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781112_1",
+            "evolutionLevel": 1,
+            "id": 331,
+            "evolutionType": 112
+        },
+        "332": {
+            "addProperty": 61,
+            "currentItem": "78031_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781112_2",
+            "evolutionLevel": 2,
+            "id": 332,
+            "evolutionType": 112
+        },
+        "333": {
+            "addProperty": 31,
+            "currentItem": "78031_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781112_3",
+            "evolutionLevel": 3,
+            "id": 333,
+            "evolutionType": 112
+        },
+        "334": {
+            "addProperty": 21,
+            "currentItem": "78036_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781113_1",
+            "evolutionLevel": 1,
+            "id": 334,
+            "evolutionType": 113
+        },
+        "335": {
+            "addProperty": 61,
+            "currentItem": "78036_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781113_2",
+            "evolutionLevel": 2,
+            "id": 335,
+            "evolutionType": 113
+        },
+        "336": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781113_3",
+            "evolutionLevel": 3,
+            "id": 336,
+            "evolutionType": 113
+        },
+        "337": {
+            "addProperty": 51,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781120_1",
+            "evolutionLevel": 1,
+            "id": 337,
+            "evolutionType": 120
+        },
+        "338": {
+            "addProperty": 31,
+            "currentItem": "78035_8",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781120_2",
+            "evolutionLevel": 2,
+            "id": 338,
+            "evolutionType": 120
+        },
+        "339": {
+            "addProperty": 21,
+            "currentItem": "78035_12",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781120_3",
+            "evolutionLevel": 3,
+            "id": 339,
+            "evolutionType": 120
+        },
+        "340": {
+            "addProperty": 51,
+            "currentItem": "78032_4",
+            "addPropertyValue": 102,
+            "exclusiveItem": "781111_1",
+            "evolutionLevel": 1,
+            "id": 340,
+            "evolutionType": 111
+        },
+        "341": {
+            "addProperty": 21,
+            "currentItem": "78032_8",
+            "addPropertyValue": 2154,
+            "exclusiveItem": "781111_2",
+            "evolutionLevel": 2,
+            "id": 341,
+            "evolutionType": 111
+        },
+        "342": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 436,
+            "exclusiveItem": "781111_3",
+            "evolutionLevel": 3,
+            "id": 342,
+            "evolutionType": 111
+        },
+        "343": {
+            "addProperty": 61,
+            "currentItem": "78033_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781115_1",
+            "evolutionLevel": 1,
+            "id": 343,
+            "evolutionType": 115
+        },
+        "344": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781115_2",
+            "evolutionLevel": 2,
+            "id": 344,
+            "evolutionType": 115
+        },
+        "345": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781115_3",
+            "evolutionLevel": 3,
+            "id": 345,
+            "evolutionType": 115
+        },
+        "346": {
+            "addProperty": 21,
+            "currentItem": "78036_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781119_1",
+            "evolutionLevel": 1,
+            "id": 346,
+            "evolutionType": 119
+        },
+        "347": {
+            "addProperty": 61,
+            "currentItem": "78036_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781119_2",
+            "evolutionLevel": 2,
+            "id": 347,
+            "evolutionType": 119
+        },
+        "348": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781119_3",
+            "evolutionLevel": 3,
+            "id": 348,
+            "evolutionType": 119
+        },
+        "349": {
+            "addProperty": 21,
+            "currentItem": "78032_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781117_1",
+            "evolutionLevel": 1,
+            "id": 349,
+            "evolutionType": 117
+        },
+        "350": {
+            "addProperty": 61,
+            "currentItem": "78032_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781117_2",
+            "evolutionLevel": 2,
+            "id": 350,
+            "evolutionType": 117
+        },
+        "351": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781117_3",
+            "evolutionLevel": 3,
+            "id": 351,
+            "evolutionType": 117
+        },
+        "352": {
+            "addProperty": 21,
+            "currentItem": "78032_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781122_1",
+            "evolutionLevel": 1,
+            "id": 352,
+            "evolutionType": 122
+        },
+        "353": {
+            "addProperty": 61,
+            "currentItem": "78032_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781122_2",
+            "evolutionLevel": 2,
+            "id": 353,
+            "evolutionType": 122
+        },
+        "354": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781122_3",
+            "evolutionLevel": 3,
+            "id": 354,
+            "evolutionType": 122
+        },
+        "355": {
+            "addProperty": 51,
+            "currentItem": "78033_4",
+            "addPropertyValue": 64,
+            "exclusiveItem": "781121_1",
+            "evolutionLevel": 1,
+            "id": 355,
+            "evolutionType": 121
+        },
+        "356": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1296,
+            "exclusiveItem": "781121_2",
+            "evolutionLevel": 2,
+            "id": 356,
+            "evolutionType": 121
+        },
+        "357": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 540,
+            "exclusiveItem": "781121_3",
+            "evolutionLevel": 3,
+            "id": 357,
+            "evolutionType": 121
+        },
+        "358": {
+            "addProperty": 61,
+            "currentItem": "78034_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781123_1",
+            "evolutionLevel": 1,
+            "id": 358,
+            "evolutionType": 123
+        },
+        "359": {
+            "addProperty": 21,
+            "currentItem": "78034_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781123_2",
+            "evolutionLevel": 2,
+            "id": 359,
+            "evolutionType": 123
+        },
+        "360": {
+            "addProperty": 31,
+            "currentItem": "78034_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781123_3",
+            "evolutionLevel": 3,
+            "id": 360,
+            "evolutionType": 123
+        },
+        "361": {
+            "addProperty": 21,
+            "currentItem": "78032_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781082_1",
+            "evolutionLevel": 1,
+            "id": 361,
+            "evolutionType": 82
+        },
+        "362": {
+            "addProperty": 61,
+            "currentItem": "78032_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781082_2",
+            "evolutionLevel": 2,
+            "id": 362,
+            "evolutionType": 82
+        },
+        "363": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781082_3",
+            "evolutionLevel": 3,
+            "id": 363,
+            "evolutionType": 82
+        },
+        "364": {
+            "addProperty": 61,
+            "currentItem": "78033_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781124_1",
+            "evolutionLevel": 1,
+            "id": 364,
+            "evolutionType": 124
+        },
+        "365": {
+            "addProperty": 21,
+            "currentItem": "78033_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781124_2",
+            "evolutionLevel": 2,
+            "id": 365,
+            "evolutionType": 124
+        },
+        "366": {
+            "addProperty": 31,
+            "currentItem": "78033_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781124_3",
+            "evolutionLevel": 3,
+            "id": 366,
+            "evolutionType": 124
+        },
+        "367": {
+            "addProperty": 51,
+            "currentItem": "78031_4",
+            "addPropertyValue": 216,
+            "exclusiveItem": "781116_1",
+            "evolutionLevel": 1,
+            "id": 367,
+            "evolutionType": 116
+        },
+        "368": {
+            "addProperty": 61,
+            "currentItem": "78031_8",
+            "addPropertyValue": 216,
+            "exclusiveItem": "781116_2",
+            "evolutionLevel": 2,
+            "id": 368,
+            "evolutionType": 116
+        },
+        "369": {
+            "addProperty": 31,
+            "currentItem": "78031_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781116_3",
+            "evolutionLevel": 3,
+            "id": 369,
+            "evolutionType": 116
+        },
+        "370": {
+            "addProperty": 51,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781093_1",
+            "evolutionLevel": 1,
+            "id": 370,
+            "evolutionType": 93
+        },
+        "371": {
+            "addProperty": 21,
+            "currentItem": "78035_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781093_2",
+            "evolutionLevel": 2,
+            "id": 371,
+            "evolutionType": 93
+        },
+        "372": {
+            "addProperty": 31,
+            "currentItem": "78035_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781093_3",
+            "evolutionLevel": 3,
+            "id": 372,
+            "evolutionType": 93
+        },
+        "373": {
+            "addProperty": 61,
+            "currentItem": "78036_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781118_1",
+            "evolutionLevel": 1,
+            "id": 373,
+            "evolutionType": 118
+        },
+        "374": {
+            "addProperty": 21,
+            "currentItem": "78036_8",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781118_2",
+            "evolutionLevel": 2,
+            "id": 374,
+            "evolutionType": 118
+        },
+        "375": {
+            "addProperty": 31,
+            "currentItem": "78036_12",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781118_3",
+            "evolutionLevel": 3,
+            "id": 375,
+            "evolutionType": 118
+        },
+        "376": {
+            "addProperty": 51,
+            "currentItem": "78035_4",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781126_1",
+            "evolutionLevel": 1,
+            "id": 376,
+            "evolutionType": 126
+        },
+        "377": {
+            "addProperty": 31,
+            "currentItem": "78035_8",
+            "addPropertyValue": 324,
+            "exclusiveItem": "781126_2",
+            "evolutionLevel": 2,
+            "id": 377,
+            "evolutionType": 126
+        },
+        "378": {
+            "addProperty": 21,
+            "currentItem": "78035_12",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781126_3",
+            "evolutionLevel": 3,
+            "id": 378,
+            "evolutionType": 126
+        },
+        "382": {
+            "addProperty": 21,
+            "currentItem": "78032_4",
+            "addPropertyValue": 1620,
+            "exclusiveItem": "781130_1",
+            "evolutionLevel": 1,
+            "id": 382,
+            "evolutionType": 130
+        },
+        "383": {
+            "addProperty": 61,
+            "currentItem": "78032_8",
+            "addPropertyValue": 86,
+            "exclusiveItem": "781130_2",
+            "evolutionLevel": 2,
+            "id": 383,
+            "evolutionType": 130
+        },
+        "384": {
+            "addProperty": 31,
+            "currentItem": "78032_12",
+            "addPropertyValue": 486,
+            "exclusiveItem": "781130_3",
+            "evolutionLevel": 3,
+            "id": 384,
+            "evolutionType": 130
+        }
+    },
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        382,
+        383,
+        384
+    ]
+}

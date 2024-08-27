@@ -1,0 +1,312 @@
+{
+    "AllIds": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217
+    ],
+    "Data": {
+        "201": {
+            "id": 201,
+            "flowerId": 35046,
+            "flowerNum": 0,
+            "rewardId": 35046,
+            "rewardNum": 1,
+            "popularity": 0
+        },
+        "202": {
+            "id": 202,
+            "flowerId": 35046,
+            "flowerNum": 9375,
+            "rewardId": 31038,
+            "rewardNum": 2,
+            "popularity": 375000
+        },
+        "203": {
+            "id": 203,
+            "flowerId": 35046,
+            "flowerNum": 18750,
+            "rewardId": 31010,
+            "rewardNum": 2,
+            "popularity": 750000
+        },
+        "204": {
+            "id": 204,
+            "flowerId": 35046,
+            "flowerNum": 28125,
+            "rewardId": 75008,
+            "rewardNum": 40,
+            "popularity": 1125000
+        },
+        "205": {
+            "id": 205,
+            "flowerId": 35046,
+            "flowerNum": 37500,
+            "rewardId": 75014,
+            "rewardNum": 40,
+            "popularity": 1500000
+        },
+        "206": {
+            "id": 206,
+            "flowerId": 35046,
+            "flowerNum": 46875,
+            "rewardId": 31016,
+            "rewardNum": 2,
+            "popularity": 1875000
+        },
+        "207": {
+            "id": 207,
+            "flowerId": 35046,
+            "flowerNum": 56250,
+            "rewardId": 35008,
+            "rewardNum": 100,
+            "popularity": 2250000
+        },
+        "208": {
+            "id": 208,
+            "flowerId": 35046,
+            "flowerNum": 65625,
+            "rewardId": 75018,
+            "rewardNum": 20,
+            "popularity": 2625000
+        },
+        "209": {
+            "id": 209,
+            "flowerId": 35046,
+            "flowerNum": 75000,
+            "rewardId": 75019,
+            "rewardNum": 20,
+            "popularity": 3000000
+        },
+        "210": {
+            "id": 210,
+            "flowerId": 35046,
+            "flowerNum": 84375,
+            "rewardId": 35008,
+            "rewardNum": 100,
+            "popularity": 3375000
+        },
+        "211": {
+            "id": 211,
+            "flowerId": 35046,
+            "flowerNum": 93750,
+            "rewardId": 31013,
+            "rewardNum": 2,
+            "popularity": 3750000
+        },
+        "212": {
+            "id": 212,
+            "flowerId": 35046,
+            "flowerNum": 103125,
+            "rewardId": 74002,
+            "rewardNum": 20,
+            "popularity": 4125000
+        },
+        "213": {
+            "id": 213,
+            "flowerId": 35046,
+            "flowerNum": 112500,
+            "rewardId": 70001,
+            "rewardNum": 10,
+            "popularity": 4500000
+        },
+        "214": {
+            "id": 214,
+            "flowerId": 35046,
+            "flowerNum": 121875,
+            "rewardId": 70002,
+            "rewardNum": 4,
+            "popularity": 4875000
+        },
+        "215": {
+            "id": 215,
+            "flowerId": 35046,
+            "flowerNum": 131250,
+            "rewardId": 31019,
+            "rewardNum": 2,
+            "popularity": 5250000
+        },
+        "216": {
+            "id": 216,
+            "flowerId": 35046,
+            "flowerNum": 140625,
+            "rewardId": 30076,
+            "rewardNum": 1,
+            "popularity": 5625000
+        },
+        "217": {
+            "id": 217,
+            "flowerId": 35046,
+            "flowerNum": 150000,
+            "rewardId": 80204,
+            "rewardNum": 1,
+            "popularity": 6000000
+        },
+        "101": {
+            "id": 101,
+            "flowerId": 35046,
+            "flowerNum": 0,
+            "rewardId": 35046,
+            "rewardNum": 1,
+            "popularity": 0
+        },
+        "102": {
+            "id": 102,
+            "flowerId": 35046,
+            "flowerNum": 9375,
+            "rewardId": 31038,
+            "rewardNum": 2,
+            "popularity": 375000
+        },
+        "103": {
+            "id": 103,
+            "flowerId": 35046,
+            "flowerNum": 18750,
+            "rewardId": 31010,
+            "rewardNum": 2,
+            "popularity": 750000
+        },
+        "104": {
+            "id": 104,
+            "flowerId": 35046,
+            "flowerNum": 28125,
+            "rewardId": 75008,
+            "rewardNum": 40,
+            "popularity": 1125000
+        },
+        "105": {
+            "id": 105,
+            "flowerId": 35046,
+            "flowerNum": 37500,
+            "rewardId": 75014,
+            "rewardNum": 40,
+            "popularity": 1500000
+        },
+        "106": {
+            "id": 106,
+            "flowerId": 35046,
+            "flowerNum": 46875,
+            "rewardId": 31016,
+            "rewardNum": 2,
+            "popularity": 1875000
+        },
+        "107": {
+            "id": 107,
+            "flowerId": 35046,
+            "flowerNum": 56250,
+            "rewardId": 35008,
+            "rewardNum": 100,
+            "popularity": 2250000
+        },
+        "108": {
+            "id": 108,
+            "flowerId": 35046,
+            "flowerNum": 65625,
+            "rewardId": 75018,
+            "rewardNum": 20,
+            "popularity": 2625000
+        },
+        "109": {
+            "id": 109,
+            "flowerId": 35046,
+            "flowerNum": 75000,
+            "rewardId": 75019,
+            "rewardNum": 20,
+            "popularity": 3000000
+        },
+        "110": {
+            "id": 110,
+            "flowerId": 35046,
+            "flowerNum": 84375,
+            "rewardId": 35008,
+            "rewardNum": 100,
+            "popularity": 3375000
+        },
+        "111": {
+            "id": 111,
+            "flowerId": 35046,
+            "flowerNum": 93750,
+            "rewardId": 31013,
+            "rewardNum": 2,
+            "popularity": 3750000
+        },
+        "112": {
+            "id": 112,
+            "flowerId": 35046,
+            "flowerNum": 103125,
+            "rewardId": 74002,
+            "rewardNum": 20,
+            "popularity": 4125000
+        },
+        "113": {
+            "id": 113,
+            "flowerId": 35046,
+            "flowerNum": 112500,
+            "rewardId": 70001,
+            "rewardNum": 10,
+            "popularity": 4500000
+        },
+        "114": {
+            "id": 114,
+            "flowerId": 35046,
+            "flowerNum": 121875,
+            "rewardId": 70002,
+            "rewardNum": 4,
+            "popularity": 4875000
+        },
+        "115": {
+            "id": 115,
+            "flowerId": 35046,
+            "flowerNum": 131250,
+            "rewardId": 31019,
+            "rewardNum": 2,
+            "popularity": 5250000
+        },
+        "116": {
+            "id": 116,
+            "flowerId": 35046,
+            "flowerNum": 140625,
+            "rewardId": 30076,
+            "rewardNum": 1,
+            "popularity": 5625000
+        },
+        "117": {
+            "id": 117,
+            "flowerId": 35046,
+            "flowerNum": 150000,
+            "rewardId": 80203,
+            "rewardNum": 1,
+            "popularity": 6000000
+        }
+    }
+}

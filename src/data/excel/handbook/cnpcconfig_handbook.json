@@ -1,0 +1,600 @@
+{
+    "AllIds": [
+        20001,
+        20002,
+        20003,
+        20004,
+        20005,
+        20006,
+        20007,
+        20008,
+        20009,
+        20010,
+        20011,
+        20012,
+        20013,
+        20014,
+        20015,
+        20016,
+        20017,
+        20018,
+        20019,
+        20020,
+        20021,
+        20022,
+        20023,
+        20024,
+        20025,
+        20026,
+        20027,
+        20028,
+        20029,
+        20030,
+        20031,
+        20032,
+        20033,
+        20034,
+        20035,
+        20036,
+        20037
+    ],
+    "Data": {
+        "20032": {
+            "imageID": 11869,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304789
+            ],
+            "isShow": 0,
+            "roleID": -1,
+            "id": 20032,
+            "NPCNameTextID": 1304765,
+            "NPCName": "老猎人",
+            "shapeID": 5005
+        },
+        "20033": {
+            "imageID": 11869,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304790
+            ],
+            "isShow": 0,
+            "roleID": -1,
+            "id": 20033,
+            "NPCNameTextID": 1304766,
+            "NPCName": "芬里尔",
+            "shapeID": 5013
+        },
+        "20034": {
+            "imageID": 11869,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304791
+            ],
+            "isShow": 0,
+            "roleID": -1,
+            "id": 20034,
+            "NPCNameTextID": 1304767,
+            "NPCName": "赫沃奥塔",
+            "shapeID": 20060
+        },
+        "20035": {
+            "imageID": 11869,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304792
+            ],
+            "isShow": 0,
+            "roleID": -1,
+            "id": 20035,
+            "NPCNameTextID": 1304768,
+            "NPCName": "冰雪骑士团团长",
+            "shapeID": 20059
+        },
+        "20036": {
+            "imageID": 11869,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304793
+            ],
+            "isShow": 0,
+            "roleID": -1,
+            "id": 20036,
+            "NPCNameTextID": 1304769,
+            "NPCName": "受伤的小狼",
+            "shapeID": 5012
+        },
+        "20037": {
+            "imageID": 11869,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304794
+            ],
+            "isShow": 0,
+            "roleID": -1,
+            "id": 20037,
+            "NPCNameTextID": 1304770,
+            "NPCName": "冻伤的女孩",
+            "shapeID": 5008
+        },
+        "20001": {
+            "imageID": 11870,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301065
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20001,
+            "NPCNameTextID": 1300608,
+            "NPCName": "艾琳娜",
+            "shapeID": 10
+        },
+        "20002": {
+            "imageID": 11871,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301066
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20002,
+            "NPCNameTextID": 1300609,
+            "NPCName": "神秘的黑猫",
+            "shapeID": 9
+        },
+        "20003": {
+            "imageID": 11880,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301075
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20003,
+            "NPCNameTextID": 1300992,
+            "NPCName": "拉库夏",
+            "shapeID": 20071
+        },
+        "20004": {
+            "imageID": 11866,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301063
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20004,
+            "NPCNameTextID": 1300604,
+            "NPCName": "狄璐卡",
+            "shapeID": 1010
+        },
+        "20005": {
+            "imageID": 11874,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301068
+            ],
+            "isShow": 1,
+            "roleID": 130,
+            "id": 20005,
+            "NPCNameTextID": 1300612,
+            "NPCName": "诺尔伊迪",
+            "shapeID": 1013
+        },
+        "20006": {
+            "imageID": 11864,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301062
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20006,
+            "NPCNameTextID": 1300601,
+            "NPCName": "德亚丝",
+            "shapeID": 1017
+        },
+        "20007": {
+            "imageID": 12920,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304778
+            ],
+            "isShow": 1,
+            "roleID": 30,
+            "id": 20007,
+            "NPCNameTextID": 1304754,
+            "NPCName": "阿迦娜",
+            "shapeID": 1036
+        },
+        "20008": {
+            "imageID": 11867,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304779
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20008,
+            "NPCNameTextID": 1304755,
+            "NPCName": "毛虫兄长",
+            "shapeID": 10022
+        },
+        "20009": {
+            "imageID": 11868,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304780
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20009,
+            "NPCNameTextID": 1304756,
+            "NPCName": "毛虫弟弟",
+            "shapeID": 10023
+        },
+        "20010": {
+            "imageID": 12915,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304781
+            ],
+            "isShow": 1,
+            "roleID": 2,
+            "id": 20010,
+            "NPCNameTextID": 1304757,
+            "NPCName": "柯萝谢",
+            "shapeID": 1004
+        },
+        "20011": {
+            "imageID": 11865,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304782
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20011,
+            "NPCNameTextID": 1304758,
+            "NPCName": "厄迦姆",
+            "shapeID": 20029
+        },
+        "20012": {
+            "imageID": 12927,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304783
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20012,
+            "NPCNameTextID": 1304759,
+            "NPCName": "索雷优",
+            "shapeID": 10041
+        },
+        "20013": {
+            "imageID": 12924,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304784
+            ],
+            "isShow": 1,
+            "roleID": 61,
+            "id": 20013,
+            "NPCNameTextID": 1304760,
+            "NPCName": "由依",
+            "shapeID": 1069
+        },
+        "20014": {
+            "imageID": 12922,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304785
+            ],
+            "isShow": 1,
+            "roleID": 52,
+            "id": 20014,
+            "NPCNameTextID": 1304761,
+            "NPCName": "尤妲娅",
+            "shapeID": 1060
+        },
+        "20015": {
+            "imageID": 12923,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304786
+            ],
+            "isShow": 1,
+            "roleID": 43,
+            "id": 20015,
+            "NPCNameTextID": 1304762,
+            "NPCName": "诺伦",
+            "shapeID": 1049
+        },
+        "20016": {
+            "imageID": 12926,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304787
+            ],
+            "isShow": 1,
+            "roleID": 73,
+            "id": 20016,
+            "NPCNameTextID": 1304763,
+            "NPCName": "露达",
+            "shapeID": 1083
+        },
+        "20017": {
+            "imageID": 11869,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301064
+            ],
+            "isShow": 1,
+            "roleID": 86,
+            "id": 20017,
+            "NPCNameTextID": 1300607,
+            "NPCName": "费吉亚",
+            "shapeID": 1109
+        },
+        "20018": {
+            "imageID": 11130,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301072
+            ],
+            "isShow": 1,
+            "roleID": 85,
+            "id": 20018,
+            "NPCNameTextID": 1300616,
+            "NPCName": "弗莱尔",
+            "shapeID": 20016
+        },
+        "20019": {
+            "imageID": 11192,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301071
+            ],
+            "isShow": 1,
+            "roleID": 84,
+            "id": 20019,
+            "NPCNameTextID": 1300615,
+            "NPCName": "埃舍雷",
+            "shapeID": 20002
+        },
+        "20020": {
+            "imageID": 11875,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301069
+            ],
+            "isShow": 1,
+            "roleID": 12,
+            "id": 20020,
+            "NPCNameTextID": 1300613,
+            "NPCName": "艾妮萌",
+            "shapeID": 1020
+        },
+        "20021": {
+            "imageID": 11873,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301067
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20021,
+            "NPCNameTextID": 1300611,
+            "NPCName": "布露恩",
+            "shapeID": 5015
+        },
+        "20022": {
+            "imageID": 11876,
+            "unlockCondition": [
+                0,
+                3
+            ],
+            "backStoryTextID": [
+                1301070,
+                1301088
+            ],
+            "isShow": 1,
+            "roleID": -1,
+            "id": 20022,
+            "NPCNameTextID": 1300614,
+            "NPCName": "费拉古德",
+            "shapeID": 5016
+        },
+        "20023": {
+            "imageID": 12916,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304795
+            ],
+            "isShow": 1,
+            "roleID": 15,
+            "id": 20023,
+            "NPCNameTextID": 1304771,
+            "NPCName": "帕嘉妮",
+            "shapeID": 1022
+        },
+        "20024": {
+            "imageID": 12921,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304796
+            ],
+            "isShow": 1,
+            "roleID": 35,
+            "id": 20024,
+            "NPCNameTextID": 1304772,
+            "NPCName": "莉莉娅",
+            "shapeID": 1041
+        },
+        "20025": {
+            "imageID": 11099,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1301073
+            ],
+            "isShow": 1,
+            "roleID": 83,
+            "id": 20025,
+            "NPCNameTextID": 1300617,
+            "NPCName": "瑟希薇",
+            "shapeID": 1101
+        },
+        "20026": {
+            "imageID": 12917,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304797
+            ],
+            "isShow": 1,
+            "roleID": 22,
+            "id": 20026,
+            "NPCNameTextID": 1304773,
+            "NPCName": "古尔薇格",
+            "shapeID": 1027
+        },
+        "20027": {
+            "imageID": 12925,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304798
+            ],
+            "isShow": 1,
+            "roleID": 65,
+            "id": 20027,
+            "NPCNameTextID": 1304774,
+            "NPCName": "拉·柯莉玛",
+            "shapeID": 1073
+        },
+        "20028": {
+            "imageID": 12919,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304799
+            ],
+            "isShow": 1,
+            "roleID": 29,
+            "id": 20028,
+            "NPCNameTextID": 1304775,
+            "NPCName": "瑟兰雅",
+            "shapeID": 1035
+        },
+        "20029": {
+            "imageID": 12918,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304800
+            ],
+            "isShow": 1,
+            "roleID": 27,
+            "id": 20029,
+            "NPCNameTextID": 1304776,
+            "NPCName": "凯忒丝",
+            "shapeID": 1032
+        },
+        "20030": {
+            "imageID": 12914,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304801
+            ],
+            "isShow": 1,
+            "roleID": 82,
+            "id": 20030,
+            "NPCNameTextID": 1304777,
+            "NPCName": "辛莫拉",
+            "shapeID": 10047
+        },
+        "20031": {
+            "imageID": 11869,
+            "unlockCondition": [
+                0
+            ],
+            "backStoryTextID": [
+                1304788
+            ],
+            "isShow": 0,
+            "roleID": -1,
+            "id": 20031,
+            "NPCNameTextID": 1304764,
+            "NPCName": "银弓",
+            "shapeID": 5004
+        }
+    }
+}

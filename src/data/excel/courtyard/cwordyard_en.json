@@ -1,0 +1,1661 @@
+{
+    "AllIds": [
+        800001,
+        800002,
+        800003,
+        800004,
+        800005,
+        800006,
+        800007,
+        800008,
+        800009,
+        800010,
+        800011,
+        800012,
+        800013,
+        800014,
+        800015,
+        800016,
+        800017,
+        800018,
+        800019,
+        800020,
+        800021,
+        800022,
+        800023,
+        800024,
+        800025,
+        800026,
+        800027,
+        800028,
+        800029,
+        800030,
+        800031,
+        800032,
+        800033,
+        800034,
+        800035,
+        800036,
+        800037,
+        800038,
+        800039,
+        800040,
+        800041,
+        800042,
+        800043,
+        800044,
+        800045,
+        800046,
+        800047,
+        800048,
+        800049,
+        800050,
+        800051,
+        800052,
+        800053,
+        800054,
+        800055,
+        800056,
+        800057,
+        800058,
+        800059,
+        800060,
+        800061,
+        800062,
+        800063,
+        800064,
+        800065,
+        800066,
+        800067,
+        800068,
+        800069,
+        800070,
+        800071,
+        800072,
+        800073,
+        800074,
+        800075,
+        800076,
+        800077,
+        800078,
+        800079,
+        800080,
+        800081,
+        800082,
+        800083,
+        800084,
+        800085,
+        800086,
+        800087,
+        800088,
+        800089,
+        800090,
+        800091,
+        800092,
+        800093,
+        800094,
+        800095,
+        800096,
+        800097,
+        800098,
+        800099,
+        800100,
+        800101,
+        800102,
+        800103,
+        800104,
+        800105,
+        800106,
+        800107,
+        800108,
+        800109,
+        800110,
+        800111,
+        800112,
+        800113,
+        800114,
+        800115,
+        800116,
+        800117,
+        800118,
+        800119,
+        800120,
+        800121,
+        800122,
+        800123,
+        800124,
+        800125,
+        800126,
+        800127,
+        800128,
+        800129,
+        800130,
+        800131,
+        800132,
+        800133,
+        800134,
+        800135,
+        800136,
+        800137,
+        800138,
+        800139,
+        800140,
+        800141,
+        800142,
+        800143,
+        800144,
+        800145,
+        800146,
+        800147,
+        800148,
+        800149,
+        800150,
+        800151,
+        800152,
+        800153,
+        800154,
+        800155,
+        800156,
+        800157,
+        800158,
+        800159,
+        800160,
+        800161,
+        800162,
+        800163,
+        800164,
+        800165,
+        800166,
+        800167,
+        800168,
+        800169,
+        800170,
+        800171,
+        800172,
+        800173,
+        800174,
+        800175,
+        800176,
+        800177,
+        800178,
+        800179,
+        800180,
+        800181,
+        800182,
+        800183,
+        800184,
+        800185,
+        800186,
+        800187,
+        800188,
+        800189,
+        800190,
+        800191,
+        800192,
+        800193,
+        800194,
+        800195,
+        800196,
+        800197,
+        800198,
+        800199,
+        800200,
+        800201,
+        800202,
+        800203,
+        800204,
+        800205,
+        800206,
+        800207,
+        800208,
+        800209,
+        800210,
+        800211,
+        800212,
+        800213,
+        800214,
+        800215,
+        800216,
+        800217,
+        800218,
+        800219,
+        800220,
+        800221,
+        800222,
+        800223,
+        800224,
+        800225,
+        800226,
+        800227,
+        800228,
+        800229,
+        800230,
+        800231,
+        800232,
+        800233,
+        800234,
+        800235,
+        800236,
+        800237,
+        800238,
+        800239,
+        800240,
+        800241,
+        800242,
+        800243,
+        800244,
+        800245,
+        800246,
+        800247,
+        800248,
+        800249,
+        800250,
+        800251,
+        800252,
+        800253,
+        800254,
+        800255,
+        800256,
+        800257,
+        800258,
+        800259,
+        800260,
+        800261,
+        800262,
+        800263,
+        800264,
+        800265,
+        800266,
+        800267,
+        800268,
+        800269,
+        800270,
+        800271,
+        800272,
+        800273,
+        800274,
+        800275,
+        800276,
+        800277,
+        800278,
+        800279,
+        800280,
+        800281,
+        800282,
+        800283,
+        800284,
+        800285,
+        800286,
+        800287,
+        800288,
+        800289,
+        800290,
+        800291,
+        800292,
+        800293,
+        800294,
+        800295,
+        800296,
+        800297,
+        800298,
+        800299,
+        800300,
+        800301,
+        800302,
+        800303,
+        800304,
+        800305,
+        800306,
+        800307,
+        800308,
+        800309,
+        800310,
+        800311,
+        800312,
+        800313,
+        800314,
+        800315,
+        800316,
+        800317,
+        800318,
+        800319,
+        800320,
+        800321,
+        800322,
+        800323,
+        800324,
+        800325,
+        800326,
+        800327,
+        800328,
+        800329,
+        800330,
+        800331
+    ],
+    "Data": {
+        "800256": {
+            "text": "All the World Against Me",
+            "id": 800256
+        },
+        "800257": {
+            "text": "The Beginning of the End",
+            "id": 800257
+        },
+        "800258": {
+            "text": "Cradle of Demise",
+            "id": 800258
+        },
+        "800259": {
+            "text": "Balance Is Restored",
+            "id": 800259
+        },
+        "800260": {
+            "text": "未使用（暂留）",
+            "id": 800260
+        },
+        "800261": {
+            "text": "未使用（暂留）",
+            "id": 800261
+        },
+        "800262": {
+            "text": "未使用（暂留）",
+            "id": 800262
+        },
+        "800263": {
+            "text": "未使用（暂留）",
+            "id": 800263
+        },
+        "800264": {
+            "text": "Seth Tsui",
+            "id": 800264
+        },
+        "800265": {
+            "text": "0",
+            "id": 800265
+        },
+        "800266": {
+            "text": "0",
+            "id": 800266
+        },
+        "800267": {
+            "text": "0",
+            "id": 800267
+        },
+        "800268": {
+            "text": "0",
+            "id": 800268
+        },
+        "800269": {
+            "text": "0",
+            "id": 800269
+        },
+        "800270": {
+            "text": "0",
+            "id": 800270
+        },
+        "800271": {
+            "text": "0",
+            "id": 800271
+        },
+        "800272": {
+            "text": "0",
+            "id": 800272
+        },
+        "800273": {
+            "text": "0",
+            "id": 800273
+        },
+        "800274": {
+            "text": "0",
+            "id": 800274
+        },
+        "800275": {
+            "text": "0",
+            "id": 800275
+        },
+        "800276": {
+            "text": "0",
+            "id": 800276
+        },
+        "800277": {
+            "text": "0",
+            "id": 800277
+        },
+        "800278": {
+            "text": "0",
+            "id": 800278
+        },
+        "800279": {
+            "text": "0",
+            "id": 800279
+        },
+        "800280": {
+            "text": "0",
+            "id": 800280
+        },
+        "800281": {
+            "text": "0",
+            "id": 800281
+        },
+        "800282": {
+            "text": "0",
+            "id": 800282
+        },
+        "800283": {
+            "text": "0",
+            "id": 800283
+        },
+        "800284": {
+            "text": "0",
+            "id": 800284
+        },
+        "800285": {
+            "text": "0",
+            "id": 800285
+        },
+        "800286": {
+            "text": "0",
+            "id": 800286
+        },
+        "800287": {
+            "text": "0",
+            "id": 800287
+        },
+        "800288": {
+            "text": "0",
+            "id": 800288
+        },
+        "800289": {
+            "text": "0",
+            "id": 800289
+        },
+        "800290": {
+            "text": "0",
+            "id": 800290
+        },
+        "800291": {
+            "text": "0",
+            "id": 800291
+        },
+        "800292": {
+            "text": "0",
+            "id": 800292
+        },
+        "800293": {
+            "text": "0",
+            "id": 800293
+        },
+        "800294": {
+            "text": "0",
+            "id": 800294
+        },
+        "800295": {
+            "text": "0",
+            "id": 800295
+        },
+        "800296": {
+            "text": "0",
+            "id": 800296
+        },
+        "800297": {
+            "text": "0",
+            "id": 800297
+        },
+        "800298": {
+            "text": "0",
+            "id": 800298
+        },
+        "800299": {
+            "text": "0",
+            "id": 800299
+        },
+        "800300": {
+            "text": "0",
+            "id": 800300
+        },
+        "800301": {
+            "text": "0",
+            "id": 800301
+        },
+        "800302": {
+            "text": "0",
+            "id": 800302
+        },
+        "800303": {
+            "text": "0",
+            "id": 800303
+        },
+        "800304": {
+            "text": "0",
+            "id": 800304
+        },
+        "800305": {
+            "text": "0",
+            "id": 800305
+        },
+        "800306": {
+            "text": "0",
+            "id": 800306
+        },
+        "800307": {
+            "text": "0",
+            "id": 800307
+        },
+        "800308": {
+            "text": "0",
+            "id": 800308
+        },
+        "800309": {
+            "text": "0",
+            "id": 800309
+        },
+        "800310": {
+            "text": "0",
+            "id": 800310
+        },
+        "800311": {
+            "text": "0",
+            "id": 800311
+        },
+        "800312": {
+            "text": "0",
+            "id": 800312
+        },
+        "800313": {
+            "text": "0",
+            "id": 800313
+        },
+        "800314": {
+            "text": "0",
+            "id": 800314
+        },
+        "800315": {
+            "text": "<color=#DBEB7Dff>Music Box</color> can play the unlocked music pieces.",
+            "id": 800315
+        },
+        "800316": {
+            "text": "Can alchemize more <color=#F9DB86ff>Gold</color> Materials.",
+            "id": 800316
+        },
+        "800317": {
+            "text": "Can alchemize <color=#F9DB86ff>Gold</color> Quartz.",
+            "id": 800317
+        },
+        "800318": {
+            "text": "Can alchemize <color=#93B4E0ff>Blue</color> Quartz.",
+            "id": 800318
+        },
+        "800319": {
+            "text": "<color=#FFFFFFff>-$parameter1$</color>",
+            "id": 800319
+        },
+        "800320": {
+            "text": "Theme",
+            "id": 800320
+        },
+        "800321": {
+            "text": "A simple room full of memories.",
+            "id": 800321
+        },
+        "800322": {
+            "text": "A room with a sense of whimsy.",
+            "id": 800322
+        },
+        "800323": {
+            "text": "An exquisite room brimmed with elegance.",
+            "id": 800323
+        },
+        "800324": {
+            "text": "All",
+            "id": 800324
+        },
+        "800325": {
+            "text": "",
+            "id": 800325
+        },
+        "800326": {
+            "text": "",
+            "id": 800326
+        },
+        "800327": {
+            "text": "",
+            "id": 800327
+        },
+        "800328": {
+            "text": "",
+            "id": 800328
+        },
+        "800329": {
+            "text": "",
+            "id": 800329
+        },
+        "800330": {
+            "text": "",
+            "id": 800330
+        },
+        "800331": {
+            "text": "",
+            "id": 800331
+        },
+        "800001": {
+            "text": "Magic Tree",
+            "id": 800001
+        },
+        "800002": {
+            "text": "Mirror of the Otherworld",
+            "id": 800002
+        },
+        "800003": {
+            "text": "Firefly Lampstand",
+            "id": 800003
+        },
+        "800004": {
+            "text": "Alchemy Lab",
+            "id": 800004
+        },
+        "800005": {
+            "text": "Witch Hut",
+            "id": 800005
+        },
+        "800006": {
+            "text": "Ancient Castle",
+            "id": 800006
+        },
+        "800007": {
+            "text": "Basement Library",
+            "id": 800007
+        },
+        "800008": {
+            "text": "Liminal Cave",
+            "id": 800008
+        },
+        "800009": {
+            "text": "Blue Garden",
+            "id": 800009
+        },
+        "800010": {
+            "text": "Swamp",
+            "id": 800010
+        },
+        "800011": {
+            "text": "Pine Forest of Monsters",
+            "id": 800011
+        },
+        "800012": {
+            "text": "Hunting Grounds",
+            "id": 800012
+        },
+        "800013": {
+            "text": "Bay of Wolves",
+            "id": 800013
+        },
+        "800014": {
+            "text": "Ice Cavern",
+            "id": 800014
+        },
+        "800015": {
+            "text": "Storage Room",
+            "id": 800015
+        },
+        "800016": {
+            "text": "Arctic Mine",
+            "id": 800016
+        },
+        "800017": {
+            "text": "Armory",
+            "id": 800017
+        },
+        "800018": {
+            "text": "Ancient Battlefield",
+            "id": 800018
+        },
+        "800019": {
+            "text": "An ancient castle deep in the forest, long uninhabited.",
+            "id": 800019
+        },
+        "800020": {
+            "text": "A little-visited library. Its bookshelves are covered with dust.",
+            "id": 800020
+        },
+        "800021": {
+            "text": "A cave that sees no light all year round. Rustling noises can be heard echoing from within.",
+            "id": 800021
+        },
+        "800022": {
+            "text": "A sea of blue flowers crafted by nature, just like the garden of a goddess.",
+            "id": 800022
+        },
+        "800023": {
+            "text": "A sprawling swamp with monsters creeping around.",
+            "id": 800023
+        },
+        "800024": {
+            "text": "A vast pine forest that reeks of the odor of monsters.",
+            "id": 800024
+        },
+        "800025": {
+            "text": "A habitat for rare and unique birds and beasts. It's an ideal hunting ground.",
+            "id": 800025
+        },
+        "800026": {
+            "text": "Countless wolf packs gather here, as though guided by something.",
+            "id": 800026
+        },
+        "800027": {
+            "text": "A frigid Ice Cavern that has not thawed for thousands of years.",
+            "id": 800027
+        },
+        "800028": {
+            "text": "A storage room for the old nobles that has all sorts of items on display.",
+            "id": 800028
+        },
+        "800029": {
+            "text": "A gigantic mine sparsely trodden. Many moons have passed since it last saw the breath of living creatures.",
+            "id": 800029
+        },
+        "800030": {
+            "text": "The expeditionary force's armory, and its flags worn beyond recognition.",
+            "id": 800030
+        },
+        "800031": {
+            "text": "A bleak ancient battlefield where the smoke of wars past here has long since cleared.",
+            "id": 800031
+        },
+        "800032": {
+            "text": "<color=#8CECFAff>Novice</color>",
+            "id": 800032
+        },
+        "800033": {
+            "text": "<color=#8CECFAff>Explorer</color>",
+            "id": 800033
+        },
+        "800034": {
+            "text": "<color=#FBFAA5ff>Synthesis</color>",
+            "id": 800034
+        },
+        "800035": {
+            "text": "<color=#FBFAA5ff>Alchemy</color>",
+            "id": 800035
+        },
+        "800036": {
+            "text": "<color=#F5A09Bff>Housekeeping Novice</color>",
+            "id": 800036
+        },
+        "800037": {
+            "text": "<color=#F5A09Bff>Housekeeping Expert</color>",
+            "id": 800037
+        },
+        "800038": {
+            "text": "When exploring the <color=#8CECFAff>Mirror of the Otherworld</color>, the drop rate of byproducts increases by <color=#FFCA65ff>6%</color>.",
+            "id": 800038
+        },
+        "800039": {
+            "text": "When exploring the <color=#8CECFAff>Mirror of the Otherworld </color>, the drop rate of byproducts increases by <color=#FFCA65ff>8%</color>.",
+            "id": 800039
+        },
+        "800040": {
+            "text": "When alchemizing <color=#FBFAA5ff>Material</color>, the drop rate of byproducts increases by <color=#FFCA65ff>6%</color>.",
+            "id": 800040
+        },
+        "800041": {
+            "text": "When alchemizing <color=#FBFAA5ff>Material</color>, the drop rate of byproducts increases by <color=#FFCA65ff>8%</color>.",
+            "id": 800041
+        },
+        "800042": {
+            "text": "When this doll is in the <color=#F5A09Bff>Hut</color>, the Stamina recovery rate of all Dolls on the same floor increases by <color=#FFCA65ff>6%</color>.",
+            "id": 800042
+        },
+        "800043": {
+            "text": "When this doll is in the <color=#F5A09Bff>Hut</color>, the Stamina recovery rate of all Dolls on the same floor increases by <color=#FFCA65ff>8%</color>.",
+            "id": 800043
+        },
+        "800044": {
+            "text": "White Light upper limit; 100; <color=#FFCA65ff>500</color>",
+            "id": 800044
+        },
+        "800045": {
+            "text": "White Light upper limit; 500; <color=#FFCA65ff>2,000</color>",
+            "id": 800045
+        },
+        "800046": {
+            "text": "Unlock Mirror of the Otherworld",
+            "id": 800046
+        },
+        "800047": {
+            "text": "Unlock more <color=#A8D5FDff>Basic</color> Exploration spots",
+            "id": 800047
+        },
+        "800048": {
+            "text": "Unlock more <color=#F6B6FFff>Intermediate</color> Exploration spots",
+            "id": 800048
+        },
+        "800049": {
+            "text": "Unlock more <color=#F9DB86ff>Advanced</color> Exploration spots",
+            "id": 800049
+        },
+        "800050": {
+            "text": "Light the Firefly Lampstand",
+            "id": 800050
+        },
+        "800051": {
+            "text": "Chromatic Light upper limit; 0; <color=#FFCA65ff>2,000</color>",
+            "id": 800051
+        },
+        "800052": {
+            "text": "Unlock Alchemy Lab",
+            "id": 800052
+        },
+        "800053": {
+            "text": "Can alchemize <color=#F6B6FFff>Purple</color> Quartz.",
+            "id": 800053
+        },
+        "800054": {
+            "text": "Can alchemize <color=#F9DB86ff>Gold</color> Materials.",
+            "id": 800054
+        },
+        "800055": {
+            "text": "Build Witch Hut",
+            "id": 800055
+        },
+        "800056": {
+            "text": "Build up the second floor of the Witch Hut",
+            "id": 800056
+        },
+        "800057": {
+            "text": "Material",
+            "id": 800057
+        },
+        "800058": {
+            "text": "Quartz",
+            "id": 800058
+        },
+        "800059": {
+            "text": "Floor",
+            "id": 800059
+        },
+        "800060": {
+            "text": "Wallpaper",
+            "id": 800060
+        },
+        "800061": {
+            "text": "Window",
+            "id": 800061
+        },
+        "800062": {
+            "text": "Bulky Item",
+            "id": 800062
+        },
+        "800063": {
+            "text": "Compact Item",
+            "id": 800063
+        },
+        "800064": {
+            "text": "Carpet",
+            "id": 800064
+        },
+        "800065": {
+            "text": "Wall Decor",
+            "id": 800065
+        },
+        "800066": {
+            "text": "Witch's Room",
+            "id": 800066
+        },
+        "800067": {
+            "text": "Gothic Room",
+            "id": 800067
+        },
+        "800068": {
+            "text": "European Room",
+            "id": 800068
+        },
+        "800069": {
+            "text": "Build up the third floor of the Witch Hut",
+            "id": 800069
+        },
+        "800070": {
+            "text": "<color=#8CECFAff>Adventurist</color>",
+            "id": 800070
+        },
+        "800071": {
+            "text": "<color=#FBFAA5ff>Midas Touch</color>",
+            "id": 800071
+        },
+        "800072": {
+            "text": "<color=#F5A09Bff>Omnipotent Butler</color>",
+            "id": 800072
+        },
+        "800073": {
+            "text": "When exploring the <color=#8CECFAff>Mirror of the Otherworld</color>, the drop rate of byproducts increases by <color=#FFCA65ff>10%</color>.",
+            "id": 800073
+        },
+        "800074": {
+            "text": "When alchemizing <color=#FBFAA5ff>Material</color>, the drop rate of byproducts increases by <color=#FFCA65ff>10%</color>.",
+            "id": 800074
+        },
+        "800075": {
+            "text": "When in the <color=#F5A09Bff>Hut</color>, the Stamina recovery rate of all Dolls on this floor increases by <color=#FFCA65ff>10%</color>.",
+            "id": 800075
+        },
+        "800076": {
+            "text": "Dark Light is available for collection in Firefly Lampstand.",
+            "id": 800076
+        },
+        "800077": {
+            "text": "Dark Light upper limit; 100; <color=#FFCA65ff>2,000</color>",
+            "id": 800077
+        },
+        "800078": {
+            "text": "Upper Limit of Building Level Increased",
+            "id": 800078
+        },
+        "800079": {
+            "text": "The number of teams dispatched; 1; <color=#FFCA65ff>2</color>",
+            "id": 800079
+        },
+        "800080": {
+            "text": "The number of teams dispatched; 2; <color=#FFCA65ff>3</color>",
+            "id": 800080
+        },
+        "800081": {
+            "text": "The number of teams dispatched; 3; <color=#FFCA65ff>4</color>",
+            "id": 800081
+        },
+        "800082": {
+            "text": "First",
+            "id": 800082
+        },
+        "800083": {
+            "text": "Second",
+            "id": 800083
+        },
+        "800084": {
+            "text": "Third",
+            "id": 800084
+        },
+        "800085": {
+            "text": "Current Occupancy <color=#FFFFFFff>$parameter1$</color>/$parameter2$",
+            "id": 800085
+        },
+        "800086": {
+            "text": "Dispatch a Doll in <color=#FBFAA5ff>Alchemy Lab</color> to <color=#FFCA65ff>increase the drop rate of byproducts</color>.",
+            "id": 800086
+        },
+        "800087": {
+            "text": "Dispatch a Doll to help all the Dolls on this floor <color=#FFCA65ff>recover more Stamina</color>.",
+            "id": 800087
+        },
+        "800088": {
+            "text": "Dispatch a Doll in <color=#8CECFAff>Mirror of the Otherworld</color> to <color=#FFCA65ff>increase the drop rate of byproducts</color>.",
+            "id": 800088
+        },
+        "800089": {
+            "text": "The Witch and Dolls fiddle with bottles and jars in their spare time. What did they come up with today?",
+            "id": 800089
+        },
+        "800090": {
+            "text": "Maybe alchemy and magic, at their pinnacle, will bestow true life on Dolls.",
+            "id": 800090
+        },
+        "800091": {
+            "text": "Both alchemy and magic can give Dolls life, but what are the differences?",
+            "id": 800091
+        },
+        "800092": {
+            "text": "When tired of waiting in the tower, Erina would rest under the tree and continue waiting for the Witch's return.",
+            "id": 800092
+        },
+        "800093": {
+            "text": "How tall can the Magic Tree grow? Everyone is curious.",
+            "id": 800093
+        },
+        "800094": {
+            "text": "Stepping into the courtyard and looking at the fluorescence on the Magic Tree, you may wonder who will outlive the other, you or the tree?",
+            "id": 800094
+        },
+        "800095": {
+            "text": "This will be the best destination.",
+            "id": 800095
+        },
+        "800096": {
+            "text": "Everyone likes the tea made by Erina.",
+            "id": 800096
+        },
+        "800097": {
+            "text": "The wooden hut reminds one of simpler times past.",
+            "id": 800097
+        },
+        "800098": {
+            "text": "Every adventure is full of surprises.",
+            "id": 800098
+        },
+        "800099": {
+            "text": "Where does this strange mirror come from?",
+            "id": 800099
+        },
+        "800100": {
+            "text": " \"You are not truly yourself when you think you are.\" \"You are yourself when you think you aren't.\"",
+            "id": 800100
+        },
+        "800101": {
+            "text": "Fluorescence represents the fire of life. Basked in its brilliance, you can see why the courtyard is so vibrant.",
+            "id": 800101
+        },
+        "800102": {
+            "text": "The most anticipated event at the courtyard in the late summer is putting on festive costumes and enjoying the \"Requiem\" of the fireflies with the Dolls.",
+            "id": 800102
+        },
+        "800103": {
+            "text": "\"Requiem, requiem.\" \"Where art thou, rest seekers?\"",
+            "id": 800103
+        },
+        "800104": {
+            "text": "The source of life that controls the <color=#FFCA65ff>expansion of all buildings</color> in the Witch Courtyard.",
+            "id": 800104
+        },
+        "800105": {
+            "text": "Fireflies <color=#FFCA65ff>collect multi-colored fluorescence</color> and maintain the ecological balance of the Witch Courtyard.",
+            "id": 800105
+        },
+        "800106": {
+            "text": "Analyst",
+            "id": 800106
+        },
+        "800107": {
+            "text": "Deconstructor",
+            "id": 800107
+        },
+        "800108": {
+            "text": "Apprentice",
+            "id": 800108
+        },
+        "800109": {
+            "text": "Reforger",
+            "id": 800109
+        },
+        "800110": {
+            "text": "Consummator",
+            "id": 800110
+        },
+        "800111": {
+            "text": "Alchemy Bonus",
+            "id": 800111
+        },
+        "800112": {
+            "text": "Alchemy Lv.$parameter1$ Required",
+            "id": 800112
+        },
+        "800113": {
+            "text": "Unlock Bonus:",
+            "id": 800113
+        },
+        "800114": {
+            "text": "The drop rate of basic byproducts increases by <color=#FFCA65ff>$parameter1$%</color>",
+            "id": 800114
+        },
+        "800115": {
+            "text": "Thick as Thieves—Doll's alchemy bonus effect: <color=#FFCA65ff>$parameter1$ fold</color>",
+            "id": 800115
+        },
+        "800116": {
+            "text": "Creatio ex nihilo—<color=#FFCA65ff>$parameter1$%</color> chance of increasing the amount of byproducts <color=#FFCA65ff>$parameter2$ fold</color>.",
+            "id": 800116
+        },
+        "800117": {
+            "text": "<color=#FBFAA5ff>Creatio ex nihilo Triggered</color>",
+            "id": 800117
+        },
+        "800118": {
+            "text": "Unlock at Alchemy Lab Lv.$parameter1$",
+            "id": 800118
+        },
+        "800119": {
+            "text": "<color=#93B4E0ff>Alchemy Lab Lv.1</color>",
+            "id": 800119
+        },
+        "800120": {
+            "text": "<color=#F6B6FFff>Alchemy Lab Lv.2</color>",
+            "id": 800120
+        },
+        "800121": {
+            "text": "<color=#F9DB86ff>Alchemy Lab Lv.3</color>",
+            "id": 800121
+        },
+        "800122": {
+            "text": "<color=#A6B8ECff>Co</color><color=#BDB0EBff>lor</color><color=#CCA4F1ff>Qua</color><color=#EEB5E8ff>lity</color>",
+            "id": 800122
+        },
+        "800123": {
+            "text": "<color=#FFFFFFff>Exhausted</color>",
+            "id": 800123
+        },
+        "800124": {
+            "text": "<color=#FFFFFFff>No stamina. Dolls are exhausted. Courtyard skills inactive.</color>",
+            "id": 800124
+        },
+        "800125": {
+            "text": "<color=#FFFFFFff>Insufficient Stamina. When the Stamina is used up, the Courtyard skills inactive.</color>",
+            "id": 800125
+        },
+        "800126": {
+            "text": "<color=#9E9887ff>Drop rate of basic byproducts:</color>",
+            "id": 800126
+        },
+        "800127": {
+            "text": "<color=#9E9887ff>Consume Alchemy EXP</color> <color=#FBFAA5ff>$parameter1$</color>",
+            "id": 800127
+        },
+        "800128": {
+            "text": "<color=#9E9887ff>No Alchemy Bonus</color>",
+            "id": 800128
+        },
+        "800129": {
+            "text": "<color=#EC4C1Aff>(x$parameter1$)</color>",
+            "id": 800129
+        },
+        "800130": {
+            "text": "<color=#F9DB86ff>Alchemy Log</color>",
+            "id": 800130
+        },
+        "800131": {
+            "text": "<color=#FFFFFFff>EXP</color><color=#FDC964ff>+$parameter1$</color>",
+            "id": 800131
+        },
+        "800132": {
+            "text": "<color=#9E9887ff>$parameter1$</color>",
+            "id": 800132
+        },
+        "800133": {
+            "text": "<color=#FBFAA5ff>$parameter1$</color>",
+            "id": 800133
+        },
+        "800134": {
+            "text": "<color=#FBFAA5ff>$parameter1$</color>",
+            "id": 800134
+        },
+        "800135": {
+            "text": "-",
+            "id": 800135
+        },
+        "800136": {
+            "text": "<color=#9E9887ff>$parameter1$</color>",
+            "id": 800136
+        },
+        "800137": {
+            "text": "<color=#FBFAA5ff> + $parameter1$</color>",
+            "id": 800137
+        },
+        "800138": {
+            "text": "<color=#FFDB72ff>+$parameter1$/minute</color>",
+            "id": 800138
+        },
+        "800139": {
+            "text": "<color=#FFFFFFff>Uncollected</color>",
+            "id": 800139
+        },
+        "800140": {
+            "text": "<color=#FFFFFFff>Full</color>",
+            "id": 800140
+        },
+        "800141": {
+            "text": "<color=#FFDB72ff>Dispatch Fireflies</color>",
+            "id": 800141
+        },
+        "800142": {
+            "text": "<color=#FFFFFFff>Total Fireflies</color>",
+            "id": 800142
+        },
+        "800143": {
+            "text": "<color=#FFFFFFff>$parameter1$/$parameter2$</color>",
+            "id": 800143
+        },
+        "800144": {
+            "text": "<color=#FFDB72ff>$parameter1$</color><color=#FFFFFFff>/$parameter2$</color>",
+            "id": 800144
+        },
+        "800145": {
+            "text": "<color=#DF4242ff>0</color><color=#FFFFFFff>/$parameter1$</color>",
+            "id": 800145
+        },
+        "800146": {
+            "text": "<color=#FFFFFFff>+$parameter1$</color>",
+            "id": 800146
+        },
+        "800147": {
+            "text": "<color=#FFFFFFff>-$parameter1$</color>",
+            "id": 800147
+        },
+        "800148": {
+            "text": "<color=#FFFFFFff>Max</color>",
+            "id": 800148
+        },
+        "800149": {
+            "text": "<color=#FFFFFFff>Min</color>",
+            "id": 800149
+        },
+        "800150": {
+            "text": "<color=#FFFFFFff>Dispatch</color>",
+            "id": 800150
+        },
+        "800151": {
+            "text": "<color=#FFFFFFff>You need to dispatch 1 Firefly to collect White Light, 3 to collect Dark Light, and 5 to collect Chromatic Light.</color>",
+            "id": 800151
+        },
+        "800152": {
+            "text": "<color=#FFFFFFff>$parameter1$</color>",
+            "id": 800152
+        },
+        "800153": {
+            "text": "<color=#FFFFFFff>Glister and glitter over here represents the endless yearning from the other side.</color>",
+            "id": 800153
+        },
+        "800154": {
+            "text": "<color=#FFFFFFff>The fireflies bearing the yearning shall be dyed in its color.</color>",
+            "id": 800154
+        },
+        "800155": {
+            "text": "<color=#FFFFFFff>Glimmer of white light sporadically appears in the dark.</color>",
+            "id": 800155
+        },
+        "800156": {
+            "text": "<color=#FFFFFFff>Can you feel that faraway yearning in your slumber?</color>",
+            "id": 800156
+        },
+        "800157": {
+            "text": "<color=#FFFFFFff>+</color>",
+            "id": 800157
+        },
+        "800158": {
+            "text": "<color=#FFFFFFff>MAX</color>",
+            "id": 800158
+        },
+        "800159": {
+            "text": "Dark Light upper limit; 1,000; <color=#FFCA65ff>2,000</color>",
+            "id": 800159
+        },
+        "800160": {
+            "text": "Fluorescence Training",
+            "id": 800160
+        },
+        "800161": {
+            "text": "Fluorescence Enhancing",
+            "id": 800161
+        },
+        "800162": {
+            "text": "Fluorescence Mastering",
+            "id": 800162
+        },
+        "800163": {
+            "text": "<color=#A8D5FDff>Basic</color>",
+            "id": 800163
+        },
+        "800164": {
+            "text": "<color=#F6B6FFff>Intermediate</color>",
+            "id": 800164
+        },
+        "800165": {
+            "text": "<color=#F9DB86ff>Advanced</color>",
+            "id": 800165
+        },
+        "800166": {
+            "text": "Limit",
+            "id": 800166
+        },
+        "800167": {
+            "text": "Unlock <color=#F9DB86ff>Fluorescence Villa</color>",
+            "id": 800167
+        },
+        "800168": {
+            "text": "Training sessions upper limit; 3; <color=#FFCA65ff>5</color>",
+            "id": 800168
+        },
+        "800169": {
+            "text": "Unlock <color=#F6B6FFff>Intermediate</color> training sessions",
+            "id": 800169
+        },
+        "800170": {
+            "text": "Training sessions upper limit; 5; <color=#FFCA65ff>6</color>",
+            "id": 800170
+        },
+        "800171": {
+            "text": "Unlock <color=#F9DB86ff>Advanced</color> training sessions",
+            "id": 800171
+        },
+        "800172": {
+            "text": "Fluorescence Villa",
+            "id": 800172
+        },
+        "800173": {
+            "text": "Training List",
+            "id": 800173
+        },
+        "800174": {
+            "text": "<color=#FFCA65ff>$parameter1$</color>",
+            "id": 800174
+        },
+        "800175": {
+            "text": "<color=#DF4242ff>-$parameter1$</color>",
+            "id": 800175
+        },
+        "800176": {
+            "text": "$parameter1$:$parameter2$:$parameter3$",
+            "id": 800176
+        },
+        "800177": {
+            "text": "Training Finished",
+            "id": 800177
+        },
+        "800178": {
+            "text": "Unlock at Training School Lv.$parameter1$",
+            "id": 800178
+        },
+        "800179": {
+            "text": "Lv.$parameter1$/$parameter2$",
+            "id": 800179
+        },
+        "800180": {
+            "text": "Fluorescence Villa",
+            "id": 800180
+        },
+        "800181": {
+            "text": "Training...",
+            "id": 800181
+        },
+        "800182": {
+            "text": "0",
+            "id": 800182
+        },
+        "800183": {
+            "text": "0",
+            "id": 800183
+        },
+        "800184": {
+            "text": "A <color=#7AA9D4ff>training place</color> where <color=#FFCA65ff>Dolls enhance their power</color> by using fluorescence.",
+            "id": 800184
+        },
+        "800185": {
+            "text": "The power of yearning brings miracles.",
+            "id": 800185
+        },
+        "800186": {
+            "text": "Some are training hard, while others are slacking off.",
+            "id": 800186
+        },
+        "800187": {
+            "text": "Rumor has it that when many-colored fluorescences are converged to a point, wonderful things will happen.",
+            "id": 800187
+        },
+        "800188": {
+            "text": "Ascending Order",
+            "id": 800188
+        },
+        "800189": {
+            "text": "Descending Order",
+            "id": 800189
+        },
+        "800190": {
+            "text": "Unlock the <color=#DBEB7Dff>Music Box</color>",
+            "id": 800190
+        },
+        "800191": {
+            "text": "Music Box",
+            "id": 800191
+        },
+        "800192": {
+            "text": "An antique music box was found in the Witch Hut. Judging by its well-kept condition, the previous owner must have cherished it.",
+            "id": 800192
+        },
+        "800193": {
+            "text": "scene script 1",
+            "id": 800193
+        },
+        "800194": {
+            "text": "scene script 2",
+            "id": 800194
+        },
+        "800195": {
+            "text": "scene script 3",
+            "id": 800195
+        },
+        "800196": {
+            "text": "未使用（暂留）",
+            "id": 800196
+        },
+        "800197": {
+            "text": "未使用（暂留）",
+            "id": 800197
+        },
+        "800198": {
+            "text": "未使用（暂留）",
+            "id": 800198
+        },
+        "800199": {
+            "text": "未使用（暂留）",
+            "id": 800199
+        },
+        "800200": {
+            "text": "未使用（暂留）",
+            "id": 800200
+        },
+        "800201": {
+            "text": "未使用（暂留）",
+            "id": 800201
+        },
+        "800202": {
+            "text": "未使用（暂留）",
+            "id": 800202
+        },
+        "800203": {
+            "text": "未使用（暂留）",
+            "id": 800203
+        },
+        "800204": {
+            "text": "未使用（暂留）",
+            "id": 800204
+        },
+        "800205": {
+            "text": "未使用（暂留）",
+            "id": 800205
+        },
+        "800206": {
+            "text": "未使用（暂留）",
+            "id": 800206
+        },
+        "800207": {
+            "text": "未使用（暂留）",
+            "id": 800207
+        },
+        "800208": {
+            "text": "未使用（暂留）",
+            "id": 800208
+        },
+        "800209": {
+            "text": "未使用（暂留）",
+            "id": 800209
+        },
+        "800210": {
+            "text": "未使用（暂留）",
+            "id": 800210
+        },
+        "800211": {
+            "text": "未使用（暂留）",
+            "id": 800211
+        },
+        "800212": {
+            "text": "未使用（暂留）",
+            "id": 800212
+        },
+        "800213": {
+            "text": "未使用（暂留）",
+            "id": 800213
+        },
+        "800214": {
+            "text": "未使用（暂留）",
+            "id": 800214
+        },
+        "800215": {
+            "text": "未使用（暂留）",
+            "id": 800215
+        },
+        "800216": {
+            "text": "未使用（暂留）",
+            "id": 800216
+        },
+        "800217": {
+            "text": "未使用（暂留）",
+            "id": 800217
+        },
+        "800218": {
+            "text": "未使用（暂留）",
+            "id": 800218
+        },
+        "800219": {
+            "text": "未使用（暂留）",
+            "id": 800219
+        },
+        "800220": {
+            "text": "未使用（暂留）",
+            "id": 800220
+        },
+        "800221": {
+            "text": "未使用（暂留）",
+            "id": 800221
+        },
+        "800222": {
+            "text": "Clear Main Story $parameter1$ to unlock the next music piece",
+            "id": 800222
+        },
+        "800223": {
+            "text": "Awakening",
+            "id": 800223
+        },
+        "800224": {
+            "text": "Revived Witch",
+            "id": 800224
+        },
+        "800225": {
+            "text": "The Forest",
+            "id": 800225
+        },
+        "800226": {
+            "text": "Mysterious Black Cat",
+            "id": 800226
+        },
+        "800227": {
+            "text": "Tower Atrium",
+            "id": 800227
+        },
+        "800228": {
+            "text": "The Guardian",
+            "id": 800228
+        },
+        "800229": {
+            "text": "Victory Fanfare",
+            "id": 800229
+        },
+        "800230": {
+            "text": "Main Menu",
+            "id": 800230
+        },
+        "800231": {
+            "text": "Chrono Tower",
+            "id": 800231
+        },
+        "800232": {
+            "text": "Spellbooks",
+            "id": 800232
+        },
+        "800233": {
+            "text": "Through the Mirror",
+            "id": 800233
+        },
+        "800234": {
+            "text": "Keeper of Time",
+            "id": 800234
+        },
+        "800235": {
+            "text": "Magic Forest of Irminsul",
+            "id": 800235
+        },
+        "800236": {
+            "text": "Forest Defenders",
+            "id": 800236
+        },
+        "800237": {
+            "text": "Irminsul Knight",
+            "id": 800237
+        },
+        "800238": {
+            "text": "Frog Knight",
+            "id": 800238
+        },
+        "800239": {
+            "text": "Heart of the Forest",
+            "id": 800239
+        },
+        "800240": {
+            "text": "Forest Goddess",
+            "id": 800240
+        },
+        "800241": {
+            "text": "Anemone",
+            "id": 800241
+        },
+        "800242": {
+            "text": "Snegurochka",
+            "id": 800242
+        },
+        "800243": {
+            "text": "Campfire",
+            "id": 800243
+        },
+        "800244": {
+            "text": "Ice Plains of Snegurochka",
+            "id": 800244
+        },
+        "800245": {
+            "text": "Hunters and Wolves",
+            "id": 800245
+        },
+        "800246": {
+            "text": "Heart of Ice",
+            "id": 800246
+        },
+        "800247": {
+            "text": "Ice Goddess",
+            "id": 800247
+        },
+        "800248": {
+            "text": "Goddess' Regret",
+            "id": 800248
+        },
+        "800249": {
+            "text": "The Silver Lake",
+            "id": 800249
+        },
+        "800250": {
+            "text": "Before the Storm",
+            "id": 800250
+        },
+        "800251": {
+            "text": "Together We Can Save this World",
+            "id": 800251
+        },
+        "800252": {
+            "text": "Descent",
+            "id": 800252
+        },
+        "800253": {
+            "text": "Lava Lake",
+            "id": 800253
+        },
+        "800254": {
+            "text": "The Root of Magma",
+            "id": 800254
+        },
+        "800255": {
+            "text": "Heart of Fire",
+            "id": 800255
+        }
+    }
+}

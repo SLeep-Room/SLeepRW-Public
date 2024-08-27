@@ -1,0 +1,114 @@
+{
+    "Data": [
+        {
+            "nowItem": 31380,
+            "exchangeNum": 1,
+            "exchangeItem": 31381,
+            "itemQuality": 1,
+            "id": 1,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31383,
+            "exchangeNum": 1,
+            "exchangeItem": 31384,
+            "itemQuality": 1,
+            "id": 2,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31386,
+            "exchangeNum": 1,
+            "exchangeItem": 31387,
+            "itemQuality": 1,
+            "id": 3,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31389,
+            "exchangeNum": 1,
+            "exchangeItem": 31390,
+            "itemQuality": 1,
+            "id": 4,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31381,
+            "exchangeNum": 1,
+            "exchangeItem": 31382,
+            "itemQuality": 2,
+            "id": 5,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31387,
+            "exchangeNum": 1,
+            "exchangeItem": 31388,
+            "itemQuality": 2,
+            "id": 6,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31384,
+            "exchangeNum": 1,
+            "exchangeItem": 31385,
+            "itemQuality": 2,
+            "id": 7,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31390,
+            "exchangeNum": 1,
+            "exchangeItem": 31391,
+            "itemQuality": 2,
+            "id": 8,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31382,
+            "exchangeNum": 1,
+            "exchangeItem": 31410,
+            "itemQuality": 3,
+            "id": 9,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31388,
+            "exchangeNum": 1,
+            "exchangeItem": 31411,
+            "itemQuality": 3,
+            "id": 10,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31385,
+            "exchangeNum": 1,
+            "exchangeItem": 31412,
+            "itemQuality": 3,
+            "id": 11,
+            "itemNum": 3
+        },
+        {
+            "nowItem": 31391,
+            "exchangeNum": 1,
+            "exchangeItem": 31413,
+            "itemQuality": 3,
+            "id": 12,
+            "itemNum": 3
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "AllIds": [
+        0,
+        1,
+        2
+    ],
+    "Data": {
+        "0": {
+            "id": 0,
+            "effect": 0,
+            "weekBossEffect": 0,
+            "image": 12620,
+            "describe": 502777
+        },
+        "1": {
+            "id": 1,
+            "effect": 100,
+            "weekBossEffect": 200,
+            "image": 12621,
+            "describe": 502775
+        },
+        "2": {
+            "id": 2,
+            "effect": 150,
+            "weekBossEffect": 300,
+            "image": 12622,
+            "describe": 502776
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "Data": {
+        "31008": {
+            "presenttypename": "花卉类",
+            "favour": 100,
+            "presenttype": 2,
+            "id": 31008,
+            "exfavour": 100,
+            "presentuplevel": 1
+        },
+        "31009": {
+            "presenttypename": "花卉类",
+            "favour": 150,
+            "presenttype": 2,
+            "id": 31009,
+            "exfavour": 150,
+            "presentuplevel": 2
+        },
+        "31010": {
+            "presenttypename": "花卉类",
+            "favour": 200,
+            "presenttype": 2,
+            "id": 31010,
+            "exfavour": 200,
+            "presentuplevel": 3
+        },
+        "31011": {
+            "presenttypename": "饮食类",
+            "favour": 100,
+            "presenttype": 3,
+            "id": 31011,
+            "exfavour": 100,
+            "presentuplevel": 1
+        },
+        "31012": {
+            "presenttypename": "饮食类",
+            "favour": 150,
+            "presenttype": 3,
+            "id": 31012,
+            "exfavour": 150,
+            "presentuplevel": 2
+        },
+        "31013": {
+            "presenttypename": "饮食类",
+            "favour": 200,
+            "presenttype": 3,
+            "id": 31013,
+            "exfavour": 200,
+            "presentuplevel": 3
+        },
+        "31014": {
+            "presenttypename": "饰品类",
+            "favour": 100,
+            "presenttype": 4,
+            "id": 31014,
+            "exfavour": 100,
+            "presentuplevel": 1
+        },
+        "31015": {
+            "presenttypename": "饰品类",
+            "favour": 150,
+            "presenttype": 4,
+            "id": 31015,
+            "exfavour": 150,
+            "presentuplevel": 2
+        },
+        "31016": {
+            "presenttypename": "饰品类",
+            "favour": 200,
+            "presenttype": 4,
+            "id": 31016,
+            "exfavour": 200,
+            "presentuplevel": 3
+        },
+        "31017": {
+            "presenttypename": "杂物类",
+            "favour": 100,
+            "presenttype": 5,
+            "id": 31017,
+            "exfavour": 100,
+            "presentuplevel": 1
+        },
+        "31018": {
+            "presenttypename": "杂物类",
+            "favour": 150,
+            "presenttype": 5,
+            "id": 31018,
+            "exfavour": 150,
+            "presentuplevel": 2
+        },
+        "31019": {
+            "presenttypename": "杂物类",
+            "favour": 200,
+            "presenttype": 5,
+            "id": 31019,
+            "exfavour": 200,
+            "presentuplevel": 3
+        },
+        "31312": {
+            "presenttypename": "特殊类",
+            "favour": 200,
+            "presenttype": 6,
+            "id": 31312,
+            "exfavour": 200,
+            "presentuplevel": 3
+        },
+        "31257": {
+            "presenttypename": "特殊类",
+            "favour": 200,
+            "presenttype": 6,
+            "id": 31257,
+            "exfavour": 200,
+            "presentuplevel": 3
+        },
+        "31137": {
+            "presenttypename": "特殊类",
+            "favour": 200,
+            "presenttype": 6,
+            "id": 31137,
+            "exfavour": 200,
+            "presentuplevel": 3
+        },
+        "31005": {
+            "presenttypename": "战斗类（通用）",
+            "favour": 100,
+            "presenttype": 1,
+            "id": 31005,
+            "exfavour": 0,
+            "presentuplevel": 1
+        },
+        "31006": {
+            "presenttypename": "战斗类（通用）",
+            "favour": 150,
+            "presenttype": 1,
+            "id": 31006,
+            "exfavour": 0,
+            "presentuplevel": 2
+        },
+        "31007": {
+            "presenttypename": "战斗类（通用）",
+            "favour": 200,
+            "presenttype": 1,
+            "id": 31007,
+            "exfavour": 0,
+            "presentuplevel": 3
+        }
+    },
+    "AllIds": [
+        31005,
+        31006,
+        31007,
+        31008,
+        31009,
+        31010,
+        31011,
+        31012,
+        31013,
+        31014,
+        31015,
+        31016,
+        31017,
+        31018,
+        31019,
+        31137,
+        31257,
+        31312
+    ]
+}

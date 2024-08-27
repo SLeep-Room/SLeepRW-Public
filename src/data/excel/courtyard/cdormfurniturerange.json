@@ -1,0 +1,26 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "range": "GridFloor/Grid_0"
+        },
+        {
+            "id": 2,
+            "range": "GridFloor/Grid_1"
+        },
+        {
+            "id": 3,
+            "range": "GridWall/Grid_0"
+        },
+        {
+            "id": 4,
+            "range": "GridWall/Grid_1"
+        }
+    ]
+}

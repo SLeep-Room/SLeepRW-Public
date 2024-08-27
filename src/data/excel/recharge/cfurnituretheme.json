@@ -1,0 +1,150 @@
+{
+    "AllIds": [
+        1000,
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1009,
+        1010,
+        1011,
+        1012
+    ],
+    "Data": {
+        "1009": {
+            "Sort": 9,
+            "LimitType": 1,
+            "Fursmallpic": 14415,
+            "Maxlimit": 2,
+            "Furbigpic": 14415,
+            "OpenTime": "2022-05-13 04:00:00",
+            "id": 1009,
+            "Upperlimit": 2,
+            "CloseTime": "2022-05-26 03:59:59"
+        },
+        "1010": {
+            "Sort": 10,
+            "LimitType": 1,
+            "Fursmallpic": 14595,
+            "Maxlimit": 2,
+            "Furbigpic": 14595,
+            "OpenTime": "2022-05-13 04:00:00",
+            "id": 1010,
+            "Upperlimit": 2,
+            "CloseTime": "2022-07-14 03:59:59"
+        },
+        "1011": {
+            "Sort": 11,
+            "LimitType": 1,
+            "Fursmallpic": 15044,
+            "Maxlimit": 2,
+            "Furbigpic": 15044,
+            "OpenTime": "2022-08-11 04:00:00",
+            "id": 1011,
+            "Upperlimit": 2,
+            "CloseTime": "2022-08-25 03:59:59"
+        },
+        "1012": {
+            "Sort": 12,
+            "LimitType": 1,
+            "Fursmallpic": 15044,
+            "Maxlimit": 2,
+            "Furbigpic": 15044,
+            "OpenTime": "2022-10-27 04:00:00",
+            "id": 1012,
+            "Upperlimit": 2,
+            "CloseTime": "2022-11-10 03:59:59"
+        },
+        "1000": {
+            "Sort": 7,
+            "LimitType": 0,
+            "Fursmallpic": 11500,
+            "Maxlimit": 2,
+            "Furbigpic": 11501,
+            "OpenTime": "0",
+            "id": 1000,
+            "Upperlimit": 2,
+            "CloseTime": "0"
+        },
+        "1001": {
+            "Sort": 6,
+            "LimitType": 2,
+            "Fursmallpic": 11788,
+            "Maxlimit": 3,
+            "Furbigpic": 11790,
+            "OpenTime": "2020-10-15 04:00:00",
+            "id": 1001,
+            "Upperlimit": 3,
+            "CloseTime": "0"
+        },
+        "1002": {
+            "Sort": 5,
+            "LimitType": 2,
+            "Fursmallpic": 11787,
+            "Maxlimit": 3,
+            "Furbigpic": 11789,
+            "OpenTime": "2020-12-15 04:00:00",
+            "id": 1002,
+            "Upperlimit": 3,
+            "CloseTime": "0"
+        },
+        "1003": {
+            "Sort": 4,
+            "LimitType": 1,
+            "Fursmallpic": 11787,
+            "Maxlimit": 2,
+            "Furbigpic": 12416,
+            "OpenTime": "2021-06-24 04:00:00",
+            "id": 1003,
+            "Upperlimit": 2,
+            "CloseTime": "2021-08-12 04:00:00"
+        },
+        "1004": {
+            "Sort": 3,
+            "LimitType": 1,
+            "Fursmallpic": 11787,
+            "Maxlimit": 2,
+            "Furbigpic": 12416,
+            "OpenTime": "2021-09-27 04:00:01",
+            "id": 1004,
+            "Upperlimit": 2,
+            "CloseTime": "2021-10-18 03:59:59"
+        },
+        "1005": {
+            "Sort": 2,
+            "LimitType": 1,
+            "Fursmallpic": 13593,
+            "Maxlimit": 2,
+            "Furbigpic": 13593,
+            "OpenTime": "2021-10-01 04:00:00",
+            "id": 1005,
+            "Upperlimit": 2,
+            "CloseTime": "2021-11-11 03:59:59"
+        },
+        "1006": {
+            "Sort": 1,
+            "LimitType": 1,
+            "Fursmallpic": 13831,
+            "Maxlimit": 2,
+            "Furbigpic": 13831,
+            "OpenTime": "2021-12-23 04:00:00",
+            "id": 1006,
+            "Upperlimit": 2,
+            "CloseTime": "2022-01-13 04:00:00"
+        },
+        "1007": {
+            "Sort": 8,
+            "LimitType": 1,
+            "Fursmallpic": 14055,
+            "Maxlimit": 2,
+            "Furbigpic": 14055,
+            "OpenTime": "2022-01-27 04:00:00",
+            "id": 1007,
+            "Upperlimit": 2,
+            "CloseTime": "2022-02-10 04:00:00"
+        }
+    }
+}

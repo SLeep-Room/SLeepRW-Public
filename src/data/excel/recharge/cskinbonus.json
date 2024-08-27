@@ -1,0 +1,86 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "itemsNums": [
+                40,
+                2,
+                1
+            ],
+            "itemsId": [
+                35008,
+                35012,
+                31037
+            ],
+            "bonusnameId": 702020,
+            "conditions": 1
+        },
+        {
+            "id": 2,
+            "itemsNums": [
+                100,
+                5,
+                1
+            ],
+            "itemsId": [
+                35008,
+                35012,
+                31038
+            ],
+            "bonusnameId": 702021,
+            "conditions": 5
+        },
+        {
+            "id": 3,
+            "itemsNums": [
+                1,
+                10,
+                2
+            ],
+            "itemsId": [
+                31287,
+                35012,
+                31038
+            ],
+            "bonusnameId": 702022,
+            "conditions": 10
+        },
+        {
+            "id": 4,
+            "itemsNums": [
+                5,
+                15,
+                2
+            ],
+            "itemsId": [
+                30076,
+                35012,
+                31038
+            ],
+            "bonusnameId": 702023,
+            "conditions": 15
+        },
+        {
+            "id": 5,
+            "itemsNums": [
+                1,
+                20,
+                2
+            ],
+            "itemsId": [
+                30077,
+                35012,
+                31038
+            ],
+            "bonusnameId": 702024,
+            "conditions": 20
+        }
+    ]
+}

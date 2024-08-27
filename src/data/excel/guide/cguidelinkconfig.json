@@ -1,0 +1,840 @@
+{
+    "Data": {
+        "64": {
+            "FinalEndCondition": 999,
+            "StartCondition": "109,110",
+            "skip": 0,
+            "EndCondition": "111",
+            "stage": [
+                6401
+            ],
+            "notes": "海岛冒险内部引导",
+            "id": 64,
+            "guideType": 1
+        },
+        "1": {
+            "FinalEndCondition": 3,
+            "StartCondition": "106,11",
+            "skip": 0,
+            "EndCondition": "106,17",
+            "stage": [
+                101,
+                102
+            ],
+            "notes": "【5】快捷跳转引导",
+            "id": 1,
+            "guideType": 1
+        },
+        "2": {
+            "FinalEndCondition": 3,
+            "StartCondition": "55,124,82",
+            "skip": 0,
+            "EndCondition": "3",
+            "stage": [
+                201,
+                202,
+                203,
+                204
+            ],
+            "notes": "【4】人偶升级引导",
+            "id": 2,
+            "guideType": 1
+        },
+        "67": {
+            "FinalEndCondition": 999,
+            "StartCondition": "106,151,152,154",
+            "skip": 0,
+            "EndCondition": "153",
+            "stage": [
+                6701,
+                6702
+            ],
+            "notes": "素体进阶引导",
+            "id": 67,
+            "guideType": 1
+        },
+        "4": {
+            "FinalEndCondition": 5,
+            "StartCondition": "12,13,14",
+            "skip": 0,
+            "EndCondition": "2",
+            "stage": [
+                401,
+                402
+            ],
+            "notes": "【13】装备更换",
+            "id": 4,
+            "guideType": 1
+        },
+        "5": {
+            "FinalEndCondition": 3,
+            "StartCondition": "106,124,108,86",
+            "skip": 0,
+            "EndCondition": "94",
+            "stage": [
+                501,
+                502,
+                503,
+                504
+            ],
+            "notes": "【8】人偶升级引导后弱引导",
+            "id": 5,
+            "guideType": 0
+        },
+        "6": {
+            "FinalEndCondition": 7,
+            "StartCondition": "51,117",
+            "skip": 0,
+            "EndCondition": "52",
+            "stage": [
+                601
+            ],
+            "notes": "【18】委托版-成就、每日",
+            "id": 6,
+            "guideType": 1
+        },
+        "7": {
+            "FinalEndCondition": 99,
+            "StartCondition": "124,7,16",
+            "skip": 0,
+            "EndCondition": "54",
+            "stage": [
+                701,
+                702
+            ],
+            "notes": "【3】抽卡引导",
+            "id": 7,
+            "guideType": 1
+        },
+        "8": {
+            "FinalEndCondition": 9,
+            "StartCondition": "56,21",
+            "skip": 0,
+            "EndCondition": "58",
+            "stage": [
+                801
+            ],
+            "notes": "【20】魔女庭院引导回城",
+            "id": 8,
+            "guideType": 1
+        },
+        "9": {
+            "FinalEndCondition": 4,
+            "StartCondition": "5,124",
+            "skip": 0,
+            "EndCondition": "8",
+            "stage": [
+                901,
+                902
+            ],
+            "notes": "【11】委托版功能解锁引导",
+            "id": 9,
+            "guideType": 1
+        },
+        "10": {
+            "FinalEndCondition": 1,
+            "StartCondition": "22,42",
+            "skip": 0,
+            "EndCondition": "20",
+            "stage": [
+                1001,
+                1002,
+                1003
+            ],
+            "notes": "【1】编队引导",
+            "id": 10,
+            "guideType": 1
+        },
+        "11": {
+            "FinalEndCondition": 7,
+            "StartCondition": "9,124,123,120",
+            "skip": 0,
+            "EndCondition": "24",
+            "stage": [
+                1101,
+                1102,
+                1103
+            ],
+            "notes": "【17】资源副本引导",
+            "id": 11,
+            "guideType": 1
+        },
+        "12": {
+            "FinalEndCondition": 11,
+            "StartCondition": "61,21",
+            "skip": 0,
+            "EndCondition": "63",
+            "stage": [
+                1201
+            ],
+            "notes": "【33】战斗难度增高引导",
+            "id": 12,
+            "guideType": 1
+        },
+        "13": {
+            "FinalEndCondition": 1,
+            "StartCondition": "42,20",
+            "skip": 0,
+            "EndCondition": "23",
+            "stage": [
+                1301
+            ],
+            "notes": "【1】编队引导-确定按钮（选人后断线重连）",
+            "id": 13,
+            "guideType": 1
+        },
+        "14": {
+            "FinalEndCondition": 17,
+            "StartCondition": "1,29",
+            "skip": 0,
+            "EndCondition": "30",
+            "stage": [
+                1401,
+                1402
+            ],
+            "notes": "【7】人偶技能引导",
+            "id": 14,
+            "guideType": 1
+        },
+        "15": {
+            "FinalEndCondition": 4,
+            "StartCondition": "40,43",
+            "skip": 0,
+            "EndCondition": "41",
+            "stage": [
+                1501
+            ],
+            "notes": "【10】手动回城引导",
+            "id": 15,
+            "guideType": 1
+        },
+        "16": {
+            "FinalEndCondition": 9,
+            "StartCondition": "74,75",
+            "skip": 0,
+            "EndCondition": "44",
+            "stage": [
+                1601,
+                1602,
+                1603
+            ],
+            "notes": "【22】魔女庭院引导-解锁萤火灯台",
+            "id": 16,
+            "guideType": 1
+        },
+        "17": {
+            "FinalEndCondition": 2,
+            "StartCondition": "48,49,21",
+            "skip": 0,
+            "EndCondition": "50",
+            "stage": [
+                1701,
+                1702
+            ],
+            "notes": "【2】引导进入1-2",
+            "id": 17,
+            "guideType": 1
+        },
+        "19": {
+            "FinalEndCondition": 15,
+            "StartCondition": "64",
+            "skip": 0,
+            "EndCondition": "69",
+            "stage": [
+                1902,
+                1903
+            ],
+            "notes": "【34】好友引导",
+            "id": 19,
+            "guideType": 1
+        },
+        "20": {
+            "FinalEndCondition": 15,
+            "StartCondition": "70,67",
+            "skip": 0,
+            "EndCondition": "71",
+            "stage": [
+                2001,
+                2002
+            ],
+            "notes": "【35】助战引导",
+            "id": 20,
+            "guideType": 1
+        },
+        "21": {
+            "FinalEndCondition": 9,
+            "StartCondition": "124,125",
+            "skip": 0,
+            "EndCondition": "73",
+            "stage": [
+                2101
+            ],
+            "notes": "【21】魔女庭院主城引导",
+            "id": 21,
+            "guideType": 1
+        },
+        "22": {
+            "FinalEndCondition": 4,
+            "StartCondition": "124,59",
+            "skip": 0,
+            "EndCondition": "77",
+            "stage": [
+                2201,
+                2202,
+                2203
+            ],
+            "notes": "【11】好感度引导",
+            "id": 22,
+            "guideType": 1
+        },
+        "23": {
+            "FinalEndCondition": 41,
+            "StartCondition": "124,78",
+            "skip": 0,
+            "EndCondition": "79",
+            "stage": [
+                2301,
+                2302,
+                2303,
+                2304,
+                2305
+            ],
+            "notes": "【40】BOSS挑战",
+            "id": 23,
+            "guideType": 1
+        },
+        "24": {
+            "FinalEndCondition": 4,
+            "StartCondition": "124,47",
+            "skip": 0,
+            "EndCondition": "87",
+            "stage": [
+                2401,
+                2402,
+                2403
+            ],
+            "notes": "【11】看板娘引导",
+            "id": 24,
+            "guideType": 1
+        },
+        "25": {
+            "FinalEndCondition": 17,
+            "StartCondition": "83,155",
+            "skip": 0,
+            "EndCondition": "84",
+            "stage": [
+                2501,
+                2502,
+                2503,
+                2504
+            ],
+            "notes": "【32】人偶突破引导",
+            "id": 25,
+            "guideType": 1
+        },
+        "27": {
+            "FinalEndCondition": 91,
+            "StartCondition": "10",
+            "skip": 0,
+            "EndCondition": "89",
+            "stage": [
+                2701,
+                2702,
+                2703,
+                2704
+            ],
+            "notes": "【31】炼金所引导",
+            "id": 27,
+            "guideType": 1
+        },
+        "28": {
+            "FinalEndCondition": 91,
+            "StartCondition": "127,46",
+            "skip": 0,
+            "EndCondition": "91",
+            "stage": [
+                2801,
+                2802,
+                2803
+            ],
+            "notes": "【28】魔女小屋引导",
+            "id": 28,
+            "guideType": 1
+        },
+        "29": {
+            "FinalEndCondition": 999,
+            "StartCondition": "90,92,6",
+            "skip": 0,
+            "EndCondition": "93",
+            "stage": [],
+            "notes": "作废（事象限界）",
+            "id": 29,
+            "guideType": 1
+        },
+        "30": {
+            "FinalEndCondition": 4,
+            "StartCondition": "57,38",
+            "skip": 0,
+            "EndCondition": "57,76",
+            "stage": [
+                3001
+            ],
+            "notes": "【11】看板娘引导完成后左上角返回引导",
+            "id": 30,
+            "guideType": 1
+        },
+        "31": {
+            "FinalEndCondition": 999,
+            "StartCondition": "99,100,124",
+            "skip": 0,
+            "EndCondition": "101",
+            "stage": [],
+            "notes": "共鸣引导",
+            "id": 31,
+            "guideType": 1
+        },
+        "32": {
+            "FinalEndCondition": 91,
+            "StartCondition": "90,65",
+            "skip": 0,
+            "EndCondition": "68",
+            "stage": [
+                3201
+            ],
+            "notes": "作废（事象限界）",
+            "id": 32,
+            "guideType": 1
+        },
+        "33": {
+            "FinalEndCondition": 91,
+            "StartCondition": "90,6,80,81",
+            "skip": 0,
+            "EndCondition": "72",
+            "stage": [
+                3301
+            ],
+            "notes": "作废（事象限界）",
+            "id": 33,
+            "guideType": 1
+        },
+        "34": {
+            "FinalEndCondition": 91,
+            "StartCondition": "90,6,68,81",
+            "skip": 0,
+            "EndCondition": "85",
+            "stage": [
+                3401
+            ],
+            "notes": "作废（事象限界）",
+            "id": 34,
+            "guideType": 1
+        },
+        "35": {
+            "FinalEndCondition": 7,
+            "StartCondition": "124,130,108,86",
+            "skip": 0,
+            "EndCondition": "112",
+            "stage": [
+                501,
+                502,
+                503,
+                504
+            ],
+            "notes": "【18】成就、每日任务引导后，引导进入地宫",
+            "id": 35,
+            "guideType": 0
+        },
+        "36": {
+            "FinalEndCondition": 91,
+            "StartCondition": "128,46",
+            "skip": 0,
+            "EndCondition": "114",
+            "stage": [],
+            "notes": "【29】魔女小屋2级引导",
+            "id": 36,
+            "guideType": 1
+        },
+        "37": {
+            "FinalEndCondition": 91,
+            "StartCondition": "129,46",
+            "skip": 0,
+            "EndCondition": "116",
+            "stage": [],
+            "notes": "【30】魔女小屋3级引导",
+            "id": 37,
+            "guideType": 1
+        },
+        "40": {
+            "FinalEndCondition": 7,
+            "StartCondition": "122,124",
+            "skip": 0,
+            "EndCondition": "123",
+            "stage": [],
+            "notes": "【16】资源副本Timeline引导",
+            "id": 40,
+            "guideType": 1
+        },
+        "41": {
+            "FinalEndCondition": 9,
+            "StartCondition": "124,58",
+            "skip": 0,
+            "EndCondition": "125",
+            "stage": [],
+            "notes": "【20】魔女庭院主城timeline引导",
+            "id": 41,
+            "guideType": 1
+        },
+        "42": {
+            "FinalEndCondition": 18,
+            "StartCondition": "96,124",
+            "skip": 0,
+            "EndCondition": "97",
+            "stage": [],
+            "notes": "【36】打完埃舍蕾回主城引导去伊敏瑟伦之间主城timeline引导",
+            "id": 42,
+            "guideType": 1
+        },
+        "43": {
+            "FinalEndCondition": 18,
+            "StartCondition": "124,102",
+            "skip": 0,
+            "EndCondition": "131",
+            "stage": [
+                4301,
+                4302,
+                4303,
+                4304
+            ],
+            "notes": "【36】事象记忆强引导",
+            "id": 43,
+            "guideType": 1
+        },
+        "66": {
+            "FinalEndCondition": 999,
+            "StartCondition": "147,148,150",
+            "skip": 0,
+            "EndCondition": "149",
+            "stage": [
+                6601,
+                6602,
+                6603
+            ],
+            "notes": "Boss讨伐引导",
+            "id": 66,
+            "guideType": 1
+        },
+        "45": {
+            "FinalEndCondition": 3,
+            "StartCondition": "135,106,143",
+            "skip": 0,
+            "EndCondition": "136",
+            "stage": [
+                4501,
+                4502,
+                4503
+            ],
+            "notes": "【9】替补角色引导",
+            "id": 45,
+            "guideType": 1
+        },
+        "46": {
+            "FinalEndCondition": 41,
+            "StartCondition": "124,131",
+            "skip": 0,
+            "EndCondition": "133",
+            "stage": [
+                4301,
+                4302,
+                4603
+            ],
+            "notes": "【37】事象记忆内部引导",
+            "id": 46,
+            "guideType": 1
+        },
+        "47": {
+            "FinalEndCondition": 30,
+            "StartCondition": "124,138",
+            "skip": 0,
+            "EndCondition": "139",
+            "stage": [
+                2601,
+                4702,
+                4703
+            ],
+            "notes": "【41】时空裂隙主城引导",
+            "id": 47,
+            "guideType": 1
+        },
+        "65": {
+            "FinalEndCondition": 999,
+            "StartCondition": "144,145",
+            "skip": 0,
+            "EndCondition": "146",
+            "stage": [
+                6501,
+                6502,
+                6503,
+                6504,
+                6505
+            ],
+            "notes": "人偶重塑引导",
+            "id": 65,
+            "guideType": 1
+        },
+        "49": {
+            "FinalEndCondition": 43,
+            "StartCondition": "124,62",
+            "skip": 0,
+            "EndCondition": "142",
+            "stage": [
+                2601,
+                4702,
+                4903
+            ],
+            "notes": "【43】破碎之境主城引导",
+            "id": 49,
+            "guideType": 1
+        },
+        "50": {
+            "FinalEndCondition": 3,
+            "StartCondition": "55,25",
+            "skip": 0,
+            "EndCondition": "55,82",
+            "stage": [
+                5001
+            ],
+            "notes": "【7】抽卡引导-返回主城",
+            "id": 50,
+            "guideType": 1
+        },
+        "51": {
+            "FinalEndCondition": 4,
+            "StartCondition": "53,117",
+            "skip": 0,
+            "EndCondition": "53,27",
+            "stage": [
+                5101
+            ],
+            "notes": "【11】委托版功能解锁引导-返回主城",
+            "id": 51,
+            "guideType": 1
+        },
+        "52": {
+            "FinalEndCondition": 4,
+            "StartCondition": "77,124,108,86",
+            "skip": 0,
+            "EndCondition": "18",
+            "stage": [
+                501,
+                502,
+                503,
+                504
+            ],
+            "notes": "【12】委托版功能解锁引导-返回主城后弱引导",
+            "id": 52,
+            "guideType": 0
+        },
+        "53": {
+            "FinalEndCondition": 5,
+            "StartCondition": "13,14,15,2",
+            "skip": 0,
+            "EndCondition": "28",
+            "stage": [
+                401,
+                5302,
+                5303,
+                5304,
+                5305
+            ],
+            "notes": "【14】装备强化引导",
+            "id": 53,
+            "guideType": 1
+        },
+        "54": {
+            "FinalEndCondition": 5,
+            "StartCondition": "28,11,86",
+            "skip": 0,
+            "EndCondition": "28,17",
+            "stage": [
+                5401,
+                5402,
+                5403
+            ],
+            "notes": "【15】装备强化引导后弱引导",
+            "id": 54,
+            "guideType": 0
+        },
+        "55": {
+            "FinalEndCondition": 9,
+            "StartCondition": "75,44,32",
+            "skip": 0,
+            "EndCondition": "33",
+            "stage": [
+                5501
+            ],
+            "notes": "【23】魔女庭院引导-收集随机光点",
+            "id": 55,
+            "guideType": 1
+        },
+        "56": {
+            "FinalEndCondition": 9,
+            "StartCondition": "75,33",
+            "skip": 0,
+            "EndCondition": "34",
+            "stage": [
+                5601,
+                5602
+            ],
+            "notes": "【24】萤火灯台引导",
+            "id": 56,
+            "guideType": 1
+        },
+        "57": {
+            "FinalEndCondition": 9,
+            "StartCondition": "34,35",
+            "skip": 0,
+            "EndCondition": "34,37",
+            "stage": [
+                5701
+            ],
+            "notes": "【25】萤火灯台引导-返回庭院",
+            "id": 57,
+            "guideType": 1
+        },
+        "58": {
+            "FinalEndCondition": 9,
+            "StartCondition": "39,75",
+            "skip": 0,
+            "EndCondition": "45",
+            "stage": [
+                5801,
+                5802,
+                5803
+            ],
+            "notes": "【26】魔女庭院引导-解锁异界之镜",
+            "id": 58,
+            "guideType": 1
+        },
+        "59": {
+            "FinalEndCondition": 9,
+            "StartCondition": "75,45",
+            "skip": 0,
+            "EndCondition": "31",
+            "stage": [
+                5901,
+                5902
+            ],
+            "notes": "【27】异界之境引导",
+            "id": 59,
+            "guideType": 1
+        },
+        "60": {
+            "FinalEndCondition": 999,
+            "StartCondition": "65",
+            "skip": 0,
+            "EndCondition": "68",
+            "stage": [
+                3201
+            ],
+            "notes": "【38】爬塔副本2级引导-选择祝福卡",
+            "id": 60,
+            "guideType": 1
+        },
+        "61": {
+            "FinalEndCondition": 999,
+            "StartCondition": "6,80,81",
+            "skip": 0,
+            "EndCondition": "72",
+            "stage": [
+                3301
+            ],
+            "notes": "【38】爬塔副本自动探索引导",
+            "id": 61,
+            "guideType": 1
+        },
+        "62": {
+            "FinalEndCondition": 999,
+            "StartCondition": "6,68,81",
+            "skip": 0,
+            "EndCondition": "85",
+            "stage": [
+                3401
+            ],
+            "notes": "【38】事项限祝福查看",
+            "id": 62,
+            "guideType": 1
+        },
+        "63": {
+            "FinalEndCondition": 999,
+            "StartCondition": "92,6",
+            "skip": 0,
+            "EndCondition": "93",
+            "stage": [],
+            "notes": "爬塔副本内部引导",
+            "id": 63,
+            "guideType": 1
+        }
+    },
+    "AllIds": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+    ]
+}

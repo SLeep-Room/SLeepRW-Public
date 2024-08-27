@@ -1,0 +1,24 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "MaxComfort": 4,
+            "floorID": 1
+        },
+        {
+            "id": 2,
+            "MaxComfort": 6,
+            "floorID": 2
+        },
+        {
+            "id": 3,
+            "MaxComfort": 8,
+            "floorID": 3
+        }
+    ]
+}

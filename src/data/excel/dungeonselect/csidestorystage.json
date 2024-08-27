@@ -1,0 +1,282 @@
+{
+    "AllIds": [
+        5000,
+        5001,
+        5002,
+        5003,
+        5004,
+        5005,
+        5006,
+        5007,
+        5008,
+        5009,
+        5010,
+        5011
+    ],
+    "Data": {
+        "5008": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60008,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900681,
+            "stagename": "幕二:“巧遇”",
+            "sideid": 201,
+            "stagenametxtid": 1900469,
+            "stageintrotxt": 1900428,
+            "stageintro": "逃离过程中，莫尔提茉遇见了诺忒娜，误认为她就是操纵魔物的幕后黑手。莫尔提茉强撑着受伤的身体，试图和诺忒娜战斗，但是最终体力不支倒下…",
+            "spirit": 10,
+            "suggestlvl": 50,
+            "stagesort": 2,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900658,
+            "id": 5008,
+            "stagefloor": "201-2"
+        },
+        "5009": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60009,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900682,
+            "stagename": "幕三:“公主”",
+            "sideid": 201,
+            "stagenametxtid": 1900470,
+            "stageintrotxt": 1900429,
+            "stageintro": "莫尔提茉和诺忒娜解除误会后，发现花园附近已经完全被魔物占领了，莫尔提茉决定去城堡，把这个消息告知大公，然而…",
+            "spirit": 10,
+            "suggestlvl": 50,
+            "stagesort": 3,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900659,
+            "id": 5009,
+            "stagefloor": "201-3"
+        },
+        "5010": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60010,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900683,
+            "stagename": "幕四:“出发”",
+            "sideid": 201,
+            "stagenametxtid": 1900471,
+            "stageintrotxt": 1900430,
+            "stageintro": "莫尔提茉和诺忒娜在城堡附近解救了正在被袭击的公主。救下公主后，从公主护卫的口中得知了幕后黑手的方位。于是他们出发去寻找幕后黑手…",
+            "spirit": 10,
+            "suggestlvl": 50,
+            "stagesort": 4,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900660,
+            "id": 5010,
+            "stagefloor": "201-4"
+        },
+        "5011": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60011,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900684,
+            "stagename": "幕五:“追随”",
+            "sideid": 201,
+            "stagenametxtid": 1900472,
+            "stageintrotxt": 1900467,
+            "stageintro": "众人最终发现了幕后黑手，并与她展开了激烈的战斗…",
+            "spirit": 15,
+            "suggestlvl": 55,
+            "stagesort": 5,
+            "isBoss": 1,
+            "stagefinishnametxtid": 1900661,
+            "id": 5011,
+            "stagefloor": "201-5"
+        },
+        "5000": {
+            "firstItemNums": [
+                0
+            ],
+            "sceneid": 30001,
+            "firstItems": [
+                0
+            ],
+            "stagefinishnamenumid": 0,
+            "stagename": "占坑位，用于每个区间结算",
+            "sideid": 0,
+            "stagenametxtid": 0,
+            "stageintrotxt": 0,
+            "stageintro": "0",
+            "spirit": 0,
+            "suggestlvl": 0,
+            "stagesort": 0,
+            "isBoss": 0,
+            "stagefinishnametxtid": 0,
+            "id": 5000,
+            "stagefloor": "100-0"
+        },
+        "5001": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60001,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900680,
+            "stagename": "幕一:“邀请”",
+            "sideid": 101,
+            "stagenametxtid": 1900417,
+            "stageintrotxt": 1900423,
+            "stageintro": "德亚丝在时之塔郊外与魔物战斗借以调查入塔的线索，遇到了正在召集人手并想要进入塔内的布露恩…",
+            "spirit": 15,
+            "suggestlvl": 75,
+            "stagesort": 1,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900651,
+            "id": 5001,
+            "stagefloor": "101-1"
+        },
+        "5002": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60002,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900681,
+            "stagename": "幕二:“力量”",
+            "sideid": 101,
+            "stagenametxtid": 1900418,
+            "stageintrotxt": 1900424,
+            "stageintro": "回程的路上，德亚丝被奇怪的小女孩缠上，不知该如何处置的德亚丝决定姑且带上小女孩一起去找布露恩…",
+            "spirit": 15,
+            "suggestlvl": 75,
+            "stagesort": 2,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900652,
+            "id": 5002,
+            "stagefloor": "101-2"
+        },
+        "5003": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60003,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900682,
+            "stagename": "幕三:“志同道合”",
+            "sideid": 101,
+            "stagenametxtid": 1900419,
+            "stageintrotxt": 1900425,
+            "stageintro": "布露恩认为德亚丝回来即表示同意加入队伍。一番考量后，德亚丝最决定加入队伍。就在她们讨论进入时之塔的方法时，突然有人现身，来者自称是圣教会的牧师费拉古德…",
+            "spirit": 15,
+            "suggestlvl": 75,
+            "stagesort": 3,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900653,
+            "id": 5003,
+            "stagefloor": "101-3"
+        },
+        "5004": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60004,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900683,
+            "stagename": "幕四:“秘密”",
+            "sideid": 101,
+            "stagenametxtid": 1900420,
+            "stageintrotxt": 1900426,
+            "stageintro": "费拉古德找来并称发现了魔物更密集的新地点，希望有人能一起前去查看并点名艾拉。德亚丝心生疑虑并要求一同前往…",
+            "spirit": 15,
+            "suggestlvl": 75,
+            "stagesort": 4,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900654,
+            "id": 5004,
+            "stagefloor": "101-4"
+        },
+        "5005": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60005,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900684,
+            "stagename": "幕五:“不期而遇”",
+            "sideid": 101,
+            "stagenametxtid": 1900421,
+            "stageintrotxt": 1900478,
+            "stageintro": "即将进入时之塔时，费拉古德却极力劝阻布露恩一行进入，其间表示他对于三人没有按其计划的那样被魔物解决掉而十分苦恼。争执之下，费拉古德唤出…",
+            "spirit": 15,
+            "suggestlvl": 75,
+            "stagesort": 5,
+            "isBoss": 1,
+            "stagefinishnametxtid": 1900655,
+            "id": 5005,
+            "stagefloor": "101-5"
+        },
+        "5006": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60006,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900685,
+            "stagename": "幕六:“礼物”",
+            "sideid": 101,
+            "stagenametxtid": 1900422,
+            "stageintrotxt": 1900479,
+            "stageintro": "德亚丝醒来后圣教会一行早已不在，虽然感觉有些许异样但感觉只是小睡了一会，于是起身跟随布露恩走进了时之塔…",
+            "spirit": 15,
+            "suggestlvl": 1,
+            "stagesort": 6,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900656,
+            "id": 5006,
+            "stagefloor": "101-6"
+        },
+        "5007": {
+            "firstItemNums": [
+                50
+            ],
+            "sceneid": 60007,
+            "firstItems": [
+                35008
+            ],
+            "stagefinishnamenumid": 1900680,
+            "stagename": "幕一:“失意”",
+            "sideid": 201,
+            "stagenametxtid": 1900468,
+            "stageintrotxt": 1900427,
+            "stageintro": "露尼亚公国陷入内战后，各地开始出现猎取活人灵魂的魔物。莫尔提茉是露尼亚公国最大的花园的管理者。一天，魔物入侵了莫尔提茉守护的花园...",
+            "spirit": 10,
+            "suggestlvl": 50,
+            "stagesort": 1,
+            "isBoss": 0,
+            "stagefinishnametxtid": 1900657,
+            "id": 5007,
+            "stagefloor": "201-1"
+        }
+    }
+}

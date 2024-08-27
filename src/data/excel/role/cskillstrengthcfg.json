@@ -1,0 +1,31 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "damageRange": 5
+        },
+        {
+            "id": 2,
+            "damageRange": 10
+        },
+        {
+            "id": 3,
+            "damageRange": 15
+        },
+        {
+            "id": 4,
+            "damageRange": 20
+        },
+        {
+            "id": 5,
+            "damageRange": 25
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}

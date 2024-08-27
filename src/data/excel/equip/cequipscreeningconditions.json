@@ -1,0 +1,87 @@
+{
+    "Data": {
+        "5": {
+            "id": 5,
+            "equiptype": "",
+            "typename": 1500061,
+            "type": 2,
+            "nameid": 1500043,
+            "sort": 1
+        },
+        "6": {
+            "id": 6,
+            "equiptype": "",
+            "typename": 1500061,
+            "type": 2,
+            "nameid": 1500044,
+            "sort": 2
+        },
+        "7": {
+            "id": 7,
+            "equiptype": "",
+            "typename": 1500061,
+            "type": 2,
+            "nameid": 1500045,
+            "sort": 3
+        },
+        "8": {
+            "id": 8,
+            "equiptype": "",
+            "typename": 1500060,
+            "type": 1,
+            "nameid": 1500047,
+            "sort": 2
+        },
+        "9": {
+            "id": 9,
+            "equiptype": "",
+            "typename": 1500060,
+            "type": 1,
+            "nameid": 1500048,
+            "sort": 3
+        },
+        "10": {
+            "id": 10,
+            "equiptype": "",
+            "typename": 1500060,
+            "type": 1,
+            "nameid": 1500049,
+            "sort": 4
+        },
+        "11": {
+            "id": 11,
+            "equiptype": "",
+            "typename": 1500060,
+            "type": 1,
+            "nameid": 1500062,
+            "sort": 1
+        },
+        "12": {
+            "id": 12,
+            "equiptype": "",
+            "typename": 1500071,
+            "type": 3,
+            "nameid": 1500069,
+            "sort": 1
+        },
+        "13": {
+            "id": 13,
+            "equiptype": "",
+            "typename": 1500071,
+            "type": 3,
+            "nameid": 1500070,
+            "sort": 2
+        }
+    },
+    "AllIds": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ]
+}

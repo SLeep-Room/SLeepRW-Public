@@ -1,0 +1,30 @@
+{
+    "AllIds": [
+        10007,
+        10015,
+        10047
+    ],
+    "Data": {
+        "10047": {
+            "bossbattleID": 11117,
+            "name": "命运的化身",
+            "maxStage": 7,
+            "id": 10047,
+            "eventid": 47001
+        },
+        "10015": {
+            "bossbattleID": 10016,
+            "name": "绝・命运的化身",
+            "maxStage": 8,
+            "id": 10015,
+            "eventid": 6001
+        },
+        "10007": {
+            "bossbattleID": 10008,
+            "name": "命运的化身",
+            "maxStage": 8,
+            "id": 10007,
+            "eventid": 6001
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AllIds": [
+        100,
+        200
+    ],
+    "Data": {
+        "100": {
+            "rolenicknametxt": 1900405,
+            "rolegrouppic": 11452,
+            "rolename": "德亚丝",
+            "rolegrouptxt": 1900415,
+            "rolenickname": "炼金术师",
+            "rolenametxt": 1900404,
+            "roleworldpic": 11463,
+            "id": 100,
+            "roleworldtxt": 1900414
+        },
+        "200": {
+            "rolenicknametxt": 1900407,
+            "rolegrouppic": 11450,
+            "rolename": "莫尔提茉",
+            "rolegrouptxt": 1900416,
+            "rolenickname": "蔷薇之心",
+            "rolenametxt": 1900406,
+            "roleworldpic": 11463,
+            "id": 200,
+            "roleworldtxt": 1900414
+        }
+    }
+}

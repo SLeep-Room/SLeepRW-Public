@@ -1,0 +1,216 @@
+{
+    "Data": [
+        {
+            "target": 9,
+            "id": 1,
+            "Dialog": "EquipStrengthen"
+        },
+        {
+            "target": 9,
+            "id": 2,
+            "Dialog": "RoleLevelUp"
+        },
+        {
+            "target": 9,
+            "id": 3,
+            "Dialog": "RoleLimitUp"
+        },
+        {
+            "target": 9,
+            "id": 4,
+            "Dialog": "RoleEvolute"
+        },
+        {
+            "target": 2,
+            "id": 5,
+            "Dialog": "Card"
+        },
+        {
+            "target": 10,
+            "id": 6,
+            "Dialog": "Handbook"
+        },
+        {
+            "target": 10,
+            "id": 7,
+            "Dialog": "RoleHandbook"
+        },
+        {
+            "target": 9,
+            "id": 8,
+            "Dialog": "CharacterList"
+        },
+        {
+            "target": 9,
+            "id": 9,
+            "Dialog": "CharacterStatus"
+        },
+        {
+            "target": 9,
+            "id": 10,
+            "Dialog": "CharacterEquip"
+        },
+        {
+            "target": 9,
+            "id": 11,
+            "Dialog": "CharacterSkill"
+        },
+        {
+            "target": 6,
+            "id": 12,
+            "Dialog": "Workshop"
+        },
+        {
+            "target": 6,
+            "id": 13,
+            "Dialog": "WorkshopEquip"
+        },
+        {
+            "target": 6,
+            "id": 14,
+            "Dialog": "WorkshopMaterial"
+        },
+        {
+            "target": 0,
+            "id": 15,
+            "Dialog": "Friend"
+        },
+        {
+            "target": 1,
+            "id": 16,
+            "Dialog": "Dungeon"
+        },
+        {
+            "target": 1,
+            "id": 17,
+            "Dialog": "Relam"
+        },
+        {
+            "target": 0,
+            "id": 18,
+            "Dialog": "Party"
+        },
+        {
+            "target": 0,
+            "id": 19,
+            "Dialog": "Shop"
+        },
+        {
+            "target": 0,
+            "id": 20,
+            "Dialog": "YardMain"
+        },
+        {
+            "target": 0,
+            "id": 21,
+            "Dialog": "SideStory"
+        },
+        {
+            "target": 0,
+            "id": 22,
+            "Dialog": "offlinepvp"
+        },
+        {
+            "target": 0,
+            "id": 23,
+            "Dialog": "yardroom"
+        },
+        {
+            "target": 0,
+            "id": 24,
+            "Dialog": "yardmirror"
+        },
+        {
+            "target": 0,
+            "id": 25,
+            "Dialog": "friendshop"
+        },
+        {
+            "target": 0,
+            "id": 26,
+            "Dialog": "rolestory"
+        },
+        {
+            "target": 0,
+            "id": 27,
+            "Dialog": "guild"
+        },
+        {
+            "target": 0,
+            "id": 28,
+            "Dialog": "bossrush"
+        },
+        {
+            "target": 0,
+            "id": 29,
+            "Dialog": "Signboard"
+        },
+        {
+            "target": 0,
+            "id": 30,
+            "Dialog": "Fragment"
+        },
+        {
+            "target": 0,
+            "id": 31,
+            "Dialog": "TowerV2"
+        },
+        {
+            "target": 0,
+            "id": 32,
+            "Dialog": "UndecidedRoad"
+        },
+        {
+            "target": 0,
+            "id": 33,
+            "Dialog": "SpecificCharacter"
+        },
+        {
+            "target": 0,
+            "id": 34,
+            "Dialog": "TaskMain"
+        },
+        {
+            "target": 0,
+            "id": 35,
+            "Dialog": "AnniversaryMain"
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+    ]
+}

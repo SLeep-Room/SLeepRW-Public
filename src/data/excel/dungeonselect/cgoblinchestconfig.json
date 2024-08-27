@@ -1,0 +1,20 @@
+{
+    "AllIds": [
+        1,
+        2
+    ],
+    "Data": [
+        {
+            "weight": 30,
+            "describeTextID": 1900143,
+            "describe": "发生灾厄",
+            "id": 1
+        },
+        {
+            "weight": 70,
+            "describeTextID": 1900144,
+            "describe": "获得秘宝",
+            "id": 2
+        }
+    ]
+}

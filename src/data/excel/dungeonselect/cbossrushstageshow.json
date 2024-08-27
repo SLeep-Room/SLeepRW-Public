@@ -1,0 +1,66 @@
+{
+    "AllIds": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "Data": {
+        "0": {
+            "textID": 1900437,
+            "textColor": 21,
+            "id": 0
+        },
+        "1": {
+            "textID": 1900438,
+            "textColor": 22,
+            "id": 1
+        },
+        "2": {
+            "textID": 1900439,
+            "textColor": 23,
+            "id": 2
+        },
+        "3": {
+            "textID": 1900440,
+            "textColor": 23,
+            "id": 3
+        },
+        "4": {
+            "textID": 1900441,
+            "textColor": 24,
+            "id": 4
+        },
+        "5": {
+            "textID": 1900442,
+            "textColor": 24,
+            "id": 5
+        },
+        "6": {
+            "textID": 1900443,
+            "textColor": 25,
+            "id": 6
+        },
+        "7": {
+            "textID": 1900444,
+            "textColor": 25,
+            "id": 7
+        },
+        "8": {
+            "textID": 1900445,
+            "textColor": 26,
+            "id": 8
+        },
+        "9": {
+            "textID": 1900446,
+            "textColor": 26,
+            "id": 9
+        }
+    }
+}

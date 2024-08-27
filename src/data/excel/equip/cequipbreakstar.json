@@ -1,0 +1,30 @@
+{
+    "Data": {
+        "5": {
+            "brokenstar": 11112,
+            "id": 5,
+            "star": 11110
+        },
+        "1": {
+            "brokenstar": 12,
+            "id": 1,
+            "star": 10
+        },
+        "2": {
+            "brokenstar": 112,
+            "id": 2,
+            "star": 110
+        },
+        "3": {
+            "brokenstar": 1112,
+            "id": 3,
+            "star": 1110
+        }
+    },
+    "AllIds": [
+        1,
+        2,
+        3,
+        5
+    ]
+}

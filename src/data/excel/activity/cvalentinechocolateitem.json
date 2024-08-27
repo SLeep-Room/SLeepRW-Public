@@ -1,0 +1,14 @@
+{
+    "AllIds": [
+        1
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "BlackCloseTime": "2023-02-23 03:59:59",
+            "BlackOpenTime": "2023-02-16 15:00:00",
+            "itemNum": 1,
+            "itemId": 35047
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "CurrencyID": 35001,
+            "CurrencyShowID": 10078
+        },
+        {
+            "id": 2,
+            "CurrencyID": 35002,
+            "CurrencyShowID": 10077
+        },
+        {
+            "id": 3,
+            "CurrencyID": 35008,
+            "CurrencyShowID": 10716
+        }
+    ]
+}

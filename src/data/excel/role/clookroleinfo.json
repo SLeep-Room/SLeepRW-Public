@@ -1,0 +1,76 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "SkillUnlock": 3,
+            "level": 1,
+            "passiveSkillLevel": 1,
+            "skillLevel": 1,
+            "evolutionLevel": 0,
+            "breakLevel": 0
+        },
+        {
+            "id": 2,
+            "SkillUnlock": 3,
+            "level": 290,
+            "passiveSkillLevel": 2,
+            "skillLevel": 5,
+            "evolutionLevel": 3,
+            "breakLevel": 4
+        },
+        {
+            "id": 3,
+            "SkillUnlock": 3,
+            "level": 290,
+            "passiveSkillLevel": 2,
+            "skillLevel": 5,
+            "evolutionLevel": 3,
+            "breakLevel": 4
+        },
+        {
+            "id": 4,
+            "SkillUnlock": 3,
+            "level": 290,
+            "passiveSkillLevel": 2,
+            "skillLevel": 5,
+            "evolutionLevel": 3,
+            "breakLevel": 4
+        },
+        {
+            "id": 5,
+            "SkillUnlock": 3,
+            "level": 290,
+            "passiveSkillLevel": 2,
+            "skillLevel": 5,
+            "evolutionLevel": 3,
+            "breakLevel": 4
+        },
+        {
+            "id": 6,
+            "SkillUnlock": 3,
+            "level": 290,
+            "passiveSkillLevel": 2,
+            "skillLevel": 5,
+            "evolutionLevel": 3,
+            "breakLevel": 4
+        },
+        {
+            "id": 7,
+            "SkillUnlock": 3,
+            "level": 290,
+            "passiveSkillLevel": 2,
+            "skillLevel": 5,
+            "evolutionLevel": 3,
+            "breakLevel": 4
+        }
+    ]
+}

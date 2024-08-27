@@ -1,0 +1,36 @@
+{
+    "Data": [
+        {
+            "hideDistance": 3.2,
+            "sceneObject": "InteractableObjs/base_gate/TitleEffect",
+            "id": 1
+        },
+        {
+            "hideDistance": 2.75,
+            "sceneObject": "InteractableObjs/base_soulfountain/TitleEffect",
+            "id": 2
+        },
+        {
+            "hideDistance": 2,
+            "sceneObject": "InteractableObjs/base_equipment/TitleEffect",
+            "id": 3
+        },
+        {
+            "hideDistance": 3,
+            "sceneObject": "InteractableObjs/base_quest/TitleEffect",
+            "id": 4
+        },
+        {
+            "hideDistance": 3,
+            "sceneObject": "InteractableObjs/base_memory/TitleEffect",
+            "id": 5
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}

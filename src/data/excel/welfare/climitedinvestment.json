@@ -1,0 +1,72 @@
+{
+    "Data": [
+        {
+            "rewardItems": 35001,
+            "payItems": 35001,
+            "activeID": 37001,
+            "nums": 7,
+            "id": 1,
+            "rItemsNums": 5,
+            "pItemsNums": 60,
+            "picID": 14526
+        },
+        {
+            "rewardItems": 35001,
+            "payItems": 35001,
+            "activeID": 37001,
+            "nums": 14,
+            "id": 2,
+            "rItemsNums": 5,
+            "pItemsNums": 128,
+            "picID": 14527
+        },
+        {
+            "rewardItems": 35001,
+            "payItems": 35001,
+            "activeID": 37002,
+            "nums": 7,
+            "id": 3,
+            "rItemsNums": 5,
+            "pItemsNums": 60,
+            "picID": 14526
+        },
+        {
+            "rewardItems": 35001,
+            "payItems": 35001,
+            "activeID": 37002,
+            "nums": 14,
+            "id": 4,
+            "rItemsNums": 5,
+            "pItemsNums": 128,
+            "picID": 14527
+        },
+        {
+            "rewardItems": 35001,
+            "payItems": 35001,
+            "activeID": 37003,
+            "nums": 7,
+            "id": 5,
+            "rItemsNums": 5,
+            "pItemsNums": 60,
+            "picID": 14526
+        },
+        {
+            "rewardItems": 35001,
+            "payItems": 35001,
+            "activeID": 37003,
+            "nums": 14,
+            "id": 6,
+            "rItemsNums": 5,
+            "pItemsNums": 128,
+            "picID": 14527
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+}

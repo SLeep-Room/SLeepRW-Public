@@ -1,0 +1,76 @@
+{
+    "AllIds": [
+        100,
+        200,
+        300,
+        400,
+        500,
+        600,
+        700
+    ],
+    "Data": {
+        "200": {
+            "id": 200,
+            "nameTextID": 800002,
+            "yardsheltericon": 12109,
+            "yardconstructionicon": 12101,
+            "yardconstructioniconlocked": 12105,
+            "sortID": 3,
+            "name": "异界之镜"
+        },
+        "700": {
+            "id": 700,
+            "nameTextID": 800191,
+            "yardsheltericon": 0,
+            "yardconstructionicon": 12349,
+            "yardconstructioniconlocked": 12349,
+            "sortID": 7,
+            "name": "音乐盒"
+        },
+        "600": {
+            "id": 600,
+            "nameTextID": 800172,
+            "yardsheltericon": 12351,
+            "yardconstructionicon": 12350,
+            "yardconstructioniconlocked": 12350,
+            "sortID": 6,
+            "name": "荧光屋"
+        },
+        "100": {
+            "id": 100,
+            "nameTextID": 800001,
+            "yardsheltericon": 0,
+            "yardconstructionicon": 0,
+            "yardconstructioniconlocked": 0,
+            "sortID": 1,
+            "name": "魔法树"
+        },
+        "500": {
+            "id": 500,
+            "nameTextID": 800005,
+            "yardsheltericon": 12107,
+            "yardconstructionicon": 12102,
+            "yardconstructioniconlocked": 12106,
+            "sortID": 5,
+            "name": "魔女小屋"
+        },
+        "400": {
+            "id": 400,
+            "nameTextID": 800004,
+            "yardsheltericon": 12108,
+            "yardconstructionicon": 12100,
+            "yardconstructioniconlocked": 12104,
+            "sortID": 4,
+            "name": "炼金所"
+        },
+        "300": {
+            "id": 300,
+            "nameTextID": 800003,
+            "yardsheltericon": 0,
+            "yardconstructionicon": 12099,
+            "yardconstructioniconlocked": 12103,
+            "sortID": 2,
+            "name": "萤火灯台"
+        }
+    }
+}

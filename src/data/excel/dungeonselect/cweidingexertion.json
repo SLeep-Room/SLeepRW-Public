@@ -1,0 +1,14 @@
+{
+    "AllIds": [
+        1
+    ],
+    "Data": [
+        {
+            "weekfreetime": 10,
+            "weekPhysical": 10,
+            "dayfreetime": 5,
+            "id": 1,
+            "dayPhysical": 10
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "Data": {
+        "10008": {
+            "childservice": [],
+            "id": 10008,
+            "effect": 0,
+            "servicedescribe": "",
+            "quick": 1,
+            "isrepeat": 0,
+            "severStr": ""
+        },
+        "10001": {
+            "childservice": [],
+            "id": 10001,
+            "effect": 0,
+            "servicedescribe": "",
+            "quick": 1,
+            "isrepeat": 0,
+            "severStr": ""
+        },
+        "10002": {
+            "childservice": [],
+            "id": 10002,
+            "effect": 0,
+            "servicedescribe": "",
+            "quick": 1,
+            "isrepeat": 0,
+            "severStr": ""
+        },
+        "10003": {
+            "childservice": [],
+            "id": 10003,
+            "effect": 0,
+            "servicedescribe": "",
+            "quick": 1,
+            "isrepeat": 0,
+            "severStr": ""
+        },
+        "10004": {
+            "childservice": [],
+            "id": 10004,
+            "effect": 0,
+            "servicedescribe": "",
+            "quick": 1,
+            "isrepeat": 0,
+            "severStr": ""
+        },
+        "10005": {
+            "childservice": [],
+            "id": 10005,
+            "effect": 0,
+            "servicedescribe": "",
+            "quick": 1,
+            "isrepeat": 0,
+            "severStr": ""
+        },
+        "10006": {
+            "childservice": [],
+            "id": 10006,
+            "effect": 0,
+            "servicedescribe": "",
+            "quick": 1,
+            "isrepeat": 1,
+            "severStr": ""
+        },
+        "10007": {
+            "childservice": [],
+            "id": 10007,
+            "effect": 0,
+            "servicedescribe": "",
+            "quick": 1,
+            "isrepeat": 1,
+            "severStr": ""
+        }
+    },
+    "AllIds": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008
+    ]
+}

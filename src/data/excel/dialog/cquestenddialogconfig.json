@@ -1,0 +1,81 @@
+{
+    "Data": {
+        "1": {
+            "dialogbox": 1,
+            "Next_id": 2,
+            "Emotion_id": 1,
+            "time": "0.001",
+            "NPC_ShapeID": 10,
+            "contentTextID": 202058,
+            "NPC_NameTextID": 200001,
+            "summary": 4,
+            "animation": "",
+            "SkipTime": 5,
+            "id": 1,
+            "Voice_id": 0
+        },
+        "2": {
+            "dialogbox": 1,
+            "Next_id": 3,
+            "Emotion_id": 1,
+            "time": "0.001",
+            "NPC_ShapeID": 10,
+            "contentTextID": 202059,
+            "NPC_NameTextID": 200001,
+            "summary": 10,
+            "animation": "",
+            "SkipTime": 5,
+            "id": 2,
+            "Voice_id": 0
+        },
+        "3": {
+            "dialogbox": 1,
+            "Next_id": 0,
+            "Emotion_id": 1,
+            "time": "0.001",
+            "NPC_ShapeID": 10,
+            "contentTextID": 202060,
+            "NPC_NameTextID": 200001,
+            "summary": 10,
+            "animation": "",
+            "SkipTime": 5,
+            "id": 3,
+            "Voice_id": 0
+        },
+        "5": {
+            "dialogbox": 1,
+            "Next_id": 6,
+            "Emotion_id": 1,
+            "time": "0.001",
+            "NPC_ShapeID": 10,
+            "contentTextID": 202062,
+            "NPC_NameTextID": 200001,
+            "summary": 10,
+            "animation": "",
+            "SkipTime": 5,
+            "id": 5,
+            "Voice_id": 0
+        },
+        "6": {
+            "dialogbox": 1,
+            "Next_id": 0,
+            "Emotion_id": 1,
+            "time": "0.001",
+            "NPC_ShapeID": 10,
+            "contentTextID": 202063,
+            "NPC_NameTextID": 200001,
+            "summary": 14,
+            "animation": "",
+            "SkipTime": 5,
+            "id": 6,
+            "Voice_id": 0
+        }
+    },
+    "AllIds": [
+        1,
+        2,
+        3,
+        5,
+        6
+    ]
+}

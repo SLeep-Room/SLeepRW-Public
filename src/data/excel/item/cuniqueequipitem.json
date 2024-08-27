@@ -1,0 +1,1116 @@
+{
+    "Data": {
+        "95104": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 104,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95104,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95105": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 105,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95105,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95106": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 106,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95106,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95107": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 107,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95107,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95108": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 108,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95108,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95109": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 109,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95109,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95111": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 111,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95111,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95112": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 112,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95112,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95113": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 113,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95113,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95115": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 115,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95115,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95116": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 116,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95116,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95117": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 117,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95117,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95118": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 118,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95118,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95119": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 119,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95119,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95120": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 120,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95120,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95121": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 121,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95121,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95122": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 122,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95122,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95123": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 123,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95123,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95124": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 124,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95124,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95126": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 126,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95126,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95130": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 130,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95130,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95006": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 6,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95006,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95008": {
+            "abilityValue": [
+                300,
+                20
+            ],
+            "roleid": 8,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95008,
+            "abilityID": [
+                20,
+                60
+            ]
+        },
+        "95010": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 10,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95010,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95011": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 11,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95011,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95012": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 12,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95012,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95013": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 13,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95013,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95017": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 17,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95017,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95023": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 23,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95023,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95025": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 25,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95025,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95029": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 29,
+            "unlockjump": 2,
+            "initMagnify": 5,
+            "id": 95029,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95030": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 30,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95030,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95033": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 33,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95033,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95034": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 34,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95034,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95038": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 38,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95038,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95039": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 39,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95039,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95041": {
+            "abilityValue": [
+                50,
+                20
+            ],
+            "roleid": 41,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95041,
+            "abilityID": [
+                30,
+                60
+            ]
+        },
+        "95042": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 42,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95042,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95043": {
+            "abilityValue": [
+                50,
+                20
+            ],
+            "roleid": 43,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95043,
+            "abilityID": [
+                30,
+                50
+            ]
+        },
+        "95047": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 47,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95047,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95048": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 48,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95048,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95051": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 51,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95051,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95053": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 53,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95053,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95055": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 55,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95055,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95056": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 56,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95056,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95059": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 59,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95059,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95063": {
+            "abilityValue": [
+                20,
+                20
+            ],
+            "roleid": 63,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95063,
+            "abilityID": [
+                50,
+                60
+            ]
+        },
+        "95064": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 64,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95064,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95065": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 65,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95065,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95066": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 66,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95066,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95069": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 69,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95069,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95070": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 70,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95070,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95071": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 71,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95071,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95072": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 72,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95072,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95079": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 79,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95079,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95080": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 80,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95080,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95081": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 81,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95081,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95082": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 82,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95082,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95084": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 84,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95084,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95085": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 85,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95085,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95088": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 88,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95088,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95089": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 89,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95089,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95090": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 90,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95090,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95091": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 91,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95091,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95092": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 92,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95092,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95093": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 93,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95093,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95094": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 94,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95094,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95097": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 97,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95097,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95098": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 98,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95098,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95099": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 99,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95099,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95100": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 100,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95100,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95101": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 101,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95101,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95102": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 102,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95102,
+            "abilityID": [
+                20,
+                30
+            ]
+        },
+        "95103": {
+            "abilityValue": [
+                300,
+                50
+            ],
+            "roleid": 103,
+            "unlockjump": 1,
+            "initMagnify": 5,
+            "id": 95103,
+            "abilityID": [
+                20,
+                30
+            ]
+        }
+    },
+    "AllIds": [
+        95006,
+        95008,
+        95010,
+        95011,
+        95012,
+        95013,
+        95017,
+        95023,
+        95025,
+        95029,
+        95030,
+        95033,
+        95034,
+        95038,
+        95039,
+        95041,
+        95042,
+        95043,
+        95047,
+        95048,
+        95051,
+        95053,
+        95055,
+        95056,
+        95059,
+        95063,
+        95064,
+        95065,
+        95066,
+        95069,
+        95070,
+        95071,
+        95072,
+        95079,
+        95080,
+        95081,
+        95082,
+        95084,
+        95085,
+        95088,
+        95089,
+        95090,
+        95091,
+        95092,
+        95093,
+        95094,
+        95097,
+        95098,
+        95099,
+        95100,
+        95101,
+        95102,
+        95103,
+        95104,
+        95105,
+        95106,
+        95107,
+        95108,
+        95109,
+        95111,
+        95112,
+        95113,
+        95115,
+        95116,
+        95117,
+        95118,
+        95119,
+        95120,
+        95121,
+        95122,
+        95123,
+        95124,
+        95126,
+        95130
+    ]
+}

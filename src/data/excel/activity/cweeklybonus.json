@@ -1,0 +1,62 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "neededNum": 1,
+            "rewardNum": 500000,
+            "typeID": 1,
+            "rewardID": 35002
+        },
+        {
+            "id": 2,
+            "neededNum": 3,
+            "rewardNum": 50,
+            "typeID": 1,
+            "rewardID": 79001
+        },
+        {
+            "id": 3,
+            "neededNum": 5,
+            "rewardNum": 10,
+            "typeID": 1,
+            "rewardID": 79002
+        },
+        {
+            "id": 4,
+            "neededNum": 7,
+            "rewardNum": 1,
+            "typeID": 1,
+            "rewardID": 70002
+        },
+        {
+            "id": 5,
+            "neededNum": 10,
+            "rewardNum": 200,
+            "typeID": 1,
+            "rewardID": 35008
+        },
+        {
+            "id": 6,
+            "neededNum": 15,
+            "rewardNum": 200,
+            "typeID": 1,
+            "rewardID": 35008
+        },
+        {
+            "id": 7,
+            "neededNum": 20,
+            "rewardNum": 1,
+            "typeID": 1,
+            "rewardID": 30076
+        }
+    ]
+}

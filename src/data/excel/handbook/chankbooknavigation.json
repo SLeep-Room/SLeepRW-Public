@@ -1,0 +1,158 @@
+{
+    "Data": [
+        {
+            "teamBtn": 1,
+            "groupID": 2,
+            "camParam": 2,
+            "id": 1,
+            "regionBtn": 1
+        },
+        {
+            "teamBtn": 2,
+            "groupID": 3,
+            "camParam": 3,
+            "id": 2,
+            "regionBtn": 1
+        },
+        {
+            "teamBtn": 3,
+            "groupID": 4,
+            "camParam": 4,
+            "id": 3,
+            "regionBtn": 1
+        },
+        {
+            "teamBtn": 4,
+            "groupID": 5,
+            "camParam": 5,
+            "id": 4,
+            "regionBtn": 1
+        },
+        {
+            "teamBtn": 5,
+            "groupID": 6,
+            "camParam": 6,
+            "id": 5,
+            "regionBtn": 1
+        },
+        {
+            "teamBtn": 1,
+            "groupID": 7,
+            "camParam": 7,
+            "id": 6,
+            "regionBtn": 2
+        },
+        {
+            "teamBtn": 2,
+            "groupID": 8,
+            "camParam": 8,
+            "id": 7,
+            "regionBtn": 2
+        },
+        {
+            "teamBtn": 3,
+            "groupID": 9,
+            "camParam": 9,
+            "id": 8,
+            "regionBtn": 2
+        },
+        {
+            "teamBtn": 4,
+            "groupID": 10,
+            "camParam": 10,
+            "id": 9,
+            "regionBtn": 2
+        },
+        {
+            "teamBtn": 1,
+            "groupID": 11,
+            "camParam": 11,
+            "id": 10,
+            "regionBtn": 3
+        },
+        {
+            "teamBtn": 2,
+            "groupID": 12,
+            "camParam": 12,
+            "id": 11,
+            "regionBtn": 3
+        },
+        {
+            "teamBtn": 3,
+            "groupID": 13,
+            "camParam": 13,
+            "id": 12,
+            "regionBtn": 3
+        },
+        {
+            "teamBtn": 1,
+            "groupID": 14,
+            "camParam": 14,
+            "id": 13,
+            "regionBtn": 4
+        },
+        {
+            "teamBtn": 2,
+            "groupID": 15,
+            "camParam": 15,
+            "id": 14,
+            "regionBtn": 4
+        },
+        {
+            "teamBtn": 3,
+            "groupID": 16,
+            "camParam": 16,
+            "id": 15,
+            "regionBtn": 4
+        },
+        {
+            "teamBtn": 1,
+            "groupID": 17,
+            "camParam": 17,
+            "id": 16,
+            "regionBtn": 5
+        },
+        {
+            "teamBtn": 2,
+            "groupID": 18,
+            "camParam": 18,
+            "id": 17,
+            "regionBtn": 5
+        },
+        {
+            "teamBtn": 3,
+            "groupID": 19,
+            "camParam": 19,
+            "id": 18,
+            "regionBtn": 5
+        },
+        {
+            "teamBtn": 4,
+            "groupID": 20,
+            "camParam": 20,
+            "id": 19,
+            "regionBtn": 5
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+    ]
+}

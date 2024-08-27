@@ -1,0 +1,78 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        11,
+        12,
+        13,
+        14
+    ],
+    "Data": {
+        "12": {
+            "nameid": 501840,
+            "type": 2,
+            "sort": 6,
+            "typename": 501838,
+            "skillattr": 2,
+            "id": 12
+        },
+        "1": {
+            "nameid": 501834,
+            "type": 1,
+            "sort": 1,
+            "typename": 501836,
+            "skillattr": 0,
+            "id": 1
+        },
+        "2": {
+            "nameid": 501831,
+            "type": 1,
+            "sort": 2,
+            "typename": 501836,
+            "skillattr": 0,
+            "id": 2
+        },
+        "3": {
+            "nameid": 501832,
+            "type": 1,
+            "sort": 3,
+            "typename": 501836,
+            "skillattr": 0,
+            "id": 3
+        },
+        "4": {
+            "nameid": 501833,
+            "type": 1,
+            "sort": 4,
+            "typename": 501836,
+            "skillattr": 0,
+            "id": 4
+        },
+        "13": {
+            "nameid": 501841,
+            "type": 2,
+            "sort": 7,
+            "typename": 501838,
+            "skillattr": 3,
+            "id": 13
+        },
+        "14": {
+            "nameid": 501842,
+            "type": 2,
+            "sort": 8,
+            "typename": 501838,
+            "skillattr": 4,
+            "id": 14
+        },
+        "11": {
+            "nameid": 501839,
+            "type": 2,
+            "sort": 5,
+            "typename": 501838,
+            "skillattr": 1,
+            "id": 11
+        }
+    }
+}

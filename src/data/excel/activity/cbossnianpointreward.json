@@ -1,0 +1,294 @@
+{
+    "Data": {
+        "4001": {
+            "damage": 500000,
+            "id": 4001,
+            "battleRewardId": [
+                35002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                100000
+            ]
+        },
+        "4002": {
+            "damage": 1000000,
+            "id": 4002,
+            "battleRewardId": [
+                35002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                100000
+            ]
+        },
+        "4003": {
+            "damage": 5000000,
+            "id": 4003,
+            "battleRewardId": [
+                74004
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "4004": {
+            "damage": 10000000,
+            "id": 4004,
+            "battleRewardId": [
+                74005
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "4005": {
+            "damage": 20000000,
+            "id": 4005,
+            "battleRewardId": [
+                70001
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "4006": {
+            "damage": -1,
+            "id": 4006,
+            "battleRewardId": [
+                79002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "1001": {
+            "damage": 500000,
+            "id": 1001,
+            "battleRewardId": [
+                35002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                100000
+            ]
+        },
+        "1002": {
+            "damage": 1000000,
+            "id": 1002,
+            "battleRewardId": [
+                35002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                100000
+            ]
+        },
+        "1003": {
+            "damage": 5000000,
+            "id": 1003,
+            "battleRewardId": [
+                75018
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "1004": {
+            "damage": 10000000,
+            "id": 1004,
+            "battleRewardId": [
+                75019
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "1005": {
+            "damage": 20000000,
+            "id": 1005,
+            "battleRewardId": [
+                70001
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "1006": {
+            "damage": -1,
+            "id": 1006,
+            "battleRewardId": [
+                79002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "2001": {
+            "damage": 500000,
+            "id": 2001,
+            "battleRewardId": [
+                35002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                100000
+            ]
+        },
+        "2002": {
+            "damage": 1000000,
+            "id": 2002,
+            "battleRewardId": [
+                35002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                100000
+            ]
+        },
+        "2003": {
+            "damage": 5000000,
+            "id": 2003,
+            "battleRewardId": [
+                75018
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "2004": {
+            "damage": 10000000,
+            "id": 2004,
+            "battleRewardId": [
+                75019
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "2005": {
+            "damage": 20000000,
+            "id": 2005,
+            "battleRewardId": [
+                70001
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "2006": {
+            "damage": -1,
+            "id": 2006,
+            "battleRewardId": [
+                79002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "3001": {
+            "damage": 500000,
+            "id": 3001,
+            "battleRewardId": [
+                35002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                100000
+            ]
+        },
+        "3002": {
+            "damage": 1000000,
+            "id": 3002,
+            "battleRewardId": [
+                35002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                100000
+            ]
+        },
+        "3003": {
+            "damage": 5000000,
+            "id": 3003,
+            "battleRewardId": [
+                75018
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "3004": {
+            "damage": 10000000,
+            "id": 3004,
+            "battleRewardId": [
+                75019
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "3005": {
+            "damage": 20000000,
+            "id": 3005,
+            "battleRewardId": [
+                70001
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        },
+        "3006": {
+            "damage": -1,
+            "id": 3006,
+            "battleRewardId": [
+                79002
+            ],
+            "conversionRatio": 1000,
+            "battleRewardNum": [
+                1
+            ]
+        }
+    },
+    "AllIds": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        3001,
+        3002,
+        3003,
+        3004,
+        3005,
+        3006,
+        4001,
+        4002,
+        4003,
+        4004,
+        4005,
+        4006
+    ]
+}

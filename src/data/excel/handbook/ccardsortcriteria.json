@@ -1,0 +1,27 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3
+    ],
+    "Data": [
+        {
+            "weight": 1,
+            "id": 1,
+            "nameid": 1301081,
+            "sort": 1
+        },
+        {
+            "weight": 2,
+            "id": 2,
+            "nameid": 1301077,
+            "sort": 2
+        },
+        {
+            "weight": 3,
+            "id": 3,
+            "nameid": 1301078,
+            "sort": 3
+        }
+    ]
+}

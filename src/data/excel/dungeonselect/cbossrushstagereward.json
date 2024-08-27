@@ -1,0 +1,96 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "Data": [
+        {
+            "rewardid": [
+                35008,
+                74000,
+                76000
+            ],
+            "rewardnum": [
+                50,
+                2,
+                5
+            ],
+            "stagecondition": 0,
+            "id": 1
+        },
+        {
+            "rewardid": [
+                35002,
+                74000,
+                76000
+            ],
+            "rewardnum": [
+                40000,
+                4,
+                5
+            ],
+            "stagecondition": 2,
+            "id": 2
+        },
+        {
+            "rewardid": [
+                35008,
+                74001,
+                76001
+            ],
+            "rewardnum": [
+                50,
+                2,
+                5
+            ],
+            "stagecondition": 4,
+            "id": 3
+        },
+        {
+            "rewardid": [
+                35002,
+                74001,
+                76001
+            ],
+            "rewardnum": [
+                80000,
+                4,
+                5
+            ],
+            "stagecondition": 6,
+            "id": 4
+        },
+        {
+            "rewardid": [
+                35002,
+                74002,
+                76002
+            ],
+            "rewardnum": [
+                100000,
+                2,
+                5
+            ],
+            "stagecondition": 8,
+            "id": 5
+        },
+        {
+            "rewardid": [
+                35008,
+                74002,
+                76002
+            ],
+            "rewardnum": [
+                100,
+                4,
+                5
+            ],
+            "stagecondition": 10,
+            "id": 6
+        }
+    ]
+}

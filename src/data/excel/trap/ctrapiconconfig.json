@@ -1,0 +1,118 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "Stick"
+        },
+        {
+            "id": 2,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "FixedPos"
+        },
+        {
+            "id": 3,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "LightSource"
+        },
+        {
+            "id": 4,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "Mirror"
+        },
+        {
+            "id": 5,
+            "imageId": 7,
+            "display": 0,
+            "switchName": "JailBreaker"
+        },
+        {
+            "id": 6,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "DualStick"
+        },
+        {
+            "id": 7,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "Skate"
+        },
+        {
+            "id": 8,
+            "imageId": 7,
+            "display": 0,
+            "switchName": "Ice"
+        },
+        {
+            "id": 9,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "UnorderedCollection"
+        },
+        {
+            "id": 10,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "OrderedCollection"
+        },
+        {
+            "id": 11,
+            "imageId": 7,
+            "display": 0,
+            "switchName": "Collector"
+        },
+        {
+            "id": 12,
+            "imageId": 7,
+            "display": 1,
+            "switchName": "OneWayStick"
+        },
+        {
+            "id": 13,
+            "imageId": 7,
+            "display": 0,
+            "switchName": "Catapult"
+        },
+        {
+            "id": 14,
+            "imageId": 7,
+            "display": 0,
+            "switchName": "ImpactPoint"
+        },
+        {
+            "id": 15,
+            "imageId": 7,
+            "display": 0,
+            "switchName": "Wayout"
+        },
+        {
+            "id": 16,
+            "imageId": 7,
+            "display": 0,
+            "switchName": "Flipboard"
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+    ]
+}

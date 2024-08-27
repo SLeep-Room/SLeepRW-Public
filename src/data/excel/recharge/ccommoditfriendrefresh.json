@@ -1,0 +1,30 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "Data": [
+        {
+            "Price": 0,
+            "id": 1,
+            "MoneyType": 35009
+        },
+        {
+            "Price": 40,
+            "id": 2,
+            "MoneyType": 35009
+        },
+        {
+            "Price": 80,
+            "id": 3,
+            "MoneyType": 35009
+        },
+        {
+            "Price": 200,
+            "id": 4,
+            "MoneyType": 35009
+        }
+    ]
+}

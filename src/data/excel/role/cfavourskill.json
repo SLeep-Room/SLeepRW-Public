@@ -1,0 +1,2856 @@
+{
+    "AllIds": [
+        21,
+        22,
+        23,
+        24,
+        31,
+        32,
+        33,
+        34,
+        41,
+        42,
+        43,
+        44,
+        51,
+        52,
+        53,
+        54,
+        61,
+        62,
+        63,
+        64,
+        71,
+        72,
+        73,
+        74,
+        81,
+        82,
+        83,
+        84,
+        91,
+        92,
+        93,
+        94,
+        101,
+        102,
+        103,
+        104,
+        111,
+        112,
+        113,
+        114,
+        121,
+        122,
+        123,
+        124,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144,
+        151,
+        152,
+        153,
+        154,
+        161,
+        162,
+        163,
+        164,
+        171,
+        172,
+        173,
+        174,
+        181,
+        182,
+        183,
+        184,
+        191,
+        192,
+        193,
+        194,
+        201,
+        202,
+        203,
+        204,
+        211,
+        212,
+        213,
+        214,
+        221,
+        222,
+        223,
+        224,
+        231,
+        232,
+        233,
+        234,
+        241,
+        242,
+        243,
+        244,
+        251,
+        252,
+        253,
+        254,
+        261,
+        262,
+        263,
+        264,
+        271,
+        272,
+        273,
+        274,
+        281,
+        282,
+        283,
+        284,
+        291,
+        292,
+        293,
+        294,
+        301,
+        302,
+        303,
+        304,
+        321,
+        322,
+        323,
+        324,
+        331,
+        332,
+        333,
+        334,
+        341,
+        342,
+        343,
+        344,
+        351,
+        352,
+        353,
+        354,
+        361,
+        362,
+        363,
+        364,
+        381,
+        382,
+        383,
+        384,
+        391,
+        392,
+        393,
+        394,
+        401,
+        402,
+        403,
+        404,
+        411,
+        412,
+        413,
+        414,
+        421,
+        422,
+        423,
+        424,
+        431,
+        432,
+        433,
+        434,
+        441,
+        442,
+        443,
+        444,
+        451,
+        452,
+        453,
+        454,
+        461,
+        462,
+        463,
+        464,
+        471,
+        472,
+        473,
+        474,
+        481,
+        482,
+        483,
+        484,
+        491,
+        492,
+        493,
+        494,
+        501,
+        502,
+        503,
+        504,
+        511,
+        512,
+        513,
+        514,
+        521,
+        522,
+        523,
+        524,
+        531,
+        532,
+        533,
+        534,
+        541,
+        542,
+        543,
+        544,
+        551,
+        552,
+        553,
+        554,
+        561,
+        562,
+        563,
+        564,
+        571,
+        572,
+        573,
+        574,
+        581,
+        582,
+        583,
+        584,
+        591,
+        592,
+        593,
+        594,
+        601,
+        602,
+        603,
+        604,
+        611,
+        612,
+        613,
+        614,
+        621,
+        622,
+        623,
+        624,
+        631,
+        632,
+        633,
+        634,
+        641,
+        642,
+        643,
+        644,
+        651,
+        652,
+        653,
+        654,
+        661,
+        662,
+        663,
+        664,
+        671,
+        672,
+        673,
+        674,
+        681,
+        682,
+        683,
+        684,
+        691,
+        692,
+        693,
+        694,
+        701,
+        702,
+        703,
+        704,
+        711,
+        712,
+        713,
+        714,
+        721,
+        722,
+        723,
+        724,
+        731,
+        732,
+        733,
+        734,
+        741,
+        742,
+        743,
+        744,
+        751,
+        752,
+        753,
+        754,
+        761,
+        762,
+        763,
+        764,
+        781,
+        782,
+        783,
+        784,
+        791,
+        792,
+        793,
+        794,
+        801,
+        802,
+        803,
+        804,
+        811,
+        812,
+        813,
+        814,
+        821,
+        822,
+        823,
+        824,
+        831,
+        832,
+        833,
+        834,
+        841,
+        842,
+        843,
+        844,
+        851,
+        852,
+        853,
+        854,
+        861,
+        862,
+        863,
+        864,
+        881,
+        882,
+        883,
+        884,
+        891,
+        892,
+        893,
+        894,
+        901,
+        902,
+        903,
+        904,
+        911,
+        912,
+        913,
+        914,
+        921,
+        922,
+        923,
+        924,
+        931,
+        932,
+        933,
+        934,
+        941,
+        942,
+        943,
+        944,
+        951,
+        952,
+        953,
+        954,
+        971,
+        972,
+        973,
+        974,
+        981,
+        982,
+        983,
+        991,
+        992,
+        993,
+        994,
+        1001,
+        1002,
+        1003,
+        1004,
+        1011,
+        1012,
+        1013,
+        1014,
+        1021,
+        1022,
+        1023,
+        1024,
+        1031,
+        1032,
+        1033,
+        1034,
+        1041,
+        1042,
+        1043,
+        1044,
+        1051,
+        1052,
+        1053,
+        1054,
+        1061,
+        1062,
+        1063,
+        1064,
+        1071,
+        1072,
+        1073,
+        1074,
+        1081,
+        1082,
+        1083,
+        1084,
+        1091,
+        1092,
+        1093,
+        1094,
+        1101,
+        1102,
+        1103,
+        1104,
+        1111,
+        1112,
+        1113,
+        1114,
+        1121,
+        1122,
+        1123,
+        1124,
+        1131,
+        1132,
+        1133,
+        1134,
+        1151,
+        1152,
+        1153,
+        1154,
+        1161,
+        1162,
+        1163,
+        1164,
+        1171,
+        1172,
+        1173,
+        1174,
+        1181,
+        1182,
+        1183,
+        1184,
+        1191,
+        1192,
+        1193,
+        1194,
+        1201,
+        1202,
+        1203,
+        1204,
+        1211,
+        1212,
+        1213,
+        1214,
+        1221,
+        1222,
+        1223,
+        1224,
+        1231,
+        1232,
+        1233,
+        1234,
+        1241,
+        1242,
+        1243,
+        1244,
+        1261,
+        1262,
+        1263,
+        1264,
+        1301,
+        1302,
+        1303,
+        1304
+    ],
+    "Data": {
+        "512": {
+            "id": 512,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "513": {
+            "id": 513,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "514": {
+            "id": 514,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1031": {
+            "id": 1031,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "1032": {
+            "id": 1032,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "521": {
+            "id": 521,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "522": {
+            "id": 522,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "523": {
+            "id": 523,
+            "skillattributiontxt": 302839,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>194</color>"
+        },
+        "524": {
+            "id": 524,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "1041": {
+            "id": 1041,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1042": {
+            "id": 1042,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "531": {
+            "id": 531,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "532": {
+            "id": 532,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "21": {
+            "id": 21,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "22": {
+            "id": 22,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "23": {
+            "id": 23,
+            "skillattributiontxt": 302839,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>194</color>"
+        },
+        "24": {
+            "id": 24,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "1051": {
+            "id": 1051,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1052": {
+            "id": 1052,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "541": {
+            "id": 541,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "542": {
+            "id": 542,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "31": {
+            "id": 31,
+            "skillattributiontxt": 302841,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>64</color>"
+        },
+        "32": {
+            "id": 32,
+            "skillattributiontxt": 302842,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>64</color>"
+        },
+        "33": {
+            "id": 33,
+            "skillattributiontxt": 302843,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1360</color>"
+        },
+        "34": {
+            "id": 34,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>275</color>"
+        },
+        "1061": {
+            "id": 1061,
+            "skillattributiontxt": 302853,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>61</color>"
+        },
+        "1062": {
+            "id": 1062,
+            "skillattributiontxt": 302854,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>61</color>"
+        },
+        "551": {
+            "id": 551,
+            "skillattributiontxt": 302883,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>41</color>"
+        },
+        "552": {
+            "id": 552,
+            "skillattributiontxt": 302884,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>41</color>"
+        },
+        "41": {
+            "id": 41,
+            "skillattributiontxt": 302845,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>48</color>"
+        },
+        "42": {
+            "id": 42,
+            "skillattributiontxt": 302846,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>48</color>"
+        },
+        "43": {
+            "id": 43,
+            "skillattributiontxt": 302847,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>183</color>"
+        },
+        "44": {
+            "id": 44,
+            "skillattributiontxt": 302848,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>918</color>"
+        },
+        "1071": {
+            "id": 1071,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1072": {
+            "id": 1072,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "561": {
+            "id": 561,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "562": {
+            "id": 562,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "51": {
+            "id": 51,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "52": {
+            "id": 52,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "53": {
+            "id": 53,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "54": {
+            "id": 54,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "1081": {
+            "id": 1081,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1082": {
+            "id": 1082,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "571": {
+            "id": 571,
+            "skillattributiontxt": 302891,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>122</color>"
+        },
+        "572": {
+            "id": 572,
+            "skillattributiontxt": 302892,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>122</color>"
+        },
+        "61": {
+            "id": 61,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "62": {
+            "id": 62,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "63": {
+            "id": 63,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "64": {
+            "id": 64,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "1091": {
+            "id": 1091,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1092": {
+            "id": 1092,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "581": {
+            "id": 581,
+            "skillattributiontxt": 302870,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>38</color>"
+        },
+        "582": {
+            "id": 582,
+            "skillattributiontxt": 302871,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>38</color>"
+        },
+        "71": {
+            "id": 71,
+            "skillattributiontxt": 302853,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>61</color>"
+        },
+        "72": {
+            "id": 72,
+            "skillattributiontxt": 302854,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>61</color>"
+        },
+        "73": {
+            "id": 73,
+            "skillattributiontxt": 302855,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1285</color>"
+        },
+        "74": {
+            "id": 74,
+            "skillattributiontxt": 302856,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>260</color>"
+        },
+        "1101": {
+            "id": 1101,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1102": {
+            "id": 1102,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "591": {
+            "id": 591,
+            "skillattributiontxt": 302895,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>136</color>"
+        },
+        "592": {
+            "id": 592,
+            "skillattributiontxt": 302896,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>136</color>"
+        },
+        "81": {
+            "id": 81,
+            "skillattributiontxt": 302857,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>144</color>"
+        },
+        "82": {
+            "id": 82,
+            "skillattributiontxt": 302858,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>144</color>"
+        },
+        "83": {
+            "id": 83,
+            "skillattributiontxt": 302859,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>144</color>"
+        },
+        "84": {
+            "id": 84,
+            "skillattributiontxt": 302860,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>2160</color>"
+        },
+        "1111": {
+            "id": 1111,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "1112": {
+            "id": 1112,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "601": {
+            "id": 601,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "602": {
+            "id": 602,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "91": {
+            "id": 91,
+            "skillattributiontxt": 302845,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>48</color>"
+        },
+        "92": {
+            "id": 92,
+            "skillattributiontxt": 302846,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>48</color>"
+        },
+        "93": {
+            "id": 93,
+            "skillattributiontxt": 302847,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>183</color>"
+        },
+        "94": {
+            "id": 94,
+            "skillattributiontxt": 302848,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>918</color>"
+        },
+        "1121": {
+            "id": 1121,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1122": {
+            "id": 1122,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "611": {
+            "id": 611,
+            "skillattributiontxt": 302887,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>68</color>"
+        },
+        "612": {
+            "id": 612,
+            "skillattributiontxt": 302888,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>68</color>"
+        },
+        "101": {
+            "id": 101,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "102": {
+            "id": 102,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "103": {
+            "id": 103,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "104": {
+            "id": 104,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1131": {
+            "id": 1131,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1132": {
+            "id": 1132,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "621": {
+            "id": 621,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "622": {
+            "id": 622,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "111": {
+            "id": 111,
+            "skillattributiontxt": 302857,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>144</color>"
+        },
+        "112": {
+            "id": 112,
+            "skillattributiontxt": 302859,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>144</color>"
+        },
+        "113": {
+            "id": 113,
+            "skillattributiontxt": 302858,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>144</color>"
+        },
+        "114": {
+            "id": 114,
+            "skillattributiontxt": 302860,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>2160</color>"
+        },
+        "631": {
+            "id": 631,
+            "skillattributiontxt": 302857,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>144</color>"
+        },
+        "632": {
+            "id": 632,
+            "skillattributiontxt": 302858,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>144</color>"
+        },
+        "121": {
+            "id": 121,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "122": {
+            "id": 122,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "123": {
+            "id": 123,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "124": {
+            "id": 124,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1151": {
+            "id": 1151,
+            "skillattributiontxt": 302866,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>43</color>"
+        },
+        "1152": {
+            "id": 1152,
+            "skillattributiontxt": 302867,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>43</color>"
+        },
+        "641": {
+            "id": 641,
+            "skillattributiontxt": 302870,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>38</color>"
+        },
+        "642": {
+            "id": 642,
+            "skillattributiontxt": 302871,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>38</color>"
+        },
+        "131": {
+            "id": 131,
+            "skillattributiontxt": 302866,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>43</color>"
+        },
+        "132": {
+            "id": 132,
+            "skillattributiontxt": 302867,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>43</color>"
+        },
+        "133": {
+            "id": 133,
+            "skillattributiontxt": 302868,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>864</color>"
+        },
+        "134": {
+            "id": 134,
+            "skillattributiontxt": 302869,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>360</color>"
+        },
+        "1161": {
+            "id": 1161,
+            "skillattributiontxt": 302879,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>129</color>"
+        },
+        "1162": {
+            "id": 1162,
+            "skillattributiontxt": 302881,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>129</color>"
+        },
+        "651": {
+            "id": 651,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "652": {
+            "id": 652,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "141": {
+            "id": 141,
+            "skillattributiontxt": 302870,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>38</color>"
+        },
+        "142": {
+            "id": 142,
+            "skillattributiontxt": 302871,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>38</color>"
+        },
+        "143": {
+            "id": 143,
+            "skillattributiontxt": 302872,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>777</color>"
+        },
+        "144": {
+            "id": 144,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1171": {
+            "id": 1171,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "1172": {
+            "id": 1172,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "661": {
+            "id": 661,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "662": {
+            "id": 662,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "151": {
+            "id": 151,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "152": {
+            "id": 152,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "153": {
+            "id": 153,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "154": {
+            "id": 154,
+            "skillattributiontxt": 302873,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>291</color>"
+        },
+        "1304": {
+            "id": 1304,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1181": {
+            "id": 1181,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1182": {
+            "id": 1182,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "671": {
+            "id": 671,
+            "skillattributiontxt": 302841,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "672": {
+            "id": 672,
+            "skillattributiontxt": 302842,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "161": {
+            "id": 161,
+            "skillattributiontxt": 302842,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>64</color>"
+        },
+        "162": {
+            "id": 162,
+            "skillattributiontxt": 302841,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>64</color>"
+        },
+        "163": {
+            "id": 163,
+            "skillattributiontxt": 302843,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1360</color>"
+        },
+        "164": {
+            "id": 164,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>275</color>"
+        },
+        "1303": {
+            "id": 1303,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1084": {
+            "id": 1084,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1191": {
+            "id": 1191,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1192": {
+            "id": 1192,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "681": {
+            "id": 681,
+            "skillattributiontxt": 302846,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>48</color>"
+        },
+        "682": {
+            "id": 682,
+            "skillattributiontxt": 302848,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>918</color>"
+        },
+        "171": {
+            "id": 171,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "172": {
+            "id": 172,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "173": {
+            "id": 173,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "174": {
+            "id": 174,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "1093": {
+            "id": 1093,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1264": {
+            "id": 1264,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1201": {
+            "id": 1201,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1202": {
+            "id": 1202,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "691": {
+            "id": 691,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "692": {
+            "id": 692,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "181": {
+            "id": 181,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "182": {
+            "id": 182,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "183": {
+            "id": 183,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "184": {
+            "id": 184,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "1263": {
+            "id": 1263,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "1184": {
+            "id": 1184,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1211": {
+            "id": 1211,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1212": {
+            "id": 1212,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "701": {
+            "id": 701,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "702": {
+            "id": 702,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "191": {
+            "id": 191,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "192": {
+            "id": 192,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "193": {
+            "id": 193,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "194": {
+            "id": 194,
+            "skillattributiontxt": 302839,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>194</color>"
+        },
+        "1193": {
+            "id": 1193,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1244": {
+            "id": 1244,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1221": {
+            "id": 1221,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "1222": {
+            "id": 1222,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "711": {
+            "id": 711,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "712": {
+            "id": 712,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "201": {
+            "id": 201,
+            "skillattributiontxt": 302853,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>61</color>"
+        },
+        "202": {
+            "id": 202,
+            "skillattributiontxt": 302854,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>61</color>"
+        },
+        "203": {
+            "id": 203,
+            "skillattributiontxt": 302855,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1285</color>"
+        },
+        "204": {
+            "id": 204,
+            "skillattributiontxt": 302856,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>260</color>"
+        },
+        "1243": {
+            "id": 1243,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1224": {
+            "id": 1224,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "1231": {
+            "id": 1231,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "1232": {
+            "id": 1232,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "721": {
+            "id": 721,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "722": {
+            "id": 722,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "211": {
+            "id": 211,
+            "skillattributiontxt": 302853,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>61</color>"
+        },
+        "212": {
+            "id": 212,
+            "skillattributiontxt": 302854,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>61</color>"
+        },
+        "213": {
+            "id": 213,
+            "skillattributiontxt": 302855,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1285</color>"
+        },
+        "214": {
+            "id": 214,
+            "skillattributiontxt": 302856,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>260</color>"
+        },
+        "1233": {
+            "id": 1233,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "1234": {
+            "id": 1234,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "1241": {
+            "id": 1241,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1242": {
+            "id": 1242,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "731": {
+            "id": 731,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "732": {
+            "id": 732,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "221": {
+            "id": 221,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "222": {
+            "id": 222,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "223": {
+            "id": 223,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "224": {
+            "id": 224,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "1223": {
+            "id": 1223,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "1214": {
+            "id": 1214,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1213": {
+            "id": 1213,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1204": {
+            "id": 1204,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "741": {
+            "id": 741,
+            "skillattributiontxt": 302841,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>64</color>"
+        },
+        "742": {
+            "id": 742,
+            "skillattributiontxt": 302842,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>64</color>"
+        },
+        "231": {
+            "id": 231,
+            "skillattributiontxt": 302857,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>144</color>"
+        },
+        "232": {
+            "id": 232,
+            "skillattributiontxt": 302859,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>144</color>"
+        },
+        "233": {
+            "id": 233,
+            "skillattributiontxt": 302858,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>144</color>"
+        },
+        "234": {
+            "id": 234,
+            "skillattributiontxt": 302860,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>2160</color>"
+        },
+        "1203": {
+            "id": 1203,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "1194": {
+            "id": 1194,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1261": {
+            "id": 1261,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1262": {
+            "id": 1262,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "751": {
+            "id": 751,
+            "skillattributiontxt": 302853,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>61</color>"
+        },
+        "752": {
+            "id": 752,
+            "skillattributiontxt": 302854,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>61</color>"
+        },
+        "241": {
+            "id": 241,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "242": {
+            "id": 242,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "243": {
+            "id": 243,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "244": {
+            "id": 244,
+            "skillattributiontxt": 302839,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>194</color>"
+        },
+        "1183": {
+            "id": 1183,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1174": {
+            "id": 1174,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "1173": {
+            "id": 1173,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "1164": {
+            "id": 1164,
+            "skillattributiontxt": 302882,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1944</color>"
+        },
+        "761": {
+            "id": 761,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "762": {
+            "id": 762,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "251": {
+            "id": 251,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "252": {
+            "id": 252,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "253": {
+            "id": 253,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "254": {
+            "id": 254,
+            "skillattributiontxt": 302878,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>307</color>"
+        },
+        "1163": {
+            "id": 1163,
+            "skillattributiontxt": 302880,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>129</color>"
+        },
+        "1154": {
+            "id": 1154,
+            "skillattributiontxt": 302869,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>360</color>"
+        },
+        "1153": {
+            "id": 1153,
+            "skillattributiontxt": 302868,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>864</color>"
+        },
+        "1134": {
+            "id": 1134,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1133": {
+            "id": 1133,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1124": {
+            "id": 1124,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "261": {
+            "id": 261,
+            "skillattributiontxt": 302870,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>38</color>"
+        },
+        "262": {
+            "id": 262,
+            "skillattributiontxt": 302871,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>38</color>"
+        },
+        "263": {
+            "id": 263,
+            "skillattributiontxt": 302872,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>777</color>"
+        },
+        "264": {
+            "id": 264,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1123": {
+            "id": 1123,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1114": {
+            "id": 1114,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "1113": {
+            "id": 1113,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "1104": {
+            "id": 1104,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "781": {
+            "id": 781,
+            "skillattributiontxt": 302841,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>64</color>"
+        },
+        "782": {
+            "id": 782,
+            "skillattributiontxt": 302842,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>64</color>"
+        },
+        "271": {
+            "id": 271,
+            "skillattributiontxt": 302879,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>129</color>"
+        },
+        "272": {
+            "id": 272,
+            "skillattributiontxt": 302880,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>129</color>"
+        },
+        "273": {
+            "id": 273,
+            "skillattributiontxt": 302881,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>129</color>"
+        },
+        "274": {
+            "id": 274,
+            "skillattributiontxt": 302882,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1944</color>"
+        },
+        "1103": {
+            "id": 1103,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1094": {
+            "id": 1094,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1301": {
+            "id": 1301,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1302": {
+            "id": 1302,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "791": {
+            "id": 791,
+            "skillattributiontxt": 302879,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>129</color>"
+        },
+        "792": {
+            "id": 792,
+            "skillattributiontxt": 302881,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>129</color>"
+        },
+        "281": {
+            "id": 281,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "282": {
+            "id": 282,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "283": {
+            "id": 283,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "284": {
+            "id": 284,
+            "skillattributiontxt": 302878,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>307</color>"
+        },
+        "1083": {
+            "id": 1083,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1074": {
+            "id": 1074,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1073": {
+            "id": 1073,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1064": {
+            "id": 1064,
+            "skillattributiontxt": 302856,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>260</color>"
+        },
+        "801": {
+            "id": 801,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "802": {
+            "id": 802,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "291": {
+            "id": 291,
+            "skillattributiontxt": 302866,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>43</color>"
+        },
+        "292": {
+            "id": 292,
+            "skillattributiontxt": 302867,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>43</color>"
+        },
+        "293": {
+            "id": 293,
+            "skillattributiontxt": 302868,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>864</color>"
+        },
+        "294": {
+            "id": 294,
+            "skillattributiontxt": 302869,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>360</color>"
+        },
+        "1063": {
+            "id": 1063,
+            "skillattributiontxt": 302855,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1285</color>"
+        },
+        "1054": {
+            "id": 1054,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "1053": {
+            "id": 1053,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1044": {
+            "id": 1044,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "811": {
+            "id": 811,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "812": {
+            "id": 812,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "301": {
+            "id": 301,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "302": {
+            "id": 302,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "303": {
+            "id": 303,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "304": {
+            "id": 304,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "1043": {
+            "id": 1043,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1034": {
+            "id": 1034,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "1033": {
+            "id": 1033,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "1024": {
+            "id": 1024,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "821": {
+            "id": 821,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "822": {
+            "id": 822,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "823": {
+            "id": 823,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "824": {
+            "id": 824,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "1023": {
+            "id": 1023,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "533": {
+            "id": 533,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "534": {
+            "id": 534,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1014": {
+            "id": 1014,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1013": {
+            "id": 1013,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "563": {
+            "id": 563,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "831": {
+            "id": 831,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "832": {
+            "id": 832,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "321": {
+            "id": 321,
+            "skillattributiontxt": 302870,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>38</color>"
+        },
+        "322": {
+            "id": 322,
+            "skillattributiontxt": 302871,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>38</color>"
+        },
+        "323": {
+            "id": 323,
+            "skillattributiontxt": 302872,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>777</color>"
+        },
+        "324": {
+            "id": 324,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "564": {
+            "id": 564,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "1004": {
+            "id": 1004,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "1003": {
+            "id": 1003,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "593": {
+            "id": 593,
+            "skillattributiontxt": 302897,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>136</color>"
+        },
+        "841": {
+            "id": 841,
+            "skillattributiontxt": 302866,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>43</color>"
+        },
+        "842": {
+            "id": 842,
+            "skillattributiontxt": 302867,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>43</color>"
+        },
+        "331": {
+            "id": 331,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "332": {
+            "id": 332,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "333": {
+            "id": 333,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "334": {
+            "id": 334,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "594": {
+            "id": 594,
+            "skillattributiontxt": 302898,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>2052</color>"
+        },
+        "994": {
+            "id": 994,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "993": {
+            "id": 993,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "623": {
+            "id": 623,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "851": {
+            "id": 851,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "852": {
+            "id": 852,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "341": {
+            "id": 341,
+            "skillattributiontxt": 302883,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>41</color>"
+        },
+        "342": {
+            "id": 342,
+            "skillattributiontxt": 302884,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>41</color>"
+        },
+        "343": {
+            "id": 343,
+            "skillattributiontxt": 302885,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>820</color>"
+        },
+        "344": {
+            "id": 344,
+            "skillattributiontxt": 302886,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>342</color>"
+        },
+        "624": {
+            "id": 624,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "983": {
+            "id": 983,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "653": {
+            "id": 653,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "654": {
+            "id": 654,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "861": {
+            "id": 861,
+            "skillattributiontxt": 302866,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>43</color>"
+        },
+        "862": {
+            "id": 862,
+            "skillattributiontxt": 302867,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>43</color>"
+        },
+        "351": {
+            "id": 351,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "352": {
+            "id": 352,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "353": {
+            "id": 353,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "354": {
+            "id": 354,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "974": {
+            "id": 974,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "973": {
+            "id": 973,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "683": {
+            "id": 683,
+            "skillattributiontxt": 302845,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>48</color>"
+        },
+        "684": {
+            "id": 684,
+            "skillattributiontxt": 302847,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>183</color>"
+        },
+        "954": {
+            "id": 954,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "953": {
+            "id": 953,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "361": {
+            "id": 361,
+            "skillattributiontxt": 302845,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>48</color>"
+        },
+        "362": {
+            "id": 362,
+            "skillattributiontxt": 302846,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>48</color>"
+        },
+        "363": {
+            "id": 363,
+            "skillattributiontxt": 302848,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>918</color>"
+        },
+        "364": {
+            "id": 364,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>275</color>"
+        },
+        "743": {
+            "id": 743,
+            "skillattributiontxt": 302843,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1360</color>"
+        },
+        "744": {
+            "id": 744,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>275</color>"
+        },
+        "944": {
+            "id": 944,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "943": {
+            "id": 943,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "881": {
+            "id": 881,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "882": {
+            "id": 882,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "883": {
+            "id": 883,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "884": {
+            "id": 884,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "783": {
+            "id": 783,
+            "skillattributiontxt": 302843,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1360</color>"
+        },
+        "784": {
+            "id": 784,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>275</color>"
+        },
+        "934": {
+            "id": 934,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "933": {
+            "id": 933,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "813": {
+            "id": 813,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "814": {
+            "id": 814,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "891": {
+            "id": 891,
+            "skillattributiontxt": 302853,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>61</color>"
+        },
+        "892": {
+            "id": 892,
+            "skillattributiontxt": 302854,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>61</color>"
+        },
+        "381": {
+            "id": 381,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "382": {
+            "id": 382,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "383": {
+            "id": 383,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "384": {
+            "id": 384,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "924": {
+            "id": 924,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "923": {
+            "id": 923,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "853": {
+            "id": 853,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "854": {
+            "id": 854,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "901": {
+            "id": 901,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "902": {
+            "id": 902,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "391": {
+            "id": 391,
+            "skillattributiontxt": 302842,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>64</color>"
+        },
+        "392": {
+            "id": 392,
+            "skillattributiontxt": 302841,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>64</color>"
+        },
+        "393": {
+            "id": 393,
+            "skillattributiontxt": 302843,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1360</color>"
+        },
+        "394": {
+            "id": 394,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>275</color>"
+        },
+        "914": {
+            "id": 914,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "913": {
+            "id": 913,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "903": {
+            "id": 903,
+            "skillattributiontxt": 302839,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>194</color>"
+        },
+        "904": {
+            "id": 904,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "911": {
+            "id": 911,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "912": {
+            "id": 912,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "401": {
+            "id": 401,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "402": {
+            "id": 402,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "403": {
+            "id": 403,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "404": {
+            "id": 404,
+            "skillattributiontxt": 302873,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>291</color>"
+        },
+        "894": {
+            "id": 894,
+            "skillattributiontxt": 302856,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>260</color>"
+        },
+        "893": {
+            "id": 893,
+            "skillattributiontxt": 302855,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1285</color>"
+        },
+        "864": {
+            "id": 864,
+            "skillattributiontxt": 302869,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>360</color>"
+        },
+        "863": {
+            "id": 863,
+            "skillattributiontxt": 302868,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>864</color>"
+        },
+        "921": {
+            "id": 921,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "922": {
+            "id": 922,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "411": {
+            "id": 411,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "412": {
+            "id": 412,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "413": {
+            "id": 413,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "414": {
+            "id": 414,
+            "skillattributiontxt": 302878,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>307</color>"
+        },
+        "844": {
+            "id": 844,
+            "skillattributiontxt": 302869,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>360</color>"
+        },
+        "843": {
+            "id": 843,
+            "skillattributiontxt": 302868,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>864</color>"
+        },
+        "834": {
+            "id": 834,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "833": {
+            "id": 833,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "931": {
+            "id": 931,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "932": {
+            "id": 932,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "421": {
+            "id": 421,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "422": {
+            "id": 422,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "423": {
+            "id": 423,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "424": {
+            "id": 424,
+            "skillattributiontxt": 302878,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>307</color>"
+        },
+        "804": {
+            "id": 804,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "803": {
+            "id": 803,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "794": {
+            "id": 794,
+            "skillattributiontxt": 302882,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1944</color>"
+        },
+        "793": {
+            "id": 793,
+            "skillattributiontxt": 302880,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>129</color>"
+        },
+        "941": {
+            "id": 941,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "942": {
+            "id": 942,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "431": {
+            "id": 431,
+            "skillattributiontxt": 302851,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>54</color>"
+        },
+        "432": {
+            "id": 432,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "433": {
+            "id": 433,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "434": {
+            "id": 434,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "764": {
+            "id": 764,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "763": {
+            "id": 763,
+            "skillattributiontxt": 302839,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>194</color>"
+        },
+        "754": {
+            "id": 754,
+            "skillattributiontxt": 302856,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>260</color>"
+        },
+        "753": {
+            "id": 753,
+            "skillattributiontxt": 302855,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1285</color>"
+        },
+        "951": {
+            "id": 951,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "952": {
+            "id": 952,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "441": {
+            "id": 441,
+            "skillattributiontxt": 302845,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>48</color>"
+        },
+        "442": {
+            "id": 442,
+            "skillattributiontxt": 302846,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>48</color>"
+        },
+        "443": {
+            "id": 443,
+            "skillattributiontxt": 302848,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>918</color>"
+        },
+        "444": {
+            "id": 444,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>275</color>"
+        },
+        "734": {
+            "id": 734,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "733": {
+            "id": 733,
+            "skillattributiontxt": 302839,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>194</color>"
+        },
+        "724": {
+            "id": 724,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "723": {
+            "id": 723,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "714": {
+            "id": 714,
+            "skillattributiontxt": 302839,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>194</color>"
+        },
+        "713": {
+            "id": 713,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "451": {
+            "id": 451,
+            "skillattributiontxt": 302837,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>51</color>"
+        },
+        "452": {
+            "id": 452,
+            "skillattributiontxt": 302838,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>51</color>"
+        },
+        "453": {
+            "id": 453,
+            "skillattributiontxt": 302840,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>972</color>"
+        },
+        "454": {
+            "id": 454,
+            "skillattributiontxt": 302873,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>291</color>"
+        },
+        "704": {
+            "id": 704,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "703": {
+            "id": 703,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "694": {
+            "id": 694,
+            "skillattributiontxt": 302878,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>307</color>"
+        },
+        "693": {
+            "id": 693,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "971": {
+            "id": 971,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "972": {
+            "id": 972,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "461": {
+            "id": 461,
+            "skillattributiontxt": 302841,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>64</color>"
+        },
+        "462": {
+            "id": 462,
+            "skillattributiontxt": 302842,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>64</color>"
+        },
+        "463": {
+            "id": 463,
+            "skillattributiontxt": 302843,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1360</color>"
+        },
+        "464": {
+            "id": 464,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>275</color>"
+        },
+        "674": {
+            "id": 674,
+            "skillattributiontxt": 302844,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "673": {
+            "id": 673,
+            "skillattributiontxt": 302843,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "664": {
+            "id": 664,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "663": {
+            "id": 663,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "981": {
+            "id": 981,
+            "skillattributiontxt": 302849,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>54</color>"
+        },
+        "982": {
+            "id": 982,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "471": {
+            "id": 471,
+            "skillattributiontxt": 302883,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>41</color>"
+        },
+        "472": {
+            "id": 472,
+            "skillattributiontxt": 302884,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>41</color>"
+        },
+        "473": {
+            "id": 473,
+            "skillattributiontxt": 302885,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>820</color>"
+        },
+        "474": {
+            "id": 474,
+            "skillattributiontxt": 302886,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>342</color>"
+        },
+        "644": {
+            "id": 644,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "643": {
+            "id": 643,
+            "skillattributiontxt": 302872,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>777</color>"
+        },
+        "634": {
+            "id": 634,
+            "skillattributiontxt": 302860,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>2160</color>"
+        },
+        "633": {
+            "id": 633,
+            "skillattributiontxt": 302859,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>144</color>"
+        },
+        "991": {
+            "id": 991,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "992": {
+            "id": 992,
+            "skillattributiontxt": 302864,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1080</color>"
+        },
+        "481": {
+            "id": 481,
+            "skillattributiontxt": 302887,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>68</color>"
+        },
+        "482": {
+            "id": 482,
+            "skillattributiontxt": 302888,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>68</color>"
+        },
+        "483": {
+            "id": 483,
+            "skillattributiontxt": 302889,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1436</color>"
+        },
+        "484": {
+            "id": 484,
+            "skillattributiontxt": 302890,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>290</color>"
+        },
+        "614": {
+            "id": 614,
+            "skillattributiontxt": 302890,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>290</color>"
+        },
+        "613": {
+            "id": 613,
+            "skillattributiontxt": 302889,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1436</color>"
+        },
+        "604": {
+            "id": 604,
+            "skillattributiontxt": 302863,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>216</color>"
+        },
+        "603": {
+            "id": 603,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1001": {
+            "id": 1001,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1002": {
+            "id": 1002,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "491": {
+            "id": 491,
+            "skillattributiontxt": 302879,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>129</color>"
+        },
+        "492": {
+            "id": 492,
+            "skillattributiontxt": 302881,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>129</color>"
+        },
+        "493": {
+            "id": 493,
+            "skillattributiontxt": 302880,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>129</color>"
+        },
+        "494": {
+            "id": 494,
+            "skillattributiontxt": 302882,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1944</color>"
+        },
+        "584": {
+            "id": 584,
+            "skillattributiontxt": 302865,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>324</color>"
+        },
+        "583": {
+            "id": 583,
+            "skillattributiontxt": 302872,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>777</color>"
+        },
+        "574": {
+            "id": 574,
+            "skillattributiontxt": 302894,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1836</color>"
+        },
+        "573": {
+            "id": 573,
+            "skillattributiontxt": 302893,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>122</color>"
+        },
+        "1011": {
+            "id": 1011,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1012": {
+            "id": 1012,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "501": {
+            "id": 501,
+            "skillattributiontxt": 302874,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>72</color>"
+        },
+        "502": {
+            "id": 502,
+            "skillattributiontxt": 302875,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>72</color>"
+        },
+        "503": {
+            "id": 503,
+            "skillattributiontxt": 302876,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1512</color>"
+        },
+        "504": {
+            "id": 504,
+            "skillattributiontxt": 302877,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>306</color>"
+        },
+        "554": {
+            "id": 554,
+            "skillattributiontxt": 302886,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>342</color>"
+        },
+        "553": {
+            "id": 553,
+            "skillattributiontxt": 302885,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>820</color>"
+        },
+        "544": {
+            "id": 544,
+            "skillattributiontxt": 302850,
+            "skillattribution": "生命强化   生命增加<color=#82C65D>1026</color>"
+        },
+        "543": {
+            "id": 543,
+            "skillattributiontxt": 302852,
+            "skillattribution": "攻击强化   攻击增加<color=#82C65D>205</color>"
+        },
+        "1021": {
+            "id": 1021,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        },
+        "1022": {
+            "id": 1022,
+            "skillattributiontxt": 302862,
+            "skillattribution": "魔法防御强化   魔法防御增加<color=#82C65D>57</color>"
+        },
+        "511": {
+            "id": 511,
+            "skillattributiontxt": 302861,
+            "skillattribution": "物理防御强化   物理防御增加<color=#82C65D>57</color>"
+        }
+    }
+}

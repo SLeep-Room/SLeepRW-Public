@@ -1,0 +1,5255 @@
+{
+    "AllIds": [
+        45001,
+        45002,
+        45003,
+        45004,
+        45005,
+        45006,
+        45007,
+        45008,
+        45009,
+        45201,
+        45202,
+        45203,
+        45204,
+        45205,
+        45206,
+        45207,
+        45208,
+        45209,
+        45401,
+        45402,
+        45403,
+        45404,
+        45405,
+        45406,
+        45407,
+        45408,
+        45409,
+        45601,
+        45602,
+        45603,
+        45604,
+        45605,
+        45606,
+        45607,
+        45608,
+        45609,
+        45801,
+        45802,
+        45803,
+        45804,
+        45805,
+        45806,
+        45807,
+        45808,
+        45809,
+        46001,
+        46002,
+        46003,
+        46004,
+        46005,
+        46006,
+        46007,
+        46008,
+        46009,
+        46201,
+        46202,
+        46203,
+        46204,
+        46205,
+        46206,
+        46207,
+        46208,
+        46209,
+        46401,
+        46402,
+        46403,
+        46404,
+        46405,
+        46406,
+        46407,
+        46408,
+        46409,
+        46601,
+        46602,
+        46603,
+        46604,
+        46605,
+        46606,
+        46607,
+        46608,
+        46609,
+        46801,
+        46802,
+        46803,
+        46804,
+        46805,
+        46806,
+        46807,
+        46808,
+        46809,
+        47001,
+        47002,
+        47003,
+        47004,
+        47005,
+        47006,
+        47007,
+        47008,
+        47009,
+        47201,
+        47202,
+        47203,
+        47204,
+        47205,
+        47206,
+        47207,
+        47208,
+        47209,
+        47401,
+        47402,
+        47403,
+        47404,
+        47405,
+        47406,
+        47407,
+        47408,
+        47409,
+        47601,
+        47602,
+        47603,
+        47604,
+        47605,
+        47606,
+        47607,
+        47608,
+        47609,
+        47801,
+        47802,
+        47803,
+        47804,
+        47805,
+        47806,
+        47807,
+        47808,
+        47809,
+        48001,
+        48002,
+        48003,
+        48004,
+        48005,
+        48006,
+        48007,
+        48008,
+        48009,
+        48101,
+        48102,
+        48103,
+        48104,
+        48105,
+        48106,
+        48107,
+        48108,
+        48201,
+        48202,
+        48203,
+        48204,
+        48205,
+        48206,
+        48207,
+        48208,
+        48301,
+        48302,
+        48303,
+        48304,
+        48305,
+        48306,
+        48307,
+        48308,
+        48401,
+        48402,
+        48403,
+        48404,
+        48405,
+        48406,
+        48407,
+        48508,
+        49901,
+        49902
+    ],
+    "Data": {
+        "46601": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [],
+            "handbook": 46601,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46601,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                45.9,
+                7.71
+            ],
+            "lookRange": [
+                "43.56-48.4",
+                "9.08-10.08"
+            ]
+        },
+        "46602": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                21
+            ],
+            "handbook": 46602,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46602,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                48.6,
+                8.16
+            ],
+            "lookRange": [
+                "65.34-72.6",
+                "13.62-15.12"
+            ]
+        },
+        "46603": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                21
+            ],
+            "handbook": 46603,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46603,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                49.82,
+                8.37
+            ],
+            "lookRange": [
+                "87.12-96.8",
+                "18.16-20.16"
+            ]
+        },
+        "46604": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 46604,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "25@50",
+            "id": 46604,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                51.3,
+                8.62
+            ],
+            "lookRange": [
+                "119.79-133.1",
+                "24.97-27.72"
+            ]
+        },
+        "46605": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 46605,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "25@100",
+            "id": 46605,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                52.58,
+                8.83
+            ],
+            "lookRange": [
+                "152.46-169.4",
+                "31.78-35.28"
+            ]
+        },
+        "46606": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 46606,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "26@100",
+            "id": 46606,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                55.35,
+                9.07
+            ],
+            "lookRange": [
+                "185.13-205.7",
+                "38.59-42.84"
+            ]
+        },
+        "46607": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 46607,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "26@100",
+            "id": 46607,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                54,
+                9.3
+            ],
+            "lookRange": [
+                "217.8-242",
+                "45.4-50.4"
+            ]
+        },
+        "46608": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 46608,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1012@100",
+            "id": 46608,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                59.4,
+                9.53
+            ],
+            "lookRange": [
+                "250.47-278.3",
+                "52.21-57.96"
+            ]
+        },
+        "46609": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 46609,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1011@100",
+            "id": 46609,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                56.7,
+                9.98
+            ],
+            "lookRange": [
+                "294.03-326.7",
+                "61.29-68.04"
+            ]
+        },
+        "48402": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 48402,
+            "baseScore": 64,
+            "equipSuitid": 7,
+            "equipSkill": "",
+            "id": 48402,
+            "abilitylookRange": [],
+            "abilityValue": [
+                27.03,
+                12.53
+            ],
+            "lookRange": []
+        },
+        "48403": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 48403,
+            "baseScore": 64,
+            "equipSuitid": 7,
+            "equipSkill": "",
+            "id": 48403,
+            "abilitylookRange": [],
+            "abilityValue": [
+                30.89,
+                10.32
+            ],
+            "lookRange": []
+        },
+        "48404": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 48404,
+            "baseScore": 64,
+            "equipSuitid": 7,
+            "equipSkill": "",
+            "id": 48404,
+            "abilitylookRange": [],
+            "abilityValue": [
+                38.61,
+                6.19
+            ],
+            "lookRange": []
+        },
+        "48405": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                82
+            ],
+            "handbook": 48405,
+            "baseScore": 64,
+            "equipSuitid": 7,
+            "equipSkill": "",
+            "id": 48405,
+            "abilitylookRange": [],
+            "abilityValue": [
+                38.61,
+                6.19
+            ],
+            "lookRange": []
+        },
+        "48406": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 48406,
+            "baseScore": 64,
+            "equipSuitid": 7,
+            "equipSkill": "",
+            "id": 48406,
+            "abilitylookRange": [],
+            "abilityValue": [
+                19.31,
+                13.27
+            ],
+            "lookRange": []
+        },
+        "48407": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                42
+            ],
+            "handbook": 48407,
+            "baseScore": 64,
+            "equipSuitid": 7,
+            "equipSkill": "",
+            "id": 48407,
+            "abilitylookRange": [],
+            "abilityValue": [
+                42.12,
+                6.46
+            ],
+            "lookRange": []
+        },
+        "45601": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [],
+            "handbook": 45601,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45601,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                32.13,
+                15.61
+            ],
+            "lookRange": [
+                "36.28-40.32",
+                "6.04-6.72",
+                "6.04-6.72"
+            ]
+        },
+        "45602": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                11
+            ],
+            "handbook": 45602,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45602,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                34.02,
+                16.52
+            ],
+            "lookRange": [
+                "54.42-60.48",
+                "9.06-10.08",
+                "9.06-10.08"
+            ]
+        },
+        "45603": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                11
+            ],
+            "handbook": 45603,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45603,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                34.87,
+                16.94
+            ],
+            "lookRange": [
+                "72.56-80.64",
+                "12.08-13.44",
+                "12.08-13.44"
+            ]
+        },
+        "45604": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 45604,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "15@50",
+            "id": 45604,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                35.91,
+                17.44
+            ],
+            "lookRange": [
+                "99.77-110.88",
+                "16.61-18.48",
+                "16.61-18.48"
+            ]
+        },
+        "45605": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 45605,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "15@100",
+            "id": 45605,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                36.81,
+                17.88
+            ],
+            "lookRange": [
+                "126.98-141.12",
+                "21.14-23.52",
+                "21.14-23.52"
+            ]
+        },
+        "45606": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45606,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "16@100",
+            "id": 45606,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                38.75,
+                18.36
+            ],
+            "lookRange": [
+                "154.19-171.36",
+                "25.67-28.56",
+                "25.67-28.56"
+            ]
+        },
+        "45607": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45607,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "16@100",
+            "id": 45607,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                37.8,
+                18.82
+            ],
+            "lookRange": [
+                "181.4-201.6",
+                "30.2-33.6",
+                "30.2-33.6"
+            ]
+        },
+        "45608": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45608,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1012@100",
+            "id": 45608,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                41.58,
+                19.28
+            ],
+            "lookRange": [
+                "208.61-231.84",
+                "34.73-38.64",
+                "34.73-38.64"
+            ]
+        },
+        "45609": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45609,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1011@100",
+            "id": 45609,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                39.69,
+                20.2
+            ],
+            "lookRange": [
+                "244.89-272.16",
+                "40.77-45.36",
+                "40.77-45.36"
+            ]
+        },
+        "47402": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                31
+            ],
+            "handbook": 47402,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47402,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                58.32,
+                7.78
+            ],
+            "lookRange": [
+                "97.98-108.84",
+                "27.24-30.24",
+                "13.62-15.12"
+            ]
+        },
+        "47403": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                31
+            ],
+            "handbook": 47403,
+            "baseScore": 58,
+            "equipSuitid": 3,
+            "equipSkill": "",
+            "id": 47403,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                59.78,
+                7.97
+            ],
+            "lookRange": [
+                "130.64-145.12",
+                "36.32-40.32",
+                "18.16-20.16"
+            ]
+        },
+        "47404": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                32
+            ],
+            "handbook": 47404,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "35@50",
+            "id": 47404,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                61.56,
+                8.21
+            ],
+            "lookRange": [
+                "179.63-199.54",
+                "49.94-55.44",
+                "24.97-27.72"
+            ]
+        },
+        "47405": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                32
+            ],
+            "handbook": 47405,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "35@100",
+            "id": 47405,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                63.1,
+                8.41
+            ],
+            "lookRange": [
+                "228.62-253.96",
+                "63.56-70.56",
+                "31.78-35.28"
+            ]
+        },
+        "47406": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                33,
+                33
+            ],
+            "handbook": 47406,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "36@100",
+            "id": 47406,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                66.42,
+                8.64
+            ],
+            "lookRange": [
+                "277.61-308.38",
+                "77.18-85.68",
+                "38.59-42.84"
+            ]
+        },
+        "47407": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                33,
+                33
+            ],
+            "handbook": 47407,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "36@100",
+            "id": 47407,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                64.8,
+                8.86
+            ],
+            "lookRange": [
+                "326.6-362.8",
+                "90.8-100.8",
+                "45.4-50.4"
+            ]
+        },
+        "47408": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                33,
+                33
+            ],
+            "handbook": 47408,
+            "baseScore": 74,
+            "equipSuitid": 9,
+            "equipSkill": "1021@100",
+            "id": 47408,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                71.28,
+                9.07
+            ],
+            "lookRange": [
+                "375.59-417.22",
+                "104.42-115.92",
+                "52.21-57.96"
+            ]
+        },
+        "47409": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                33,
+                33
+            ],
+            "handbook": 47409,
+            "baseScore": 74,
+            "equipSuitid": 12,
+            "equipSkill": "1022@100",
+            "id": 47409,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                68.04,
+                9.5
+            ],
+            "lookRange": [
+                "440.91-489.78",
+                "122.58-136.08",
+                "61.29-68.04"
+            ]
+        },
+        "46401": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [],
+            "handbook": 46401,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46401,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                27.54,
+                11.02
+            ],
+            "lookRange": [
+                "54.44-60.48",
+                "7.28-8.08"
+            ]
+        },
+        "46402": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                81
+            ],
+            "handbook": 46402,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46402,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                29.16,
+                11.66
+            ],
+            "lookRange": [
+                "81.66-90.72",
+                "10.92-12.12"
+            ]
+        },
+        "46403": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                81
+            ],
+            "handbook": 46403,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46403,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                29.89,
+                11.96
+            ],
+            "lookRange": [
+                "108.88-120.96",
+                "14.56-16.16"
+            ]
+        },
+        "46404": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                82
+            ],
+            "handbook": 46404,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "85@50",
+            "id": 46404,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                30.78,
+                12.31
+            ],
+            "lookRange": [
+                "149.71-166.32",
+                "20.02-22.22"
+            ]
+        },
+        "46405": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                82
+            ],
+            "handbook": 46405,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "85@100",
+            "id": 46405,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                31.55,
+                12.62
+            ],
+            "lookRange": [
+                "190.54-211.68",
+                "25.48-28.28"
+            ]
+        },
+        "46406": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                83,
+                83
+            ],
+            "handbook": 46406,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "86@100",
+            "id": 46406,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                33.21,
+                12.96
+            ],
+            "lookRange": [
+                "231.37-257.04",
+                "30.94-34.34"
+            ]
+        },
+        "46407": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                83,
+                83
+            ],
+            "handbook": 46407,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "86@100",
+            "id": 46407,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                32.4,
+                13.28
+            ],
+            "lookRange": [
+                "272.2-302.4",
+                "36.4-40.4"
+            ]
+        },
+        "46408": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                83,
+                83
+            ],
+            "handbook": 46408,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1001@100",
+            "id": 46408,
+            "abilitylookRange": [
+                "22.68-25.2",
+                "3.02-3.36"
+            ],
+            "abilityValue": [
+                35.64,
+                13.61
+            ],
+            "lookRange": [
+                "521.64-579.6",
+                "69.46-77.28"
+            ]
+        },
+        "46409": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                83,
+                83
+            ],
+            "handbook": 46409,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1029@100",
+            "id": 46409,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                34.02,
+                14.26
+            ],
+            "lookRange": [
+                "367.47-408.24",
+                "49.14-54.54"
+            ]
+        },
+        "48202": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 48202,
+            "baseScore": 64,
+            "equipSuitid": 5,
+            "equipSkill": "",
+            "id": 48202,
+            "abilitylookRange": [],
+            "abilityValue": [
+                56.51,
+                8.35
+            ],
+            "lookRange": []
+        },
+        "48203": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 48203,
+            "baseScore": 64,
+            "equipSuitid": 5,
+            "equipSkill": "",
+            "id": 48203,
+            "abilitylookRange": [],
+            "abilityValue": [
+                9.69,
+                14.04
+            ],
+            "lookRange": []
+        },
+        "48204": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 48204,
+            "baseScore": 64,
+            "equipSuitid": 5,
+            "equipSkill": "",
+            "id": 48204,
+            "abilitylookRange": [],
+            "abilityValue": [
+                24.22,
+                8.42
+            ],
+            "lookRange": []
+        },
+        "48205": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                82
+            ],
+            "handbook": 48205,
+            "baseScore": 64,
+            "equipSuitid": 5,
+            "equipSkill": "",
+            "id": 48205,
+            "abilitylookRange": [],
+            "abilityValue": [
+                20.18,
+                8.42
+            ],
+            "lookRange": []
+        },
+        "48206": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 48206,
+            "baseScore": 64,
+            "equipSuitid": 5,
+            "equipSkill": "",
+            "id": 48206,
+            "abilitylookRange": [],
+            "abilityValue": [
+                40.37,
+                8.85
+            ],
+            "lookRange": []
+        },
+        "48207": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                42
+            ],
+            "handbook": 48207,
+            "baseScore": 64,
+            "equipSuitid": 5,
+            "equipSkill": "",
+            "id": 48207,
+            "abilitylookRange": [],
+            "abilityValue": [
+                48.44,
+                5.62
+            ],
+            "lookRange": []
+        },
+        "48208": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                52
+            ],
+            "handbook": 48208,
+            "baseScore": 64,
+            "equipSuitid": 5,
+            "equipSkill": "",
+            "id": 48208,
+            "abilitylookRange": [],
+            "abilityValue": [
+                10.3,
+                3.93
+            ],
+            "lookRange": []
+        },
+        "45401": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [],
+            "handbook": 45401,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45401,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                64.26,
+                10.92
+            ],
+            "lookRange": [
+                "36.28-40.32",
+                "29-32.24"
+            ]
+        },
+        "45402": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                11
+            ],
+            "handbook": 45402,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45402,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                68.04,
+                11.57
+            ],
+            "lookRange": [
+                "54.42-60.48",
+                "43.5-48.36"
+            ]
+        },
+        "45403": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                11
+            ],
+            "handbook": 45403,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45403,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                69.74,
+                11.86
+            ],
+            "lookRange": [
+                "72.56-80.64",
+                "58-64.48"
+            ]
+        },
+        "45404": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 45404,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "15@50",
+            "id": 45404,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                71.82,
+                12.21
+            ],
+            "lookRange": [
+                "99.77-110.88",
+                "79.75-88.66"
+            ]
+        },
+        "45405": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 45405,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "15@100",
+            "id": 45405,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                73.62,
+                12.51
+            ],
+            "lookRange": [
+                "126.98-141.12",
+                "101.5-112.84"
+            ]
+        },
+        "45406": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45406,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "16@100",
+            "id": 45406,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                77.49,
+                12.85
+            ],
+            "lookRange": [
+                "154.19-171.36",
+                "123.25-137.02"
+            ]
+        },
+        "45407": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45407,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "16@100",
+            "id": 45407,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                75.6,
+                13.17
+            ],
+            "lookRange": [
+                "181.4-201.6",
+                "145-161.2"
+            ]
+        },
+        "45408": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45408,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1012@100",
+            "id": 45408,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                83.16,
+                13.49
+            ],
+            "lookRange": [
+                "208.61-231.84",
+                "166.75-185.38"
+            ]
+        },
+        "45409": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45409,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1011@100",
+            "id": 45409,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                79.38,
+                14.14
+            ],
+            "lookRange": [
+                "244.89-272.16",
+                "195.75-217.62"
+            ]
+        },
+        "47202": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                21
+            ],
+            "handbook": 47202,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47202,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                24.3,
+                17.5
+            ],
+            "lookRange": [
+                "54.42-60.48",
+                "9.06-10.08",
+                "9.06-10.08"
+            ]
+        },
+        "47203": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                21
+            ],
+            "handbook": 47203,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47203,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                24.91,
+                17.93
+            ],
+            "lookRange": [
+                "72.56-80.64",
+                "12.08-13.44",
+                "12.08-13.44"
+            ]
+        },
+        "47204": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 47204,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "25@50",
+            "id": 47204,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                25.65,
+                18.47
+            ],
+            "lookRange": [
+                "99.77-110.88",
+                "16.61-18.48",
+                "16.61-18.48"
+            ]
+        },
+        "47205": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 47205,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "25@100",
+            "id": 47205,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                26.29,
+                18.93
+            ],
+            "lookRange": [
+                "126.98-141.12",
+                "21.14-23.52",
+                "21.14-23.52"
+            ]
+        },
+        "47206": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 47206,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "26@100",
+            "id": 47206,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                27.68,
+                19.44
+            ],
+            "lookRange": [
+                "154.19-171.36",
+                "25.67-28.56",
+                "25.67-28.56"
+            ]
+        },
+        "47207": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 47207,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "26@100",
+            "id": 47207,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                27,
+                19.93
+            ],
+            "lookRange": [
+                "181.4-201.6",
+                "30.2-33.6",
+                "30.2-33.6"
+            ]
+        },
+        "47208": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 47208,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1012@100",
+            "id": 47208,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                29.7,
+                20.41
+            ],
+            "lookRange": [
+                "208.61-231.84",
+                "34.73-38.64",
+                "34.73-38.64"
+            ]
+        },
+        "47209": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 47209,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1001@100",
+            "id": 47209,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                28.35,
+                21.38
+            ],
+            "lookRange": [
+                "244.89-272.16",
+                "40.77-45.36",
+                "40.77-45.36"
+            ]
+        },
+        "46201": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [],
+            "handbook": 46201,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46201,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                45.9,
+                7.71
+            ],
+            "lookRange": [
+                "43.56-48.4",
+                "9.08-10.08"
+            ]
+        },
+        "46202": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                81
+            ],
+            "handbook": 46202,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46202,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                48.6,
+                8.16
+            ],
+            "lookRange": [
+                "65.34-72.6",
+                "13.62-15.12"
+            ]
+        },
+        "46203": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                81
+            ],
+            "handbook": 46203,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46203,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                49.82,
+                8.37
+            ],
+            "lookRange": [
+                "87.12-96.8",
+                "18.16-20.16"
+            ]
+        },
+        "46204": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                82
+            ],
+            "handbook": 46204,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "85@50",
+            "id": 46204,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                51.3,
+                8.62
+            ],
+            "lookRange": [
+                "119.79-133.1",
+                "24.97-27.72"
+            ]
+        },
+        "46205": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                82
+            ],
+            "handbook": 46205,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "85@100",
+            "id": 46205,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                52.58,
+                8.83
+            ],
+            "lookRange": [
+                "152.46-169.4",
+                "31.78-35.28"
+            ]
+        },
+        "46206": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                83,
+                83
+            ],
+            "handbook": 46206,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "86@100",
+            "id": 46206,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                55.35,
+                9.07
+            ],
+            "lookRange": [
+                "185.13-205.7",
+                "38.59-42.84"
+            ]
+        },
+        "46207": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                83,
+                83
+            ],
+            "handbook": 46207,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "86@100",
+            "id": 46207,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                54,
+                9.3
+            ],
+            "lookRange": [
+                "217.8-242",
+                "45.4-50.4"
+            ]
+        },
+        "46208": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                83,
+                83
+            ],
+            "handbook": 46208,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1001@100",
+            "id": 46208,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                59.4,
+                9.53
+            ],
+            "lookRange": [
+                "250.47-278.3",
+                "52.21-57.96"
+            ]
+        },
+        "46209": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                83,
+                83
+            ],
+            "handbook": 46209,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1029@100",
+            "id": 46209,
+            "abilitylookRange": [
+                "10.89-12.1",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                56.7,
+                9.98
+            ],
+            "lookRange": [
+                "294.03-326.7",
+                "61.29-68.04"
+            ]
+        },
+        "48002": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                61
+            ],
+            "handbook": 48002,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 48002,
+            "abilitylookRange": [
+                "3.63-4.03"
+            ],
+            "abilityValue": [
+                38.88,
+                5.18
+            ],
+            "lookRange": [
+                "21.78-24.18"
+            ]
+        },
+        "48003": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                61
+            ],
+            "handbook": 48003,
+            "baseScore": 57,
+            "equipSuitid": 2,
+            "equipSkill": "",
+            "id": 48003,
+            "abilitylookRange": [
+                "5.45-6.05",
+                "3.63-4.03"
+            ],
+            "abilityValue": [
+                38.88,
+                5.18
+            ],
+            "lookRange": [
+                "43.6-48.4",
+                "29.04-32.24"
+            ]
+        },
+        "48004": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                62
+            ],
+            "handbook": 48004,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "65@50",
+            "id": 48004,
+            "abilitylookRange": [
+                "5.45-6.05",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                41.04,
+                5.47
+            ],
+            "lookRange": [
+                "59.95-66.55",
+                "29.92-33.22"
+            ]
+        },
+        "48005": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                62
+            ],
+            "handbook": 48005,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "65@100",
+            "id": 48005,
+            "abilitylookRange": [
+                "3.63-4.03",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                41.04,
+                5.47
+            ],
+            "lookRange": [
+                "50.82-56.42",
+                "38.08-42.28"
+            ]
+        },
+        "48006": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                63,
+                63
+            ],
+            "handbook": 48006,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "66@100",
+            "id": 48006,
+            "abilitylookRange": [
+                "3.63-4.03",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                43.2,
+                5.76
+            ],
+            "lookRange": [
+                "61.71-68.51",
+                "46.24-51.34"
+            ]
+        },
+        "48007": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                63,
+                63
+            ],
+            "handbook": 48007,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "66@100",
+            "id": 48007,
+            "abilitylookRange": [
+                "3.63-4.03",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                43.2,
+                5.76
+            ],
+            "lookRange": [
+                "72.6-80.6",
+                "54.4-60.4"
+            ]
+        },
+        "48008": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                63,
+                63
+            ],
+            "handbook": 48008,
+            "baseScore": 74,
+            "equipSuitid": 10,
+            "equipSkill": "91@100",
+            "id": 48008,
+            "abilitylookRange": [
+                "5.45-6.05",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                47.52,
+                6.05
+            ],
+            "lookRange": [
+                "125.35-139.15",
+                "62.56-69.46"
+            ]
+        },
+        "48009": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                63,
+                63
+            ],
+            "handbook": 48009,
+            "baseScore": 74,
+            "equipSuitid": 13,
+            "equipSkill": "92@100",
+            "id": 48009,
+            "abilitylookRange": [
+                "3.63-4.03",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                47.52,
+                6.05
+            ],
+            "lookRange": [
+                "98.01-108.81",
+                "73.44-81.54"
+            ]
+        },
+        "45201": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [],
+            "handbook": 45201,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45201,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                64.26,
+                7.34
+            ],
+            "lookRange": [
+                "72.56-80.64",
+                "9.08-10.08"
+            ]
+        },
+        "45202": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                71
+            ],
+            "handbook": 45202,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45202,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                68.04,
+                7.78
+            ],
+            "lookRange": [
+                "108.84-120.96",
+                "13.62-15.12"
+            ]
+        },
+        "45203": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                71
+            ],
+            "handbook": 45203,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45203,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                69.74,
+                7.97
+            ],
+            "lookRange": [
+                "145.12-161.28",
+                "18.16-20.16"
+            ]
+        },
+        "45204": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                72
+            ],
+            "handbook": 45204,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "75@50",
+            "id": 45204,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                71.82,
+                8.21
+            ],
+            "lookRange": [
+                "199.54-221.76",
+                "24.97-27.72"
+            ]
+        },
+        "45205": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                72
+            ],
+            "handbook": 45205,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "75@100",
+            "id": 45205,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                73.62,
+                8.41
+            ],
+            "lookRange": [
+                "253.96-282.24",
+                "31.78-35.28"
+            ]
+        },
+        "45206": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                73,
+                73
+            ],
+            "handbook": 45206,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "76@100",
+            "id": 45206,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                77.49,
+                8.64
+            ],
+            "lookRange": [
+                "308.38-342.72",
+                "38.59-42.84"
+            ]
+        },
+        "45207": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                73,
+                73
+            ],
+            "handbook": 45207,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "76@100",
+            "id": 45207,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                75.6,
+                8.86
+            ],
+            "lookRange": [
+                "362.8-403.2",
+                "45.4-50.4"
+            ]
+        },
+        "45208": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                73,
+                73
+            ],
+            "handbook": 45208,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1001@100",
+            "id": 45208,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                83.16,
+                9.07
+            ],
+            "lookRange": [
+                "417.22-463.68",
+                "52.21-57.96"
+            ]
+        },
+        "45209": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                73,
+                73
+            ],
+            "handbook": 45209,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1011@100",
+            "id": 45209,
+            "abilitylookRange": [
+                "18.14-20.16",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                79.38,
+                9.5
+            ],
+            "lookRange": [
+                "489.78-544.32",
+                "61.29-68.04"
+            ]
+        },
+        "47002": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                21
+            ],
+            "handbook": 47002,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47002,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                48.6,
+                12.25
+            ],
+            "lookRange": [
+                "54.42-60.48",
+                "43.5-48.36"
+            ]
+        },
+        "47003": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                21
+            ],
+            "handbook": 47003,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47003,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                49.82,
+                12.55
+            ],
+            "lookRange": [
+                "72.56-80.64",
+                "58-64.48"
+            ]
+        },
+        "47004": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 47004,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "25@50",
+            "id": 47004,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                51.3,
+                12.93
+            ],
+            "lookRange": [
+                "99.77-110.88",
+                "79.75-88.66"
+            ]
+        },
+        "47005": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 47005,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "25@100",
+            "id": 47005,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                52.58,
+                13.25
+            ],
+            "lookRange": [
+                "126.98-141.12",
+                "101.5-112.84"
+            ]
+        },
+        "47006": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 47006,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "26@100",
+            "id": 47006,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                55.35,
+                13.61
+            ],
+            "lookRange": [
+                "154.19-171.36",
+                "123.25-137.02"
+            ]
+        },
+        "47007": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 47007,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "26@100",
+            "id": 47007,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                54,
+                13.95
+            ],
+            "lookRange": [
+                "181.4-201.6",
+                "145-161.2"
+            ]
+        },
+        "47008": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 47008,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1012@100",
+            "id": 47008,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                59.4,
+                14.29
+            ],
+            "lookRange": [
+                "208.61-231.84",
+                "166.75-185.38"
+            ]
+        },
+        "47009": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 47009,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1001@100",
+            "id": 47009,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                56.7,
+                14.97
+            ],
+            "lookRange": [
+                "244.89-272.16",
+                "195.75-217.62"
+            ]
+        },
+        "48301": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                72
+            ],
+            "handbook": 48301,
+            "baseScore": 64,
+            "equipSuitid": 6,
+            "equipSkill": "",
+            "id": 48301,
+            "abilitylookRange": [],
+            "abilityValue": [
+                77.22,
+                3.54
+            ],
+            "lookRange": []
+        },
+        "48302": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 48302,
+            "baseScore": 64,
+            "equipSuitid": 6,
+            "equipSkill": "",
+            "id": 48302,
+            "abilitylookRange": [],
+            "abilityValue": [
+                54.05,
+                8.77
+            ],
+            "lookRange": []
+        },
+        "48303": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 48303,
+            "baseScore": 64,
+            "equipSuitid": 6,
+            "equipSkill": "",
+            "id": 48303,
+            "abilitylookRange": [],
+            "abilityValue": [
+                9.27,
+                14.74
+            ],
+            "lookRange": []
+        },
+        "48304": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 48304,
+            "baseScore": 64,
+            "equipSuitid": 6,
+            "equipSkill": "",
+            "id": 48304,
+            "abilitylookRange": [],
+            "abilityValue": [
+                23.17,
+                8.85
+            ],
+            "lookRange": []
+        },
+        "46001": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [],
+            "handbook": 46001,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46001,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                11.02,
+                18.36
+            ],
+            "lookRange": [
+                "17.28-19.2",
+                "43.56-48.4"
+            ]
+        },
+        "46002": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                11
+            ],
+            "handbook": 46002,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46002,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                11.66,
+                19.44
+            ],
+            "lookRange": [
+                "25.92-28.8",
+                "65.34-72.6"
+            ]
+        },
+        "46003": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                11
+            ],
+            "handbook": 46003,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46003,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                11.96,
+                19.93
+            ],
+            "lookRange": [
+                "34.56-38.4",
+                "87.12-96.8"
+            ]
+        },
+        "46004": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 46004,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "15@50",
+            "id": 46004,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                12.31,
+                20.52
+            ],
+            "lookRange": [
+                "47.52-52.8",
+                "119.79-133.1"
+            ]
+        },
+        "46005": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 46005,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "15@100",
+            "id": 46005,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                12.62,
+                21.03
+            ],
+            "lookRange": [
+                "60.48-67.2",
+                "152.46-169.4"
+            ]
+        },
+        "46006": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 46006,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "16@100",
+            "id": 46006,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                13.28,
+                21.6
+            ],
+            "lookRange": [
+                "73.44-81.6",
+                "185.13-205.7"
+            ]
+        },
+        "46007": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 46007,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "16@100",
+            "id": 46007,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                12.96,
+                22.14
+            ],
+            "lookRange": [
+                "86.4-96",
+                "217.8-242"
+            ]
+        },
+        "46008": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 46008,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1012@100",
+            "id": 46008,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                14.26,
+                22.68
+            ],
+            "lookRange": [
+                "99.36-110.4",
+                "250.47-278.3"
+            ]
+        },
+        "46009": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 46009,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1001@100",
+            "id": 46009,
+            "abilitylookRange": [
+                "4.32-4.8",
+                "10.89-12.1"
+            ],
+            "abilityValue": [
+                13.61,
+                23.76
+            ],
+            "lookRange": [
+                "116.64-129.6",
+                "294.03-326.7"
+            ]
+        },
+        "47802": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                51
+            ],
+            "handbook": 47802,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47802,
+            "abilitylookRange": [
+                "3.63-4.03"
+            ],
+            "abilityValue": [
+                12.96,
+                5.18
+            ],
+            "lookRange": [
+                "21.78-24.18"
+            ]
+        },
+        "47803": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                51
+            ],
+            "handbook": 47803,
+            "baseScore": 57,
+            "equipSuitid": 1,
+            "equipSkill": "",
+            "id": 47803,
+            "abilitylookRange": [
+                "5.45-6.05",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                12.96,
+                5.18
+            ],
+            "lookRange": [
+                "43.6-48.4",
+                "21.76-24.16"
+            ]
+        },
+        "47804": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                52
+            ],
+            "handbook": 47804,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "55@50",
+            "id": 47804,
+            "abilitylookRange": [
+                "5.45-6.05",
+                "3.63-4.03"
+            ],
+            "abilityValue": [
+                13.68,
+                5.47
+            ],
+            "lookRange": [
+                "59.95-66.55",
+                "39.93-44.33"
+            ]
+        },
+        "47805": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                52
+            ],
+            "handbook": 47805,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "55@100",
+            "id": 47805,
+            "abilitylookRange": [
+                "3.63-4.03",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                13.68,
+                5.47
+            ],
+            "lookRange": [
+                "50.82-56.42",
+                "38.08-42.28"
+            ]
+        },
+        "47806": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                53,
+                53
+            ],
+            "handbook": 47806,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "56@100",
+            "id": 47806,
+            "abilitylookRange": [
+                "3.63-4.03"
+            ],
+            "abilityValue": [
+                14.4,
+                5.76
+            ],
+            "lookRange": [
+                "61.71-68.51"
+            ]
+        },
+        "47807": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                53,
+                53
+            ],
+            "handbook": 47807,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "56@100",
+            "id": 47807,
+            "abilitylookRange": [
+                "5.45-6.05",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                14.4,
+                5.76
+            ],
+            "lookRange": [
+                "109-121",
+                "54.4-60.4"
+            ]
+        },
+        "47808": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                53,
+                53
+            ],
+            "handbook": 47808,
+            "baseScore": 74,
+            "equipSuitid": 10,
+            "equipSkill": "91@100",
+            "id": 47808,
+            "abilitylookRange": [
+                "5.45-6.05",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                15.84,
+                6.05
+            ],
+            "lookRange": [
+                "125.35-139.15",
+                "62.56-69.46"
+            ]
+        },
+        "47809": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                53,
+                53
+            ],
+            "handbook": 47809,
+            "baseScore": 74,
+            "equipSuitid": 13,
+            "equipSkill": "92@100",
+            "id": 47809,
+            "abilitylookRange": [
+                "3.63-4.03"
+            ],
+            "abilityValue": [
+                15.84,
+                6.05
+            ],
+            "lookRange": [
+                "98.01-108.81"
+            ]
+        },
+        "49902": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                50,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                62
+            ],
+            "handbook": 49902,
+            "baseScore": 63,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 49902,
+            "abilitylookRange": [],
+            "abilityValue": [
+                5.94,
+                5.94
+            ],
+            "lookRange": []
+        },
+        "49901": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 49901,
+            "baseScore": 72,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 49901,
+            "abilitylookRange": [],
+            "abilityValue": [
+                82.03,
+                13.94
+            ],
+            "lookRange": []
+        },
+        "48508": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                62
+            ],
+            "handbook": 48508,
+            "baseScore": 64,
+            "equipSuitid": 7,
+            "equipSkill": "",
+            "id": 48508,
+            "abilitylookRange": [],
+            "abilityValue": [
+                28.08,
+                4.31
+            ],
+            "lookRange": []
+        },
+        "45001": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [],
+            "handbook": 45001,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45001,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                91.8,
+                4.41
+            ],
+            "lookRange": [
+                "9.08-10.08",
+                "24.2-26.88",
+                "24.2-26.88"
+            ]
+        },
+        "45002": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                71
+            ],
+            "handbook": 45002,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45002,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                97.2,
+                4.67
+            ],
+            "lookRange": [
+                "13.62-15.12",
+                "36.3-40.32",
+                "36.3-40.32"
+            ]
+        },
+        "45003": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                71
+            ],
+            "handbook": 45003,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45003,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                99.63,
+                4.78
+            ],
+            "lookRange": [
+                "18.16-20.16",
+                "48.4-53.76",
+                "48.4-53.76"
+            ]
+        },
+        "45004": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                72
+            ],
+            "handbook": 45004,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "75@50",
+            "id": 45004,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                102.6,
+                4.92
+            ],
+            "lookRange": [
+                "24.97-27.72",
+                "66.55-73.92",
+                "66.55-73.92"
+            ]
+        },
+        "45005": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                72
+            ],
+            "handbook": 45005,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "75@100",
+            "id": 45005,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                105.17,
+                5.05
+            ],
+            "lookRange": [
+                "31.78-35.28",
+                "84.7-94.08",
+                "84.7-94.08"
+            ]
+        },
+        "45006": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                73,
+                73
+            ],
+            "handbook": 45006,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "76@100",
+            "id": 45006,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                110.7,
+                5.18
+            ],
+            "lookRange": [
+                "38.59-42.84",
+                "102.85-114.24",
+                "102.85-114.24"
+            ]
+        },
+        "45007": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                73,
+                73
+            ],
+            "handbook": 45007,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "76@100",
+            "id": 45007,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                108,
+                5.31
+            ],
+            "lookRange": [
+                "45.4-50.4",
+                "121-134.4",
+                "121-134.4"
+            ]
+        },
+        "45008": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                73,
+                73
+            ],
+            "handbook": 45008,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1001@100",
+            "id": 45008,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                118.8,
+                5.44
+            ],
+            "lookRange": [
+                "52.21-57.96",
+                "139.15-154.56",
+                "139.15-154.56"
+            ]
+        },
+        "45009": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                73,
+                73
+            ],
+            "handbook": 45009,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1011@100",
+            "id": 45009,
+            "abilitylookRange": [
+                "2.27-2.52",
+                "6.05-6.72",
+                "6.05-6.72"
+            ],
+            "abilityValue": [
+                113.4,
+                5.7
+            ],
+            "lookRange": [
+                "61.29-68.04",
+                "163.35-181.44",
+                "163.35-181.44"
+            ]
+        },
+        "46802": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                21
+            ],
+            "handbook": 46802,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46802,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                24.3,
+                11.66
+            ],
+            "lookRange": [
+                "81.66-90.72",
+                "10.92-12.12"
+            ]
+        },
+        "46803": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                21
+            ],
+            "handbook": 46803,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46803,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                24.91,
+                11.96
+            ],
+            "lookRange": [
+                "108.88-120.96",
+                "14.56-16.16"
+            ]
+        },
+        "46804": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 46804,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "25@50",
+            "id": 46804,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                25.65,
+                12.31
+            ],
+            "lookRange": [
+                "149.71-166.32",
+                "20.02-22.22"
+            ]
+        },
+        "46805": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 46805,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "25@100",
+            "id": 46805,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                26.29,
+                12.62
+            ],
+            "lookRange": [
+                "190.54-211.68",
+                "25.48-28.28"
+            ]
+        },
+        "46806": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 46806,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "26@100",
+            "id": 46806,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                27.68,
+                12.96
+            ],
+            "lookRange": [
+                "231.37-257.04",
+                "30.94-34.34"
+            ]
+        },
+        "46807": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 46807,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "26@100",
+            "id": 46807,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                27,
+                13.28
+            ],
+            "lookRange": [
+                "272.2-302.4",
+                "36.4-40.4"
+            ]
+        },
+        "46808": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 46808,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1012@100",
+            "id": 46808,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                29.7,
+                13.61
+            ],
+            "lookRange": [
+                "313.03-347.76",
+                "41.86-46.46"
+            ]
+        },
+        "46809": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                23,
+                23
+            ],
+            "handbook": 46809,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1011@100",
+            "id": 46809,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                28.35,
+                14.26
+            ],
+            "lookRange": [
+                "367.47-408.24",
+                "49.14-54.54"
+            ]
+        },
+        "48401": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                72
+            ],
+            "handbook": 48401,
+            "baseScore": 64,
+            "equipSuitid": 7,
+            "equipSkill": "",
+            "id": 48401,
+            "abilitylookRange": [],
+            "abilityValue": [
+                54.05,
+                5.9
+            ],
+            "lookRange": []
+        },
+        "48308": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                62
+            ],
+            "handbook": 48308,
+            "baseScore": 64,
+            "equipSuitid": 6,
+            "equipSkill": "",
+            "id": 48308,
+            "abilitylookRange": [],
+            "abilityValue": [
+                28.08,
+                4.31
+            ],
+            "lookRange": []
+        },
+        "48307": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                32
+            ],
+            "handbook": 48307,
+            "baseScore": 64,
+            "equipSuitid": 6,
+            "equipSkill": "",
+            "id": 48307,
+            "abilitylookRange": [],
+            "abilityValue": [
+                42.12,
+                6.46
+            ],
+            "lookRange": []
+        },
+        "48306": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 48306,
+            "baseScore": 64,
+            "equipSuitid": 6,
+            "equipSkill": "",
+            "id": 48306,
+            "abilitylookRange": [],
+            "abilityValue": [
+                38.61,
+                9.29
+            ],
+            "lookRange": []
+        },
+        "48305": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                82
+            ],
+            "handbook": 48305,
+            "baseScore": 64,
+            "equipSuitid": 6,
+            "equipSkill": "",
+            "id": 48305,
+            "abilitylookRange": [],
+            "abilityValue": [
+                19.31,
+                8.85
+            ],
+            "lookRange": []
+        },
+        "48201": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                72
+            ],
+            "handbook": 48201,
+            "baseScore": 64,
+            "equipSuitid": 5,
+            "equipSkill": "",
+            "id": 48201,
+            "abilitylookRange": [],
+            "abilityValue": [
+                80.73,
+                3.37
+            ],
+            "lookRange": []
+        },
+        "48108": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                52
+            ],
+            "handbook": 48108,
+            "baseScore": 64,
+            "equipSuitid": 4,
+            "equipSkill": "",
+            "id": 48108,
+            "abilitylookRange": [],
+            "abilityValue": [
+                10.76,
+                3.74
+            ],
+            "lookRange": []
+        },
+        "48107": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                32
+            ],
+            "handbook": 48107,
+            "baseScore": 64,
+            "equipSuitid": 4,
+            "equipSkill": "",
+            "id": 48107,
+            "abilitylookRange": [],
+            "abilityValue": [
+                48.44,
+                5.62
+            ],
+            "lookRange": []
+        },
+        "48106": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 48106,
+            "baseScore": 64,
+            "equipSuitid": 4,
+            "equipSkill": "",
+            "id": 48106,
+            "abilitylookRange": [],
+            "abilityValue": [
+                17.55,
+                14.53
+            ],
+            "lookRange": []
+        },
+        "48105": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [
+                82
+            ],
+            "handbook": 48105,
+            "baseScore": 64,
+            "equipSuitid": 4,
+            "equipSkill": "",
+            "id": 48105,
+            "abilitylookRange": [],
+            "abilityValue": [
+                35.1,
+                6.78
+            ],
+            "lookRange": []
+        },
+        "48001": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [],
+            "handbook": 48001,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 48001,
+            "abilitylookRange": [
+                "2.72-3.02",
+                "2.72-3.02"
+            ],
+            "abilityValue": [
+                36.72,
+                4.9
+            ],
+            "lookRange": [
+                "10.88-12.08",
+                "10.88-12.08"
+            ]
+        },
+        "48101": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 1,
+            "randomAbility": [
+                72
+            ],
+            "handbook": 48101,
+            "baseScore": 64,
+            "equipSuitid": 4,
+            "equipSkill": "",
+            "id": 48101,
+            "abilitylookRange": [],
+            "abilityValue": [
+                49.14,
+                6.46
+            ],
+            "lookRange": []
+        },
+        "48102": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 2,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 48102,
+            "baseScore": 64,
+            "equipSuitid": 4,
+            "equipSkill": "",
+            "id": 48102,
+            "abilitylookRange": [],
+            "abilityValue": [
+                24.57,
+                13.72
+            ],
+            "lookRange": []
+        },
+        "48103": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 48103,
+            "baseScore": 64,
+            "equipSuitid": 4,
+            "equipSkill": "",
+            "id": 48103,
+            "abilitylookRange": [],
+            "abilityValue": [
+                28.08,
+                11.3
+            ],
+            "lookRange": []
+        },
+        "48104": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 5,
+            "randomAbility": [
+                22
+            ],
+            "handbook": 48104,
+            "baseScore": 64,
+            "equipSuitid": 4,
+            "equipSkill": "",
+            "id": 48104,
+            "abilitylookRange": [],
+            "abilityValue": [
+                35.1,
+                6.78
+            ],
+            "lookRange": []
+        },
+        "45801": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [],
+            "handbook": 45801,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45801,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                36.72,
+                12.85
+            ],
+            "lookRange": [
+                "13.84-15.36",
+                "54.44-60.48"
+            ]
+        },
+        "45802": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                11
+            ],
+            "handbook": 45802,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45802,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                38.88,
+                13.61
+            ],
+            "lookRange": [
+                "20.76-23.04",
+                "81.66-90.72"
+            ]
+        },
+        "45803": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                11
+            ],
+            "handbook": 45803,
+            "baseScore": 58,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 45803,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                39.85,
+                13.95
+            ],
+            "lookRange": [
+                "27.68-30.72",
+                "108.88-120.96"
+            ]
+        },
+        "45804": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 45804,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "15@50",
+            "id": 45804,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                41.04,
+                14.36
+            ],
+            "lookRange": [
+                "38.06-42.24",
+                "149.71-166.32"
+            ]
+        },
+        "45805": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                12
+            ],
+            "handbook": 45805,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "15@100",
+            "id": 45805,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                42.07,
+                14.72
+            ],
+            "lookRange": [
+                "48.44-53.76",
+                "190.54-211.68"
+            ]
+        },
+        "45806": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45806,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "16@100",
+            "id": 45806,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                44.28,
+                15.12
+            ],
+            "lookRange": [
+                "58.82-65.28",
+                "231.37-257.04"
+            ]
+        },
+        "45807": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45807,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "16@100",
+            "id": 45807,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                43.2,
+                15.5
+            ],
+            "lookRange": [
+                "69.2-76.8",
+                "272.2-302.4"
+            ]
+        },
+        "45808": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45808,
+            "baseScore": 74,
+            "equipSuitid": 8,
+            "equipSkill": "1012@100",
+            "id": 45808,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                47.52,
+                15.88
+            ],
+            "lookRange": [
+                "79.58-88.32",
+                "313.03-347.76"
+            ]
+        },
+        "45809": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 3,
+            "randomAbility": [
+                13,
+                13
+            ],
+            "handbook": 45809,
+            "baseScore": 74,
+            "equipSuitid": 11,
+            "equipSkill": "1001@100",
+            "id": 45809,
+            "abilitylookRange": [
+                "3.46-3.84",
+                "13.61-15.12"
+            ],
+            "abilityValue": [
+                45.36,
+                16.63
+            ],
+            "lookRange": [
+                "93.42-103.68",
+                "367.47-408.24"
+            ]
+        },
+        "47602": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                41
+            ],
+            "handbook": 47602,
+            "baseScore": 57,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47602,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                58.32,
+                7.78
+            ],
+            "lookRange": [
+                "97.98-108.84",
+                "13.62-15.12",
+                "27.24-30.24"
+            ]
+        },
+        "47603": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                41
+            ],
+            "handbook": 47603,
+            "baseScore": 58,
+            "equipSuitid": 3,
+            "equipSkill": "",
+            "id": 47603,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                59.78,
+                7.97
+            ],
+            "lookRange": [
+                "130.64-145.12",
+                "18.16-20.16",
+                "36.32-40.32"
+            ]
+        },
+        "47604": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                42
+            ],
+            "handbook": 47604,
+            "baseScore": 60,
+            "equipSuitid": 0,
+            "equipSkill": "45@50",
+            "id": 47604,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                61.56,
+                8.21
+            ],
+            "lookRange": [
+                "179.63-199.54",
+                "24.97-27.72",
+                "49.94-55.44"
+            ]
+        },
+        "47605": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                42
+            ],
+            "handbook": 47605,
+            "baseScore": 61,
+            "equipSuitid": 0,
+            "equipSkill": "45@100",
+            "id": 47605,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                63.1,
+                8.41
+            ],
+            "lookRange": [
+                "228.62-253.96",
+                "31.78-35.28",
+                "63.56-70.56"
+            ]
+        },
+        "47606": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                43,
+                43
+            ],
+            "handbook": 47606,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "46@100",
+            "id": 47606,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                66.42,
+                8.64
+            ],
+            "lookRange": [
+                "277.61-308.38",
+                "38.59-42.84",
+                "77.18-85.68"
+            ]
+        },
+        "47607": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                43,
+                43
+            ],
+            "handbook": 47607,
+            "baseScore": 69,
+            "equipSuitid": 0,
+            "equipSkill": "46@100",
+            "id": 47607,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                64.8,
+                8.86
+            ],
+            "lookRange": [
+                "326.6-362.8",
+                "45.4-50.4",
+                "90.8-100.8"
+            ]
+        },
+        "47608": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                43,
+                43
+            ],
+            "handbook": 47608,
+            "baseScore": 74,
+            "equipSuitid": 9,
+            "equipSkill": "1021@100",
+            "id": 47608,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                71.28,
+                9.07
+            ],
+            "lookRange": [
+                "375.59-417.22",
+                "52.21-57.96",
+                "104.42-115.92"
+            ]
+        },
+        "47609": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [
+                43,
+                43
+            ],
+            "handbook": 47609,
+            "baseScore": 74,
+            "equipSuitid": 12,
+            "equipSkill": "1022@100",
+            "id": 47609,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                68.04,
+                9.5
+            ],
+            "lookRange": [
+                "440.91-489.78",
+                "61.29-68.04",
+                "122.58-136.08"
+            ]
+        },
+        "47801": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                30,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [],
+            "handbook": 47801,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47801,
+            "abilitylookRange": [
+                "5.45-6.05"
+            ],
+            "abilityValue": [
+                12.24,
+                4.9
+            ],
+            "lookRange": [
+                "21.8-24.2"
+            ]
+        },
+        "47601": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                60
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [],
+            "handbook": 47601,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47601,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "2.27-2.52",
+                "4.54-5.04"
+            ],
+            "abilityValue": [
+                55.08,
+                7.34
+            ],
+            "lookRange": [
+                "65.32-72.56",
+                "9.08-10.08",
+                "18.16-20.16"
+            ]
+        },
+        "47401": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                50
+            ],
+            "equipAttrib": 8,
+            "randomAbility": [],
+            "handbook": 47401,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47401,
+            "abilitylookRange": [
+                "16.33-18.14",
+                "4.54-5.04",
+                "2.27-2.52"
+            ],
+            "abilityValue": [
+                55.08,
+                7.34
+            ],
+            "lookRange": [
+                "65.32-72.56",
+                "18.16-20.16",
+                "9.08-10.08"
+            ]
+        },
+        "47201": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [],
+            "handbook": 47201,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47201,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "1.51-1.68",
+                "1.51-1.68"
+            ],
+            "abilityValue": [
+                22.95,
+                16.52
+            ],
+            "lookRange": [
+                "36.28-40.32",
+                "6.04-6.72",
+                "6.04-6.72"
+            ]
+        },
+        "47001": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 6,
+            "randomAbility": [],
+            "handbook": 47001,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 47001,
+            "abilitylookRange": [
+                "9.07-10.08",
+                "7.25-8.06"
+            ],
+            "abilityValue": [
+                45.9,
+                11.57
+            ],
+            "lookRange": [
+                "36.28-40.32",
+                "29-32.24"
+            ]
+        },
+        "46801": {
+            "initMagnify": 10,
+            "roleLimit": "",
+            "abilityID": [
+                20,
+                30
+            ],
+            "equipAttrib": 4,
+            "randomAbility": [],
+            "handbook": 46801,
+            "baseScore": 54,
+            "equipSuitid": 0,
+            "equipSkill": "",
+            "id": 46801,
+            "abilitylookRange": [
+                "13.61-15.12",
+                "1.82-2.02"
+            ],
+            "abilityValue": [
+                22.95,
+                11.02
+            ],
+            "lookRange": [
+                "54.44-60.48",
+                "7.28-8.08"
+            ]
+        }
+    }
+}

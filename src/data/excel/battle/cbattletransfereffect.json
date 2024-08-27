@@ -1,0 +1,27 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "beginEffectTime": 0,
+            "effectName": 0,
+            "soundID": 0
+        },
+        {
+            "id": 2,
+            "beginEffectTime": 2,
+            "effectName": 1061,
+            "soundID": 0
+        },
+        {
+            "id": 3,
+            "beginEffectTime": 2,
+            "effectName": 1062,
+            "soundID": 0
+        }
+    ]
+}

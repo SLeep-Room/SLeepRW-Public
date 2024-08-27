@@ -1,0 +1,114 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+    ],
+    "Data": [
+        {
+            "jp": "Sence_TX_zhuchengwenzi_gongfang_jp",
+            "id": 1,
+            "kr": "Sence_TX_zhuchengwenzi_gongfang_kr",
+            "cn": "Sence_TX_zhuchengwenzi_gongfang",
+            "en": "Sence_TX_zhuchengwenzi_gongfang_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "Sence_TX_zhuchengwenzi_gonghui_jp",
+            "id": 2,
+            "kr": "Sence_TX_zhuchengwenzi_gonghui_kr",
+            "cn": "Sence_TX_zhuchengwenzi_gonghui",
+            "en": "Sence_TX_zhuchengwenzi_gonghui_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "Sence_TX_zhuchengwenzi_maoxian_jp",
+            "id": 3,
+            "kr": "Sence_TX_zhuchengwenzi_maoxian_kr",
+            "cn": "Sence_TX_zhuchengwenzi_maoxian",
+            "en": "Sence_TX_zhuchengwenzi_maoxian_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "Sence_TX_zhuchengwenzi_weituoban_jp",
+            "id": 4,
+            "kr": "Sence_TX_zhuchengwenzi_weituoban_kr",
+            "cn": "Sence_TX_zhuchengwenzi_weituoban",
+            "en": "Sence_TX_zhuchengwenzi_weituoban_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "Sence_TX_zhuchengwenzi_zhaohuan_jp",
+            "id": 5,
+            "kr": "Sence_TX_zhuchengwenzi_zhaohuan_kr",
+            "cn": "Sence_TX_zhuchengwenzi_zhaohuan",
+            "en": "Sence_TX_zhuchengwenzi_zhaohuan_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "UI_TX_Yardwenzi_lianjinsuo_jp",
+            "id": 6,
+            "kr": "UI_TX_Yardwenzi_lianjinsuo_kr",
+            "cn": "UI_TX_Yardwenzi_lianjinsuo",
+            "en": "UI_TX_Yardwenzi_lianjinsuo_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "UI_TX_Yardwenzi_mofashu_jp",
+            "id": 7,
+            "kr": "UI_TX_Yardwenzi_mofashu_kr",
+            "cn": "UI_TX_Yardwenzi_mofashu",
+            "en": "UI_TX_Yardwenzi_mofashu_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "UI_TX_Yardwenzi_monvxiaowu_jp",
+            "id": 8,
+            "kr": "UI_TX_Yardwenzi_monvxiaowu_kr",
+            "cn": "UI_TX_Yardwenzi_monvxiaowu",
+            "en": "UI_TX_Yardwenzi_monvxiaowu_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "UI_TX_Yardwenzi_yijiezhijing_jp",
+            "id": 9,
+            "kr": "UI_TX_Yardwenzi_yijiezhijing_kr",
+            "cn": "UI_TX_Yardwenzi_yijiezhijing",
+            "en": "UI_TX_Yardwenzi_yijiezhijing_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "UI_TX_Yardwenzi_yingguangwu_jp",
+            "id": 10,
+            "kr": "UI_TX_Yardwenzi_yingguangwu_kr",
+            "cn": "UI_TX_Yardwenzi_yingguangwu",
+            "en": "UI_TX_Yardwenzi_yingguangwu_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "UI_TX_Yardwenzi_yinghuodengtai_jp",
+            "id": 11,
+            "kr": "UI_TX_Yardwenzi_yinghuodengtai_kr",
+            "cn": "UI_TX_Yardwenzi_yinghuodengtai",
+            "en": "UI_TX_Yardwenzi_yinghuodengtai_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        },
+        {
+            "jp": "UI_TX_Yardwenzi_yinyuehe_jp",
+            "id": 12,
+            "kr": "UI_TX_Yardwenzi_yinyuehe_kr",
+            "cn": "UI_TX_Yardwenzi_yinyuehe",
+            "en": "UI_TX_Yardwenzi_yinyuehe_en",
+            "assetBundle": "effects/particles.prefabs.assetbundle"
+        }
+    ]
+}

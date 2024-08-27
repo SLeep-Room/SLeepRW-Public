@@ -1,0 +1,303 @@
+{
+    "AllIds": [
+        20414,
+        20478,
+        20577,
+        20603,
+        20604,
+        20605,
+        20606,
+        20800,
+        20801,
+        20802,
+        20803,
+        20804,
+        20805,
+        20852,
+        20867,
+        20869,
+        20870,
+        20871,
+        20882,
+        20890,
+        20891,
+        20892,
+        20900,
+        20901,
+        20902,
+        21097,
+        21098,
+        21099,
+        21212,
+        21359,
+        21380,
+        21592,
+        21623
+    ],
+    "Data": {
+        "20800": {
+            "id": 20800,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90007,
+            "summonType": 2,
+            "bornPoint": "20",
+            "birthSkill": "201612"
+        },
+        "20801": {
+            "id": 20801,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90007,
+            "summonType": 2,
+            "bornPoint": "24",
+            "birthSkill": "201612"
+        },
+        "20802": {
+            "id": 20802,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90007,
+            "summonType": 2,
+            "bornPoint": "28",
+            "birthSkill": "201612"
+        },
+        "20803": {
+            "id": 20803,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90008,
+            "summonType": 2,
+            "bornPoint": "20",
+            "birthSkill": "201612"
+        },
+        "20804": {
+            "id": 20804,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90008,
+            "summonType": 2,
+            "bornPoint": "24",
+            "birthSkill": "201612"
+        },
+        "20805": {
+            "id": 20805,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90008,
+            "summonType": 2,
+            "bornPoint": "28",
+            "birthSkill": "201612"
+        },
+        "20870": {
+            "id": 20870,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90011,
+            "summonType": 2,
+            "bornPoint": "25",
+            "birthSkill": "0"
+        },
+        "20871": {
+            "id": 20871,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90012,
+            "summonType": 2,
+            "bornPoint": "25",
+            "birthSkill": "0"
+        },
+        "20882": {
+            "id": 20882,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90016,
+            "summonType": 1,
+            "bornPoint": "-8",
+            "birthSkill": "0"
+        },
+        "21592": {
+            "id": 21592,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90023,
+            "summonType": 1,
+            "bornPoint": "-8",
+            "birthSkill": "201858"
+        },
+        "20890": {
+            "id": 20890,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90013,
+            "summonType": 2,
+            "bornPoint": "-8",
+            "birthSkill": "0"
+        },
+        "20891": {
+            "id": 20891,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90014,
+            "summonType": 2,
+            "bornPoint": "-4",
+            "birthSkill": "0"
+        },
+        "20892": {
+            "id": 20892,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90013,
+            "summonType": 2,
+            "bornPoint": "+4",
+            "birthSkill": "0"
+        },
+        "20577": {
+            "id": 20577,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 20222,
+            "summonType": 1,
+            "bornPoint": "33",
+            "birthSkill": "201375"
+        },
+        "20900": {
+            "id": 20900,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 20234,
+            "summonType": 2,
+            "bornPoint": "-8",
+            "birthSkill": "0"
+        },
+        "20901": {
+            "id": 20901,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 20235,
+            "summonType": 2,
+            "bornPoint": "-4",
+            "birthSkill": "0"
+        },
+        "20902": {
+            "id": 20902,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 20236,
+            "summonType": 2,
+            "bornPoint": "-1",
+            "birthSkill": "0"
+        },
+        "21097": {
+            "id": 21097,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90018,
+            "summonType": 1,
+            "bornPoint": "18",
+            "birthSkill": "201661"
+        },
+        "21098": {
+            "id": 21098,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90019,
+            "summonType": 1,
+            "bornPoint": "20",
+            "birthSkill": "201661"
+        },
+        "21099": {
+            "id": 21099,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90020,
+            "summonType": 1,
+            "bornPoint": "20",
+            "birthSkill": "201661"
+        },
+        "21359": {
+            "id": 21359,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 66066,
+            "summonType": 2,
+            "bornPoint": "-8",
+            "birthSkill": "0"
+        },
+        "20852": {
+            "id": 20852,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90009,
+            "summonType": 2,
+            "bornPoint": "-8",
+            "birthSkill": "201488"
+        },
+        "21212": {
+            "id": 21212,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90021,
+            "summonType": 2,
+            "bornPoint": "-8",
+            "birthSkill": "0"
+        },
+        "21380": {
+            "id": 21380,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 66068,
+            "summonType": 2,
+            "bornPoint": "-8",
+            "birthSkill": "0"
+        },
+        "21623": {
+            "id": 21623,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90024,
+            "summonType": 1,
+            "bornPoint": "-8",
+            "birthSkill": "201859"
+        },
+        "20869": {
+            "id": 20869,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90010,
+            "summonType": 2,
+            "bornPoint": "25",
+            "birthSkill": "0"
+        },
+        "20867": {
+            "id": 20867,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90017,
+            "summonType": 2,
+            "bornPoint": "33",
+            "birthSkill": "0"
+        },
+        "20606": {
+            "id": 20606,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90005,
+            "summonType": 1,
+            "bornPoint": "0",
+            "birthSkill": "6022405"
+        },
+        "20603": {
+            "id": 20603,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90005,
+            "summonType": 1,
+            "bornPoint": "0",
+            "birthSkill": "6022402"
+        },
+        "20604": {
+            "id": 20604,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90005,
+            "summonType": 1,
+            "bornPoint": "0",
+            "birthSkill": "6022403"
+        },
+        "20605": {
+            "id": 20605,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90005,
+            "summonType": 1,
+            "bornPoint": "0",
+            "birthSkill": "6022404"
+        },
+        "20414": {
+            "id": 20414,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90006,
+            "summonType": 1,
+            "bornPoint": "-2",
+            "birthSkill": "0"
+        },
+        "20478": {
+            "id": 20478,
+            "buffDeletedAfterDeathOrNot": "1",
+            "summonId": 90005,
+            "summonType": 1,
+            "bornPoint": "0",
+            "birthSkill": "6022401"
+        }
+    }
+}

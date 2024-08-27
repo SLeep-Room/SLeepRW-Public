@@ -1,0 +1,74 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "Data": [
+        {
+            "assetName": "LanguageAsset_cn",
+            "id": 1,
+            "fontAssetBundle": [
+                "ui/fonts.assetbundle",
+                "ui/fonts.assetbundle",
+                "ui/fonts.assetbundle"
+            ],
+            "languagename": "ch",
+            "fontname": [
+                "fzzzh",
+                "fzzzhGBKjf",
+                "fzzzhArt"
+            ],
+            "assetBundle": "ui/languageassets.assetbundle"
+        },
+        {
+            "assetName": "LanguageAsset_en",
+            "id": 2,
+            "fontAssetBundle": [
+                "ui/fonts.assetbundle",
+                "ui/fonts.assetbundle",
+                "ui/fonts.assetbundle"
+            ],
+            "languagename": "en",
+            "fontname": [
+                "fzzzh",
+                "fzzzhGBKjf",
+                "fzzzhArt"
+            ],
+            "assetBundle": "ui/languageassets.assetbundle"
+        },
+        {
+            "assetName": "LanguageAsset_kr",
+            "id": 3,
+            "fontAssetBundle": [
+                "ui/fonts.assetbundle",
+                "ui/fonts.assetbundle",
+                "ui/fonts.assetbundle"
+            ],
+            "languagename": "kr",
+            "fontname": [
+                "fontkr",
+                "fontkr",
+                "fontkrArt"
+            ],
+            "assetBundle": "ui/languageassets.assetbundle"
+        },
+        {
+            "assetName": "LanguageAsset_jp",
+            "id": 4,
+            "fontAssetBundle": [
+                "ui/fonts.assetbundle",
+                "ui/fonts.assetbundle",
+                "ui/fonts.assetbundle"
+            ],
+            "languagename": "jp",
+            "fontname": [
+                "fzzzh",
+                "fzzzhGBKjf",
+                "fzzzhArt"
+            ],
+            "assetBundle": "ui/languageassets.assetbundle"
+        }
+    ]
+}

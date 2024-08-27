@@ -1,0 +1,236 @@
+{
+    "AllIds": [
+        2,
+        4,
+        8,
+        10,
+        14,
+        18,
+        21,
+        24,
+        25,
+        26
+    ],
+    "Data": {
+        "2": {
+            "image": 10709,
+            "tapimageid": 10994,
+            "id": 2,
+            "bossscale": "0.7",
+            "bosspos": "0,-279",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6262,
+            "bossshapeid": 20030,
+            "sortID": 2,
+            "sceneID": 50001,
+            "maxStage": 17,
+            "nameTextID": 1900135,
+            "name": "怨念聚合体"
+        },
+        "4": {
+            "image": 10710,
+            "tapimageid": 10995,
+            "id": 4,
+            "bossscale": "0.6",
+            "bosspos": "0,-163",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6263,
+            "bossshapeid": 20006,
+            "sortID": 4,
+            "sceneID": 50003,
+            "maxStage": 17,
+            "nameTextID": 1900136,
+            "name": "次元监视者"
+        },
+        "21": {
+            "image": 11195,
+            "tapimageid": 11199,
+            "id": 21,
+            "bossscale": "0.8",
+            "bosspos": "65,-243",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6270,
+            "bossshapeid": 10047,
+            "sortID": 21,
+            "sceneID": 50017,
+            "maxStage": 17,
+            "nameTextID": 1900273,
+            "name": "地狱之焰 辛莫拉"
+        },
+        "8": {
+            "image": 10711,
+            "tapimageid": 10996,
+            "id": 8,
+            "bossscale": "0.9",
+            "bosspos": "42,-202",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6264,
+            "bossshapeid": 20016,
+            "sortID": 8,
+            "sceneID": 50007,
+            "maxStage": 17,
+            "nameTextID": 1900137,
+            "name": "司祭 弗莱尔"
+        },
+        "25": {
+            "image": 13187,
+            "tapimageid": 13186,
+            "id": 25,
+            "bossscale": "0.24",
+            "bosspos": "208,-155",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6348,
+            "bossshapeid": 20131,
+            "sortID": 23,
+            "sceneID": 50018,
+            "maxStage": 17,
+            "nameTextID": 1900978,
+            "name": "天空主宰 索拉迪乌斯"
+        },
+        "10": {
+            "image": 10712,
+            "tapimageid": 10997,
+            "id": 10,
+            "bossscale": "0.6",
+            "bosspos": "55,-173",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6265,
+            "bossshapeid": 20001,
+            "sortID": 10,
+            "sceneID": 50010,
+            "maxStage": 17,
+            "nameTextID": 1900138,
+            "name": "守护者 埃舍雷"
+        },
+        "26": {
+            "image": 15485,
+            "tapimageid": 15486,
+            "id": 26,
+            "bossscale": "0.6",
+            "bosspos": "31,-312",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6272,
+            "bossshapeid": 20212,
+            "sortID": 24,
+            "sceneID": 50019,
+            "maxStage": 17,
+            "nameTextID": 1901682,
+            "name": "守护者 卡蜜莉安"
+        },
+        "24": {
+            "image": 11196,
+            "tapimageid": 11200,
+            "id": 24,
+            "bossscale": "0.24",
+            "bosspos": "208,-155",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6271,
+            "bossshapeid": 20131,
+            "sortID": 22,
+            "sceneID": 50018,
+            "maxStage": 17,
+            "nameTextID": 1900529,
+            "name": "天空主宰 索拉迪乌斯"
+        },
+        "14": {
+            "image": 10713,
+            "tapimageid": 10998,
+            "id": 14,
+            "bossscale": "0.6",
+            "bosspos": "0,-222",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6267,
+            "bossshapeid": 20072,
+            "sortID": 14,
+            "sceneID": 50012,
+            "maxStage": 17,
+            "nameTextID": 1900140,
+            "name": "白熊 赫沃奥塔"
+        },
+        "18": {
+            "image": 11194,
+            "tapimageid": 11198,
+            "id": 18,
+            "bossscale": "0.8",
+            "bosspos": "31,-251",
+            "stageid": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "bossbattleID": 6269,
+            "bossshapeid": 20061,
+            "sortID": 18,
+            "sceneID": 50014,
+            "maxStage": 17,
+            "nameTextID": 1900142,
+            "name": "守护者 瑟希薇"
+        }
+    }
+}

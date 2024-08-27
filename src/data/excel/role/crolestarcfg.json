@@ -1,0 +1,48 @@
+{
+    "Data": [
+        {
+            "starlv": 0,
+            "growthrate": "0",
+            "id": 1,
+            "exp": 0
+        },
+        {
+            "starlv": 1,
+            "growthrate": "0.05",
+            "id": 2,
+            "exp": 100
+        },
+        {
+            "starlv": 2,
+            "growthrate": "0.1",
+            "id": 3,
+            "exp": 200
+        },
+        {
+            "starlv": 3,
+            "growthrate": "0.15",
+            "id": 4,
+            "exp": 300
+        },
+        {
+            "starlv": 4,
+            "growthrate": "0.2",
+            "id": 5,
+            "exp": 400
+        },
+        {
+            "starlv": 5,
+            "growthrate": "0.25",
+            "id": 6,
+            "exp": 500
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+}

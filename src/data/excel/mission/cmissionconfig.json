@@ -1,0 +1,4288 @@
+{
+    "AllIds": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10006,
+        10008,
+        10011,
+        10012,
+        10017,
+        10019,
+        10020,
+        10021,
+        10022,
+        10023,
+        10024,
+        10025,
+        10026,
+        10027,
+        10028,
+        10029,
+        10030,
+        10031,
+        10032,
+        10033,
+        10034,
+        10035,
+        10036,
+        10037,
+        10038,
+        10039,
+        10040,
+        10041,
+        10042,
+        10043,
+        10044,
+        10045,
+        10046,
+        10047,
+        10048,
+        10049,
+        10050,
+        10051,
+        10052,
+        10053,
+        10054,
+        10055,
+        10056,
+        10057,
+        10058,
+        10059,
+        10060,
+        10061,
+        10062,
+        10063,
+        10064,
+        10065,
+        10066,
+        10067,
+        10068,
+        10069,
+        10070,
+        10071,
+        10072,
+        10073,
+        10074,
+        10075,
+        10076,
+        10077,
+        10078,
+        10079,
+        20001,
+        20002,
+        20003,
+        20004,
+        20005,
+        20006,
+        20007,
+        20008,
+        20009,
+        20010,
+        20011,
+        20012,
+        20013,
+        20014,
+        20015,
+        20016,
+        20017,
+        60001,
+        60002,
+        60003,
+        60004,
+        60005,
+        60006
+    ],
+    "Data": {
+        "10001": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10001,
+            "rewardid": 1925,
+            "worldimg": 10588,
+            "toptip": [
+                200006
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000001,
+            "accept_mission": 200028,
+            "endevent": 200001,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [
+                "碎片"
+            ],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "镜片收集",
+            "jumpvalue": [
+                0
+            ],
+            "description": "伊敏瑟伦之镜的碎片散落在<color=#82C65D>塔内</color>，收集它们似乎会发生某些奇异的事情。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000147,
+            "short_descriptionTextID": 1000091,
+            "rewardquantity": [
+                4000,
+                0
+            ],
+            "loadevent": "200002,200032,200010,200014",
+            "jumpAim": 3,
+            "rewardtype": 0,
+            "short_description": "收集伊敏瑟伦之镜的碎片",
+            "backgroundtype": 10464,
+            "progressnameTextID": [
+                1000203
+            ]
+        },
+        "10002": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10002,
+            "rewardid": 1926,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000002,
+            "accept_mission": 200028,
+            "endevent": 200003,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200002,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔·伊敏瑟伦之间",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10001",
+            "loadtag": 0,
+            "missionname": "前往伊敏瑟伦之间",
+            "jumpvalue": [
+                0
+            ],
+            "description": "镜片已经收集完毕$B$前往<color=#82C65D>伊敏瑟伦之间</color>伊敏瑟伦之间就能解开疑惑。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000058,
+            "descriptionTextID": 1000148,
+            "short_descriptionTextID": 1000092,
+            "rewardquantity": [
+                5000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 4,
+            "rewardtype": 0,
+            "short_description": "前往伊敏瑟伦之间",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10003": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10003,
+            "rewardid": 1927,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000887,
+            "accept_mission": 200028,
+            "endevent": 200085,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 5,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "最初的羁绊",
+            "jumpvalue": [
+                0
+            ],
+            "description": "累计召唤10次人偶",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000888,
+            "short_descriptionTextID": 1000888,
+            "rewardquantity": [
+                10000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 3,
+            "rewardtype": 0,
+            "short_description": "累计召唤10次人偶",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10004": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10004,
+            "rewardid": 1928,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000889,
+            "accept_mission": 200028,
+            "endevent": 200086,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 2,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "最初的成长",
+            "jumpvalue": [
+                0
+            ],
+            "description": "人偶最高等级达到10级",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000444,
+            "short_descriptionTextID": 1000444,
+            "rewardquantity": [
+                10000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 3,
+            "rewardtype": 0,
+            "short_description": "人偶最高等级达到10级",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10006": {
+            "missiontype": 1,
+            "worldname": 2,
+            "id": 10006,
+            "rewardid": 1929,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000004,
+            "accept_mission": 200028,
+            "endevent": 200011,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200010,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·巨木",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10002",
+            "loadtag": 0,
+            "missionname": "神秘的巨木",
+            "jumpvalue": [
+                0
+            ],
+            "description": "探索整个伊敏瑟伦之森，寻找巨木出现的原因。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000060,
+            "descriptionTextID": 1000150,
+            "short_descriptionTextID": 1000094,
+            "rewardquantity": [
+                5000,
+                0
+            ],
+            "loadevent": "200052,200054,200058,200070,200074,200076,200080",
+            "jumpAim": 17,
+            "rewardtype": 0,
+            "short_description": "寻找巨木出现的原因",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10008": {
+            "missiontype": 1,
+            "worldname": 2,
+            "id": 10008,
+            "rewardid": 1930,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000006,
+            "accept_mission": 200028,
+            "endevent": 200015,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 200014,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·森林入口",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10002",
+            "loadtag": 0,
+            "missionname": "蛙与蝶·相遇",
+            "jumpvalue": [
+                0
+            ],
+            "description": "继续前行，探寻森林生物变异的原因。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000061,
+            "descriptionTextID": 1000152,
+            "short_descriptionTextID": 1000096,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "200020",
+            "jumpAim": 5,
+            "rewardtype": 0,
+            "short_description": "探寻生物变异的原因",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10011": {
+            "missiontype": 1,
+            "worldname": 2,
+            "id": 10011,
+            "rewardid": 1931,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000009,
+            "accept_mission": 200028,
+            "endevent": 200021,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 200020,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·河畔小径",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10008",
+            "loadtag": 0,
+            "missionname": "蛙与蝶·酒壶",
+            "jumpvalue": [
+                0
+            ],
+            "description": "青蛙骑士费吉亚丢失了他心爱的<color=#82C65D>酒壶</color>，探索的过程中留心寻找吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000062,
+            "descriptionTextID": 1000155,
+            "short_descriptionTextID": 1000099,
+            "rewardquantity": [
+                3,
+                0
+            ],
+            "loadevent": "200022",
+            "jumpAim": 5,
+            "rewardtype": 0,
+            "short_description": "寻找酒壶",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10012": {
+            "missiontype": 1,
+            "worldname": 2,
+            "id": 10012,
+            "rewardid": 1932,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000010,
+            "accept_mission": 200028,
+            "endevent": 200023,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 200022,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·祭祀场",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10011",
+            "loadtag": 0,
+            "missionname": "蛙与蝶·魔杖",
+            "jumpvalue": [
+                0
+            ],
+            "description": "费吉亚的<color=#82C65D>魔杖</color>同样不见了，还真是粗心啊，在探索途中帮他找找看吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000063,
+            "descriptionTextID": 1000156,
+            "short_descriptionTextID": 1000100,
+            "rewardquantity": [
+                3,
+                0
+            ],
+            "loadevent": "200036",
+            "jumpAim": 14,
+            "rewardtype": 0,
+            "short_description": "寻找魔杖",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10017": {
+            "missiontype": 1,
+            "worldname": 2,
+            "id": 10017,
+            "rewardid": 1933,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000013,
+            "accept_mission": 200028,
+            "endevent": 200037,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 200036,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·巨木外围",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10012",
+            "loadtag": 0,
+            "missionname": "蛙与蝶·归还",
+            "jumpvalue": [
+                0
+            ],
+            "description": "已经找到了丢失的魔杖，可以归还给费吉亚了。他目前应该在<color=#82C65D>巨木外围</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000065,
+            "descriptionTextID": 1000159,
+            "short_descriptionTextID": 1000103,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 16,
+            "rewardtype": 0,
+            "short_description": "归还魔杖",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20002": {
+            "missiontype": 2,
+            "worldname": 2,
+            "id": 20002,
+            "rewardid": 1961,
+            "worldimg": 10587,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000041,
+            "accept_mission": 200028,
+            "endevent": 200041,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·哨戒营外围",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "索雷优的曲谱·寻找",
+            "jumpvalue": [
+                0
+            ],
+            "description": "索雷优希望能找回他最珍贵的乐谱。在<color=#82C65D>哨戒营外围</color>四处找一找，然后去<color=#82C65D>哨戒营</color>找他吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000081,
+            "descriptionTextID": 1000187,
+            "short_descriptionTextID": 1000131,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 10,
+            "rewardtype": 0,
+            "short_description": "找回索雷优的乐谱",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10019": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10019,
+            "rewardid": 1934,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000015,
+            "accept_mission": 200028,
+            "endevent": 200059,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200058,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10006",
+            "loadtag": 0,
+            "missionname": "向上探索时之塔",
+            "jumpvalue": [
+                0
+            ],
+            "description": "狄璐卡发现一个神秘的女性进入了时之塔高层，继续向上探索时之塔吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000161,
+            "short_descriptionTextID": 1000105,
+            "rewardquantity": [
+                5000,
+                0
+            ],
+            "loadevent": "200060,200062,200064,200066,200068,200072,200078",
+            "jumpAim": 18,
+            "rewardtype": 0,
+            "short_description": "继续向上探索时之塔",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10020": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10020,
+            "rewardid": 1935,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000016,
+            "accept_mission": 200028,
+            "endevent": 200061,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 200060,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10019",
+            "loadtag": 0,
+            "missionname": "前往谢波契卡",
+            "jumpvalue": [
+                0
+            ],
+            "description": "谢波契卡曾经是守护者战争的结束之地，那里也许有你想要的答案。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000066,
+            "descriptionTextID": 1000162,
+            "short_descriptionTextID": 1000106,
+            "rewardquantity": [
+                40,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 24,
+            "rewardtype": 0,
+            "short_description": "前往谢波契卡",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10021": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10021,
+            "rewardid": 1936,
+            "worldimg": 11325,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000017,
+            "accept_mission": 200028,
+            "endevent": 200063,
+            "rewarditem": [
+                74000,
+                0
+            ],
+            "startevent": 200062,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10020",
+            "loadtag": 0,
+            "missionname": "去四周看看",
+            "jumpvalue": [
+                0
+            ],
+            "description": "到达了谢波契卡之山，看看四周都有些什么吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000066,
+            "descriptionTextID": 1000163,
+            "short_descriptionTextID": 1000107,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 24,
+            "rewardtype": 0,
+            "short_description": "去四周看看",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10022": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10022,
+            "rewardid": 1937,
+            "worldimg": 11325,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000018,
+            "accept_mission": 200028,
+            "endevent": 200065,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 200064,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡山顶",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10021",
+            "loadtag": 0,
+            "missionname": "风雪消停",
+            "jumpvalue": [
+                0
+            ],
+            "description": "据说暴风雪的来源是山顶的魔法阵，去<color=#82C65D>山顶</color>看看，说不定能让风雪停止。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000067,
+            "descriptionTextID": 1000164,
+            "short_descriptionTextID": 1000108,
+            "rewardquantity": [
+                40,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 40,
+            "rewardtype": 0,
+            "short_description": "寻找停止风雪的办法",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10023": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10023,
+            "rewardid": 1938,
+            "worldimg": 11325,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000019,
+            "accept_mission": 200028,
+            "endevent": 200067,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 200066,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·圣女广场",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10022",
+            "loadtag": 0,
+            "missionname": "击败圣女瑟希薇",
+            "jumpvalue": [
+                0
+            ],
+            "description": "前往山顶的<color=#82C65D>圣女广场</color>击败圣女瑟希薇，将暴风雪停止。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000068,
+            "descriptionTextID": 1000165,
+            "short_descriptionTextID": 1000109,
+            "rewardquantity": [
+                80,
+                0
+            ],
+            "loadevent": "200083",
+            "jumpAim": 41,
+            "rewardtype": 0,
+            "short_description": "击败圣女瑟希薇",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10024": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10024,
+            "rewardid": 1939,
+            "worldimg": 11325,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000020,
+            "accept_mission": 200028,
+            "endevent": 200053,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 200052,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·村外冰原南部",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "狩猎争执·报信",
+            "jumpvalue": [
+                0
+            ],
+            "description": "帮助受伤的猎人，将信息传递给<color=#82C65D>银弓</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000069,
+            "descriptionTextID": 1000166,
+            "short_descriptionTextID": 1000110,
+            "rewardquantity": [
+                3,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 25,
+            "rewardtype": 0,
+            "short_description": "将猎人的信息传递给银弓",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10025": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10025,
+            "rewardid": 1940,
+            "worldimg": 11325,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000021,
+            "accept_mission": 200028,
+            "endevent": 200069,
+            "rewarditem": [
+                74000,
+                0
+            ],
+            "startevent": 200068,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·冰湖猎场中段",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10024",
+            "loadtag": 0,
+            "missionname": "狩猎争执·调解",
+            "jumpvalue": [
+                0
+            ],
+            "description": "去<color=#82C65D>冰湖猎场·中段</color>找到银弓，尝试调解银弓和老猎人组织之间的关系。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000070,
+            "descriptionTextID": 1000167,
+            "short_descriptionTextID": 1000111,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 29,
+            "rewardtype": 0,
+            "short_description": "调解银弓与老猎人的关系",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10026": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10026,
+            "rewardid": 1941,
+            "worldimg": 11325,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000022,
+            "accept_mission": 200028,
+            "endevent": 200071,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 200070,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山腰冰原",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "狼群的灾难·说服",
+            "jumpvalue": [
+                0
+            ],
+            "description": "狼群与人类之间似乎存在某种误会，说服狼群的首领，或许就能调解他们之间的关系。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000071,
+            "descriptionTextID": 1000168,
+            "short_descriptionTextID": 1000112,
+            "rewardquantity": [
+                3,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 31,
+            "rewardtype": 0,
+            "short_description": "说服狼群首领",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10027": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10027,
+            "rewardid": 1942,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000023,
+            "accept_mission": 200028,
+            "endevent": 200081,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 200080,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10006",
+            "loadtag": 0,
+            "missionname": "找到艾妮萌",
+            "jumpvalue": [
+                0
+            ],
+            "description": "艾妮萌逃走时掉落了火焰徽章，找到<color=#82C65D>艾妮萌</color>，把火焰徽章还给她。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000169,
+            "short_descriptionTextID": 1000113,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 21,
+            "rewardtype": 0,
+            "short_description": "找到艾妮萌",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10028": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10028,
+            "rewardid": 1943,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000024,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 200083,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "继续探索时之塔",
+            "jumpvalue": [
+                0
+            ],
+            "description": "继续向上探索时之塔，探寻其中的秘密吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000170,
+            "short_descriptionTextID": 1000114,
+            "rewardquantity": [
+                40,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 42,
+            "rewardtype": 0,
+            "short_description": "继续向上探索时之塔",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10029": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10029,
+            "rewardid": 1944,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000025,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                74000,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "10006",
+            "loadtag": 0,
+            "missionname": "寻找德亚丝",
+            "jumpvalue": [
+                0
+            ],
+            "description": "德亚丝在独自一人引开怪物，布露恩十分担心。<color=#82C65D>向上探索</color>，帮她确认德亚丝的安危。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000171,
+            "short_descriptionTextID": 1000115,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 43,
+            "rewardtype": 0,
+            "short_description": "找到德亚丝",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10030": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10030,
+            "rewardid": 1945,
+            "worldimg": 10587,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000026,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "返回谢波契卡",
+            "jumpvalue": [
+                0
+            ],
+            "description": "再次运用事象移动的能力，尝试扭转谢波契卡的终结。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000172,
+            "short_descriptionTextID": 1000116,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 47,
+            "rewardtype": 0,
+            "short_description": "通过逆之间的镜面返回谢波契卡",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10031": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10031,
+            "rewardid": 1946,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000027,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·村外小道",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "去附近看看",
+            "jumpvalue": [
+                0
+            ],
+            "description": "事象移动后的谢波契卡似乎和之前有所不同，去附近看看吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000072,
+            "descriptionTextID": 1000173,
+            "short_descriptionTextID": 1000117,
+            "rewardquantity": [
+                4,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 48,
+            "rewardtype": 0,
+            "short_description": "去附近看看",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10032": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10032,
+            "rewardid": 1947,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000028,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山腰结界",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "风雪的起因",
+            "jumpvalue": [
+                0
+            ],
+            "description": "继续向前探索，探寻瑟希薇降下风雪的缘由。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000073,
+            "descriptionTextID": 1000174,
+            "short_descriptionTextID": 1000118,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 55,
+            "rewardtype": 0,
+            "short_description": "继续探索谢波契卡",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10033": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10033,
+            "rewardid": 1948,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000029,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山脚冰原",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "去结界外看看",
+            "jumpvalue": [
+                0
+            ],
+            "description": "瑟希薇设置了强大的结界，在外部探索寻找线索。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000074,
+            "descriptionTextID": 1000175,
+            "short_descriptionTextID": 1000119,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 50,
+            "rewardtype": 0,
+            "short_description": "探索结界外部",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10034": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10034,
+            "rewardid": 1949,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000030,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                74000,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山脚猎场",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "调查山脚猎场",
+            "jumpvalue": [
+                0
+            ],
+            "description": "山脚猎场的魔力感应最强，也许那里就是结界的入口。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000075,
+            "descriptionTextID": 1000176,
+            "short_descriptionTextID": 1000120,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 51,
+            "rewardtype": 0,
+            "short_description": "前往山脚猎场",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10035": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10035,
+            "rewardid": 1950,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000031,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·猎场结界",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "进入结界",
+            "jumpvalue": [
+                0
+            ],
+            "description": "成功进入了瑟希薇设置的结界，在结界内部探索，看看有何异常。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000076,
+            "descriptionTextID": 1000177,
+            "short_descriptionTextID": 1000121,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 52,
+            "rewardtype": 0,
+            "short_description": "探索结界内部",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10036": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10036,
+            "rewardid": 1951,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000032,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山腰结界",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "小心探索结界",
+            "jumpvalue": [
+                0
+            ],
+            "description": "结界内部有可疑的生物，小心前进。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000073,
+            "descriptionTextID": 1000178,
+            "short_descriptionTextID": 1000122,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 55,
+            "rewardtype": 0,
+            "short_description": "在结界内部寻找线索",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10037": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10037,
+            "rewardid": 1952,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000033,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                74000,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·骑士团营地",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "地热的源头",
+            "jumpvalue": [
+                0
+            ],
+            "description": "瑟希薇消耗魔力制造风雪来抑制地热，但她不愿接受帮助。先<color=#82C65D>继续探索</color>，去调查地热的源头吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000077,
+            "descriptionTextID": 1000179,
+            "short_descriptionTextID": 1000123,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 58,
+            "rewardtype": 0,
+            "short_description": "寻找地热的源头",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10038": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10038,
+            "rewardid": 1953,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000034,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·圣女广场",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "怪物出现的地方",
+            "jumpvalue": [
+                0
+            ],
+            "description": "那些可疑的怪物似乎与地热有关，前往<color=#82C65D>圣女广场</color>寻找怪物出现的地方。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000068,
+            "descriptionTextID": 1000180,
+            "short_descriptionTextID": 1000124,
+            "rewardquantity": [
+                4,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 61,
+            "rewardtype": 0,
+            "short_description": "前往圣女广场",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10039": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10039,
+            "rewardid": 1954,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000035,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·地下广场",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "追上瑟希薇",
+            "jumpvalue": [
+                0
+            ],
+            "description": "追上瑟希薇，去看看地热的源头究竟是什么。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000078,
+            "descriptionTextID": 1000181,
+            "short_descriptionTextID": 1000125,
+            "rewardquantity": [
+                40,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 65,
+            "rewardtype": 0,
+            "short_description": "前往地下深处",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10040": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10040,
+            "rewardid": 1955,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000036,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·城堡入口",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "寻找寒霜的线索",
+            "jumpvalue": [
+                0
+            ],
+            "description": "必须想办法应对辛莫拉的熔岩核心才能阻止谢波契卡的毁灭。询问前面的<color=#82C65D>冰雪骑士团团长</color>关于寒霜的线索。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000079,
+            "descriptionTextID": 1000182,
+            "short_descriptionTextID": 1000126,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 66,
+            "rewardtype": 0,
+            "short_description": "和前方的骑士团长对话",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10041": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10041,
+            "rewardid": 1956,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000037,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·城堡入口",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "制作寒霜",
+            "jumpvalue": [
+                0
+            ],
+            "description": "从团长处得到了冰之晶石，加上之前从瑟希薇处获得的不融寒冰，接下来只需要找到拉·柯莉玛了。据说她在<color=#82C65D>城堡前段</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000079,
+            "descriptionTextID": 1000183,
+            "short_descriptionTextID": 1000127,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 66,
+            "rewardtype": 0,
+            "short_description": "找到拉·柯莉玛",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10042": {
+            "missiontype": 1,
+            "worldname": 3,
+            "id": 10042,
+            "rewardid": 1957,
+            "worldimg": 12817,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000038,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·地下广场",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "阻止辛莫拉",
+            "jumpvalue": [
+                0
+            ],
+            "description": "击败辛莫拉，逆转谢波契卡必然毁灭的命运。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000078,
+            "descriptionTextID": 1000184,
+            "short_descriptionTextID": 1000128,
+            "rewardquantity": [
+                80,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 67,
+            "rewardtype": 0,
+            "short_description": "阻止谢波契卡的毁灭",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "10043": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10043,
+            "rewardid": 1958,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000039,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "继续探索时之塔",
+            "jumpvalue": [
+                0
+            ],
+            "description": "继续向上探索时之塔，探寻其中的秘密吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000185,
+            "short_descriptionTextID": 1000129,
+            "rewardquantity": [
+                40,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 43,
+            "rewardtype": 0,
+            "short_description": "继续向上探索时之塔",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10044": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10044,
+            "rewardid": 1959,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000890,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "让德亚丝恢复正常",
+            "jumpvalue": [
+                0
+            ],
+            "description": "布露恩的劝说并未奏效，德亚丝已经变得非常危险。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000057,
+            "descriptionTextID": 1000892,
+            "short_descriptionTextID": 1000891,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 73,
+            "rewardtype": 0,
+            "short_description": "追上德亚丝",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10045": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10045,
+            "rewardid": 2711,
+            "worldimg": 10588,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000105,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200088,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "危险的探索",
+            "jumpvalue": [
+                0
+            ],
+            "description": "继续向上探索时之塔。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001066,
+            "descriptionTextID": 1001046,
+            "short_descriptionTextID": 1001026,
+            "rewardquantity": [
+                30000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 68,
+            "rewardtype": 0,
+            "short_description": "继续向上探索时之塔",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10046": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10046,
+            "rewardid": 2712,
+            "worldimg": 10588,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000955,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "引渡人的恩怨",
+            "jumpvalue": [
+                0
+            ],
+            "description": "奇芬为了履行引渡人的职责，也为拯救昔日的好友，决定独自追捕<color=#82C65D>古尔薇格</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001067,
+            "descriptionTextID": 1001047,
+            "short_descriptionTextID": 1001027,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 68,
+            "rewardtype": 0,
+            "short_description": "帮助奇芬",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10047": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10047,
+            "rewardid": 2713,
+            "worldimg": 10588,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000956,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76004,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "逃走的古尔薇格",
+            "jumpvalue": [
+                0
+            ],
+            "description": "帮助奇芬寻找逃走的古尔薇格。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001068,
+            "descriptionTextID": 1001048,
+            "short_descriptionTextID": 1001028,
+            "rewardquantity": [
+                4,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 70,
+            "rewardtype": 0,
+            "short_description": "寻找逃走的古尔薇格",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10048": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10048,
+            "rewardid": 2714,
+            "worldimg": 10588,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000957,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "追捕古尔薇格",
+            "jumpvalue": [
+                0
+            ],
+            "description": "古尔薇格十分危险，必须尽快找到她。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001069,
+            "descriptionTextID": 1001049,
+            "short_descriptionTextID": 1001029,
+            "rewardquantity": [
+                30000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 72,
+            "rewardtype": 0,
+            "short_description": "追捕逃走的古尔薇格",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10049": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10049,
+            "rewardid": 2715,
+            "worldimg": 10588,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000958,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "德亚丝的行踪",
+            "jumpvalue": [
+                0
+            ],
+            "description": "德亚丝的精神状态已经不正常了，必须尽快找到她。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001070,
+            "descriptionTextID": 1001050,
+            "short_descriptionTextID": 1001030,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 73,
+            "rewardtype": 0,
+            "short_description": "寻找精神异常的德亚丝",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10050": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10050,
+            "rewardid": 2716,
+            "worldimg": 10588,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000959,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "牧师的阴谋",
+            "jumpvalue": [
+                0
+            ],
+            "description": "牧师攫取禁忌的魔法，穿越到了另一个世界，尽快弄清他在暗中谋划着什么。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001071,
+            "descriptionTextID": 1001051,
+            "short_descriptionTextID": 1001031,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 80,
+            "rewardtype": 0,
+            "short_description": "调查并阻止牧师的阴谋",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10051": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10051,
+            "rewardid": 2717,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000960,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·花田",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "护送莉安",
+            "jumpvalue": [
+                0
+            ],
+            "description": "护送神秘的小女孩莉安回同伴身边。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001072,
+            "descriptionTextID": 1001052,
+            "short_descriptionTextID": 1001032,
+            "rewardquantity": [
+                30000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 80,
+            "rewardtype": 1,
+            "short_description": "护送神秘的小女孩莉安",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10052": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10052,
+            "rewardid": 2718,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000961,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76004,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "下层·旷野西部",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "止血的白花",
+            "jumpvalue": [
+                0
+            ],
+            "description": "向北前进，采摘可以用来止血的<color=#82C65D>白花</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001073,
+            "descriptionTextID": 1001053,
+            "short_descriptionTextID": 1001033,
+            "rewardquantity": [
+                4,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 76,
+            "rewardtype": 0,
+            "short_description": "采摘止血的白花",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10053": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10053,
+            "rewardid": 2719,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000962,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                74002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·旷野北部",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "制作药剂",
+            "jumpvalue": [
+                0
+            ],
+            "description": "已经获得了止血的白花，快去把它交给正在村子里焦急等待的托奈兰吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001074,
+            "descriptionTextID": 1001054,
+            "short_descriptionTextID": 1001034,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 77,
+            "rewardtype": 0,
+            "short_description": "将白花交给托奈兰",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10054": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10054,
+            "rewardid": 2720,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000963,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·花田",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "秘密接头",
+            "jumpvalue": [
+                0
+            ],
+            "description": "去村外<color=#82C65D>花田入口</color>的大树下，点燃一堆树叶，这是和反抗同盟首领接头的暗号，把这里发生的事情告诉他。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001075,
+            "descriptionTextID": 1001055,
+            "short_descriptionTextID": 1001035,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 80,
+            "rewardtype": 0,
+            "short_description": "使用暗号为奈茉茜传信",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10055": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10055,
+            "rewardid": 2721,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000964,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76004,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·托特村",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "村民的粮食",
+            "jumpvalue": [
+                0
+            ],
+            "description": "村民把粮食藏在了花田隐藏的小道，帮她确认粮食的安全。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001076,
+            "descriptionTextID": 1001056,
+            "short_descriptionTextID": 1001036,
+            "rewardquantity": [
+                4,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 79,
+            "rewardtype": 0,
+            "short_description": "查看藏在花田的粮食",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10056": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10056,
+            "rewardid": 2722,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000965,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                74002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·山脚农田",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "调查牧师的行踪",
+            "jumpvalue": [
+                0
+            ],
+            "description": "有人在下层的关卡附近见过疑似牧师的男子，去那里调查看看，说不定能得到新的线索。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001077,
+            "descriptionTextID": 1001057,
+            "short_descriptionTextID": 1001037,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 82,
+            "rewardtype": 0,
+            "short_description": "去下层的关卡调查牧师的行踪",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10057": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10057,
+            "rewardid": 2723,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000966,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·古树",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "调查遗迹",
+            "jumpvalue": [
+                0
+            ],
+            "description": "有人在普尼尔村遗迹那里见过牧师，去那调查，说不定能获得新的线索。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001078,
+            "descriptionTextID": 1001058,
+            "short_descriptionTextID": 1001038,
+            "rewardquantity": [
+                30000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 85,
+            "rewardtype": 0,
+            "short_description": "调查普尼尔村遗址",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10058": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10058,
+            "rewardid": 2724,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000967,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                74002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "魔法生成所·四",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "探寻地震的起因",
+            "jumpvalue": [
+                0
+            ],
+            "description": "关于地震，有很多奇怪的<color=#82C65D>流言</color>，似乎得进入上层才能找到线索。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001713,
+            "descriptionTextID": 1001059,
+            "short_descriptionTextID": 1001039,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 104,
+            "rewardtype": 0,
+            "short_description": "探寻地震起因",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10059": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10059,
+            "rewardid": 2725,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000968,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·古树",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "阻止牧师的阴谋",
+            "jumpvalue": [
+                0
+            ],
+            "description": "牧师似乎在操纵魔物攻击无辜的人，必须尽快阻止他。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001080,
+            "descriptionTextID": 1001060,
+            "short_descriptionTextID": 1001040,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 85,
+            "rewardtype": 0,
+            "short_description": "阻止牧师的阴谋",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10060": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10060,
+            "rewardid": 2726,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000969,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·道路尽头",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "贪玩的家伙",
+            "jumpvalue": [
+                0
+            ],
+            "description": "贪玩的爱珐怜误入下层，找不到回去的路了。一个人很危险，把她送回<color=#82C65D>上层</color>吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001081,
+            "descriptionTextID": 1001061,
+            "short_descriptionTextID": 1001041,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 87,
+            "rewardtype": 0,
+            "short_description": "将爱珐怜送回上层",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10061": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10061,
+            "rewardid": 2727,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000970,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·蜿蜒小路",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "危险接近",
+            "jumpvalue": [
+                0
+            ],
+            "description": "嘉代提斯就在附近联络各个村子的同伴，尽快告知他已经被杀手盯上的消息，注意自身的安全。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001082,
+            "descriptionTextID": 1001062,
+            "short_descriptionTextID": 1001042,
+            "rewardquantity": [
+                30000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 88,
+            "rewardtype": 0,
+            "short_description": "提醒嘉代提斯他已被盯上",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10062": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10062,
+            "rewardid": 2728,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000971,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76004,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "盘旋之地",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "巨大的魔物",
+            "jumpvalue": [
+                0
+            ],
+            "description": "团结起来一起击败盘踞在下层的巨大魔物。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001083,
+            "descriptionTextID": 1001063,
+            "short_descriptionTextID": 1001043,
+            "rewardquantity": [
+                4,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 91,
+            "rewardtype": 0,
+            "short_description": "击败盘踞在下层的巨大魔物",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10063": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10063,
+            "rewardid": 2729,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000972,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·盘旋走廊·前段",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "托奈兰的心意",
+            "jumpvalue": [
+                0
+            ],
+            "description": "把托奈兰亲手制作的疗伤药交给<color=#82C65D>奈茉茜</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001084,
+            "descriptionTextID": 1001064,
+            "short_descriptionTextID": 1001044,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 89,
+            "rewardtype": 0,
+            "short_description": "把托奈兰制作的疗伤药交给奈茉茜",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10064": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10064,
+            "rewardid": 2730,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000973,
+            "accept_mission": 200028,
+            "endevent": 200090,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "盘旋之地",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "进入上层",
+            "jumpvalue": [
+                0
+            ],
+            "description": "造成地震的原因并不是魔物那么简单，进入上层继续探寻真相",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001662,
+            "descriptionTextID": 1001065,
+            "short_descriptionTextID": 1001045,
+            "rewardquantity": [
+                8000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 92,
+            "rewardtype": 0,
+            "short_description": "进入上层探寻真相",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10065": {
+            "missiontype": 1,
+            "worldname": 4,
+            "id": 10065,
+            "rewardid": 2731,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001086,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "嘉庇艾尔·下层·原野东部",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "奇怪的地震",
+            "jumpvalue": [
+                0
+            ],
+            "description": "浮岛最近似乎经常会发生一些奇怪的地震，要尝试调查一下地震的原因吗？这附近的村子的居民说不定会知道什么线索。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001087,
+            "descriptionTextID": 1001089,
+            "short_descriptionTextID": 1001088,
+            "rewardquantity": [
+                4,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 84,
+            "rewardtype": 0,
+            "short_description": "毫无征兆的地震造成了恐慌",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10066": {
+            "missiontype": 1,
+            "worldname": 1,
+            "id": 10066,
+            "rewardid": 3186,
+            "worldimg": 10588,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001163,
+            "accept_mission": 200028,
+            "endevent": 200089,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "时之塔",
+            "chapter": 0,
+            "jumptype": 0,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "未来的期待",
+            "jumpvalue": [
+                0
+            ],
+            "description": "谢波契卡的混乱已经被修正，回到时之塔，等待你的将是新的冒险。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001066,
+            "descriptionTextID": 1001166,
+            "short_descriptionTextID": 1001165,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 68,
+            "rewardtype": 0,
+            "short_description": "回到时之塔内",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10067": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10067,
+            "rewardid": 4071,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001661,
+            "accept_mission": 200028,
+            "endevent": 200092,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "关卡前通道",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "通过上层关卡",
+            "jumpvalue": [
+                0
+            ],
+            "description": "反抗同盟的军队已经来到上层的入口处，跟随他们进入嘉庇艾尔的上层。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001662,
+            "descriptionTextID": 1001664,
+            "short_descriptionTextID": 1001663,
+            "rewardquantity": [
+                50000,
+                0
+            ],
+            "loadevent": "200093,200095,200099,200101,200105,200107,200109,200113,200115",
+            "jumpAim": 92,
+            "rewardtype": 0,
+            "short_description": "进入嘉庇艾尔上层",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10068": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10068,
+            "rewardid": 4072,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001665,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                74002,
+                0
+            ],
+            "startevent": 200093,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "上层·原野西部",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "探索上层",
+            "jumpvalue": [
+                0
+            ],
+            "description": "终于进入了嘉庇艾尔上层，先四处看看吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001666,
+            "descriptionTextID": 1001668,
+            "short_descriptionTextID": 1001667,
+            "rewardquantity": [
+                10,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 94,
+            "rewardtype": 0,
+            "short_description": "探索嘉庇艾尔上层",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10069": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10069,
+            "rewardid": 4073,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001669,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                31380,
+                0
+            ],
+            "startevent": 200095,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "魔法生成所·一",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "寻找魔法装置",
+            "jumpvalue": [
+                0
+            ],
+            "description": "根据嘉代提斯的线索，必须关闭<color=#82C65D>魔法装置</color>，才能解除通往圣域的封印。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001670,
+            "descriptionTextID": 1001672,
+            "short_descriptionTextID": 1001671,
+            "rewardquantity": [
+                10,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 96,
+            "rewardtype": 0,
+            "short_description": "寻找上层的魔法装置",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10070": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10070,
+            "rewardid": 4074,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001673,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                31386,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "魔法生成所·四",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "寻找剩余的魔道具",
+            "jumpvalue": [
+                0
+            ],
+            "description": "据说嘉庇艾尔是借助魔道具的魔力浮在空中，如果能找到剩余的魔道具，说不定有什么新的收获。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001674,
+            "descriptionTextID": 1001676,
+            "short_descriptionTextID": 1001675,
+            "rewardquantity": [
+                10,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 104,
+            "rewardtype": 0,
+            "short_description": "收集嘉庇艾尔剩余的魔道具",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10071": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10071,
+            "rewardid": 4075,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001677,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 200099,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "魔法生成所·二",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "关闭第二个魔法装置",
+            "jumpvalue": [
+                0
+            ],
+            "description": "协助反抗同盟找到并关闭第二个魔法装置。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001678,
+            "descriptionTextID": 1001680,
+            "short_descriptionTextID": 1001679,
+            "rewardquantity": [
+                40,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 99,
+            "rewardtype": 0,
+            "short_description": "寻找隐藏的第二个魔法装置",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10072": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10072,
+            "rewardid": 4076,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001681,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 200101,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "魔法生成所·三",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "关闭第三个魔法装置",
+            "jumpvalue": [
+                0
+            ],
+            "description": "协助反抗同盟找到并关闭第三个魔法装置。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001682,
+            "descriptionTextID": 1001684,
+            "short_descriptionTextID": 1001683,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 101,
+            "rewardtype": 0,
+            "short_description": "寻找隐藏的第三个魔法装置",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10073": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10073,
+            "rewardid": 4077,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001685,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "温迪克平原·后段",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "取走引火石",
+            "jumpvalue": [
+                0
+            ],
+            "description": "贵族官员计划炸掉关卡浮桥，切断反抗同盟的补给。必须尽快赶到温迪克平原的仓库，阻止他。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001686,
+            "descriptionTextID": 1001688,
+            "short_descriptionTextID": 1001687,
+            "rewardquantity": [
+                40,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 101,
+            "rewardtype": 0,
+            "short_description": "前往仓库取走引火石",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10074": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10074,
+            "rewardid": 4078,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001689,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200105,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "洛菲尔平原·前段",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "阻止贵族官员的计划",
+            "jumpvalue": [
+                0
+            ],
+            "description": "贵族官员打算去洛菲尔平原取走引火石，赶在他前面到达仓库，阻止他的计划。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001690,
+            "descriptionTextID": 1001692,
+            "short_descriptionTextID": 1001691,
+            "rewardquantity": [
+                50000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 102,
+            "rewardtype": 0,
+            "short_description": "前往仓库取走引火石",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10075": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10075,
+            "rewardid": 4079,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001693,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                74002,
+                0
+            ],
+            "startevent": 200107,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "魔法生成所·四",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "关闭最后一个魔法装置",
+            "jumpvalue": [
+                0
+            ],
+            "description": "协助反抗同盟找到并关闭最后一个魔法装置。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001694,
+            "descriptionTextID": 1001696,
+            "short_descriptionTextID": 1001695,
+            "rewardquantity": [
+                10,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 104,
+            "rewardtype": 0,
+            "short_description": "寻找隐藏的第四个魔法装置",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10076": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10076,
+            "rewardid": 4080,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001697,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                31383,
+                0
+            ],
+            "startevent": 200109,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "圣域入口",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "进入圣域",
+            "jumpvalue": [
+                0
+            ],
+            "description": "圣域的封印已经解除，尽快前往圣域，找到嘉庇艾尔的守护者。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001698,
+            "descriptionTextID": 1001700,
+            "short_descriptionTextID": 1001699,
+            "rewardquantity": [
+                10,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 106,
+            "rewardtype": 0,
+            "short_description": "解除封印进入圣域",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10077": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10077,
+            "rewardid": 4081,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001701,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                31389,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "精灵之森",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "精灵的乐曲",
+            "jumpvalue": [
+                0
+            ],
+            "description": "将芙洛莱想要学习乐曲的愿望，告知精灵之森的玛娅维尔。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001702,
+            "descriptionTextID": 1001704,
+            "short_descriptionTextID": 1001703,
+            "rewardquantity": [
+                10,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 106,
+            "rewardtype": 0,
+            "short_description": "实现芙洛莱学习乐曲的心愿",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10078": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10078,
+            "rewardid": 4082,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001705,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 200113,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "圣域·神殿广场",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "说服守护者",
+            "jumpvalue": [
+                0
+            ],
+            "description": "说服嘉庇艾尔的守护者，让浮岛重回地面。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001706,
+            "descriptionTextID": 1001708,
+            "short_descriptionTextID": 1001707,
+            "rewardquantity": [
+                100,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 109,
+            "rewardtype": 0,
+            "short_description": "前往圣域的顶部神殿",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "10079": {
+            "missiontype": 1,
+            "worldname": 5,
+            "id": 10079,
+            "rewardid": 4083,
+            "worldimg": 12357,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1001709,
+            "accept_mission": 200028,
+            "endevent": 0,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200115,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "未知的世界",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "未来的期待",
+            "jumpvalue": [
+                0
+            ],
+            "description": "嘉庇艾尔的混乱已经被修正，回到时之塔，等待你的将是新的冒险。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1001710,
+            "descriptionTextID": 1001712,
+            "short_descriptionTextID": 1001711,
+            "rewardquantity": [
+                50000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 109,
+            "rewardtype": 0,
+            "short_description": "等待新冒险的开启",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "60001": {
+            "missiontype": 2,
+            "worldname": 101,
+            "id": 60001,
+            "rewardid": 0,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000931,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                0,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 21,
+            "progressname": [],
+            "location": "幕一——“邀请”",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "“邀请”",
+            "jumpvalue": [
+                0
+            ],
+            "description": "完成德亚丝-XX断片-XXXX-幕一——“邀请”",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000937,
+            "descriptionTextID": 1000949,
+            "short_descriptionTextID": 1000943,
+            "rewardquantity": [
+                0,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 5001,
+            "rewardtype": 0,
+            "short_description": "完成幕一——“邀请”",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "60002": {
+            "missiontype": 2,
+            "worldname": 101,
+            "id": 60002,
+            "rewardid": 0,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000932,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                0,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 21,
+            "progressname": [],
+            "location": "幕二——“力量”",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "“力量”",
+            "jumpvalue": [
+                0
+            ],
+            "description": "完成德亚丝-XX断片-XXXX-幕二——“力量”",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000938,
+            "descriptionTextID": 1000950,
+            "short_descriptionTextID": 1000944,
+            "rewardquantity": [
+                0,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 5002,
+            "rewardtype": 0,
+            "short_description": "完成幕二——“力量”",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "60003": {
+            "missiontype": 2,
+            "worldname": 101,
+            "id": 60003,
+            "rewardid": 0,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000933,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                0,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 21,
+            "progressname": [],
+            "location": "幕三——“志同道合”",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "“志同道合”",
+            "jumpvalue": [
+                0
+            ],
+            "description": "完成德亚丝-XX断片-XXXX-幕三——“志同道合”",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000939,
+            "descriptionTextID": 1000951,
+            "short_descriptionTextID": 1000945,
+            "rewardquantity": [
+                0,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 5003,
+            "rewardtype": 0,
+            "short_description": "完成幕三——“志同道合”",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "60004": {
+            "missiontype": 2,
+            "worldname": 101,
+            "id": 60004,
+            "rewardid": 0,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000934,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                0,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 21,
+            "progressname": [],
+            "location": "幕四——“秘密”",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "“秘密”",
+            "jumpvalue": [
+                0
+            ],
+            "description": "完成德亚丝-XX断片-XXXX-幕四——“秘密”",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000940,
+            "descriptionTextID": 1000952,
+            "short_descriptionTextID": 1000946,
+            "rewardquantity": [
+                0,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 5004,
+            "rewardtype": 0,
+            "short_description": "完成幕四——“秘密”",
+            "backgroundtype": 10464,
+            "progressnameTextID": []
+        },
+        "60005": {
+            "missiontype": 2,
+            "worldname": 101,
+            "id": 60005,
+            "rewardid": 0,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000935,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                0,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 21,
+            "progressname": [],
+            "location": "幕五——“不期而遇”",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "“不期而遇”",
+            "jumpvalue": [
+                0
+            ],
+            "description": "完成德亚丝-XX断片-XXXX-幕五——“不期而遇”",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000941,
+            "descriptionTextID": 1000953,
+            "short_descriptionTextID": 1000947,
+            "rewardquantity": [
+                0,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 5005,
+            "rewardtype": 0,
+            "short_description": "完成幕五——“不期而遇”",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "60006": {
+            "missiontype": 2,
+            "worldname": 101,
+            "id": 60006,
+            "rewardid": 0,
+            "worldimg": 10588,
+            "toptip": [
+                200005
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000936,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                0,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 21,
+            "progressname": [],
+            "location": "幕六——“礼物”",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "“礼物”",
+            "jumpvalue": [
+                0
+            ],
+            "description": "完成德亚丝-XX断片-XXXX-幕六——“礼物”",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000942,
+            "descriptionTextID": 1000954,
+            "short_descriptionTextID": 1000948,
+            "rewardquantity": [
+                0,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 5006,
+            "rewardtype": 0,
+            "short_description": "完成幕六——“礼物”",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20017": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20017,
+            "rewardid": 2710,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000056,
+            "accept_mission": 200028,
+            "endevent": 200084,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山脚冰原",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "储藏的食物",
+            "jumpvalue": [
+                0
+            ],
+            "description": "小狐狸贮藏的食物应该就<color=#82C65D>在附近</color>，在周围找找看吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000074,
+            "descriptionTextID": 1000202,
+            "short_descriptionTextID": 1000146,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 54,
+            "rewardtype": 0,
+            "short_description": "在附近寻找储藏的食物",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20016": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20016,
+            "rewardid": 2709,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000055,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山腰冰原",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "想回家的小狼 ",
+            "jumpvalue": [
+                0
+            ],
+            "description": "前往<color=#82C65D>山脚冰原</color>，找到狼群首领。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000071,
+            "descriptionTextID": 1000201,
+            "short_descriptionTextID": 1000145,
+            "rewardquantity": [
+                4,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 50,
+            "rewardtype": 0,
+            "short_description": "带小狼回到狼群首领那里",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20015": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20015,
+            "rewardid": 2708,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000054,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·冰封湖面",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "归还猎弓",
+            "jumpvalue": [
+                0
+            ],
+            "description": "因狩猎争执夺走了年轻人的猎弓，帮忙将它归还。他就在前面的<color=#82C65D>冰封湖面</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000090,
+            "descriptionTextID": 1000200,
+            "short_descriptionTextID": 1000144,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 59,
+            "rewardtype": 0,
+            "short_description": "将猎弓还给年轻的猎人",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20014": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20014,
+            "rewardid": 1973,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000053,
+            "accept_mission": 200028,
+            "endevent": 200079,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200078,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·冰封湖面",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "保护猎人·驱赶白熊",
+            "jumpvalue": [
+                0
+            ],
+            "description": "打败凶恶的<color=#82C65D>白熊</color>，让他无法再伤害人类。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000090,
+            "descriptionTextID": 1000199,
+            "short_descriptionTextID": 1000143,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 37,
+            "rewardtype": 0,
+            "short_description": "驱赶凶恶的白熊",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20013": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20013,
+            "rewardid": 1972,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000052,
+            "accept_mission": 200028,
+            "endevent": 200077,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 200076,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山腰岔路前段",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "保护猎人·寻找白熊",
+            "jumpvalue": [
+                0
+            ],
+            "description": "白熊经常攻击附近的人类，收集关于白熊出没地点的情报吧。也许可以问问<color=#82C65D>银弓</color>，在途中留意一下他的身影吧。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000089,
+            "descriptionTextID": 1000198,
+            "short_descriptionTextID": 1000142,
+            "rewardquantity": [
+                3,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 32,
+            "rewardtype": 0,
+            "short_description": "询问银弓关于白熊的情报",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20012": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20012,
+            "rewardid": 1971,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000051,
+            "accept_mission": 200028,
+            "endevent": 200075,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 200074,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山腰冰原",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "受伤的小狼",
+            "jumpvalue": [
+                0
+            ],
+            "description": "将受伤的小狼送回家。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000071,
+            "descriptionTextID": 1000197,
+            "short_descriptionTextID": 1000141,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 31,
+            "rewardtype": 0,
+            "short_description": "送受伤的小狼回家",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20011": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20011,
+            "rewardid": 1970,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000050,
+            "accept_mission": 200028,
+            "endevent": 200073,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200072,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·崎岖山路后段",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "归还行李",
+            "jumpvalue": [
+                0
+            ],
+            "description": "雪狼偷走了银弓的行李，帮忙将银弓的行李还回去。据说银弓目前在<color=#82C65D>崎岖山路·后段</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000088,
+            "descriptionTextID": 1000196,
+            "short_descriptionTextID": 1000140,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 36,
+            "rewardtype": 0,
+            "short_description": "归还银弓的行李",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20010": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20010,
+            "rewardid": 1969,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000049,
+            "accept_mission": 200028,
+            "endevent": 200055,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 200054,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·村外冰原西部",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "教训偷粮贼",
+            "jumpvalue": [
+                0
+            ],
+            "description": "村民的粮食被狡猾的狐狸偷走了，帮他找到粮食，教训那些狐狸。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000087,
+            "descriptionTextID": 1000195,
+            "short_descriptionTextID": 1000139,
+            "rewardquantity": [
+                6000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 25,
+            "rewardtype": 0,
+            "short_description": "教训偷走粮食的狐狸",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20009": {
+            "missiontype": 2,
+            "worldname": 3,
+            "id": 20009,
+            "rewardid": 1968,
+            "worldimg": 11325,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000048,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "谢波契卡·山脚猎场外围",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "20001",
+            "loadtag": 0,
+            "missionname": "寻找木材",
+            "jumpvalue": [
+                0
+            ],
+            "description": "帮助村民安迪寻找<color=#82C65D>适合做拐杖的木材</color>，他会用宝物与你交换。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000086,
+            "descriptionTextID": 1000194,
+            "short_descriptionTextID": 1000138,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 26,
+            "rewardtype": 0,
+            "short_description": "帮村民安迪寻找木材",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20008": {
+            "missiontype": 2,
+            "worldname": 2,
+            "id": 20008,
+            "rewardid": 1967,
+            "worldimg": 10587,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000047,
+            "accept_mission": 200028,
+            "endevent": 200049,
+            "rewarditem": [
+                74000,
+                0
+            ],
+            "startevent": 200048,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·巨木外围",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "20001",
+            "loadtag": 0,
+            "missionname": "兄弟·返信",
+            "jumpvalue": [
+                0
+            ],
+            "description": "将弟弟也已经变成毛毛虫的消息传递给焦急的哥哥，他应该还在<color=#82C65D>商业区</color>或已经前往了<color=#82C65D>巨木外围</color>。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000065,
+            "descriptionTextID": 1000193,
+            "short_descriptionTextID": 1000137,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 16,
+            "rewardtype": 0,
+            "short_description": "将消息传递给等待的兄长",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20007": {
+            "missiontype": 2,
+            "worldname": 2,
+            "id": 20007,
+            "rewardid": 1966,
+            "worldimg": 10587,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000046,
+            "accept_mission": 200028,
+            "endevent": 200034,
+            "rewarditem": [
+                35008,
+                0
+            ],
+            "startevent": 200047,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·艾琳岛",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "20006",
+            "loadtag": 0,
+            "missionname": "珍贵之物",
+            "jumpvalue": [
+                0
+            ],
+            "description": "真正的珍贵之物是心中的故乡，在<color=#82C65D>艾琳岛</color>找到商人真正的故乡，替他完成遗愿。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000085,
+            "descriptionTextID": 1000192,
+            "short_descriptionTextID": 1000136,
+            "rewardquantity": [
+                40,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 15,
+            "rewardtype": 0,
+            "short_description": "找到商人真正的故乡",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20006": {
+            "missiontype": 2,
+            "worldname": 2,
+            "id": 20006,
+            "rewardid": 1965,
+            "worldimg": 10587,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000045,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35018,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·近卫营外围",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "20005",
+            "loadtag": 0,
+            "missionname": "珍贵之物·故乡",
+            "jumpvalue": [
+                0
+            ],
+            "description": "商人只剩下埋在故乡的一点积蓄了，向前方探索寻找艾琳岛，帮他回到自己的故乡。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000084,
+            "descriptionTextID": 1000191,
+            "short_descriptionTextID": 1000135,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "200047",
+            "jumpAim": 13,
+            "rewardtype": 0,
+            "short_description": "找到商人的积蓄",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20005": {
+            "missiontype": 2,
+            "worldname": 2,
+            "id": 20005,
+            "rewardid": 1964,
+            "worldimg": 10587,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000044,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                35002,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·商业区",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "20003",
+            "loadtag": 0,
+            "missionname": "珍贵之物·金银",
+            "jumpvalue": [
+                0
+            ],
+            "description": "商人积攒的金银埋在<color=#82C65D>商业区</color>的店铺地下，帮他找回埋藏的金银。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000080,
+            "descriptionTextID": 1000190,
+            "short_descriptionTextID": 1000134,
+            "rewardquantity": [
+                5000,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 9,
+            "rewardtype": 0,
+            "short_description": "找回商人的金银",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20004": {
+            "missiontype": 2,
+            "worldname": 2,
+            "id": 20004,
+            "rewardid": 1963,
+            "worldimg": 10587,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000043,
+            "accept_mission": 200028,
+            "endevent": 200035,
+            "rewarditem": [
+                35011,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·沼",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "索雷优的曲谱·异样",
+            "jumpvalue": [
+                0
+            ],
+            "description": "得到了曲谱的索雷优似乎有些奇怪，追上去看看到底发生了什么。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000083,
+            "descriptionTextID": 1000189,
+            "short_descriptionTextID": 1000133,
+            "rewardquantity": [
+                20,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 12,
+            "rewardtype": 0,
+            "short_description": "查看索雷优的状况",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20003": {
+            "missiontype": 2,
+            "worldname": 2,
+            "id": 20003,
+            "rewardid": 1962,
+            "worldimg": 10587,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000042,
+            "accept_mission": 200028,
+            "endevent": 200000,
+            "rewarditem": [
+                76001,
+                0
+            ],
+            "startevent": 0,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·商业区入口",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "珍贵之物·铠甲",
+            "jumpvalue": [
+                0
+            ],
+            "description": "商人最爱的铠甲放在<color=#82C65D>商业区入口</color>集市的店铺里，帮他寻回铠甲。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000082,
+            "descriptionTextID": 1000188,
+            "short_descriptionTextID": 1000132,
+            "rewardquantity": [
+                3,
+                0
+            ],
+            "loadevent": "",
+            "jumpAim": 8,
+            "rewardtype": 0,
+            "short_description": "找回商人的铠甲",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        },
+        "20001": {
+            "missiontype": 2,
+            "worldname": 2,
+            "id": 20001,
+            "rewardid": 1960,
+            "worldimg": 10587,
+            "toptip": [
+                200027
+            ],
+            "branchmission_item": 0,
+            "missionnameTextID": 1000040,
+            "accept_mission": 200028,
+            "endevent": 200033,
+            "rewarditem": [
+                74000,
+                0
+            ],
+            "startevent": 200032,
+            "UIjumpvalue": 16,
+            "progressname": [],
+            "location": "伊敏瑟伦·商业区",
+            "chapter": 0,
+            "jumptype": 2,
+            "unlockcondition": "0",
+            "loadtag": 0,
+            "missionname": "兄弟·寻找",
+            "jumpvalue": [
+                0
+            ],
+            "description": "受变成毛虫的兄长的委托，在<color=#82C65D>前方的森林</color>里，帮助他寻找失散的弟弟。",
+            "lastchapter": "0,1,2,3,4,5,6,7",
+            "locationTextID": 1000080,
+            "descriptionTextID": 1000186,
+            "short_descriptionTextID": 1000130,
+            "rewardquantity": [
+                5,
+                0
+            ],
+            "loadevent": "200048",
+            "jumpAim": 9,
+            "rewardtype": 0,
+            "short_description": "受委托寻找弟弟",
+            "backgroundtype": 10463,
+            "progressnameTextID": []
+        }
+    }
+}

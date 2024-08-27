@@ -1,0 +1,36 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3
+    ],
+    "Data": [
+        {
+            "Sort": 1,
+            "Nums": 1,
+            "Price": 10,
+            "id": 1,
+            "MoneyType": 35055,
+            "Stock": 5,
+            "Items": 31129
+        },
+        {
+            "Sort": 2,
+            "Nums": 1,
+            "Price": 30,
+            "id": 2,
+            "MoneyType": 35055,
+            "Stock": 4,
+            "Items": 31130
+        },
+        {
+            "Sort": 3,
+            "Nums": 1,
+            "Price": 60,
+            "id": 3,
+            "MoneyType": 35055,
+            "Stock": 3,
+            "Items": 31131
+        }
+    ]
+}

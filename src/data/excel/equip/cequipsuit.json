@@ -1,0 +1,149 @@
+{
+    "Data": [
+        {
+            "suitSkillID": [
+                20038,
+                0,
+                0
+            ],
+            "suitImg": 12633,
+            "id": 1,
+            "suitName": 1500066
+        },
+        {
+            "suitSkillID": [
+                20009,
+                0,
+                0
+            ],
+            "suitImg": 12631,
+            "id": 2,
+            "suitName": 1500067
+        },
+        {
+            "suitSkillID": [
+                20043,
+                0,
+                0
+            ],
+            "suitImg": 12632,
+            "id": 3,
+            "suitName": 1500068
+        },
+        {
+            "suitSkillID": [
+                0,
+                20005,
+                20078
+            ],
+            "suitImg": 12945,
+            "id": 4,
+            "suitName": 1500072
+        },
+        {
+            "suitSkillID": [
+                0,
+                20001,
+                20059
+            ],
+            "suitImg": 12947,
+            "id": 5,
+            "suitName": 1500073
+        },
+        {
+            "suitSkillID": [
+                0,
+                20010,
+                20061
+            ],
+            "suitImg": 12941,
+            "id": 6,
+            "suitName": 1500074
+        },
+        {
+            "suitSkillID": [
+                0,
+                20014,
+                20062
+            ],
+            "suitImg": 12943,
+            "id": 7,
+            "suitName": 1500075
+        },
+        {
+            "suitSkillID": [
+                20040,
+                0,
+                0
+            ],
+            "suitImg": 12637,
+            "id": 8,
+            "suitName": 1500076
+        },
+        {
+            "suitSkillID": [
+                20058,
+                0,
+                0
+            ],
+            "suitImg": 12634,
+            "id": 9,
+            "suitName": 1500077
+        },
+        {
+            "suitSkillID": [
+                20055,
+                0,
+                0
+            ],
+            "suitImg": 12636,
+            "id": 10,
+            "suitName": 1500078
+        },
+        {
+            "suitSkillID": [
+                20041,
+                0,
+                0
+            ],
+            "suitImg": 12946,
+            "id": 11,
+            "suitName": 1500079
+        },
+        {
+            "suitSkillID": [
+                20048,
+                0,
+                0
+            ],
+            "suitImg": 12942,
+            "id": 12,
+            "suitName": 1500080
+        },
+        {
+            "suitSkillID": [
+                20083,
+                0,
+                0
+            ],
+            "suitImg": 12944,
+            "id": 13,
+            "suitName": 1500081
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ]
+}

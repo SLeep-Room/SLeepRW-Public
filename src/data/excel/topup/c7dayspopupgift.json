@@ -1,0 +1,133 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "Data": [
+        {
+            "nums": [
+                1,
+                300
+            ],
+            "days": 1,
+            "gear": 98,
+            "skinID": 0,
+            "items": [
+                40037,
+                35026
+            ],
+            "id": 1,
+            "roleID": 0,
+            "activityID": 52001
+        },
+        {
+            "nums": [
+                10,
+                60
+            ],
+            "days": 2,
+            "gear": 98,
+            "skinID": 0,
+            "items": [
+                75009,
+                74000
+            ],
+            "id": 2,
+            "roleID": 0,
+            "activityID": 52001
+        },
+        {
+            "nums": [
+                15,
+                60
+            ],
+            "days": 3,
+            "gear": 98,
+            "skinID": 0,
+            "items": [
+                75010,
+                74001
+            ],
+            "id": 3,
+            "roleID": 0,
+            "activityID": 52001
+        },
+        {
+            "nums": [
+                200,
+                20
+            ],
+            "days": 4,
+            "gear": 98,
+            "skinID": 0,
+            "items": [
+                79001,
+                79002
+            ],
+            "id": 4,
+            "roleID": 0,
+            "activityID": 52001
+        },
+        {
+            "nums": [
+                60,
+                60,
+                30
+            ],
+            "days": 5,
+            "gear": 98,
+            "skinID": 0,
+            "items": [
+                75011,
+                74002,
+                75019
+            ],
+            "id": 5,
+            "roleID": 0,
+            "activityID": 52001
+        },
+        {
+            "nums": [
+                10,
+                10,
+                10,
+                10
+            ],
+            "days": 6,
+            "gear": 98,
+            "skinID": 0,
+            "items": [
+                31380,
+                31386,
+                31389,
+                31383
+            ],
+            "id": 6,
+            "roleID": 0,
+            "activityID": 52001
+        },
+        {
+            "nums": [
+                1,
+                2,
+                2
+            ],
+            "days": 7,
+            "gear": 98,
+            "skinID": 903811,
+            "items": [
+                90055,
+                70003,
+                79004
+            ],
+            "id": 7,
+            "roleID": 0,
+            "activityID": 52001
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3
+    ],
+    "Data": [
+        {
+            "assetBundleName": "sceneobjects/tower.prefabs.assetbundle",
+            "assetName": "Tower_BackGround_01",
+            "dayBattleSceneid": 20007,
+            "id": 1,
+            "nightbBattleSceneid": 20007
+        },
+        {
+            "assetBundleName": "sceneobjects/tower.prefabs.assetbundle",
+            "assetName": "Tower_BackGround_02",
+            "dayBattleSceneid": 20010,
+            "id": 2,
+            "nightbBattleSceneid": 20011
+        },
+        {
+            "assetBundleName": "sceneobjects/tower.prefabs.assetbundle",
+            "assetName": "Tower_BackGround_03",
+            "dayBattleSceneid": 20015,
+            "id": 3,
+            "nightbBattleSceneid": 20015
+        }
+    ]
+}

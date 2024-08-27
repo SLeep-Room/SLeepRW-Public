@@ -1,0 +1,103 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "rankRewardType": 1,
+            "rankRewardNum": [
+                2500,
+                200,
+                2
+            ],
+            "rankRewardId": [
+                35008,
+                35026,
+                70003
+            ]
+        },
+        {
+            "id": 2,
+            "rankRewardType": 3,
+            "rankRewardNum": [
+                1500,
+                200,
+                2
+            ],
+            "rankRewardId": [
+                35008,
+                35026,
+                70003
+            ]
+        },
+        {
+            "id": 3,
+            "rankRewardType": 7,
+            "rankRewardNum": [
+                1000,
+                200,
+                1
+            ],
+            "rankRewardId": [
+                35008,
+                35026,
+                70003
+            ]
+        },
+        {
+            "id": 4,
+            "rankRewardType": 10,
+            "rankRewardNum": [
+                200,
+                200,
+                1
+            ],
+            "rankRewardId": [
+                35008,
+                35026,
+                70003
+            ]
+        },
+        {
+            "id": 5,
+            "rankRewardType": 25,
+            "rankRewardNum": [
+                200,
+                200
+            ],
+            "rankRewardId": [
+                35008,
+                35026
+            ]
+        },
+        {
+            "id": 6,
+            "rankRewardType": 50,
+            "rankRewardNum": [
+                200,
+                100
+            ],
+            "rankRewardId": [
+                35008,
+                35026
+            ]
+        },
+        {
+            "id": 7,
+            "rankRewardType": 100,
+            "rankRewardNum": [
+                200
+            ],
+            "rankRewardId": [
+                35008
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "relationCategory": 1,
+            "relationName": "哥哥",
+            "relationNameTextID": 1300265
+        },
+        {
+            "id": 2,
+            "relationCategory": 1,
+            "relationName": "姐姐",
+            "relationNameTextID": 1300266
+        },
+        {
+            "id": 3,
+            "relationCategory": 2,
+            "relationName": "下属",
+            "relationNameTextID": 1300267
+        },
+        {
+            "id": 4,
+            "relationCategory": 2,
+            "relationName": "效忠",
+            "relationNameTextID": 1300268
+        },
+        {
+            "id": 5,
+            "relationCategory": 3,
+            "relationName": "死敌",
+            "relationNameTextID": 1300269
+        },
+        {
+            "id": 6,
+            "relationCategory": 4,
+            "relationName": "未知",
+            "relationNameTextID": 1300270
+        },
+        {
+            "id": 7,
+            "relationCategory": 1,
+            "relationName": "侍从",
+            "relationNameTextID": 1300271
+        },
+        {
+            "id": 8,
+            "relationCategory": 1,
+            "relationName": "主人",
+            "relationNameTextID": 1300272
+        },
+        {
+            "id": 9,
+            "relationCategory": 3,
+            "relationName": "敌对",
+            "relationNameTextID": 1300273
+        },
+        {
+            "id": 10,
+            "relationCategory": 2,
+            "relationName": "利用",
+            "relationNameTextID": 1300274
+        },
+        {
+            "id": 11,
+            "relationCategory": 1,
+            "relationName": "受雇",
+            "relationNameTextID": 1300275
+        },
+        {
+            "id": 12,
+            "relationCategory": 1,
+            "relationName": "雇佣",
+            "relationNameTextID": 1300276
+        },
+        {
+            "id": 13,
+            "relationCategory": 1,
+            "relationName": "朋友",
+            "relationNameTextID": 1300277
+        },
+        {
+            "id": 14,
+            "relationCategory": 1,
+            "relationName": "同事",
+            "relationNameTextID": 1300278
+        },
+        {
+            "id": 15,
+            "relationCategory": 2,
+            "relationName": "厌恶",
+            "relationNameTextID": 1300279
+        },
+        {
+            "id": 16,
+            "relationCategory": 1,
+            "relationName": "上级",
+            "relationNameTextID": 1300280
+        },
+        {
+            "id": 17,
+            "relationCategory": 1,
+            "relationName": "女儿",
+            "relationNameTextID": 1300281
+        },
+        {
+            "id": 18,
+            "relationCategory": 1,
+            "relationName": "母亲",
+            "relationNameTextID": 1300282
+        },
+        {
+            "id": 19,
+            "relationCategory": 2,
+            "relationName": "领主",
+            "relationNameTextID": 1300283
+        },
+        {
+            "id": 20,
+            "relationCategory": 1,
+            "relationName": "徒弟",
+            "relationNameTextID": 1300284
+        },
+        {
+            "id": 21,
+            "relationCategory": 1,
+            "relationName": "师傅",
+            "relationNameTextID": 1300285
+        },
+        {
+            "id": 22,
+            "relationCategory": 1,
+            "relationName": "妹妹",
+            "relationNameTextID": 1300286
+        }
+    ]
+}

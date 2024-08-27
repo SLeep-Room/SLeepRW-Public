@@ -1,0 +1,70 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "Data": [
+        {
+            "type": 1,
+            "emojiIds": "1-17",
+            "id": 1,
+            "itemId": 0,
+            "tabImgId": 13434
+        },
+        {
+            "type": 2,
+            "emojiIds": "18-32",
+            "id": 2,
+            "itemId": 0,
+            "tabImgId": 13435
+        },
+        {
+            "type": 3,
+            "emojiIds": "33-48",
+            "id": 3,
+            "itemId": 31193,
+            "tabImgId": 13436
+        },
+        {
+            "type": 4,
+            "emojiIds": "49-64",
+            "id": 4,
+            "itemId": 31294,
+            "tabImgId": 14003
+        },
+        {
+            "type": 1,
+            "emojiIds": "65",
+            "id": 5,
+            "itemId": 31295,
+            "tabImgId": 13434
+        },
+        {
+            "type": 1,
+            "emojiIds": "66",
+            "id": 6,
+            "itemId": 31303,
+            "tabImgId": 13434
+        },
+        {
+            "type": 1,
+            "emojiIds": "67-70",
+            "id": 7,
+            "itemId": 31449,
+            "tabImgId": 13434
+        },
+        {
+            "type": 1,
+            "emojiIds": "71",
+            "id": 8,
+            "itemId": 31450,
+            "tabImgId": 13434
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+    ],
+    "Data": [
+        {
+            "type": 1,
+            "value": 3,
+            "id": 1,
+            "sort": 2,
+            "nameid": 1300011,
+            "typename": 1301082
+        },
+        {
+            "type": 1,
+            "value": 2,
+            "id": 2,
+            "sort": 3,
+            "nameid": 1300010,
+            "typename": 1301082
+        },
+        {
+            "type": 1,
+            "value": 1,
+            "id": 3,
+            "sort": 4,
+            "nameid": 1300009,
+            "typename": 1301082
+        },
+        {
+            "type": 2,
+            "value": 1,
+            "id": 4,
+            "sort": 1,
+            "nameid": 1300001,
+            "typename": 1301083
+        },
+        {
+            "type": 2,
+            "value": 2,
+            "id": 5,
+            "sort": 2,
+            "nameid": 1300002,
+            "typename": 1301083
+        },
+        {
+            "type": 2,
+            "value": 3,
+            "id": 6,
+            "sort": 3,
+            "nameid": 1300003,
+            "typename": 1301083
+        },
+        {
+            "type": 2,
+            "value": 4,
+            "id": 7,
+            "sort": 4,
+            "nameid": 1300004,
+            "typename": 1301083
+        },
+        {
+            "type": 2,
+            "value": 5,
+            "id": 8,
+            "sort": 6,
+            "nameid": 1300005,
+            "typename": 1301083
+        },
+        {
+            "type": 2,
+            "value": 6,
+            "id": 9,
+            "sort": 7,
+            "nameid": 1300006,
+            "typename": 1301083
+        },
+        {
+            "type": 2,
+            "value": 7,
+            "id": 10,
+            "sort": 8,
+            "nameid": 1300007,
+            "typename": 1301083
+        },
+        {
+            "type": 1,
+            "value": 4,
+            "id": 11,
+            "sort": 1,
+            "nameid": 1300015,
+            "typename": 1301082
+        },
+        {
+            "type": 3,
+            "value": 1,
+            "id": 12,
+            "sort": 1,
+            "nameid": 1301079,
+            "typename": 1301084
+        },
+        {
+            "type": 3,
+            "value": 0,
+            "id": 13,
+            "sort": 2,
+            "nameid": 1301080,
+            "typename": 1301084
+        },
+        {
+            "type": 1,
+            "value": 5,
+            "id": 14,
+            "sort": 5,
+            "nameid": 1301085,
+            "typename": 1301082
+        }
+    ]
+}

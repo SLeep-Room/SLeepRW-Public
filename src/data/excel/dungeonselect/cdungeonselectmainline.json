@@ -1,0 +1,5950 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+    ],
+    "Data": [
+        {
+            "magic": 2,
+            "floor": "1-1",
+            "id": 1,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 0,
+            "describeTextID": 1900068,
+            "recommendid": [],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                76000
+            ],
+            "spirit": 6,
+            "monsterid": [
+                102,
+                103
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                10002,
+                10003
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 1,
+            "sceneid": 10001,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "神秘之塔内部隐藏着未知的秘密，魔女决定入塔一探究竟",
+            "sceneimage": 10243,
+            "nameTextID": 1900001,
+            "name": "时之塔第2层"
+        },
+        {
+            "magic": 3,
+            "floor": "1-2",
+            "id": 2,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 0,
+            "describeTextID": 1900069,
+            "recommendid": [],
+            "back": 0,
+            "wordId": 1900460,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                76000
+            ],
+            "spirit": 6,
+            "monsterid": [
+                105,
+                107
+            ],
+            "isBoss": 1,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                10005
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 2,
+            "sceneid": 10004,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "黑暗深处散发着危险的气息……",
+            "sceneimage": 10243,
+            "nameTextID": 1900002,
+            "name": "时之塔第5层"
+        },
+        {
+            "magic": 6,
+            "floor": "1-3",
+            "id": 3,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 0,
+            "describeTextID": 1900070,
+            "recommendid": [],
+            "back": 1,
+            "wordId": 1900460,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31011,
+                76000
+            ],
+            "spirit": 6,
+            "monsterid": [
+                102,
+                104,
+                103,
+                301,
+                107
+            ],
+            "isBoss": 1,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                10009,
+                10010
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 3,
+            "sceneid": 10007,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "即将集齐镜之碎片，很快就能解开疑惑了",
+            "sceneimage": 10243,
+            "nameTextID": 1900003,
+            "name": "时之塔第7层"
+        },
+        {
+            "magic": 10,
+            "floor": "1-4",
+            "id": 4,
+            "itemid": [],
+            "minEquipLevel": 0,
+            "describeTextID": 1900071,
+            "recommendid": [],
+            "back": 0,
+            "wordId": 1900461,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [],
+            "spirit": 0,
+            "monsterid": [
+                108
+            ],
+            "isBoss": 1,
+            "unlockLv": 0,
+            "chestrewardItemNums": [],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 4,
+            "sceneid": 10011,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "神秘之间，似乎通向未知的世界",
+            "sceneimage": 10243,
+            "nameTextID": 1900004,
+            "name": "伊敏瑟伦之间"
+        },
+        {
+            "magic": 10,
+            "floor": "2-1",
+            "id": 5,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 0,
+            "describeTextID": 1900072,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 0,
+            "wordId": 1900461,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76000
+            ],
+            "spirit": 8,
+            "monsterid": [
+                214,
+                210,
+                218
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                12003
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 5,
+            "sceneid": 12002,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "森林的入口",
+            "sceneimage": 10244,
+            "nameTextID": 1900005,
+            "name": "森林入口"
+        },
+        {
+            "magic": 15,
+            "floor": "2-2",
+            "id": 6,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 0,
+            "describeTextID": 1900073,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 1,
+            "wordId": 1900461,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31017,
+                76000
+            ],
+            "spirit": 8,
+            "monsterid": [
+                214,
+                210,
+                206,
+                220
+            ],
+            "isBoss": 1,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                12005
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 6,
+            "sceneid": 12004,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "树木疯长的森林西部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900006,
+            "name": "森之西"
+        },
+        {
+            "magic": 15,
+            "floor": "2-3",
+            "id": 7,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 0,
+            "describeTextID": 1900074,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 0,
+            "wordId": 1900462,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76000
+            ],
+            "spirit": 10,
+            "monsterid": [
+                210,
+                218,
+                206
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                12007
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 7,
+            "sceneid": 12006,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "森林中部的空旷地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900007,
+            "name": "林中空地"
+        },
+        {
+            "magic": 20,
+            "floor": "2-4",
+            "id": 8,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 5,
+            "describeTextID": 1900075,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 0,
+            "wordId": 1900462,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76000
+            ],
+            "spirit": 10,
+            "monsterid": [
+                214,
+                201,
+                206
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                12009
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 8,
+            "sceneid": 12008,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "曾经热闹繁华的商业区的入口",
+            "sceneimage": 10244,
+            "nameTextID": 1900008,
+            "name": "商业区入口"
+        },
+        {
+            "magic": 25,
+            "floor": "2-5",
+            "id": 9,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 5,
+            "describeTextID": 1900076,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 0,
+            "wordId": 1900463,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76000
+            ],
+            "spirit": 10,
+            "monsterid": [
+                210,
+                209,
+                213,
+                212
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                12011
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 9,
+            "sceneid": 12010,
+            "minSkillLevel": 1,
+            "firstItems": [
+                35008
+            ],
+            "describe": "商业区的中心地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900009,
+            "name": "商业区"
+        },
+        {
+            "magic": 35,
+            "floor": "2-6",
+            "id": 10,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 5,
+            "describeTextID": 1900077,
+            "recommendid": [
+                11,
+                8,
+                13,
+                15,
+                3
+            ],
+            "back": 1,
+            "wordId": 1900463,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                76000
+            ],
+            "spirit": 12,
+            "monsterid": [
+                201,
+                218,
+                212,
+                220,
+                222,
+                221
+            ],
+            "isBoss": 1,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                12013
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 10,
+            "sceneid": 12012,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008
+            ],
+            "describe": "商业区的南部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900010,
+            "name": "商业区南"
+        },
+        {
+            "magic": 35,
+            "floor": "2-7",
+            "id": 11,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 5,
+            "describeTextID": 1900078,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 0,
+            "wordId": 1900463,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76000
+            ],
+            "spirit": 12,
+            "monsterid": [
+                206,
+                208,
+                219
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                12015
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 11,
+            "sceneid": 12014,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008
+            ],
+            "describe": "哨戒营内部区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900011,
+            "name": "哨戒营"
+        },
+        {
+            "magic": 40,
+            "floor": "2-8",
+            "id": 12,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 5,
+            "describeTextID": 1900079,
+            "recommendid": [
+                1,
+                7,
+                15,
+                11
+            ],
+            "back": 1,
+            "wordId": 1900463,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                76000
+            ],
+            "spirit": 12,
+            "monsterid": [
+                218,
+                212,
+                213,
+                220,
+                223
+            ],
+            "isBoss": 1,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                12017
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 12,
+            "sceneid": 12016,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008
+            ],
+            "describe": "四周被沼泽包围的密林地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900012,
+            "name": "沼"
+        },
+        {
+            "magic": 45,
+            "floor": "2-9",
+            "id": 13,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 5,
+            "describeTextID": 1900080,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76000
+            ],
+            "spirit": 14,
+            "monsterid": [
+                219,
+                209,
+                222,
+                221
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                12019
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 13,
+            "sceneid": 12018,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008
+            ],
+            "describe": "近卫营的外围，近卫武士们曾在此训练",
+            "sceneimage": 10244,
+            "nameTextID": 1900013,
+            "name": "近卫营外围"
+        },
+        {
+            "magic": 50,
+            "floor": "2-10",
+            "id": 14,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 10,
+            "describeTextID": 1900081,
+            "recommendid": [
+                1,
+                7,
+                15,
+                14
+            ],
+            "back": 1,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31011,
+                76000
+            ],
+            "spirit": 14,
+            "monsterid": [
+                208,
+                212,
+                213,
+                209,
+                227
+            ],
+            "isBoss": 1,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                12021
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 14,
+            "sceneid": 12020,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008
+            ],
+            "describe": "祭祀场的外围，看着残垣断壁，可以想象出昔日的盛世",
+            "sceneimage": 10244,
+            "nameTextID": 1900014,
+            "name": "祭祀场外围"
+        },
+        {
+            "magic": 50,
+            "floor": "2-11",
+            "id": 15,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 10,
+            "describeTextID": 1900082,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76000
+            ],
+            "spirit": 14,
+            "monsterid": [
+                219,
+                208,
+                222
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                12023
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 15,
+            "sceneid": 12022,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008
+            ],
+            "describe": "地平线的尽头，三面环水的小岛",
+            "sceneimage": 10244,
+            "nameTextID": 1900015,
+            "name": "艾琳岛"
+        },
+        {
+            "magic": 60,
+            "floor": "2-12",
+            "id": 16,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 10,
+            "describeTextID": 1900083,
+            "recommendid": [
+                13,
+                15,
+                3,
+                14
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76000
+            ],
+            "spirit": 16,
+            "monsterid": [
+                219,
+                208,
+                209
+            ],
+            "isBoss": 0,
+            "unlockLv": 0,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 16,
+            "sceneid": 12024,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008
+            ],
+            "describe": "巨大遗迹的入口",
+            "sceneimage": 10244,
+            "nameTextID": 1900016,
+            "name": "巨木外围"
+        },
+        {
+            "magic": 75,
+            "floor": "2-13",
+            "id": 17,
+            "itemid": [],
+            "minEquipLevel": 10,
+            "describeTextID": 1900084,
+            "recommendid": [
+                14,
+                9,
+                15,
+                3
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30,
+                1
+            ],
+            "chestrewardItems": [],
+            "spirit": 1,
+            "monsterid": [
+                228
+            ],
+            "isBoss": 1,
+            "unlockLv": 0,
+            "chestrewardItemNums": [],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 17,
+            "sceneid": 12025,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008,
+                31091
+            ],
+            "describe": "守护者的御座就在巨大树木的根部",
+            "sceneimage": 10244,
+            "nameTextID": 1900017,
+            "name": "巨木"
+        },
+        {
+            "magic": 75,
+            "floor": "2.5-1",
+            "id": 18,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 15,
+            "describeTextID": 1900085,
+            "recommendid": [
+                3,
+                14,
+                9,
+                15
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 16,
+            "monsterid": [
+                102,
+                104,
+                301,
+                304,
+                303
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                10013
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 18,
+            "sceneid": 10012,
+            "minSkillLevel": 2,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第11层",
+            "sceneimage": 10243,
+            "nameTextID": 1900018,
+            "name": "时之塔第11层"
+        },
+        {
+            "magic": 80,
+            "floor": "2.5-2",
+            "id": 19,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 15,
+            "describeTextID": 1900086,
+            "recommendid": [
+                3,
+                14,
+                1,
+                15
+            ],
+            "back": 1,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31017,
+                76001
+            ],
+            "spirit": 16,
+            "monsterid": [
+                103,
+                105,
+                306
+            ],
+            "isBoss": 1,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                10015
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 19,
+            "sceneid": 10014,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第13层",
+            "sceneimage": 10243,
+            "nameTextID": 1900019,
+            "name": "时之塔第13层"
+        },
+        {
+            "magic": 80,
+            "floor": "2.5-3",
+            "id": 20,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 15,
+            "describeTextID": 1900087,
+            "recommendid": [
+                3,
+                14,
+                9,
+                15
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 18,
+            "monsterid": [
+                301,
+                302,
+                105
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                10017
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 20,
+            "sceneid": 10016,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第15层",
+            "sceneimage": 10243,
+            "nameTextID": 1900020,
+            "name": "时之塔第15层"
+        },
+        {
+            "magic": 85,
+            "floor": "2.5-4",
+            "id": 21,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 15,
+            "describeTextID": 1900088,
+            "recommendid": [
+                3,
+                14,
+                9,
+                15
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 18,
+            "monsterid": [
+                302,
+                304,
+                303,
+                305
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                10019
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 21,
+            "sceneid": 10018,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第17层",
+            "sceneimage": 10243,
+            "nameTextID": 1900021,
+            "name": "时之塔第17层"
+        },
+        {
+            "magic": 85,
+            "floor": "2.5-5",
+            "id": 22,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 15,
+            "describeTextID": 1900089,
+            "recommendid": [
+                3,
+                14,
+                9,
+                15
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 18,
+            "monsterid": [
+                302,
+                305
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 22,
+            "sceneid": 10020,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第19层",
+            "sceneimage": 10243,
+            "nameTextID": 1900022,
+            "name": "时之塔第19层"
+        },
+        {
+            "magic": 85,
+            "floor": "2.5-6",
+            "id": 23,
+            "itemid": [],
+            "minEquipLevel": 15,
+            "describeTextID": 1900090,
+            "recommendid": [],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 1,
+            "monsterid": [],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 23,
+            "sceneid": 10021,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "神秘之间，似乎通向未知的世界",
+            "sceneimage": 10243,
+            "nameTextID": 1900023,
+            "name": "谢波契卡之间"
+        },
+        {
+            "magic": 90,
+            "floor": "3-1",
+            "id": 24,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900091,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                409,
+                410
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13002
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 24,
+            "sceneid": 13001,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "谢波契卡的山脚",
+            "sceneimage": 10244,
+            "nameTextID": 1900024,
+            "name": "山脚"
+        },
+        {
+            "magic": 90,
+            "floor": "3-2",
+            "id": 25,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900092,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                410,
+                405,
+                409,
+                404
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13004
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 25,
+            "sceneid": 13003,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "村外冰原的南部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900025,
+            "name": "村外冰原·南部"
+        },
+        {
+            "magic": 95,
+            "floor": "3-3",
+            "id": 26,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900093,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                401,
+                405,
+                404,
+                406
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13006
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 26,
+            "sceneid": 13005,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "村外冰原的东部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900026,
+            "name": "村外冰原·东部"
+        },
+        {
+            "magic": 95,
+            "floor": "3-4",
+            "id": 27,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900094,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                410,
+                411,
+                401,
+                409
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                13008
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 27,
+            "sceneid": 13007,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山脚猎场的南部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900027,
+            "name": "山脚猎场·南部"
+        },
+        {
+            "magic": 100,
+            "floor": "3-5",
+            "id": 28,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900095,
+            "recommendid": [
+                8,
+                7,
+                15,
+                11
+            ],
+            "back": 1,
+            "wordId": 1900483,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                405,
+                404,
+                402
+            ],
+            "isBoss": 1,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                13010
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 28,
+            "sceneid": 13009,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山脚猎场的北部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900028,
+            "name": "山脚猎场·北部"
+        },
+        {
+            "magic": 110,
+            "floor": "3-6",
+            "id": 29,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900096,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                410,
+                409,
+                408,
+                411
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13012
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 29,
+            "sceneid": 13011,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "冰湖猎场的外部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900029,
+            "name": "冰湖猎场·前段"
+        },
+        {
+            "magic": 115,
+            "floor": "3-7",
+            "id": 30,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900097,
+            "recommendid": [
+                11,
+                7,
+                9,
+                15
+            ],
+            "back": 1,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31011,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                401,
+                402,
+                404,
+                420
+            ],
+            "isBoss": 1,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                13014
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 30,
+            "sceneid": 13013,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "冰湖猎场的核心区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900030,
+            "name": "冰湖猎场·后段"
+        },
+        {
+            "magic": 115,
+            "floor": "3-8",
+            "id": 31,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900098,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                401,
+                411,
+                408
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13016
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 31,
+            "sceneid": 13015,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "半山腰的冰原，积雪覆盖",
+            "sceneimage": 10244,
+            "nameTextID": 1900031,
+            "name": "山腰冰原"
+        },
+        {
+            "magic": 120,
+            "floor": "3-9",
+            "id": 32,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900099,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                405,
+                402
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13018
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 32,
+            "sceneid": 13017,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "半山腰的岔路",
+            "sceneimage": 10244,
+            "nameTextID": 1900032,
+            "name": "山腰岔路"
+        },
+        {
+            "magic": 120,
+            "floor": "3-10",
+            "id": 33,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900100,
+            "recommendid": [
+                11,
+                7,
+                9,
+                15
+            ],
+            "back": 0,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31014,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                413,
+                403,
+                415
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                13020
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 33,
+            "sceneid": 13019,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "半山腰的洞窟，能够暂避风雪",
+            "sceneimage": 10244,
+            "nameTextID": 1900033,
+            "name": "洞窟出口"
+        },
+        {
+            "magic": 125,
+            "floor": "3-11",
+            "id": 34,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900101,
+            "recommendid": [
+                11,
+                7,
+                9,
+                15
+            ],
+            "back": 1,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31017,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                402,
+                411,
+                408,
+                416
+            ],
+            "isBoss": 1,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                13022
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 34,
+            "sceneid": 13021,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "完全被冰雪覆盖的道路",
+            "sceneimage": 10244,
+            "nameTextID": 1900034,
+            "name": "冰封之路"
+        },
+        {
+            "magic": 130,
+            "floor": "3-12",
+            "id": 35,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900102,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                413,
+                414
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13024
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 35,
+            "sceneid": 13023,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "冰雪骑士团的营地",
+            "sceneimage": 10244,
+            "nameTextID": 1900035,
+            "name": "骑士团营地"
+        },
+        {
+            "magic": 130,
+            "floor": "3-13",
+            "id": 36,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900103,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                402,
+                403,
+                705
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13026
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 36,
+            "sceneid": 13025,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "陡峭的山崖间的小路",
+            "sceneimage": 10244,
+            "nameTextID": 1900036,
+            "name": "崎岖山路"
+        },
+        {
+            "magic": 130,
+            "floor": "3-14",
+            "id": 37,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900104,
+            "recommendid": [
+                11,
+                7,
+                9,
+                15
+            ],
+            "back": 0,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                403,
+                414,
+                412,
+                420
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                13028
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 37,
+            "sceneid": 13027,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "完全冻住的湖面，往来行走完全没问题",
+            "sceneimage": 10244,
+            "nameTextID": 1900037,
+            "name": "冰封湖面"
+        },
+        {
+            "magic": 135,
+            "floor": "3-15",
+            "id": 38,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900105,
+            "recommendid": [
+                11,
+                7,
+                1,
+                15
+            ],
+            "back": 1,
+            "wordId": 1900476,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                403,
+                412,
+                419
+            ],
+            "isBoss": 1,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                13030
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 38,
+            "sceneid": 13029,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山顶的平原，积雪越来越深",
+            "sceneimage": 10244,
+            "nameTextID": 1900038,
+            "name": "山顶冰原"
+        },
+        {
+            "magic": 135,
+            "floor": "3-16",
+            "id": 39,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900106,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900484,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                414,
+                413,
+                415
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13032
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 39,
+            "sceneid": 13031,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "冰雪城堡前段的小路",
+            "sceneimage": 10244,
+            "nameTextID": 1900039,
+            "name": "入口小路"
+        },
+        {
+            "magic": 135,
+            "floor": "3-17",
+            "id": 40,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 25,
+            "describeTextID": 1900107,
+            "recommendid": [
+                3,
+                1,
+                8,
+                15,
+                11
+            ],
+            "back": 0,
+            "wordId": 1900484,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 20,
+            "monsterid": [
+                414,
+                413,
+                416
+            ],
+            "isBoss": 0,
+            "unlockLv": 5,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                13034
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 40,
+            "sceneid": 13033,
+            "minSkillLevel": 3,
+            "firstItems": [
+                35008
+            ],
+            "describe": "冰雪城堡的中段",
+            "sceneimage": 10244,
+            "nameTextID": 1900040,
+            "name": "城堡中段"
+        },
+        {
+            "magic": 140,
+            "floor": "3-18",
+            "id": 41,
+            "itemid": [],
+            "minEquipLevel": 25,
+            "describeTextID": 1900108,
+            "recommendid": [
+                11,
+                9,
+                13,
+                15
+            ],
+            "back": 0,
+            "wordId": 1900484,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [],
+            "spirit": 1,
+            "monsterid": [
+                421
+            ],
+            "isBoss": 1,
+            "unlockLv": 5,
+            "chestrewardItemNums": [],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 41,
+            "sceneid": 13035,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "守护者所在之地，广场中央有一个大大的魔法阵",
+            "sceneimage": 10244,
+            "nameTextID": 1900041,
+            "name": "圣女广场"
+        },
+        {
+            "magic": 140,
+            "floor": "3.5-1",
+            "id": 42,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900109,
+            "recommendid": [
+                2,
+                9,
+                15,
+                14,
+                10
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 22,
+            "monsterid": [
+                501,
+                302,
+                305,
+                504
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                10023
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 42,
+            "sceneid": 10022,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第21层",
+            "sceneimage": 10243,
+            "nameTextID": 1900042,
+            "name": "时之塔第21层"
+        },
+        {
+            "magic": 145,
+            "floor": "3.5-2",
+            "id": 43,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900110,
+            "recommendid": [
+                2,
+                9,
+                15,
+                14,
+                10
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31014,
+                76001
+            ],
+            "spirit": 22,
+            "monsterid": [
+                502,
+                503,
+                305,
+                505
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                10025
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 43,
+            "sceneid": 10024,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第23层",
+            "sceneimage": 10243,
+            "nameTextID": 1900043,
+            "name": "时之塔第23层"
+        },
+        {
+            "magic": 145,
+            "floor": "3.5-3",
+            "id": 44,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900111,
+            "recommendid": [
+                2,
+                9,
+                15,
+                14,
+                10
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31017,
+                76001
+            ],
+            "spirit": 22,
+            "monsterid": [
+                501,
+                502,
+                504
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                10027
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 44,
+            "sceneid": 10026,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第25层",
+            "sceneimage": 10243,
+            "nameTextID": 1900044,
+            "name": "时之塔第25层"
+        },
+        {
+            "magic": 150,
+            "floor": "3.5-4",
+            "id": 45,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900112,
+            "recommendid": [
+                2,
+                9,
+                15,
+                14,
+                10
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 22,
+            "monsterid": [
+                503,
+                501,
+                504
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                10029
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 45,
+            "sceneid": 10028,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第27层",
+            "sceneimage": 10243,
+            "nameTextID": 1900045,
+            "name": "时之塔第27层"
+        },
+        {
+            "magic": 150,
+            "floor": "3.5-5",
+            "id": 46,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900113,
+            "recommendid": [
+                2,
+                9,
+                15,
+                14,
+                10
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76001
+            ],
+            "spirit": 22,
+            "monsterid": [
+                503,
+                502
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 46,
+            "sceneid": 10030,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第29层",
+            "sceneimage": 10243,
+            "nameTextID": 1900046,
+            "name": "时之塔第29层"
+        },
+        {
+            "magic": 150,
+            "floor": "3.5-6",
+            "id": 47,
+            "itemid": [],
+            "minEquipLevel": 30,
+            "describeTextID": 1900114,
+            "recommendid": [
+                2,
+                1,
+                9,
+                15,
+                14
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                76001
+            ],
+            "spirit": 1,
+            "monsterid": [
+                506
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 47,
+            "sceneid": 10031,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "神秘之间，似乎通向未知的世界",
+            "sceneimage": 10243,
+            "nameTextID": 1900047,
+            "name": "逆之间"
+        },
+        {
+            "magic": 160,
+            "floor": "4-1",
+            "id": 48,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900115,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                604,
+                603
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14002
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 48,
+            "sceneid": 14001,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "谢波契卡的山脚",
+            "sceneimage": 10244,
+            "nameTextID": 1900048,
+            "name": "山脚"
+        },
+        {
+            "magic": 160,
+            "floor": "4-2",
+            "id": 49,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900116,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                604,
+                603
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14004
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 49,
+            "sceneid": 14003,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "村外冰原的南部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900049,
+            "name": "山底结界"
+        },
+        {
+            "magic": 170,
+            "floor": "4-3",
+            "id": 50,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900117,
+            "recommendid": [
+                11,
+                7,
+                15,
+                17,
+                4
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                601,
+                602,
+                412,
+                420
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                14006
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 50,
+            "sceneid": 14005,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "村外冰原的东部地区",
+            "sceneimage": 10244,
+            "nameTextID": 1900050,
+            "name": "村外冰原·东部"
+        },
+        {
+            "magic": 170,
+            "floor": "4-4",
+            "id": 51,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900118,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31011,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                405,
+                606
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                14008
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 51,
+            "sceneid": 14007,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山脚猎场的外部区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900051,
+            "name": "山脚猎场·前段"
+        },
+        {
+            "magic": 170,
+            "floor": "4-5",
+            "id": 52,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900119,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                405,
+                601,
+                412
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14010
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 52,
+            "sceneid": 14009,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山脚猎场的外部区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900052,
+            "name": "猎场结界·前段"
+        },
+        {
+            "magic": 175,
+            "floor": "4-6",
+            "id": 53,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900120,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31014,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                403,
+                413,
+                415,
+                414
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                14012
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 53,
+            "sceneid": 14011,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "冰湖猎场的外部区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900053,
+            "name": "冰湖猎场·前段"
+        },
+        {
+            "magic": 175,
+            "floor": "4-7",
+            "id": 54,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900121,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                602,
+                601,
+                403
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14014
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 54,
+            "sceneid": 14013,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "通往山腰冰原的小路",
+            "sceneimage": 10244,
+            "nameTextID": 1900054,
+            "name": "山腰小路"
+        },
+        {
+            "magic": 180,
+            "floor": "4-8",
+            "id": 55,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900122,
+            "recommendid": [
+                14,
+                18,
+                15,
+                4
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31017,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                413,
+                414,
+                416,
+                421
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                14016
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 55,
+            "sceneid": 14015,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山腰结界的外部区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900055,
+            "name": "山腰结界·前段"
+        },
+        {
+            "magic": 180,
+            "floor": "4-9",
+            "id": 56,
+            "itemid": [],
+            "minEquipLevel": 30,
+            "describeTextID": 1900123,
+            "recommendid": [],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14018
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 56,
+            "sceneid": 14017,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山腰结界外面的已一条小路",
+            "sceneimage": 10244,
+            "nameTextID": 1900056,
+            "name": "结界外小路"
+        },
+        {
+            "magic": 185,
+            "floor": "4-10",
+            "id": 57,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900124,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                414,
+                413,
+                606
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                14020
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 57,
+            "sceneid": 14019,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "完全被冰雪覆盖的道路",
+            "sceneimage": 10244,
+            "nameTextID": 1900057,
+            "name": "冰封之路"
+        },
+        {
+            "magic": 190,
+            "floor": "4-11",
+            "id": 58,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900125,
+            "recommendid": [
+                18,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                602,
+                412,
+                608
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                14022
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 58,
+            "sceneid": 14021,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "冰雪骑士团的营地",
+            "sceneimage": 10244,
+            "nameTextID": 1900058,
+            "name": "骑士团营地"
+        },
+        {
+            "magic": 190,
+            "floor": "4-12",
+            "id": 59,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900126,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                602,
+                601
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14024
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 59,
+            "sceneid": 14023,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "完全冻住的湖面，往来行走完全没问题",
+            "sceneimage": 10244,
+            "nameTextID": 1900059,
+            "name": "冰封湖面"
+        },
+        {
+            "magic": 190,
+            "floor": "4-13",
+            "id": 60,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900127,
+            "recommendid": [
+                3,
+                16,
+                17,
+                11,
+                4
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                603,
+                604,
+                412
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14026
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 60,
+            "sceneid": 14025,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "通往冰雪城堡的入口",
+            "sceneimage": 10244,
+            "nameTextID": 1900060,
+            "name": "城堡入口"
+        },
+        {
+            "magic": 190,
+            "floor": "4-14",
+            "id": 61,
+            "itemid": [],
+            "minEquipLevel": 30,
+            "describeTextID": 1900128,
+            "recommendid": [
+                18,
+                2,
+                16,
+                11
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31011,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                609
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                1,
+                2
+            ],
+            "smallnodeid": [
+                14028
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 61,
+            "sceneid": 14027,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "冰雪城堡的前段",
+            "sceneimage": 10244,
+            "nameTextID": 1900061,
+            "name": "城堡前段"
+        },
+        {
+            "magic": 195,
+            "floor": "4-15",
+            "id": 62,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900129,
+            "recommendid": [
+                16,
+                8,
+                14,
+                4,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                605,
+                606
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14030
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 62,
+            "sceneid": 14029,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "地下洞穴的外部区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900062,
+            "name": "地下洞穴-1"
+        },
+        {
+            "magic": 195,
+            "floor": "4-16",
+            "id": 63,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900130,
+            "recommendid": [
+                16,
+                8,
+                14,
+                4,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                606,
+                605,
+                607,
+                608
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14032
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 63,
+            "sceneid": 14031,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "地下洞穴中段区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900063,
+            "name": "地下洞穴-3"
+        },
+        {
+            "magic": 195,
+            "floor": "4-17",
+            "id": 64,
+            "itemid": [
+                74003
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900131,
+            "recommendid": [
+                16,
+                8,
+                14,
+                4,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                607,
+                608
+            ],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14034
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 64,
+            "sceneid": 14033,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "地下洞穴内部区域",
+            "sceneimage": 10244,
+            "nameTextID": 1900064,
+            "name": "地下洞穴-5"
+        },
+        {
+            "magic": 195,
+            "floor": "4-18",
+            "id": 65,
+            "itemid": [],
+            "minEquipLevel": 30,
+            "describeTextID": 1900132,
+            "recommendid": [
+                18,
+                3,
+                16,
+                14,
+                6
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [],
+            "spirit": 1,
+            "monsterid": [
+                610
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 65,
+            "sceneid": 14035,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "守护者的广场，被熔岩所包围",
+            "sceneimage": 10244,
+            "nameTextID": 1900065,
+            "name": "地下广场"
+        },
+        {
+            "magic": 195,
+            "floor": "4-19",
+            "id": 66,
+            "itemid": [],
+            "minEquipLevel": 30,
+            "describeTextID": 1900133,
+            "recommendid": [],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 1,
+            "monsterid": [],
+            "isBoss": 0,
+            "unlockLv": 12,
+            "chestrewardItemNums": [
+                20,
+                2
+            ],
+            "smallnodeid": [
+                14037
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 66,
+            "sceneid": 14036,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "通往冰雪城堡的入口",
+            "sceneimage": 10244,
+            "nameTextID": 1900066,
+            "name": "城堡入口"
+        },
+        {
+            "magic": 205,
+            "floor": "4-20",
+            "id": 67,
+            "itemid": [],
+            "minEquipLevel": 30,
+            "describeTextID": 1900134,
+            "recommendid": [
+                18,
+                3,
+                16,
+                14,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [],
+            "spirit": 1,
+            "monsterid": [
+                610
+            ],
+            "isBoss": 1,
+            "unlockLv": 12,
+            "chestrewardItemNums": [],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 67,
+            "sceneid": 14038,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "守护者的广场，被熔岩所包围",
+            "sceneimage": 10244,
+            "nameTextID": 1900067,
+            "name": "地下广场"
+        },
+        {
+            "magic": 205,
+            "floor": "4.5-1",
+            "id": 68,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900357,
+            "recommendid": [
+                1,
+                8,
+                11,
+                16,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                501,
+                701,
+                703
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                10033
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 68,
+            "sceneid": 10032,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第31层",
+            "sceneimage": 10243,
+            "nameTextID": 1900351,
+            "name": "时之塔第31层"
+        },
+        {
+            "magic": 205,
+            "floor": "4.5-2",
+            "id": 69,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900358,
+            "recommendid": [
+                8,
+                11,
+                16,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                501,
+                701,
+                703
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                10035
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 69,
+            "sceneid": 10034,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第33层",
+            "sceneimage": 10243,
+            "nameTextID": 1900352,
+            "name": "时之塔第33层"
+        },
+        {
+            "magic": 205,
+            "floor": "4.5-3",
+            "id": 70,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900359,
+            "recommendid": [
+                11,
+                16,
+                13,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                702,
+                703,
+                701
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                10037
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 70,
+            "sceneid": 10036,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第35层",
+            "sceneimage": 10243,
+            "nameTextID": 1900353,
+            "name": "时之塔第35层"
+        },
+        {
+            "magic": 205,
+            "floor": "4.5-4",
+            "id": 71,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900360,
+            "recommendid": [
+                14,
+                11,
+                6
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                702,
+                704,
+                705
+            ],
+            "isBoss": 1,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                10039
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 71,
+            "sceneid": 10038,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第37层",
+            "sceneimage": 10243,
+            "nameTextID": 1900354,
+            "name": "时之塔第37层"
+        },
+        {
+            "magic": 205,
+            "floor": "4.5-5",
+            "id": 72,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 30,
+            "describeTextID": 1900361,
+            "recommendid": [
+                14,
+                11,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 24,
+            "monsterid": [
+                702,
+                704
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 72,
+            "sceneid": 10040,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "时之塔第39层",
+            "sceneimage": 10243,
+            "nameTextID": 1900355,
+            "name": "时之塔第39层"
+        },
+        {
+            "magic": 220,
+            "floor": "4.5-6",
+            "id": 73,
+            "itemid": [],
+            "minEquipLevel": 30,
+            "describeTextID": 1900362,
+            "recommendid": [
+                14,
+                7,
+                16,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [],
+            "spirit": 1,
+            "monsterid": [
+                706
+            ],
+            "isBoss": 1,
+            "unlockLv": 22,
+            "chestrewardItemNums": [],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 73,
+            "sceneid": 10041,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "神秘之间，似乎通向未知的世界",
+            "sceneimage": 10243,
+            "nameTextID": 1900356,
+            "name": "嘉庇艾尔之间"
+        },
+        {
+            "magic": 220,
+            "floor": "5-1",
+            "id": 74,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900385,
+            "recommendid": [
+                13,
+                11,
+                3,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31014,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                801,
+                809
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                15002
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 74,
+            "sceneid": 15001,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "漂浮在空中的岛屿，嘉庇艾尔的入口。",
+            "sceneimage": 10244,
+            "nameTextID": 1900369,
+            "name": "浮岛入口"
+        },
+        {
+            "magic": 220,
+            "floor": "5-2",
+            "id": 75,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900386,
+            "recommendid": [
+                13,
+                15,
+                3,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31017,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                801,
+                802,
+                812
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                15004
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 75,
+            "sceneid": 15003,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "沿着小溪，继续探索嘉庇艾尔的浮岛。",
+            "sceneimage": 10244,
+            "nameTextID": 1900370,
+            "name": "下层·溪旁小路"
+        },
+        {
+            "magic": 220,
+            "floor": "5-3",
+            "id": 76,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900387,
+            "recommendid": [
+                13,
+                15,
+                3,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                801,
+                802,
+                803
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15006
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 76,
+            "sceneid": 15005,
+            "minSkillLevel": 4,
+            "firstItems": [
+                35008
+            ],
+            "describe": "旷野的西部地区。",
+            "sceneimage": 10244,
+            "nameTextID": 1900371,
+            "name": "下层·旷野西部"
+        },
+        {
+            "magic": 235,
+            "floor": "5-4",
+            "id": 77,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900388,
+            "recommendid": [
+                13,
+                15,
+                3,
+                6,
+                7
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                810,
+                812,
+                813,
+                901
+            ],
+            "isBoss": 1,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                15008
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 77,
+            "sceneid": 15007,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "旷野的北部地区。",
+            "sceneimage": 10244,
+            "nameTextID": 1900372,
+            "name": "下层·旷野北部"
+        },
+        {
+            "magic": 235,
+            "floor": "5-5",
+            "id": 78,
+            "itemid": [],
+            "minEquipLevel": 40,
+            "describeTextID": 1900389,
+            "recommendid": [],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15011
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 78,
+            "sceneid": 15009,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "站在断崖边，能通过云层看见无尽的黑暗。",
+            "sceneimage": 10244,
+            "nameTextID": 1900373,
+            "name": "下层·断崖"
+        },
+        {
+            "magic": 235,
+            "floor": "5-6",
+            "id": 79,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900390,
+            "recommendid": [
+                16,
+                3,
+                6,
+                7
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                806,
+                813,
+                814
+            ],
+            "isBoss": 1,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                15013
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 79,
+            "sceneid": 15012,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "嘉庇艾尔的一座小村庄。",
+            "sceneimage": 10244,
+            "nameTextID": 1900374,
+            "name": "下层·托特村"
+        },
+        {
+            "magic": 235,
+            "floor": "5-7",
+            "id": 80,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900391,
+            "recommendid": [
+                13,
+                15,
+                3
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                811,
+                806
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15015
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 80,
+            "sceneid": 15014,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "村外的花田，长着各种各样的野花。",
+            "sceneimage": 10244,
+            "nameTextID": 1900375,
+            "name": "下层·花田"
+        },
+        {
+            "magic": 250,
+            "floor": "5-8",
+            "id": 81,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900392,
+            "recommendid": [
+                13,
+                16,
+                3,
+                6,
+                7
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31011,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                811,
+                804,
+                815
+            ],
+            "isBoss": 1,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                15017
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 81,
+            "sceneid": 15016,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山底的一条小路，通往不远处的农田。",
+            "sceneimage": 10244,
+            "nameTextID": 1900376,
+            "name": "山下小路"
+        },
+        {
+            "magic": 250,
+            "floor": "5-9",
+            "id": 82,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900393,
+            "recommendid": [
+                15,
+                3,
+                6,
+                7
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                804,
+                805,
+                814
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15019
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 82,
+            "sceneid": 15018,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "山脚下一望无际的农田，种植着各种农作物。",
+            "sceneimage": 10244,
+            "nameTextID": 1900377,
+            "name": "山脚农田"
+        },
+        {
+            "magic": 250,
+            "floor": "5-10",
+            "id": 83,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900394,
+            "recommendid": [
+                15,
+                3,
+                6,
+                7
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                812,
+                805,
+                814
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15021
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 83,
+            "sceneid": 15020,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "原野的北部区域。",
+            "sceneimage": 10244,
+            "nameTextID": 1900378,
+            "name": "下层·原野北部"
+        },
+        {
+            "magic": 250,
+            "floor": "5-11",
+            "id": 84,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900395,
+            "recommendid": [
+                15,
+                3,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                810,
+                812
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15023
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 84,
+            "sceneid": 15022,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "原野的东部区域。",
+            "sceneimage": 10244,
+            "nameTextID": 1900379,
+            "name": "下层·原野东部"
+        },
+        {
+            "magic": 250,
+            "floor": "5-12",
+            "id": 85,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900396,
+            "recommendid": [
+                13,
+                16,
+                3,
+                6,
+                7
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31014,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                802,
+                803,
+                817
+            ],
+            "isBoss": 1,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                15025
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 85,
+            "sceneid": 15024,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "散发着魔力的巨木，据说已经生长了数百年。",
+            "sceneimage": 10244,
+            "nameTextID": 1900380,
+            "name": "下层·古树"
+        },
+        {
+            "magic": 250,
+            "floor": "5-13",
+            "id": 86,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900397,
+            "recommendid": [
+                13,
+                16,
+                16,
+                3
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                807,
+                808,
+                814
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15027
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 86,
+            "sceneid": 15026,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "被魔物毁灭的村子，只剩下一片废墟。",
+            "sceneimage": 10244,
+            "nameTextID": 1900381,
+            "name": "普尼尔村遗迹"
+        },
+        {
+            "magic": 250,
+            "floor": "5-14",
+            "id": 87,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900398,
+            "recommendid": [
+                13,
+                16,
+                3,
+                7
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                807,
+                808,
+                815
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15029
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 87,
+            "sceneid": 15028,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "普尼尔村遗迹外的小路。",
+            "sceneimage": 10244,
+            "nameTextID": 1900382,
+            "name": "下层·道路尽头"
+        },
+        {
+            "magic": 265,
+            "floor": "5-15",
+            "id": 88,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900399,
+            "recommendid": [
+                13,
+                15,
+                3,
+                6,
+                7
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31017,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                806,
+                809,
+                816
+            ],
+            "isBoss": 1,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                1,
+                3
+            ],
+            "smallnodeid": [
+                15031
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 88,
+            "sceneid": 15030,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "一段蜿蜒的小路，通往盘旋之地。",
+            "sceneimage": 10244,
+            "nameTextID": 1900383,
+            "name": "蜿蜒小路"
+        },
+        {
+            "magic": 265,
+            "floor": "5-16",
+            "id": 89,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900400,
+            "recommendid": [
+                16,
+                3,
+                6,
+                7
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                809,
+                815
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [
+                15033
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 89,
+            "sceneid": 15032,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "盘旋走廊的前段。",
+            "sceneimage": 10244,
+            "nameTextID": 1900384,
+            "name": "盘旋走廊·前段"
+        },
+        {
+            "magic": 265,
+            "floor": "5-17",
+            "id": 90,
+            "itemid": [
+                74001
+            ],
+            "minEquipLevel": 40,
+            "describeTextID": 1900481,
+            "recommendid": [
+                16,
+                3,
+                6,
+                7
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                76002
+            ],
+            "spirit": 25,
+            "monsterid": [
+                809,
+                815
+            ],
+            "isBoss": 0,
+            "unlockLv": 22,
+            "chestrewardItemNums": [
+                20,
+                3
+            ],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 90,
+            "sceneid": 15034,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "盘旋走廊的后段。",
+            "sceneimage": 10244,
+            "nameTextID": 1900466,
+            "name": "盘旋走廊·后段"
+        },
+        {
+            "magic": 280,
+            "floor": "5-18",
+            "id": 91,
+            "itemid": [],
+            "minEquipLevel": 40,
+            "describeTextID": 1900482,
+            "recommendid": [
+                16,
+                13,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [],
+            "spirit": 1,
+            "monsterid": [
+                818
+            ],
+            "isBoss": 1,
+            "unlockLv": 22,
+            "chestrewardItemNums": [],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 91,
+            "sceneid": 15035,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "盘旋之地，可以看到云层下巨大的魔物。",
+            "sceneimage": 10244,
+            "nameTextID": 1900480,
+            "name": "盘旋之地"
+        },
+        {
+            "magic": 280,
+            "floor": "6-1",
+            "id": 92,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901533,
+            "recommendid": [
+                10,
+                3,
+                6,
+                16
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31380
+            ],
+            "spirit": 26,
+            "monsterid": [
+                828,
+                826,
+                827
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16002
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 92,
+            "sceneid": 16001,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "狭长的通道看起来并不安全",
+            "sceneimage": 10244,
+            "nameTextID": 1901517,
+            "name": "关卡前通道"
+        },
+        {
+            "magic": 280,
+            "floor": "6-2",
+            "id": 93,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901534,
+            "recommendid": [
+                10,
+                3,
+                6,
+                16
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31383
+            ],
+            "spirit": 26,
+            "monsterid": [
+                828,
+                826,
+                827
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16004
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 93,
+            "sceneid": 16003,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "曾经是将上下层分开的重要关卡",
+            "sceneimage": 10244,
+            "nameTextID": 1901518,
+            "name": "关卡"
+        },
+        {
+            "magic": 280,
+            "floor": "6-3",
+            "id": 94,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901535,
+            "recommendid": [
+                10,
+                3,
+                6,
+                21
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31386
+            ],
+            "spirit": 26,
+            "monsterid": [
+                827,
+                820
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16006
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 94,
+            "sceneid": 16005,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "空旷的原野中不时传来奇怪的声响",
+            "sceneimage": 10244,
+            "nameTextID": 1901519,
+            "name": "上层·原野西部"
+        },
+        {
+            "magic": 280,
+            "floor": "6-4",
+            "id": 95,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901536,
+            "recommendid": [
+                10,
+                3,
+                6,
+                21
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31389
+            ],
+            "spirit": 26,
+            "monsterid": [
+                826,
+                821
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16008
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 95,
+            "sceneid": 16007,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "居住着一些上层居民的普通村落",
+            "sceneimage": 10244,
+            "nameTextID": 1901520,
+            "name": "上层·中立村落"
+        },
+        {
+            "magic": 280,
+            "floor": "6-5",
+            "id": 96,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901537,
+            "recommendid": [
+                19,
+                21,
+                22,
+                6,
+                2
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31014,
+                31380
+            ],
+            "spirit": 26,
+            "monsterid": [
+                826,
+                827,
+                820,
+                821
+            ],
+            "isBoss": 1,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                1,
+                5
+            ],
+            "smallnodeid": [
+                16010
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 96,
+            "sceneid": 16009,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "散发着强大魔法能量的建筑物",
+            "sceneimage": 10244,
+            "nameTextID": 1901521,
+            "name": "魔法生成所·一"
+        },
+        {
+            "magic": 280,
+            "floor": "6-6",
+            "id": 97,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901538,
+            "recommendid": [
+                14,
+                19,
+                6,
+                7
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31383
+            ],
+            "spirit": 26,
+            "monsterid": [
+                831,
+                832
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16012
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 97,
+            "sceneid": 16011,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "云朵从身边掠过，似乎看不到平原边际",
+            "sceneimage": 10244,
+            "nameTextID": 1901522,
+            "name": "法维尔平原·前"
+        },
+        {
+            "magic": 280,
+            "floor": "6-7",
+            "id": 98,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901539,
+            "recommendid": [
+                14,
+                19,
+                6,
+                7
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31386
+            ],
+            "spirit": 26,
+            "monsterid": [
+                831,
+                832
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16014
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 98,
+            "sceneid": 16013,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "即将穿过偌大的法维尔平原（废弃）",
+            "sceneimage": 10244,
+            "nameTextID": 1901594,
+            "name": "法维尔平原·后"
+        },
+        {
+            "magic": 280,
+            "floor": "6-8",
+            "id": 99,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901540,
+            "recommendid": [
+                13,
+                15,
+                3,
+                19
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31389
+            ],
+            "spirit": 26,
+            "monsterid": [
+                831,
+                901
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16016
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 99,
+            "sceneid": 16015,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "神秘的建筑物矗立在平原一角",
+            "sceneimage": 10244,
+            "nameTextID": 1901523,
+            "name": "魔法生成所·二"
+        },
+        {
+            "magic": 280,
+            "floor": "6-9",
+            "id": 100,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901541,
+            "recommendid": [
+                13,
+                15,
+                3,
+                19,
+                6
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31380
+            ],
+            "spirit": 26,
+            "monsterid": [
+                831,
+                833
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16018
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 100,
+            "sceneid": 16017,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "平原的微风从脸颊拂过，让人心旷神怡",
+            "sceneimage": 10244,
+            "nameTextID": 1901524,
+            "name": "温迪克平原"
+        },
+        {
+            "magic": 280,
+            "floor": "6-10",
+            "id": 101,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901542,
+            "recommendid": [
+                19,
+                21,
+                22,
+                6,
+                7
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31017,
+                31383
+            ],
+            "spirit": 26,
+            "monsterid": [
+                831,
+                833,
+                816
+            ],
+            "isBoss": 1,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                1,
+                5
+            ],
+            "smallnodeid": [
+                16020
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 101,
+            "sceneid": 16019,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "一座外观奇特的建筑物出现在眼前",
+            "sceneimage": 10244,
+            "nameTextID": 1901525,
+            "name": "魔法生成所·三"
+        },
+        {
+            "magic": 280,
+            "floor": "6-11",
+            "id": 102,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901543,
+            "recommendid": [
+                19,
+                22,
+                7,
+                3
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31386
+            ],
+            "spirit": 26,
+            "monsterid": [
+                828,
+                829,
+                830,
+                901
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16022
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 102,
+            "sceneid": 16021,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "寂静辽阔的平原一望无际",
+            "sceneimage": 10244,
+            "nameTextID": 1901526,
+            "name": "洛菲尔平原"
+        },
+        {
+            "magic": 290,
+            "floor": "6-12",
+            "id": 103,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901544,
+            "recommendid": [
+                19,
+                22,
+                3,
+                7
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31389
+            ],
+            "spirit": 26,
+            "monsterid": [
+                828,
+                829,
+                830
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16024
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 103,
+            "sceneid": 16023,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "一条长满杂草的荒芜小径",
+            "sceneimage": 10244,
+            "nameTextID": 1901527,
+            "name": "生成所前小道"
+        },
+        {
+            "magic": 290,
+            "floor": "6-13",
+            "id": 104,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901545,
+            "recommendid": [
+                19,
+                21,
+                22,
+                24,
+                14
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31005,
+                31380
+            ],
+            "spirit": 26,
+            "monsterid": [
+                834,
+                828,
+                829,
+                823
+            ],
+            "isBoss": 1,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                1,
+                5
+            ],
+            "smallnodeid": [
+                16026
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 104,
+            "sceneid": 16025,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "最后一座魔法生成所出现在前方道路的尽头",
+            "sceneimage": 10244,
+            "nameTextID": 1901528,
+            "name": "魔法生成所·四"
+        },
+        {
+            "magic": 290,
+            "floor": "6-14",
+            "id": 105,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901546,
+            "recommendid": [
+                19,
+                22,
+                7,
+                23
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31383
+            ],
+            "spirit": 26,
+            "monsterid": [
+                828,
+                829,
+                830,
+                834,
+                822
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16028
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 105,
+            "sceneid": 16027,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "毗邻着精灵湖畔的宁和小路",
+            "sceneimage": 10244,
+            "nameTextID": 1901529,
+            "name": "湖畔小道"
+        },
+        {
+            "magic": 290,
+            "floor": "6-15",
+            "id": 106,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901547,
+            "recommendid": [
+                20,
+                21,
+                22,
+                24,
+                10
+            ],
+            "back": 1,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31008,
+                31386
+            ],
+            "spirit": 26,
+            "monsterid": [
+                828,
+                829,
+                830,
+                834,
+                824
+            ],
+            "isBoss": 1,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                1,
+                5
+            ],
+            "smallnodeid": [
+                16030
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 106,
+            "sceneid": 16029,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "前方是与世隔绝的精灵之森",
+            "sceneimage": 10244,
+            "nameTextID": 1901530,
+            "name": "精灵之森"
+        },
+        {
+            "magic": 290,
+            "floor": "6-16",
+            "id": 107,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901548,
+            "recommendid": [
+                19,
+                21,
+                22,
+                14
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31389
+            ],
+            "spirit": 26,
+            "monsterid": [
+                828,
+                829,
+                830,
+                822
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16032
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 107,
+            "sceneid": 16031,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "这里似乎被某种神圣力量所庇护",
+            "sceneimage": 10244,
+            "nameTextID": 1901531,
+            "name": "庇佑之道"
+        },
+        {
+            "magic": 290,
+            "floor": "6-17",
+            "id": 108,
+            "itemid": [
+                74002
+            ],
+            "minEquipLevel": 50,
+            "describeTextID": 1901592,
+            "recommendid": [
+                19,
+                21,
+                22,
+                14
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [
+                35008,
+                31380
+            ],
+            "spirit": 26,
+            "monsterid": [
+                829,
+                834
+            ],
+            "isBoss": 0,
+            "unlockLv": 30,
+            "chestrewardItemNums": [
+                20,
+                5
+            ],
+            "smallnodeid": [
+                16034
+            ],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 108,
+            "sceneid": 16033,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "闪耀着圣光的殿堂屹立在云端之上",
+            "sceneimage": 10244,
+            "nameTextID": 1901590,
+            "name": "圣域·神殿"
+        },
+        {
+            "magic": 290,
+            "floor": "6-18",
+            "id": 109,
+            "itemid": [],
+            "minEquipLevel": 50,
+            "describeTextID": 1901593,
+            "recommendid": [
+                19,
+                21,
+                22,
+                23,
+                14
+            ],
+            "back": 0,
+            "wordId": 0,
+            "firstItemNums": [
+                30
+            ],
+            "chestrewardItems": [],
+            "spirit": 1,
+            "monsterid": [
+                825
+            ],
+            "isBoss": 1,
+            "unlockLv": 30,
+            "chestrewardItemNums": [],
+            "smallnodeid": [],
+            "suredropItems": [
+                35002,
+                35020
+            ],
+            "sort": 109,
+            "sceneid": 16035,
+            "minSkillLevel": 5,
+            "firstItems": [
+                35008
+            ],
+            "describe": "纯净圣洁的神殿广场，嘉庇艾尔的最上层",
+            "sceneimage": 10244,
+            "nameTextID": 1901591,
+            "name": "圣域·神殿广场"
+        }
+    ]
+}

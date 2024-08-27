@@ -1,0 +1,256 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ],
+    "Data": [
+        {
+            "neednum": 8,
+            "rewardquantity": [
+                300000,
+                0
+            ],
+            "id": 1,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 16,
+            "rewardquantity": [
+                10,
+                5
+            ],
+            "id": 2,
+            "rewarditem": [
+                75003,
+                35036
+            ]
+        },
+        {
+            "neednum": 24,
+            "rewardquantity": [
+                300000,
+                0
+            ],
+            "id": 3,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 32,
+            "rewardquantity": [
+                10,
+                5
+            ],
+            "id": 4,
+            "rewarditem": [
+                75006,
+                35036
+            ]
+        },
+        {
+            "neednum": 40,
+            "rewardquantity": [
+                50,
+                0
+            ],
+            "id": 5,
+            "rewarditem": [
+                35008
+            ]
+        },
+        {
+            "neednum": 48,
+            "rewardquantity": [
+                36,
+                5
+            ],
+            "id": 6,
+            "rewarditem": [
+                74000,
+                35036
+            ]
+        },
+        {
+            "neednum": 56,
+            "rewardquantity": [
+                300000,
+                0
+            ],
+            "id": 7,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 64,
+            "rewardquantity": [
+                36,
+                5
+            ],
+            "id": 8,
+            "rewarditem": [
+                74000,
+                35036
+            ]
+        },
+        {
+            "neednum": 72,
+            "rewardquantity": [
+                300000,
+                0
+            ],
+            "id": 9,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 80,
+            "rewardquantity": [
+                3,
+                5
+            ],
+            "id": 10,
+            "rewarditem": [
+                75004,
+                35036
+            ]
+        },
+        {
+            "neednum": 88,
+            "rewardquantity": [
+                50,
+                0
+            ],
+            "id": 11,
+            "rewarditem": [
+                35008
+            ]
+        },
+        {
+            "neednum": 96,
+            "rewardquantity": [
+                3,
+                5
+            ],
+            "id": 12,
+            "rewarditem": [
+                75007,
+                35036
+            ]
+        },
+        {
+            "neednum": 104,
+            "rewardquantity": [
+                300000,
+                0
+            ],
+            "id": 13,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 112,
+            "rewardquantity": [
+                30,
+                5
+            ],
+            "id": 14,
+            "rewarditem": [
+                74001,
+                35036
+            ]
+        },
+        {
+            "neednum": 120,
+            "rewardquantity": [
+                300000,
+                0
+            ],
+            "id": 15,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 128,
+            "rewardquantity": [
+                30,
+                5
+            ],
+            "id": 16,
+            "rewarditem": [
+                74001,
+                35036
+            ]
+        },
+        {
+            "neednum": 136,
+            "rewardquantity": [
+                50,
+                0
+            ],
+            "id": 17,
+            "rewarditem": [
+                35008
+            ]
+        },
+        {
+            "neednum": 144,
+            "rewardquantity": [
+                1,
+                5
+            ],
+            "id": 18,
+            "rewarditem": [
+                70003,
+                35036
+            ]
+        },
+        {
+            "neednum": 152,
+            "rewardquantity": [
+                300000,
+                0
+            ],
+            "id": 19,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 160,
+            "rewardquantity": [
+                1,
+                5
+            ],
+            "id": 20,
+            "rewarditem": [
+                30076,
+                35036
+            ]
+        }
+    ]
+}

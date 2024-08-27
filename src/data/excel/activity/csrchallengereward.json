@@ -1,0 +1,76 @@
+{
+    "Data": [
+        {
+            "itemNum": 200000,
+            "neededPoint": 5000,
+            "id": 1,
+            "itemID": 35002
+        },
+        {
+            "itemNum": 1,
+            "neededPoint": 10000,
+            "id": 2,
+            "itemID": 31037
+        },
+        {
+            "itemNum": 60,
+            "neededPoint": 15000,
+            "id": 3,
+            "itemID": 74002
+        },
+        {
+            "itemNum": 80,
+            "neededPoint": 20000,
+            "id": 4,
+            "itemID": 79001
+        },
+        {
+            "itemNum": 2,
+            "neededPoint": 30000,
+            "id": 5,
+            "itemID": 70002
+        },
+        {
+            "itemNum": 200,
+            "neededPoint": 40000,
+            "id": 6,
+            "itemID": 35008
+        },
+        {
+            "itemNum": 1,
+            "neededPoint": 50000,
+            "id": 7,
+            "itemID": 31038
+        },
+        {
+            "itemNum": 40,
+            "neededPoint": 60000,
+            "id": 8,
+            "itemID": 79002
+        },
+        {
+            "itemNum": 1,
+            "neededPoint": 80000,
+            "id": 9,
+            "itemID": 70003
+        },
+        {
+            "itemNum": 2,
+            "neededPoint": 100000,
+            "id": 10,
+            "itemID": 30076
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ]
+}

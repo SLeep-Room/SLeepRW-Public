@@ -1,0 +1,48 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "stageeffects": 0,
+            "stagenameid": 1,
+            "stagenametxtid": 800135
+        },
+        {
+            "id": 2,
+            "stageeffects": 1,
+            "stagenameid": 2,
+            "stagenametxtid": 800106
+        },
+        {
+            "id": 3,
+            "stageeffects": 2,
+            "stagenameid": 3,
+            "stagenametxtid": 800107
+        },
+        {
+            "id": 4,
+            "stageeffects": 3,
+            "stagenameid": 4,
+            "stagenametxtid": 800108
+        },
+        {
+            "id": 5,
+            "stageeffects": 4,
+            "stagenameid": 5,
+            "stagenametxtid": 800109
+        },
+        {
+            "id": 6,
+            "stageeffects": 5,
+            "stagenameid": 6,
+            "stagenametxtid": 800110
+        }
+    ]
+}

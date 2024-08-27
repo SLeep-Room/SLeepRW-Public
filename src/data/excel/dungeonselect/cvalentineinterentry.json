@@ -1,0 +1,347 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+    ],
+    "Data": [
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 0,
+            "name": 701706,
+            "type": 3,
+            "id": 1,
+            "functionList": "27001301"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 0,
+            "name": 701709,
+            "type": 3,
+            "id": 2,
+            "functionList": "27001501"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 0,
+            "name": 701707,
+            "type": 3,
+            "id": 3,
+            "functionList": "27001701"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 0,
+            "name": 701708,
+            "type": 3,
+            "id": 4,
+            "functionList": "27001601"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 1,
+            "name": 1901453,
+            "type": 1,
+            "id": 5,
+            "functionList": "27001201"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 1,
+            "name": 1901454,
+            "type": 1,
+            "id": 6,
+            "functionList": "27001101"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 2,
+            "name": 1901455,
+            "type": 1,
+            "id": 7,
+            "functionList": "27001202"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 2,
+            "name": 1901456,
+            "type": 1,
+            "id": 8,
+            "functionList": "27001102"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 3,
+            "name": 1901457,
+            "type": 1,
+            "id": 9,
+            "functionList": "27001203"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 4,
+            "name": 1901458,
+            "type": 1,
+            "id": 10,
+            "functionList": "27001204"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 4,
+            "name": 1901459,
+            "type": 1,
+            "id": 11,
+            "functionList": "27001103"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 5,
+            "name": 1901460,
+            "type": 1,
+            "id": 12,
+            "functionList": "27001205"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 5,
+            "name": 1901461,
+            "type": 1,
+            "id": 13,
+            "functionList": "27001104"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 6,
+            "name": 1901462,
+            "type": 1,
+            "id": 14,
+            "functionList": "27001206"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 6,
+            "name": 1901463,
+            "type": 1,
+            "id": 15,
+            "functionList": "27001207"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 6,
+            "name": 1901464,
+            "type": 1,
+            "id": 16,
+            "functionList": "27001105"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 7,
+            "name": 1901465,
+            "type": 1,
+            "id": 17,
+            "functionList": "27001208"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 7,
+            "name": 1901466,
+            "type": 1,
+            "id": 18,
+            "functionList": "27001106"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 8,
+            "name": 1901467,
+            "type": 1,
+            "id": 19,
+            "functionList": "27001209"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 8,
+            "name": 1901468,
+            "type": 1,
+            "id": 20,
+            "functionList": "27001107"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 8,
+            "name": 1901469,
+            "type": 1,
+            "id": 21,
+            "functionList": "27001210"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 9,
+            "name": 1901470,
+            "type": 1,
+            "id": 22,
+            "functionList": "27001211"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 9,
+            "name": 1901471,
+            "type": 1,
+            "id": 23,
+            "functionList": "27001108"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 10,
+            "name": 1901472,
+            "type": 1,
+            "id": 24,
+            "functionList": "27001401;27001402;27001403;27001404"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 11,
+            "name": 1901473,
+            "type": 1,
+            "id": 25,
+            "functionList": "27001405;27001406;27001407;27001408"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 12,
+            "name": 1901474,
+            "type": 1,
+            "id": 26,
+            "functionList": "27001409;27001410;27001411;27001412"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 13,
+            "name": 1901475,
+            "type": 1,
+            "id": 27,
+            "functionList": "27001413;27001414;27001415;27001416"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 14,
+            "name": 1901476,
+            "type": 1,
+            "id": 28,
+            "functionList": "27001417;27001418;27001419;27001420"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 15,
+            "name": 1901477,
+            "type": 1,
+            "id": 29,
+            "functionList": "27001421;27001422;27001423;27001424"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 16,
+            "name": 1901478,
+            "type": 1,
+            "id": 30,
+            "functionList": "27001425;27001426;27001427;27001428"
+        },
+        {
+            "destribe": 0,
+            "itemAmount": [],
+            "itemID": [],
+            "posId": 17,
+            "name": 1901479,
+            "type": 1,
+            "id": 31,
+            "functionList": "27001429;27001430;27001431;27001432"
+        }
+    ]
+}

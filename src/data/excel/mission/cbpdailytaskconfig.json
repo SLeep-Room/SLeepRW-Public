@@ -1,0 +1,506 @@
+{
+    "Data": {
+        "170020": {
+            "rewardID": 4269,
+            "unlockcondition": 1,
+            "orderID": 1,
+            "unlockid": 1001198,
+            "rewardquantity": [
+                1
+            ],
+            "taskTextID": 1001142,
+            "id": 170020,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 0,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35061
+            ],
+            "UIjumpvalue": 1,
+            "endEvent": 22,
+            "jumptype": 0,
+            "typeID": 3
+        },
+        "170021": {
+            "rewardID": 4269,
+            "unlockcondition": 5,
+            "orderID": 2,
+            "unlockid": 1001200,
+            "rewardquantity": [
+                1
+            ],
+            "taskTextID": 1001143,
+            "id": 170021,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35061
+            ],
+            "UIjumpvalue": 16,
+            "endEvent": 25,
+            "jumptype": 2,
+            "typeID": 3
+        },
+        "170022": {
+            "rewardID": 4269,
+            "unlockcondition": 5,
+            "orderID": 3,
+            "unlockid": 1001202,
+            "rewardquantity": [
+                1
+            ],
+            "taskTextID": 1000248,
+            "id": 170022,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35061
+            ],
+            "UIjumpvalue": 2,
+            "endEvent": 26,
+            "jumptype": 2,
+            "typeID": 3
+        },
+        "170023": {
+            "rewardID": 4269,
+            "unlockcondition": 5,
+            "orderID": 4,
+            "unlockid": 1001203,
+            "rewardquantity": [
+                1
+            ],
+            "taskTextID": 1000249,
+            "id": 170023,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35061
+            ],
+            "UIjumpvalue": 26,
+            "endEvent": 6,
+            "jumptype": 2,
+            "typeID": 3
+        },
+        "170025": {
+            "rewardID": 4269,
+            "unlockcondition": 7,
+            "orderID": 6,
+            "unlockid": 1001205,
+            "rewardquantity": [
+                1
+            ],
+            "taskTextID": 1000252,
+            "id": 170025,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35061
+            ],
+            "UIjumpvalue": 24,
+            "endEvent": 9,
+            "jumptype": 2,
+            "typeID": 3
+        },
+        "170027": {
+            "rewardID": 4269,
+            "unlockcondition": 11,
+            "orderID": 8,
+            "unlockid": 1001207,
+            "rewardquantity": [
+                1
+            ],
+            "taskTextID": 1000255,
+            "id": 170027,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35061
+            ],
+            "UIjumpvalue": 25,
+            "endEvent": 12,
+            "jumptype": 2,
+            "typeID": 3
+        },
+        "170028": {
+            "rewardID": 4269,
+            "unlockcondition": 27,
+            "orderID": 9,
+            "unlockid": 1001209,
+            "rewardquantity": [
+                1
+            ],
+            "taskTextID": 1001145,
+            "id": 170028,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35061
+            ],
+            "UIjumpvalue": 22,
+            "endEvent": 24,
+            "jumptype": 2,
+            "typeID": 3
+        },
+        "170001": {
+            "rewardID": 4181,
+            "unlockcondition": 1,
+            "orderID": 1,
+            "unlockid": 1001198,
+            "rewardquantity": [
+                10
+            ],
+            "taskTextID": 1001142,
+            "id": 170001,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 0,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35060
+            ],
+            "UIjumpvalue": 1,
+            "endEvent": 22,
+            "jumptype": 0,
+            "typeID": 1
+        },
+        "170002": {
+            "rewardID": 4181,
+            "unlockcondition": 5,
+            "orderID": 2,
+            "unlockid": 1001200,
+            "rewardquantity": [
+                10
+            ],
+            "taskTextID": 1001143,
+            "id": 170002,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35060
+            ],
+            "UIjumpvalue": 16,
+            "endEvent": 25,
+            "jumptype": 2,
+            "typeID": 1
+        },
+        "170003": {
+            "rewardID": 4181,
+            "unlockcondition": 5,
+            "orderID": 3,
+            "unlockid": 1001202,
+            "rewardquantity": [
+                10
+            ],
+            "taskTextID": 1000248,
+            "id": 170003,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35060
+            ],
+            "UIjumpvalue": 2,
+            "endEvent": 26,
+            "jumptype": 2,
+            "typeID": 1
+        },
+        "170004": {
+            "rewardID": 4181,
+            "unlockcondition": 5,
+            "orderID": 4,
+            "unlockid": 1001203,
+            "rewardquantity": [
+                10
+            ],
+            "taskTextID": 1000249,
+            "id": 170004,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35060
+            ],
+            "UIjumpvalue": 26,
+            "endEvent": 6,
+            "jumptype": 2,
+            "typeID": 1
+        },
+        "170005": {
+            "rewardID": 4181,
+            "unlockcondition": 7,
+            "orderID": 5,
+            "unlockid": 1001205,
+            "rewardquantity": [
+                10
+            ],
+            "taskTextID": 1000252,
+            "id": 170005,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35060
+            ],
+            "UIjumpvalue": 24,
+            "endEvent": 9,
+            "jumptype": 2,
+            "typeID": 1
+        },
+        "170006": {
+            "rewardID": 4181,
+            "unlockcondition": 11,
+            "orderID": 6,
+            "unlockid": 1001207,
+            "rewardquantity": [
+                10
+            ],
+            "taskTextID": 1000255,
+            "id": 170006,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35060
+            ],
+            "UIjumpvalue": 25,
+            "endEvent": 12,
+            "jumptype": 2,
+            "typeID": 1
+        },
+        "170008": {
+            "rewardID": 4259,
+            "unlockcondition": 1,
+            "orderID": 1,
+            "unlockid": 1001198,
+            "rewardquantity": [
+                6
+            ],
+            "taskTextID": 1001142,
+            "id": 170008,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 0,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35059
+            ],
+            "UIjumpvalue": 1,
+            "endEvent": 22,
+            "jumptype": 0,
+            "typeID": 2
+        },
+        "170009": {
+            "rewardID": 4260,
+            "unlockcondition": 5,
+            "orderID": 2,
+            "unlockid": 1001200,
+            "rewardquantity": [
+                4
+            ],
+            "taskTextID": 1001143,
+            "id": 170009,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35059
+            ],
+            "UIjumpvalue": 16,
+            "endEvent": 25,
+            "jumptype": 2,
+            "typeID": 2
+        },
+        "170010": {
+            "rewardID": 4260,
+            "unlockcondition": 5,
+            "orderID": 3,
+            "unlockid": 1001202,
+            "rewardquantity": [
+                4
+            ],
+            "taskTextID": 1000248,
+            "id": 170010,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35059
+            ],
+            "UIjumpvalue": 2,
+            "endEvent": 26,
+            "jumptype": 2,
+            "typeID": 2
+        },
+        "170011": {
+            "rewardID": 4260,
+            "unlockcondition": 5,
+            "orderID": 4,
+            "unlockid": 1001203,
+            "rewardquantity": [
+                4
+            ],
+            "taskTextID": 1000249,
+            "id": 170011,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35059
+            ],
+            "UIjumpvalue": 26,
+            "endEvent": 6,
+            "jumptype": 2,
+            "typeID": 2
+        },
+        "170012": {
+            "rewardID": 4260,
+            "unlockcondition": 7,
+            "orderID": 5,
+            "unlockid": 1001205,
+            "rewardquantity": [
+                4
+            ],
+            "taskTextID": 1000252,
+            "id": 170012,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35059
+            ],
+            "UIjumpvalue": 24,
+            "endEvent": 9,
+            "jumptype": 2,
+            "typeID": 2
+        },
+        "170013": {
+            "rewardID": 4260,
+            "unlockcondition": 11,
+            "orderID": 6,
+            "unlockid": 1001207,
+            "rewardquantity": [
+                4
+            ],
+            "taskTextID": 1000255,
+            "id": 170013,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35059
+            ],
+            "UIjumpvalue": 25,
+            "endEvent": 12,
+            "jumptype": 2,
+            "typeID": 2
+        },
+        "170014": {
+            "rewardID": 4260,
+            "unlockcondition": 27,
+            "orderID": 7,
+            "unlockid": 1001209,
+            "rewardquantity": [
+                4
+            ],
+            "taskTextID": 1001145,
+            "id": 170014,
+            "jumpvalue": [
+                0
+            ],
+            "randomType": 1,
+            "missiontype": 17,
+            "targetType": 1,
+            "rewarditem": [
+                35059
+            ],
+            "UIjumpvalue": 22,
+            "endEvent": 24,
+            "jumptype": 2,
+            "typeID": 2
+        }
+    },
+    "AllIds": [
+        170001,
+        170002,
+        170003,
+        170004,
+        170005,
+        170006,
+        170008,
+        170009,
+        170010,
+        170011,
+        170012,
+        170013,
+        170014,
+        170020,
+        170021,
+        170022,
+        170023,
+        170025,
+        170027,
+        170028
+    ]
+}

@@ -1,0 +1,2546 @@
+{
+    "AllIds": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        901,
+        902,
+        903,
+        904,
+        905,
+        906,
+        907,
+        908,
+        909,
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105,
+        1106,
+        1107,
+        1108,
+        1109,
+        1201,
+        1202,
+        1203,
+        1204,
+        1205,
+        1206,
+        1207,
+        1208,
+        1209
+    ],
+    "Data": {
+        "901": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 60,
+            "id": 901,
+            "name": 1900842
+        },
+        "902": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 902,
+            "name": 1900843
+        },
+        "903": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                3,
+                6,
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 903,
+            "name": 1900844
+        },
+        "904": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 904,
+            "name": 1900845
+        },
+        "905": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 905,
+            "name": 1900846
+        },
+        "906": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                2
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 5,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 906,
+            "name": 1900847
+        },
+        "907": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 907,
+            "name": 1900848
+        },
+        "908": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                8,
+                3
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 908,
+            "name": 1900849
+        },
+        "909": {
+            "BackAsset": 301,
+            "startPoint": 601,
+            "objectAsset": 2301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                6238
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 6,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 4,
+            "apCost": 60,
+            "id": 909,
+            "name": 1900850
+        },
+        "401": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 30,
+            "id": 401,
+            "name": 1900797
+        },
+        "402": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 402,
+            "name": 1900798
+        },
+        "403": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                2,
+                5
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 1,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 403,
+            "name": 1900799
+        },
+        "404": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 404,
+            "name": 1900800
+        },
+        "405": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                8
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 405,
+            "name": 1900801
+        },
+        "406": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 406,
+            "name": 1900802
+        },
+        "407": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 407,
+            "name": 1900803
+        },
+        "408": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                3,
+                1,
+                6
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 408,
+            "name": 1900804
+        },
+        "409": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 2101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6286
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 2,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 4,
+            "apCost": 45,
+            "id": 409,
+            "name": 1900805
+        },
+        "801": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                6,
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 45,
+            "id": 801,
+            "name": 1900833
+        },
+        "802": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 802,
+            "name": 1900834
+        },
+        "803": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 803,
+            "name": 1900835
+        },
+        "804": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                5,
+                3
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 804,
+            "name": 1900836
+        },
+        "805": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 805,
+            "name": 1900837
+        },
+        "806": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                6
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 806,
+            "name": 1900838
+        },
+        "807": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                2
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 3,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 807,
+            "name": 1900839
+        },
+        "808": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                8,
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 808,
+            "name": 1900840
+        },
+        "809": {
+            "BackAsset": 201,
+            "startPoint": 501,
+            "objectAsset": 2201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                6143
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 4,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 4,
+            "apCost": 60,
+            "id": 809,
+            "name": 1900841
+        },
+        "301": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 30,
+            "id": 301,
+            "name": 1900788
+        },
+        "302": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 302,
+            "name": 1900789
+        },
+        "303": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                2,
+                5
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 1,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 303,
+            "name": 1900790
+        },
+        "304": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 304,
+            "name": 1900791
+        },
+        "305": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 305,
+            "name": 1900792
+        },
+        "306": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6,
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 306,
+            "name": 1900793
+        },
+        "307": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 307,
+            "name": 1900794
+        },
+        "308": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6,
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 308,
+            "name": 1900795
+        },
+        "309": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 2101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6117
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 2,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 4,
+            "apCost": 30,
+            "id": 309,
+            "name": 1900796
+        },
+        "1206": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1206,
+            "name": 1900874
+        },
+        "1207": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 1207,
+            "name": 1900875
+        },
+        "1208": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                8,
+                5,
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 1208,
+            "name": 1900876
+        },
+        "1209": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 2301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                6192
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 6,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 4,
+            "apCost": 60,
+            "id": 1209,
+            "name": 1900877
+        },
+        "1205": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1205,
+            "name": 1900873
+        },
+        "701": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 45,
+            "id": 701,
+            "name": 1900824
+        },
+        "702": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 702,
+            "name": 1900825
+        },
+        "703": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                3,
+                1,
+                6
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 703,
+            "name": 1900826
+        },
+        "704": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 704,
+            "name": 1900827
+        },
+        "705": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                5,
+                2
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 3,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 705,
+            "name": 1900828
+        },
+        "706": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 706,
+            "name": 1900829
+        },
+        "707": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                3
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 707,
+            "name": 1900830
+        },
+        "708": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 708,
+            "name": 1900831
+        },
+        "709": {
+            "BackAsset": 201,
+            "startPoint": 401,
+            "objectAsset": 2201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                6143
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 4,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 4,
+            "apCost": 45,
+            "id": 709,
+            "name": 1900832
+        },
+        "1204": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1,
+                6
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 1204,
+            "name": 1900872
+        },
+        "1203": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                2
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 5,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1203,
+            "name": 1900871
+        },
+        "1202": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1202,
+            "name": 1900870
+        },
+        "201": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 30,
+            "id": 201,
+            "name": 1900779
+        },
+        "202": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 202,
+            "name": 1900780
+        },
+        "203": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 203,
+            "name": 1900781
+        },
+        "204": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                2,
+                5
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 1,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 204,
+            "name": 1900782
+        },
+        "205": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 205,
+            "name": 1900783
+        },
+        "206": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 206,
+            "name": 1900784
+        },
+        "207": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 207,
+            "name": 1900785
+        },
+        "208": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                3,
+                8,
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 208,
+            "name": 1900786
+        },
+        "209": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 2101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6286
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 2,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 4,
+            "apCost": 30,
+            "id": 209,
+            "name": 1900787
+        },
+        "1106": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1106,
+            "name": 1900865
+        },
+        "1107": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                3
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1107,
+            "name": 1900866
+        },
+        "1108": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 1108,
+            "name": 1900867
+        },
+        "1109": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 2301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                6146
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 6,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 4,
+            "apCost": 60,
+            "id": 1109,
+            "name": 1900868
+        },
+        "1201": {
+            "BackAsset": 301,
+            "startPoint": 901,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 60,
+            "id": 1201,
+            "name": 1900869
+        },
+        "1105": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 1105,
+            "name": 1900864
+        },
+        "1104": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                2
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 5,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1104,
+            "name": 1900863
+        },
+        "601": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                8,
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 45,
+            "id": 601,
+            "name": 1900815
+        },
+        "602": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                2
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 3,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 602,
+            "name": 1900816
+        },
+        "603": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 603,
+            "name": 1900817
+        },
+        "604": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 604,
+            "name": 1900818
+        },
+        "605": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 605,
+            "name": 1900819
+        },
+        "606": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                6,
+                3
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 606,
+            "name": 1900820
+        },
+        "607": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 607,
+            "name": 1900821
+        },
+        "608": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                8,
+                6,
+                3
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 608,
+            "name": 1900822
+        },
+        "609": {
+            "BackAsset": 201,
+            "startPoint": 301,
+            "objectAsset": 2201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                6120
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 4,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 4,
+            "apCost": 45,
+            "id": 609,
+            "name": 1900823
+        },
+        "1103": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                3
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1103,
+            "name": 1900862
+        },
+        "1102": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 1102,
+            "name": 1900861
+        },
+        "1101": {
+            "BackAsset": 301,
+            "startPoint": 801,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 60,
+            "id": 1101,
+            "name": 1900860
+        },
+        "101": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 30,
+            "id": 101,
+            "name": 1900770
+        },
+        "102": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                8,
+                3
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 102,
+            "name": 1900771
+        },
+        "103": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 103,
+            "name": 1900772
+        },
+        "104": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                2
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 1,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 104,
+            "name": 1900773
+        },
+        "105": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6,
+                3
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 105,
+            "name": 1900774
+        },
+        "106": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 106,
+            "name": 1900775
+        },
+        "107": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 107,
+            "name": 1900776
+        },
+        "108": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 1101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                8,
+                3
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 108,
+            "name": 1900777
+        },
+        "109": {
+            "BackAsset": 101,
+            "startPoint": 101,
+            "objectAsset": 2101,
+            "continueAsset": 4101,
+            "world": 1,
+            "EventList": [
+                6117
+            ],
+            "roadAssetList": [
+                1101,
+                1102
+            ],
+            "BlessingPoolid": 2,
+            "startAsset": 3101,
+            "bgm": 130,
+            "battleScene": 20007,
+            "typeID": 4,
+            "apCost": 30,
+            "id": 109,
+            "name": 1900778
+        },
+        "1006": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                3,
+                1,
+                6
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 5,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 1006,
+            "name": 1900856
+        },
+        "1007": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1007,
+            "name": 1900857
+        },
+        "1008": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                8,
+                1,
+                3
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 1008,
+            "name": 1900858
+        },
+        "1009": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 2301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                6238
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 6,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 4,
+            "apCost": 60,
+            "id": 1009,
+            "name": 1900859
+        },
+        "1005": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1005,
+            "name": 1900855
+        },
+        "1004": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1004,
+            "name": 1900854
+        },
+        "1003": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                2,
+                5
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 1003,
+            "name": 1900853
+        },
+        "501": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 45,
+            "id": 501,
+            "name": 1900806
+        },
+        "502": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                6,
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 502,
+            "name": 1900807
+        },
+        "503": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 503,
+            "name": 1900808
+        },
+        "504": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 504,
+            "name": 1900809
+        },
+        "505": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 505,
+            "name": 1900810
+        },
+        "506": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                2,
+                5
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 3,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 2,
+            "apCost": 0,
+            "id": 506,
+            "name": 1900811
+        },
+        "507": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                3
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 507,
+            "name": 1900812
+        },
+        "508": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 1201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                8,
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 3,
+            "apCost": 0,
+            "id": 508,
+            "name": 1900813
+        },
+        "509": {
+            "BackAsset": 201,
+            "startPoint": 201,
+            "objectAsset": 2201,
+            "continueAsset": 4201,
+            "world": 2,
+            "EventList": [
+                6120
+            ],
+            "roadAssetList": [
+                1201,
+                1202
+            ],
+            "BlessingPoolid": 4,
+            "startAsset": 3201,
+            "bgm": 135,
+            "battleScene": 20010,
+            "typeID": 4,
+            "apCost": 45,
+            "id": 509,
+            "name": 1900814
+        },
+        "1002": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 1,
+            "apCost": 0,
+            "id": 1002,
+            "name": 1900852
+        },
+        "1001": {
+            "BackAsset": 301,
+            "startPoint": 701,
+            "objectAsset": 1301,
+            "continueAsset": 4301,
+            "world": 3,
+            "EventList": [
+                3,
+                1
+            ],
+            "roadAssetList": [
+                1301,
+                1302
+            ],
+            "BlessingPoolid": 0,
+            "startAsset": 3301,
+            "bgm": 234,
+            "battleScene": 20015,
+            "typeID": 2,
+            "apCost": 60,
+            "id": 1001,
+            "name": 1900851
+        }
+    }
+}

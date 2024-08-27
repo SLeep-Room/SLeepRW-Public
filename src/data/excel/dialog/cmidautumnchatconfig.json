@@ -1,0 +1,198 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        35,
+        36,
+        37
+    ],
+    "Data": {
+        "37": {
+            "id": 37,
+            "nextDialog": 0,
+            "dialogList": "326-338"
+        },
+        "1": {
+            "id": 1,
+            "nextDialog": 0,
+            "dialogList": "1,2,3"
+        },
+        "2": {
+            "id": 2,
+            "nextDialog": 0,
+            "dialogList": "4-11"
+        },
+        "3": {
+            "id": 3,
+            "nextDialog": 0,
+            "dialogList": "12-15"
+        },
+        "4": {
+            "id": 4,
+            "nextDialog": 0,
+            "dialogList": "16-17"
+        },
+        "5": {
+            "id": 5,
+            "nextDialog": 0,
+            "dialogList": "18-31"
+        },
+        "6": {
+            "id": 6,
+            "nextDialog": 0,
+            "dialogList": "32-42"
+        },
+        "7": {
+            "id": 7,
+            "nextDialog": 0,
+            "dialogList": "43-57"
+        },
+        "8": {
+            "id": 8,
+            "nextDialog": 0,
+            "dialogList": "58-72"
+        },
+        "9": {
+            "id": 9,
+            "nextDialog": 0,
+            "dialogList": "73-81"
+        },
+        "10": {
+            "id": 10,
+            "nextDialog": 0,
+            "dialogList": "82-111"
+        },
+        "11": {
+            "id": 11,
+            "nextDialog": 0,
+            "dialogList": "112-116"
+        },
+        "12": {
+            "id": 12,
+            "nextDialog": 0,
+            "dialogList": "137-141"
+        },
+        "13": {
+            "id": 13,
+            "nextDialog": 0,
+            "dialogList": "142-144"
+        },
+        "14": {
+            "id": 14,
+            "nextDialog": 0,
+            "dialogList": "145-150"
+        },
+        "15": {
+            "id": 15,
+            "nextDialog": 0,
+            "dialogList": "151-154"
+        },
+        "16": {
+            "id": 16,
+            "nextDialog": 0,
+            "dialogList": "155-158"
+        },
+        "17": {
+            "id": 17,
+            "nextDialog": 0,
+            "dialogList": "159-164"
+        },
+        "18": {
+            "id": 18,
+            "nextDialog": 0,
+            "dialogList": "124"
+        },
+        "19": {
+            "id": 19,
+            "nextDialog": 0,
+            "dialogList": "125"
+        },
+        "20": {
+            "id": 20,
+            "nextDialog": 0,
+            "dialogList": "126"
+        },
+        "21": {
+            "id": 21,
+            "nextDialog": 0,
+            "dialogList": "127"
+        },
+        "22": {
+            "id": 22,
+            "nextDialog": 0,
+            "dialogList": "128-136"
+        },
+        "23": {
+            "id": 23,
+            "nextDialog": 0,
+            "dialogList": "165-169"
+        },
+        "24": {
+            "id": 24,
+            "nextDialog": 0,
+            "dialogList": "170-183"
+        },
+        "25": {
+            "id": 25,
+            "nextDialog": 0,
+            "dialogList": "112-116"
+        },
+        "26": {
+            "id": 26,
+            "nextDialog": 0,
+            "dialogList": "184-186"
+        },
+        "27": {
+            "id": 27,
+            "nextDialog": 0,
+            "dialogList": "187-198"
+        },
+        "28": {
+            "id": 28,
+            "nextDialog": 0,
+            "dialogList": "199-212"
+        },
+        "29": {
+            "id": 29,
+            "nextDialog": 0,
+            "dialogList": "213-218"
+        },
+        "36": {
+            "id": 36,
+            "nextDialog": 0,
+            "dialogList": "312-325"
+        },
+        "35": {
+            "id": 35,
+            "nextDialog": 0,
+            "dialogList": "299-311"
+        }
+    }
+}

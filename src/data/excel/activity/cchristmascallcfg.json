@@ -1,0 +1,171 @@
+{
+    "Data": [
+        {
+            "npcHead": 13845,
+            "rewardid": 35002,
+            "callType": 1,
+            "id": 1,
+            "taskid": 1001577,
+            "endEvent": 0,
+            "rewardNum": 1000000,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 75016,
+            "callType": 1,
+            "id": 2,
+            "taskid": 1001578,
+            "endEvent": 500,
+            "rewardNum": 30,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 75010,
+            "callType": 1,
+            "id": 3,
+            "taskid": 1001579,
+            "endEvent": 1000,
+            "rewardNum": 30,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 35002,
+            "callType": 1,
+            "id": 4,
+            "taskid": 1001580,
+            "endEvent": 2000,
+            "rewardNum": 3000000,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 74001,
+            "callType": 1,
+            "id": 5,
+            "taskid": 1001581,
+            "endEvent": 5000,
+            "rewardNum": 60,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 79001,
+            "callType": 1,
+            "id": 6,
+            "taskid": 1001582,
+            "endEvent": 8000,
+            "rewardNum": 40,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 75019,
+            "callType": 1,
+            "id": 7,
+            "taskid": 1001583,
+            "endEvent": 10000,
+            "rewardNum": 20,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 35002,
+            "callType": 2,
+            "id": 8,
+            "taskid": 1001577,
+            "endEvent": 0,
+            "rewardNum": 1000000,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 75017,
+            "callType": 2,
+            "id": 9,
+            "taskid": 1001585,
+            "endEvent": 200000,
+            "rewardNum": 30,
+            "npcTalk": 2023
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 75011,
+            "callType": 2,
+            "id": 10,
+            "taskid": 1001586,
+            "endEvent": 750000,
+            "rewardNum": 40,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 31038,
+            "callType": 2,
+            "id": 11,
+            "taskid": 1001587,
+            "endEvent": 1500000,
+            "rewardNum": 2,
+            "npcTalk": 2024
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 75011,
+            "callType": 2,
+            "id": 12,
+            "taskid": 1001588,
+            "endEvent": 3000000,
+            "rewardNum": 20,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 79002,
+            "callType": 2,
+            "id": 13,
+            "taskid": 1001589,
+            "endEvent": 7500000,
+            "rewardNum": 20,
+            "npcTalk": 2025
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 75018,
+            "callType": 2,
+            "id": 14,
+            "taskid": 1001590,
+            "endEvent": 12000000,
+            "rewardNum": 20,
+            "npcTalk": 0
+        },
+        {
+            "npcHead": 13845,
+            "rewardid": 35008,
+            "callType": 2,
+            "id": 15,
+            "taskid": 1001591,
+            "endEvent": 15000000,
+            "rewardNum": 200,
+            "npcTalk": 2026
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+    ]
+}

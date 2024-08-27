@@ -1,0 +1,270 @@
+{
+    "Data": {
+        "6016": {
+            "dialogID": 0,
+            "id": 6016,
+            "popupID": 57
+        },
+        "6017": {
+            "dialogID": 0,
+            "id": 6017,
+            "popupID": 0
+        },
+        "6018": {
+            "dialogID": 0,
+            "id": 6018,
+            "popupID": 58
+        },
+        "6019": {
+            "dialogID": 0,
+            "id": 6019,
+            "popupID": 0
+        },
+        "6020": {
+            "dialogID": 0,
+            "id": 6020,
+            "popupID": 53
+        },
+        "6021": {
+            "dialogID": 0,
+            "id": 6021,
+            "popupID": 0
+        },
+        "6022": {
+            "dialogID": 0,
+            "id": 6022,
+            "popupID": 54
+        },
+        "6023": {
+            "dialogID": 0,
+            "id": 6023,
+            "popupID": 0
+        },
+        "6024": {
+            "dialogID": 0,
+            "id": 6024,
+            "popupID": 55
+        },
+        "6025": {
+            "dialogID": 0,
+            "id": 6025,
+            "popupID": 0
+        },
+        "6026": {
+            "dialogID": 0,
+            "id": 6026,
+            "popupID": 46
+        },
+        "6027": {
+            "dialogID": 0,
+            "id": 6027,
+            "popupID": 0
+        },
+        "6028": {
+            "dialogID": 0,
+            "id": 6028,
+            "popupID": 47
+        },
+        "6029": {
+            "dialogID": 0,
+            "id": 6029,
+            "popupID": 0
+        },
+        "6030": {
+            "dialogID": 0,
+            "id": 6030,
+            "popupID": 48
+        },
+        "6031": {
+            "dialogID": 0,
+            "id": 6031,
+            "popupID": 0
+        },
+        "6032": {
+            "dialogID": 0,
+            "id": 6032,
+            "popupID": 49
+        },
+        "6033": {
+            "dialogID": 0,
+            "id": 6033,
+            "popupID": 63
+        },
+        "6034": {
+            "dialogID": 0,
+            "id": 6034,
+            "popupID": 64
+        },
+        "6035": {
+            "dialogID": 0,
+            "id": 6035,
+            "popupID": 65
+        },
+        "6036": {
+            "dialogID": 0,
+            "id": 6036,
+            "popupID": 66
+        },
+        "6037": {
+            "dialogID": 0,
+            "id": 6037,
+            "popupID": 59
+        },
+        "6038": {
+            "dialogID": 0,
+            "id": 6038,
+            "popupID": 60
+        },
+        "6039": {
+            "dialogID": 0,
+            "id": 6039,
+            "popupID": 61
+        },
+        "6040": {
+            "dialogID": 0,
+            "id": 6040,
+            "popupID": 62
+        },
+        "6041": {
+            "dialogID": 0,
+            "id": 6041,
+            "popupID": 67
+        },
+        "6042": {
+            "dialogID": 0,
+            "id": 6042,
+            "popupID": 68
+        },
+        "6043": {
+            "dialogID": 0,
+            "id": 6043,
+            "popupID": 69
+        },
+        "6044": {
+            "dialogID": 0,
+            "id": 6044,
+            "popupID": 70
+        },
+        "6001": {
+            "dialogID": 0,
+            "id": 6001,
+            "popupID": 40
+        },
+        "6002": {
+            "dialogID": 0,
+            "id": 6002,
+            "popupID": 41
+        },
+        "6003": {
+            "dialogID": 0,
+            "id": 6003,
+            "popupID": 42
+        },
+        "6004": {
+            "dialogID": 0,
+            "id": 6004,
+            "popupID": 43
+        },
+        "6005": {
+            "dialogID": 0,
+            "id": 6005,
+            "popupID": 44
+        },
+        "6006": {
+            "dialogID": 0,
+            "id": 6006,
+            "popupID": 45
+        },
+        "6007": {
+            "dialogID": 0,
+            "id": 6007,
+            "popupID": 0
+        },
+        "6008": {
+            "dialogID": 0,
+            "id": 6008,
+            "popupID": 50
+        },
+        "6009": {
+            "dialogID": 0,
+            "id": 6009,
+            "popupID": 0
+        },
+        "6010": {
+            "dialogID": 0,
+            "id": 6010,
+            "popupID": 51
+        },
+        "6011": {
+            "dialogID": 0,
+            "id": 6011,
+            "popupID": 0
+        },
+        "6012": {
+            "dialogID": 0,
+            "id": 6012,
+            "popupID": 52
+        },
+        "6013": {
+            "dialogID": 0,
+            "id": 6013,
+            "popupID": 0
+        },
+        "6014": {
+            "dialogID": 0,
+            "id": 6014,
+            "popupID": 56
+        },
+        "6015": {
+            "dialogID": 0,
+            "id": 6015,
+            "popupID": 0
+        }
+    },
+    "AllIds": [
+        6001,
+        6002,
+        6003,
+        6004,
+        6005,
+        6006,
+        6007,
+        6008,
+        6009,
+        6010,
+        6011,
+        6012,
+        6013,
+        6014,
+        6015,
+        6016,
+        6017,
+        6018,
+        6019,
+        6020,
+        6021,
+        6022,
+        6023,
+        6024,
+        6025,
+        6026,
+        6027,
+        6028,
+        6029,
+        6030,
+        6031,
+        6032,
+        6033,
+        6034,
+        6035,
+        6036,
+        6037,
+        6038,
+        6039,
+        6040,
+        6041,
+        6042,
+        6043,
+        6044
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3
+    ],
+    "Data": [
+        {
+            "treeconstanteffect": 1111,
+            "treeevolveeffect": 0,
+            "light1Lv": 1,
+            "light2Lv": 1,
+            "id": 1,
+            "lvUpNum": 100,
+            "image": 10958,
+            "roleNum": 0,
+            "light3Lv": 0
+        },
+        {
+            "treeconstanteffect": 1112,
+            "treeevolveeffect": 1109,
+            "light1Lv": 2,
+            "light2Lv": 2,
+            "id": 2,
+            "lvUpNum": 100,
+            "image": 10959,
+            "roleNum": 0,
+            "light3Lv": 0
+        },
+        {
+            "treeconstanteffect": 1113,
+            "treeevolveeffect": 1110,
+            "light1Lv": 3,
+            "light2Lv": 3,
+            "id": 3,
+            "lvUpNum": 100,
+            "image": 10960,
+            "roleNum": 0,
+            "light3Lv": 1
+        }
+    ]
+}

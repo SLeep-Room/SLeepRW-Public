@@ -1,0 +1,24 @@
+{
+    "Data": {
+        "1356": {
+            "guideID": 5,
+            "id": 1356,
+            "skillMapNodeID": 1019
+        },
+        "1189": {
+            "guideID": 4,
+            "id": 1189,
+            "skillMapNodeID": 1011
+        },
+        "1346": {
+            "guideID": 10,
+            "id": 1346,
+            "skillMapNodeID": 1015
+        }
+    },
+    "AllIds": [
+        1189,
+        1346,
+        1356
+    ]
+}

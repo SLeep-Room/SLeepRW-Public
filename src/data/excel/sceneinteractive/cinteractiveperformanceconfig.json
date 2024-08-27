@@ -1,0 +1,62 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "SkillName": "芝麻开门",
+            "UIid": 1,
+            "CharacterName": "主角",
+            "Characterid": 1
+        },
+        {
+            "id": 2,
+            "SkillName": "砸墙",
+            "UIid": 1,
+            "CharacterName": "Archer",
+            "Characterid": 2
+        },
+        {
+            "id": 3,
+            "SkillName": "砍树",
+            "UIid": 1,
+            "CharacterName": "Etna",
+            "Characterid": 3
+        },
+        {
+            "id": 4,
+            "SkillName": "开宝箱",
+            "UIid": 1,
+            "CharacterName": "Flonne",
+            "Characterid": 4
+        },
+        {
+            "id": 5,
+            "SkillName": "黑火药",
+            "UIid": 1,
+            "CharacterName": "Pram",
+            "Characterid": 5
+        },
+        {
+            "id": 6,
+            "SkillName": "巨锤",
+            "UIid": 1,
+            "CharacterName": "Preist",
+            "Characterid": 6
+        },
+        {
+            "id": 7,
+            "SkillName": "光翼展开",
+            "UIid": 1,
+            "CharacterName": "Warrior",
+            "Characterid": 7
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ]
+}

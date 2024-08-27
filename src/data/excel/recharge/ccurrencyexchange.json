@@ -1,0 +1,33 @@
+{
+    "Data": [
+        {
+            "Currency1": 35001,
+            "Currency2": 35018,
+            "TitleID": 1100073,
+            "Nums": 1,
+            "id": 1,
+            "Currencynum": 100
+        },
+        {
+            "Currency1": 35001,
+            "Currency2": 35019,
+            "TitleID": 1100074,
+            "Nums": 1,
+            "id": 2,
+            "Currencynum": 10
+        },
+        {
+            "Currency1": 30076,
+            "Currency2": 30077,
+            "TitleID": 1100075,
+            "Nums": 10,
+            "id": 3,
+            "Currencynum": 1
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3
+    ]
+}

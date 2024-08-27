@@ -1,0 +1,54 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "category": "BGM",
+            "categoryID": "5",
+            "soundLevel": [
+                "0",
+                "0.3",
+                "0.7",
+                "1"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "SOUND",
+            "categoryID": "6",
+            "soundLevel": [
+                "0",
+                "0.3",
+                "0.7",
+                "1"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "VOICE",
+            "categoryID": "7",
+            "soundLevel": [
+                "0",
+                "0.3",
+                "0.7",
+                "1"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "BattleSounds",
+            "categoryID": "65",
+            "soundLevel": [
+                "0",
+                "0.3",
+                "0.7",
+                "1"
+            ]
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "rarity": 1,
+            "nameTextID": 800006,
+            "costEmotion": 5000,
+            "imageID": 11502,
+            "destribeTextID": 800019,
+            "getRate": 120,
+            "name": "古堡",
+            "mainItemNum": 1,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 360,
+            "unlockCondition": 1,
+            "mainItem": 74003,
+            "secondaryItemNum": [
+                1000
+            ],
+            "secondaryItem": [
+                35002
+            ],
+            "destribe": "森林深处的古老城堡，已经很久没有人居住了。"
+        },
+        {
+            "id": 2,
+            "rarity": 1,
+            "nameTextID": 800007,
+            "costEmotion": 5000,
+            "imageID": 11502,
+            "destribeTextID": 800020,
+            "getRate": 120,
+            "name": "地下藏书室",
+            "mainItemNum": 3000,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 360,
+            "unlockCondition": 1,
+            "mainItem": 35002,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                76000
+            ],
+            "destribe": "鲜有人踏入的藏书室，书架上落满了灰尘。"
+        },
+        {
+            "id": 3,
+            "rarity": 2,
+            "nameTextID": 800008,
+            "costEmotion": 6000,
+            "imageID": 11503,
+            "destribeTextID": 800021,
+            "getRate": 120,
+            "name": "幽冥洞穴",
+            "mainItemNum": 2,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 480,
+            "unlockCondition": 2,
+            "mainItem": 76000,
+            "secondaryItemNum": [
+                1000
+            ],
+            "secondaryItem": [
+                35002
+            ],
+            "destribe": "终年不见阳光的洞穴，不断地传出窸窸窣窣的声音。"
+        },
+        {
+            "id": 4,
+            "rarity": 2,
+            "nameTextID": 800009,
+            "costEmotion": 6000,
+            "imageID": 11503,
+            "destribeTextID": 800022,
+            "getRate": 120,
+            "name": "蓝色花园",
+            "mainItemNum": 1,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 480,
+            "unlockCondition": 2,
+            "mainItem": 74000,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                74003
+            ],
+            "destribe": "天然形成的蓝色花海，仿佛是女神的后花园。"
+        },
+        {
+            "id": 5,
+            "rarity": 2,
+            "nameTextID": 800010,
+            "costEmotion": 6000,
+            "imageID": 11503,
+            "destribeTextID": 800023,
+            "getRate": 120,
+            "name": "沼泽地",
+            "mainItemNum": 7000,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 480,
+            "unlockCondition": 2,
+            "mainItem": 35002,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                76000
+            ],
+            "destribe": "不断扩张的沼泽地，周围盘踞着怪物。"
+        },
+        {
+            "id": 6,
+            "rarity": 2,
+            "nameTextID": 800011,
+            "costEmotion": 6000,
+            "imageID": 11503,
+            "destribeTextID": 800024,
+            "getRate": 120,
+            "name": "魔物松林",
+            "mainItemNum": 1,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 480,
+            "unlockCondition": 2,
+            "mainItem": 31124,
+            "secondaryItemNum": [
+                1000
+            ],
+            "secondaryItem": [
+                35002
+            ],
+            "destribe": "一片一望无际的松林，可以嗅到魔物的气息。"
+        },
+        {
+            "id": 7,
+            "rarity": 2,
+            "nameTextID": 800012,
+            "costEmotion": 8000,
+            "imageID": 11504,
+            "destribeTextID": 800025,
+            "getRate": 120,
+            "name": "猎场",
+            "mainItemNum": 1,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 600,
+            "unlockCondition": 3,
+            "mainItem": 74001,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                74003
+            ],
+            "destribe": "走兽珍禽的栖息地，是理想的狩猎之地。"
+        },
+        {
+            "id": 8,
+            "rarity": 2,
+            "nameTextID": 800013,
+            "costEmotion": 8000,
+            "imageID": 11504,
+            "destribeTextID": 800026,
+            "getRate": 120,
+            "name": "狼之湾",
+            "mainItemNum": 15000,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 600,
+            "unlockCondition": 3,
+            "mainItem": 35002,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                76000
+            ],
+            "destribe": "仿佛受到了指引，无数的狼群聚集在这里生活。"
+        },
+        {
+            "id": 9,
+            "rarity": 2,
+            "nameTextID": 800014,
+            "costEmotion": 8000,
+            "imageID": 11504,
+            "destribeTextID": 800027,
+            "getRate": 120,
+            "name": "冰窟",
+            "mainItemNum": 20,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 600,
+            "unlockCondition": 3,
+            "mainItem": 35008,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                76000
+            ],
+            "destribe": "异常寒冷的冰窟，千百年也未曾融化。"
+        },
+        {
+            "id": 10,
+            "rarity": 2,
+            "nameTextID": 800018,
+            "costEmotion": 8000,
+            "imageID": 11504,
+            "destribeTextID": 800031,
+            "getRate": 120,
+            "name": "古代战场",
+            "mainItemNum": 1,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 600,
+            "unlockCondition": 3,
+            "mainItem": 31125,
+            "secondaryItemNum": [
+                1000
+            ],
+            "secondaryItem": [
+                35002
+            ],
+            "destribe": "荒凉的古代战场，硝烟早已散去。"
+        },
+        {
+            "id": 11,
+            "rarity": 2,
+            "nameTextID": 800016,
+            "costEmotion": 8000,
+            "imageID": 11504,
+            "destribeTextID": 800029,
+            "getRate": 120,
+            "name": "极寒矿场",
+            "mainItemNum": 2,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 600,
+            "unlockCondition": 3,
+            "mainItem": 76001,
+            "secondaryItemNum": [
+                1000
+            ],
+            "secondaryItem": [
+                35002
+            ],
+            "destribe": "人迹罕至的大矿场，早已没有了生物的气息。"
+        },
+        {
+            "id": 12,
+            "rarity": 3,
+            "nameTextID": 800015,
+            "costEmotion": 10000,
+            "imageID": 11502,
+            "destribeTextID": 800028,
+            "getRate": 120,
+            "name": "储物间",
+            "mainItemNum": 30,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 720,
+            "unlockCondition": 4,
+            "mainItem": 35008,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                76000
+            ],
+            "destribe": "旧贵族们的储物间，陈列着各式各样的物品。"
+        },
+        {
+            "id": 13,
+            "rarity": 3,
+            "nameTextID": 800017,
+            "costEmotion": 10000,
+            "imageID": 11502,
+            "destribeTextID": 800030,
+            "getRate": 120,
+            "name": "兵器室",
+            "mainItemNum": 2,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 720,
+            "unlockCondition": 4,
+            "mainItem": 76002,
+            "secondaryItemNum": [
+                1000
+            ],
+            "secondaryItem": [
+                35002
+            ],
+            "destribe": "远征军的兵器室，虽然已经认不清破旧的旗帜。"
+        },
+        {
+            "id": 14,
+            "rarity": 2,
+            "nameTextID": 800328,
+            "costEmotion": 8000,
+            "imageID": 11502,
+            "destribeTextID": 800330,
+            "getRate": 120,
+            "name": "杂物间",
+            "mainItemNum": 15000,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 600,
+            "unlockCondition": 3,
+            "mainItem": 35002,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                31127
+            ],
+            "destribe": "人迹罕至的杂物间，应该可以找到很多有用的物品。"
+        },
+        {
+            "id": 15,
+            "rarity": 3,
+            "nameTextID": 800329,
+            "costEmotion": 10000,
+            "imageID": 11503,
+            "destribeTextID": 800331,
+            "getRate": 120,
+            "name": "紫色花园",
+            "mainItemNum": 30,
+            "mainItemVolume": 999,
+            "secondaryItemVolume": [
+                0
+            ],
+            "time": 720,
+            "unlockCondition": 4,
+            "mainItem": 35008,
+            "secondaryItemNum": [
+                1
+            ],
+            "secondaryItem": [
+                31128
+            ],
+            "destribe": "充满着紫色鲜花的花园，花丛中似乎还有着亮晶晶的东西。"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "AllIds": [
+        9001701,
+        9001702,
+        9001703
+    ],
+    "Data": {
+        "9001701": {
+            "battleId": 10094,
+            "targetDamage": 1000000,
+            "name": 701335,
+            "itemNum": 100,
+            "itemId": 35008,
+            "unlockLevel": 1,
+            "sort": 1,
+            "scale": "0.7",
+            "position": "0,-279",
+            "tapImage": 13338,
+            "id": 9001701,
+            "bgImage": 13335,
+            "battleScene": 20038,
+            "shapeId": 20172
+        },
+        "9001702": {
+            "battleId": 10095,
+            "targetDamage": 1000000,
+            "name": 701336,
+            "itemNum": 100,
+            "itemId": 35008,
+            "unlockLevel": 2,
+            "sort": 2,
+            "scale": "0.6",
+            "position": "0,-163",
+            "tapImage": 13340,
+            "id": 9001702,
+            "bgImage": 13337,
+            "battleScene": 20038,
+            "shapeId": 20173
+        },
+        "9001703": {
+            "battleId": 10096,
+            "targetDamage": 1000000,
+            "name": 701337,
+            "itemNum": 100,
+            "itemId": 35008,
+            "unlockLevel": 3,
+            "sort": 3,
+            "scale": "0.9",
+            "position": "42,-202",
+            "tapImage": 13339,
+            "id": 9001703,
+            "bgImage": 13336,
+            "battleScene": 20038,
+            "shapeId": 20174
+        }
+    }
+}

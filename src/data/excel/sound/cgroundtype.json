@@ -1,0 +1,48 @@
+{
+    "Data": [
+        {
+            "selector": "floor",
+            "groundType": 0,
+            "id": 1
+        },
+        {
+            "selector": "rock",
+            "groundType": 1,
+            "id": 2
+        },
+        {
+            "selector": "dirt",
+            "groundType": 2,
+            "id": 3
+        },
+        {
+            "selector": "grass",
+            "groundType": 3,
+            "id": 4
+        },
+        {
+            "selector": "puddle",
+            "groundType": 4,
+            "id": 5
+        },
+        {
+            "selector": "carpet",
+            "groundType": 5,
+            "id": 6
+        },
+        {
+            "selector": "snow",
+            "groundType": 6,
+            "id": 7
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ]
+}

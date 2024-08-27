@@ -1,0 +1,126 @@
+{
+    "Data": {
+        "1700001": {
+            "text": "Diamond",
+            "id": 1700001
+        },
+        "1700002": {
+            "text": "A handful of Diamonds",
+            "id": 1700002
+        },
+        "1700003": {
+            "text": "A pile of Diamonds",
+            "id": 1700003
+        },
+        "1700004": {
+            "text": "A bag of Diamonds",
+            "id": 1700004
+        },
+        "1700005": {
+            "text": "A heap of Diamonds",
+            "id": 1700005
+        },
+        "1700006": {
+            "text": "A box of Diamonds",
+            "id": 1700006
+        },
+        "1700007": {
+            "text": "A chest of Diamonds",
+            "id": 1700007
+        },
+        "1700008": {
+            "text": "Monthly Card",
+            "id": 1700008
+        },
+        "1700015": {
+            "text": "Daily Pack",
+            "id": 1700015
+        },
+        "1700016": {
+            "text": "Dream Maelstrom",
+            "id": 1700016
+        },
+        "1700017": {
+            "text": "Growth Pack",
+            "id": 1700017
+        },
+        "1700018": {
+            "text": "Basic Summon Pack",
+            "id": 1700018
+        },
+        "1700019": {
+            "text": "Moderate Summon Pack",
+            "id": 1700019
+        },
+        "1700020": {
+            "text": "Advanced Summon Pack",
+            "id": 1700020
+        },
+        "1700021": {
+            "text": "Ultimate Summon Pack",
+            "id": 1700021
+        },
+        "1700022": {
+            "text": "Monthly Summon Pack",
+            "id": 1700022
+        },
+        "1700023": {
+            "text": "Monthly Mana Pack",
+            "id": 1700023
+        },
+        "1700024": {
+            "text": "Monthly Ascension Materials",
+            "id": 1700024
+        },
+        "1700025": {
+            "text": "Monthly Skill Materials I",
+            "id": 1700025
+        },
+        "1700026": {
+            "text": "Monthly Skill Materials II",
+            "id": 1700026
+        },
+        "1700027": {
+            "text": "Monthly Furniture Pack",
+            "id": 1700027
+        },
+        "1700028": {
+            "text": "Monthly Equipment Pack",
+            "id": 1700028
+        },
+        "1700029": {
+            "text": "*Discount Ends In: $parameter1$ ds $parameter2$ hrs",
+            "id": 1700029
+        },
+        "1700030": {
+            "text": "You can only enjoy this discount once.",
+            "id": 1700030
+        }
+    },
+    "AllIds": [
+        1700001,
+        1700002,
+        1700003,
+        1700004,
+        1700005,
+        1700006,
+        1700007,
+        1700008,
+        1700015,
+        1700016,
+        1700017,
+        1700018,
+        1700019,
+        1700020,
+        1700021,
+        1700022,
+        1700023,
+        1700024,
+        1700025,
+        1700026,
+        1700027,
+        1700028,
+        1700029,
+        1700030
+    ]
+}

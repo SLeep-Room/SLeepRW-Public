@@ -1,0 +1,48 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "condition": 1,
+            "type": 1,
+            "textId": 206272
+        },
+        {
+            "id": 2,
+            "condition": 2,
+            "type": 1,
+            "textId": 206273
+        },
+        {
+            "id": 3,
+            "condition": 1,
+            "type": 2,
+            "textId": 206274
+        },
+        {
+            "id": 4,
+            "condition": 2,
+            "type": 2,
+            "textId": 206275
+        },
+        {
+            "id": 5,
+            "condition": 1,
+            "type": 3,
+            "textId": 206276
+        },
+        {
+            "id": 6,
+            "condition": 2,
+            "type": 3,
+            "textId": 206277
+        }
+    ]
+}

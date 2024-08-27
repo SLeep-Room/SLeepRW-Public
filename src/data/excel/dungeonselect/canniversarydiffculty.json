@@ -1,0 +1,36 @@
+{
+    "AllIds": [
+        1,
+        2
+    ],
+    "Data": [
+        {
+            "eventmainbackground": 15707,
+            "difficultyend": "2022-11-10 03:59:59",
+            "eventid": 40001,
+            "id": 1,
+            "levelpic": 12170,
+            "bosspagetxt": 1900766,
+            "bosspage": 15714,
+            "difficultystart": "2022-08-18 04:00:00",
+            "bossdetailtitle": 13057,
+            "backeffect": 1075,
+            "bgm": 135,
+            "bossdetaileffect": 1149
+        },
+        {
+            "eventmainbackground": 15708,
+            "difficultyend": "2022-11-10 03:59:59",
+            "eventid": 40001,
+            "id": 2,
+            "levelpic": 12173,
+            "bosspagetxt": 1900767,
+            "bosspage": 15714,
+            "difficultystart": "2022-11-03 04:00:00",
+            "bossdetailtitle": 13058,
+            "backeffect": 1075,
+            "bgm": 129,
+            "bossdetaileffect": 1150
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "effectDistance": 0.75,
+            "effectLifeTime": 1500,
+            "effectId": 1067
+        }
+    ],
+    "AllIds": [
+        1
+    ]
+}

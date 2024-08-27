@@ -1,0 +1,26 @@
+{
+    "Data": [
+        {
+            "nums": [
+                1,
+                1,
+                30
+            ],
+            "items": [
+                31455,
+                30077,
+                35001
+            ],
+            "time": 72,
+            "smalltitle2ID": 0,
+            "gearID": 70,
+            "id": 1,
+            "activityID": 42001,
+            "smalltitle1ID": 14878,
+            "titleID": 14877
+        }
+    ],
+    "AllIds": [
+        1
+    ]
+}

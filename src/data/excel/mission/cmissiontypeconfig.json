@@ -1,0 +1,150 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15,
+        16,
+        17,
+        18,
+        19
+    ],
+    "Data": {
+        "1": {
+            "sortid": 1,
+            "id": 1,
+            "type": "剧情",
+            "tab": 1,
+            "progress": 1058
+        },
+        "2": {
+            "sortid": 2,
+            "id": 2,
+            "type": "魔女笔记",
+            "tab": 1,
+            "progress": 1058
+        },
+        "3": {
+            "sortid": 3,
+            "id": 3,
+            "type": "祈愿日常",
+            "tab": 2,
+            "progress": 1058
+        },
+        "4": {
+            "sortid": 4,
+            "id": 4,
+            "type": "成就",
+            "tab": 3,
+            "progress": 1058
+        },
+        "5": {
+            "sortid": -1,
+            "id": 5,
+            "type": "拼图",
+            "tab": -1,
+            "progress": 1058
+        },
+        "6": {
+            "sortid": -1,
+            "id": 6,
+            "type": "委托",
+            "tab": -1,
+            "progress": 1058
+        },
+        "7": {
+            "sortid": 5,
+            "id": 7,
+            "type": "角色剧情",
+            "tab": 5,
+            "progress": 1058
+        },
+        "8": {
+            "sortid": 3,
+            "id": 8,
+            "type": "祈愿周常",
+            "tab": 2,
+            "progress": 1058
+        },
+        "9": {
+            "sortid": 1,
+            "id": 9,
+            "type": "七天",
+            "tab": 6,
+            "progress": 1058
+        },
+        "10": {
+            "sortid": -1,
+            "id": 10,
+            "type": "万圣活动",
+            "tab": -1,
+            "progress": 1058
+        },
+        "11": {
+            "sortid": -1,
+            "id": 11,
+            "type": "双十一活动",
+            "tab": -1,
+            "progress": 1058
+        },
+        "12": {
+            "sortid": -1,
+            "id": 12,
+            "type": "登录互动活动",
+            "tab": -1,
+            "progress": 1058
+        },
+        "13": {
+            "sortid": -1,
+            "id": 13,
+            "type": "回归任务",
+            "tab": -1,
+            "progress": 1058
+        },
+        "15": {
+            "sortid": -1,
+            "id": 15,
+            "type": "儿童节活动任务",
+            "tab": -1,
+            "progress": 1058
+        },
+        "16": {
+            "sortid": -1,
+            "id": 16,
+            "type": "周常Boss挑战成就",
+            "tab": -1,
+            "progress": 1058
+        },
+        "17": {
+            "sortid": -1,
+            "id": 17,
+            "type": "时之赠礼每日任务",
+            "tab": -1,
+            "progress": 1058
+        },
+        "18": {
+            "sortid": -1,
+            "id": 18,
+            "type": "周年庆抽卡任务",
+            "tab": -1,
+            "progress": 1058
+        },
+        "19": {
+            "sortid": -1,
+            "id": 19,
+            "type": "h活动通用任务",
+            "tab": -1,
+            "progress": 1058
+        }
+    }
+}

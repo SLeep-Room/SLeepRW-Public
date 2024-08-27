@@ -1,0 +1,41 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "width": "0.4",
+            "prefabName": "w3_stone_19",
+            "height": "0.8"
+        },
+        {
+            "id": 2,
+            "width": "0.4",
+            "prefabName": "w3_stone_20",
+            "height": "0.9"
+        },
+        {
+            "id": 3,
+            "width": "0.55",
+            "prefabName": "w3_stone_21",
+            "height": "0.56"
+        },
+        {
+            "id": 4,
+            "width": "0.4",
+            "prefabName": "w3_stone_22",
+            "height": "0.56"
+        },
+        {
+            "id": 5,
+            "width": "0.55",
+            "prefabName": "w3_stone_23",
+            "height": "0.56"
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}

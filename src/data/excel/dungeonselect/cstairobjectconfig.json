@@ -1,0 +1,246 @@
+{
+    "AllIds": [
+        1101,
+        1102,
+        1103,
+        1104,
+        1105,
+        1201,
+        1202,
+        1203,
+        1204,
+        1205,
+        1301,
+        1302,
+        1303,
+        1304,
+        1305,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1501,
+        1502,
+        1503,
+        1504,
+        1505,
+        2101,
+        2201,
+        2301,
+        2401,
+        2501,
+        3101,
+        3201,
+        3301,
+        3401,
+        3501,
+        4101,
+        4201,
+        4301,
+        4401,
+        4501
+    ],
+    "Data": {
+        "3201": {
+            "assetname": "StartPoint1",
+            "id": 3201,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "2501": {
+            "assetname": "StairRowLarge4",
+            "id": 2501,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "3401": {
+            "assetname": "StartPoint3",
+            "id": 3401,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1101": {
+            "assetname": "StairRowSmall2_01",
+            "id": 1101,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1102": {
+            "assetname": "StairRowSmall2_02",
+            "id": 1102,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1103": {
+            "assetname": "StairRowSmall2_03",
+            "id": 1103,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1104": {
+            "assetname": "StairRowSmall2_04",
+            "id": 1104,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1105": {
+            "assetname": "StairRowSmall2_05",
+            "id": 1105,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1301": {
+            "assetname": "StairRowSmall5_01",
+            "id": 1301,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1302": {
+            "assetname": "StairRowSmall5_02",
+            "id": 1302,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1303": {
+            "assetname": "StairRowSmall5_03",
+            "id": 1303,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1304": {
+            "assetname": "StairRowSmall5_04",
+            "id": 1304,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1305": {
+            "assetname": "StairRowSmall5_05",
+            "id": 1305,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1501": {
+            "assetname": "StairRowSmall4_01",
+            "id": 1501,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1502": {
+            "assetname": "StairRowSmall4_02",
+            "id": 1502,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1503": {
+            "assetname": "StairRowSmall4_03",
+            "id": 1503,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1504": {
+            "assetname": "StairRowSmall4_04",
+            "id": 1504,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1505": {
+            "assetname": "StairRowSmall4_05",
+            "id": 1505,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "3301": {
+            "assetname": "StartPoint5",
+            "id": 3301,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "4201": {
+            "assetname": "ContinuePoint1",
+            "id": 4201,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "4501": {
+            "assetname": "ContinuePoint4",
+            "id": 4501,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "3501": {
+            "assetname": "StartPoint4",
+            "id": 3501,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "4401": {
+            "assetname": "ContinuePoint3",
+            "id": 4401,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "4301": {
+            "assetname": "ContinuePoint5",
+            "id": 4301,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "4101": {
+            "assetname": "ContinuePoint2",
+            "id": 4101,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1201": {
+            "assetname": "StairRowSmall1_01",
+            "id": 1201,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1202": {
+            "assetname": "StairRowSmall1_02",
+            "id": 1202,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1203": {
+            "assetname": "StairRowSmall1_03",
+            "id": 1203,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1204": {
+            "assetname": "StairRowSmall1_04",
+            "id": 1204,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1205": {
+            "assetname": "StairRowSmall1_05",
+            "id": 1205,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "3101": {
+            "assetname": "StartPoint2",
+            "id": 3101,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "2401": {
+            "assetname": "StairRowLarge3",
+            "id": 2401,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "2301": {
+            "assetname": "StairRowLarge5",
+            "id": 2301,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1401": {
+            "assetname": "StairRowSmall3_01",
+            "id": 1401,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1402": {
+            "assetname": "StairRowSmall3_02",
+            "id": 1402,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1403": {
+            "assetname": "StairRowSmall3_03",
+            "id": 1403,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1404": {
+            "assetname": "StairRowSmall3_04",
+            "id": 1404,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "1405": {
+            "assetname": "StairRowSmall3_05",
+            "id": 1405,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "2201": {
+            "assetname": "StairRowLarge1",
+            "id": 2201,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        "2101": {
+            "assetname": "StairRowLarge2",
+            "id": 2101,
+            "assetbundle": "sceneobjects/tower.prefabs.assetbundle"
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        19
+    ],
+    "Data": {
+        "1": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 1,
+            "skipTime": -1,
+            "dialogList": "14-29"
+        },
+        "2": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 2,
+            "skipTime": -1,
+            "dialogList": "30-35"
+        },
+        "3": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 3,
+            "skipTime": -1,
+            "dialogList": "36-50"
+        },
+        "4": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 4,
+            "skipTime": -1,
+            "dialogList": "51-61"
+        },
+        "5": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 5,
+            "skipTime": -1,
+            "dialogList": "62-96"
+        },
+        "6": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 6,
+            "skipTime": -1,
+            "dialogList": "97-124"
+        },
+        "7": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 7,
+            "skipTime": -1,
+            "dialogList": "125-159"
+        },
+        "8": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 8,
+            "skipTime": -1,
+            "dialogList": "160-175"
+        },
+        "9": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 9,
+            "skipTime": -1,
+            "dialogList": "176-200"
+        },
+        "10": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 10,
+            "skipTime": -1,
+            "dialogList": "201-215"
+        },
+        "11": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 11,
+            "skipTime": -1,
+            "dialogList": "216-233"
+        },
+        "12": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 12,
+            "skipTime": -1,
+            "dialogList": "234-243"
+        },
+        "13": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 13,
+            "skipTime": -1,
+            "dialogList": "244-265"
+        },
+        "14": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 14,
+            "skipTime": -1,
+            "dialogList": "266-273"
+        },
+        "15": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 15,
+            "skipTime": -1,
+            "dialogList": "274-293"
+        },
+        "16": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 16,
+            "skipTime": -1,
+            "dialogList": "294-335"
+        },
+        "17": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 17,
+            "skipTime": -1,
+            "dialogList": "336-406"
+        },
+        "19": {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 15171,
+            "id": 19,
+            "skipTime": -1,
+            "dialogList": "407-466"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "Data": [
+        {
+            "nameTextID": 1900219,
+            "image": 10454,
+            "unlockConditionDescTextID": 1900224,
+            "startCondition": 3,
+            "showsmalltype": 0,
+            "endTime": "",
+            "sortID": 1,
+            "startTime": "",
+            "unlockConditionDesc": "通关主线2-2",
+            "id": 1,
+            "name": "玛那梦境"
+        },
+        {
+            "nameTextID": 1900220,
+            "image": 10453,
+            "unlockConditionDescTextID": 1900224,
+            "startCondition": 3,
+            "showsmalltype": 1,
+            "endTime": "",
+            "sortID": 2,
+            "startTime": "",
+            "unlockConditionDesc": "通关主线2-2",
+            "id": 2,
+            "name": "突破材料"
+        },
+        {
+            "nameTextID": 1900221,
+            "image": 10451,
+            "unlockConditionDescTextID": 1900647,
+            "startCondition": 3,
+            "showsmalltype": 0,
+            "endTime": "",
+            "sortID": 4,
+            "startTime": "",
+            "unlockConditionDesc": "通关主线2-6",
+            "id": 3,
+            "name": "技能材料"
+        },
+        {
+            "nameTextID": 1900222,
+            "image": 10452,
+            "unlockConditionDescTextID": 1900477,
+            "startCondition": 3,
+            "showsmalltype": 1,
+            "endTime": "",
+            "sortID": 3,
+            "startTime": "",
+            "unlockConditionDesc": "通关主线2-3",
+            "id": 4,
+            "name": "人偶装备"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "Data": {
+        "2001": {
+            "alchemyType": "2",
+            "image": 10965,
+            "name": "合成术",
+            "alchemyProbability": 6,
+            "id": 2001,
+            "dormEmotion": 0,
+            "exploreSecondary": 0,
+            "nameTextID": 800034,
+            "desc": "对<color=#FBFAA5ff>结晶</color>进行炼金时，副产物产出概率提升<color=#FFCA65ff>6%</color>。",
+            "functionID": 400,
+            "descTextID": 800040
+        },
+        "2002": {
+            "alchemyType": "2",
+            "image": 10965,
+            "name": "炼金术",
+            "alchemyProbability": 8,
+            "id": 2002,
+            "dormEmotion": 0,
+            "exploreSecondary": 0,
+            "nameTextID": 800035,
+            "desc": "对<color=#FBFAA5ff>结晶</color>进行炼金时，副产物产出概率提升<color=#FFCA65ff>8%</color>。",
+            "functionID": 400,
+            "descTextID": 800041
+        },
+        "2003": {
+            "alchemyType": "2",
+            "image": 10965,
+            "name": "点石成金",
+            "alchemyProbability": 10,
+            "id": 2003,
+            "dormEmotion": 0,
+            "exploreSecondary": 0,
+            "nameTextID": 800071,
+            "desc": "对<color=#FBFAA5ff>结晶</color>进行炼金时，副产物产出概率提升<color=#FFCA65ff>10%</color>。",
+            "functionID": 400,
+            "descTextID": 800074
+        },
+        "1001": {
+            "alchemyType": "",
+            "image": 10966,
+            "name": "新手",
+            "alchemyProbability": 0,
+            "id": 1001,
+            "dormEmotion": 0,
+            "exploreSecondary": 6,
+            "nameTextID": 800032,
+            "desc": "探索<color=#8CECFAff>异界之镜</color>时副产物掉落概率提升<color=#FFCA65ff>6%</color>。",
+            "functionID": 200,
+            "descTextID": 800038
+        },
+        "1002": {
+            "alchemyType": "",
+            "image": 10966,
+            "name": "探险队",
+            "alchemyProbability": 0,
+            "id": 1002,
+            "dormEmotion": 0,
+            "exploreSecondary": 8,
+            "nameTextID": 800033,
+            "desc": "探索<color=#8CECFAff>异界之镜</color>时副产物掉落概率提升<color=#FFCA65ff>8%</color>。",
+            "functionID": 200,
+            "descTextID": 800039
+        },
+        "1003": {
+            "alchemyType": "",
+            "image": 10966,
+            "name": "冒险大师",
+            "alchemyProbability": 0,
+            "id": 1003,
+            "dormEmotion": 0,
+            "exploreSecondary": 10,
+            "nameTextID": 800070,
+            "desc": "探索<color=#8CECFAff>异界之镜</color>时副产物掉落概率提升<color=#FFCA65ff>10%</color>。",
+            "functionID": 200,
+            "descTextID": 800073
+        },
+        "3003": {
+            "alchemyType": "",
+            "image": 11505,
+            "name": "全能管家",
+            "alchemyProbability": 0,
+            "id": 3003,
+            "dormEmotion": 10,
+            "exploreSecondary": 0,
+            "nameTextID": 800072,
+            "desc": "入驻<color=#B4F59Bff>小屋</color>时，该层所有人偶精力恢复速度提升<color=#FFCA65ff>10%</color>。",
+            "functionID": 500,
+            "descTextID": 800075
+        },
+        "3002": {
+            "alchemyType": "",
+            "image": 11505,
+            "name": "家务达人",
+            "alchemyProbability": 0,
+            "id": 3002,
+            "dormEmotion": 8,
+            "exploreSecondary": 0,
+            "nameTextID": 800037,
+            "desc": "入驻<color=#B4F59Bff>小屋</color>时，该层所有人偶精力恢复速度提升<color=#FFCA65ff>8%</color>。",
+            "functionID": 500,
+            "descTextID": 800043
+        },
+        "3001": {
+            "alchemyType": "",
+            "image": 11505,
+            "name": "家务新手",
+            "alchemyProbability": 0,
+            "id": 3001,
+            "dormEmotion": 6,
+            "exploreSecondary": 0,
+            "nameTextID": 800036,
+            "desc": "入驻<color=#B4F59Bff>小屋</color>时，该层所有人偶精力恢复速度提升<color=#FFCA65ff>6%</color>。",
+            "functionID": 500,
+            "descTextID": 800042
+        }
+    },
+    "AllIds": [
+        1001,
+        1002,
+        1003,
+        2001,
+        2002,
+        2003,
+        3001,
+        3002,
+        3003
+    ]
+}

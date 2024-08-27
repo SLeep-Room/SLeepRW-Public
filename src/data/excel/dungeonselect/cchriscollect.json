@@ -1,0 +1,354 @@
+{
+    "AllIds": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309
+    ],
+    "Data": {
+        "305": {
+            "collectbonus": [
+                75017
+            ],
+            "id": 305,
+            "collecttype": 35040,
+            "collectrequirenum": 1000,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "306": {
+            "collectbonus": [
+                75011
+            ],
+            "id": 306,
+            "collecttype": 35040,
+            "collectrequirenum": 1400,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "101": {
+            "collectbonus": [
+                75016
+            ],
+            "id": 101,
+            "collecttype": 35038,
+            "collectrequirenum": 200,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "102": {
+            "collectbonus": [
+                75010
+            ],
+            "id": 102,
+            "collecttype": 35038,
+            "collectrequirenum": 400,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "103": {
+            "collectbonus": [
+                75010
+            ],
+            "id": 103,
+            "collecttype": 35038,
+            "collectrequirenum": 600,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "104": {
+            "collectbonus": [
+                74002
+            ],
+            "id": 104,
+            "collecttype": 35038,
+            "collectrequirenum": 800,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "105": {
+            "collectbonus": [
+                75017
+            ],
+            "id": 105,
+            "collecttype": 35038,
+            "collectrequirenum": 1000,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "106": {
+            "collectbonus": [
+                75011
+            ],
+            "id": 106,
+            "collecttype": 35038,
+            "collectrequirenum": 1300,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "107": {
+            "collectbonus": [
+                75011
+            ],
+            "id": 107,
+            "collecttype": 35038,
+            "collectrequirenum": 1600,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "108": {
+            "collectbonus": [
+                79001
+            ],
+            "id": 108,
+            "collecttype": 35038,
+            "collectrequirenum": 2000,
+            "collectbonusnum": [
+                20
+            ]
+        },
+        "109": {
+            "collectbonus": [
+                79003
+            ],
+            "id": 109,
+            "collecttype": 35038,
+            "collectrequirenum": 2500,
+            "collectbonusnum": [
+                5
+            ]
+        },
+        "110": {
+            "collectbonus": [
+                30076
+            ],
+            "id": 110,
+            "collecttype": 35038,
+            "collectrequirenum": 3000,
+            "collectbonusnum": [
+                1
+            ]
+        },
+        "207": {
+            "collectbonus": [
+                75011
+            ],
+            "id": 207,
+            "collecttype": 35039,
+            "collectrequirenum": 1600,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "208": {
+            "collectbonus": [
+                75019
+            ],
+            "id": 208,
+            "collecttype": 35039,
+            "collectrequirenum": 2000,
+            "collectbonusnum": [
+                20
+            ]
+        },
+        "209": {
+            "collectbonus": [
+                75018
+            ],
+            "id": 209,
+            "collecttype": 35039,
+            "collectrequirenum": 2500,
+            "collectbonusnum": [
+                20
+            ]
+        },
+        "210": {
+            "collectbonus": [
+                30076
+            ],
+            "id": 210,
+            "collecttype": 35039,
+            "collectrequirenum": 3000,
+            "collectbonusnum": [
+                1
+            ]
+        },
+        "307": {
+            "collectbonus": [
+                75011
+            ],
+            "id": 307,
+            "collecttype": 35040,
+            "collectrequirenum": 1800,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "308": {
+            "collectbonus": [
+                79004
+            ],
+            "id": 308,
+            "collecttype": 35040,
+            "collectrequirenum": 2400,
+            "collectbonusnum": [
+                1
+            ]
+        },
+        "309": {
+            "collectbonus": [
+                30076
+            ],
+            "id": 309,
+            "collecttype": 35040,
+            "collectrequirenum": 3000,
+            "collectbonusnum": [
+                1
+            ]
+        },
+        "304": {
+            "collectbonus": [
+                74002
+            ],
+            "id": 304,
+            "collecttype": 35040,
+            "collectrequirenum": 800,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "303": {
+            "collectbonus": [
+                75010
+            ],
+            "id": 303,
+            "collecttype": 35040,
+            "collectrequirenum": 600,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "302": {
+            "collectbonus": [
+                75010
+            ],
+            "id": 302,
+            "collecttype": 35040,
+            "collectrequirenum": 400,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "301": {
+            "collectbonus": [
+                75016
+            ],
+            "id": 301,
+            "collecttype": 35040,
+            "collectrequirenum": 200,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "206": {
+            "collectbonus": [
+                75011
+            ],
+            "id": 206,
+            "collecttype": 35039,
+            "collectrequirenum": 1300,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "205": {
+            "collectbonus": [
+                75017
+            ],
+            "id": 205,
+            "collecttype": 35039,
+            "collectrequirenum": 1000,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "204": {
+            "collectbonus": [
+                74002
+            ],
+            "id": 204,
+            "collecttype": 35039,
+            "collectrequirenum": 800,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "203": {
+            "collectbonus": [
+                75010
+            ],
+            "id": 203,
+            "collecttype": 35039,
+            "collectrequirenum": 600,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "202": {
+            "collectbonus": [
+                75010
+            ],
+            "id": 202,
+            "collecttype": 35039,
+            "collectrequirenum": 400,
+            "collectbonusnum": [
+                10
+            ]
+        },
+        "201": {
+            "collectbonus": [
+                75016
+            ],
+            "id": 201,
+            "collecttype": 35039,
+            "collectrequirenum": 200,
+            "collectbonusnum": [
+                10
+            ]
+        }
+    }
+}

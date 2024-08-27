@@ -1,0 +1,24 @@
+{
+    "AllIds": [
+        10001,
+        10002,
+        10003
+    ],
+    "Data": {
+        "10001": {
+            "effectdescribe": "队伍内人偶的生命值降低20%%",
+            "effectdescribeTextID": 1900145,
+            "id": 10001
+        },
+        "10002": {
+            "effectdescribe": "队伍内人偶的生命值降低30%%",
+            "effectdescribeTextID": 1900146,
+            "id": 10002
+        },
+        "10003": {
+            "effectdescribe": "什么事也没有发生",
+            "effectdescribeTextID": 1900147,
+            "id": 10003
+        }
+    }
+}

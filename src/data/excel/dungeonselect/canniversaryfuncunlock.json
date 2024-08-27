@@ -1,0 +1,41 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "Data": [
+        {
+            "eventid": 40001,
+            "id": 1,
+            "unlocklevel": 40001402,
+            "functionid": "每日补给"
+        },
+        {
+            "eventid": 40001,
+            "id": 2,
+            "unlocklevel": 40001402,
+            "functionid": "活动商店"
+        },
+        {
+            "eventid": 40001,
+            "id": 3,
+            "unlocklevel": 40001402,
+            "functionid": "人偶加成"
+        },
+        {
+            "eventid": 40001,
+            "id": 4,
+            "unlocklevel": 40001417,
+            "functionid": "排行榜"
+        },
+        {
+            "eventid": 40001,
+            "id": 5,
+            "unlocklevel": 40001402,
+            "functionid": "每日任务"
+        }
+    ]
+}

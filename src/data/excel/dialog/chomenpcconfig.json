@@ -1,0 +1,16 @@
+{
+    "AllIds": [
+        1,
+        2
+    ],
+    "Data": [
+        {
+            "path": "InteractableObjs/char_001ForBase",
+            "id": 1
+        },
+        {
+            "path": "InteractableObjs/char_013ForBase",
+            "id": 2
+        }
+    ]
+}

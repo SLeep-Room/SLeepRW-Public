@@ -1,0 +1,414 @@
+{
+    "AllIds": [
+        30010,
+        30011,
+        30012,
+        30013,
+        30014,
+        30015,
+        30016,
+        30017,
+        30018,
+        30019,
+        30020,
+        30021
+    ],
+    "Data": {
+        "30016": {
+            "missiontype": 3,
+            "progressname": [
+                "装备强化"
+            ],
+            "id": 30016,
+            "jumptype": 2,
+            "unlockcondition": "2,4",
+            "sortid": 7,
+            "toptip": [
+                200012
+            ],
+            "instructionTextID": 1000274,
+            "missionname": "装备强化",
+            "missionnameTextID": 1000238,
+            "jumpvalue": [
+                0
+            ],
+            "description": "装备强化1次",
+            "endevent": 7,
+            "instruction": "消耗某些素材可以对装备进行强化。",
+            "descriptionTextID": 1000250,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 1,
+            "unlockid": 1001204,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 6,
+            "progressnameTextID": [
+                1000262
+            ]
+        },
+        "30017": {
+            "missiontype": 3,
+            "progressname": [
+                "派遣探索"
+            ],
+            "id": 30017,
+            "jumptype": 2,
+            "unlockcondition": "2,8",
+            "sortid": 8,
+            "toptip": [
+                200013
+            ],
+            "instructionTextID": 1000276,
+            "missionname": "委派探索",
+            "missionnameTextID": 1000240,
+            "jumpvalue": [
+                0
+            ],
+            "description": "在魔女庭院探索1次异界之镜",
+            "endevent": 9,
+            "instruction": "在庭院中可以派遣人偶探索异界之镜，带回丰富的素材。",
+            "descriptionTextID": 1000252,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 24,
+            "unlockid": 1001205,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 3,
+            "progressnameTextID": [
+                1000264
+            ]
+        },
+        "30018": {
+            "missiontype": 3,
+            "progressname": [
+                "派遣人偶"
+            ],
+            "id": 30018,
+            "jumptype": 2,
+            "unlockcondition": "2,8",
+            "sortid": 9,
+            "toptip": [
+                200014
+            ],
+            "instructionTextID": 1000980,
+            "missionname": "休息时间",
+            "missionnameTextID": 1000974,
+            "jumpvalue": [
+                0
+            ],
+            "description": "魔女小屋中入驻1次人偶",
+            "endevent": 21,
+            "instruction": "魔女小屋是魔女庭院中核心建筑之一，人偶恢复精力的场所。",
+            "descriptionTextID": 1000976,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 23,
+            "unlockid": 1001206,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 7,
+            "progressnameTextID": [
+                1000978
+            ]
+        },
+        "30019": {
+            "missiontype": 3,
+            "progressname": [
+                "购买物品"
+            ],
+            "id": 30019,
+            "jumptype": 2,
+            "unlockcondition": "2,16",
+            "sortid": 10,
+            "toptip": [
+                200015
+            ],
+            "instructionTextID": 1000279,
+            "missionname": "友情交换",
+            "missionnameTextID": 1000243,
+            "jumpvalue": [
+                0
+            ],
+            "description": "使用友情点购买1次商品",
+            "endevent": 12,
+            "instruction": "使用好友助战可获得友情点，用来在商店中交换物品。",
+            "descriptionTextID": 1000255,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 25,
+            "unlockid": 1001207,
+            "activevalue": 20,
+            "rewardid": 1288,
+            "targettype": 17,
+            "progressnameTextID": [
+                1000267
+            ]
+        },
+        "30020": {
+            "missiontype": 3,
+            "progressname": [
+                "好友助战"
+            ],
+            "id": 30020,
+            "jumptype": 2,
+            "unlockcondition": "2,16",
+            "sortid": 11,
+            "toptip": [
+                200016
+            ],
+            "instructionTextID": 1001151,
+            "missionname": "好友助战",
+            "missionnameTextID": 1001140,
+            "jumpvalue": [
+                0
+            ],
+            "description": "使用好友助战通关关卡一次",
+            "endevent": 23,
+            "instruction": "使用好友助战打败敌人。",
+            "descriptionTextID": 1001144,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 16,
+            "unlockid": 1001208,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 1,
+            "progressnameTextID": [
+                1001148
+            ]
+        },
+        "30021": {
+            "missiontype": 3,
+            "progressname": [
+                "时空决斗"
+            ],
+            "id": 30021,
+            "jumptype": 2,
+            "unlockcondition": "3,9",
+            "sortid": 12,
+            "toptip": [
+                200017
+            ],
+            "instructionTextID": 1001152,
+            "missionname": "时空决斗",
+            "missionnameTextID": 1001141,
+            "jumpvalue": [
+                0
+            ],
+            "description": "完成一次时空裂隙",
+            "endevent": 24,
+            "instruction": "在时空裂隙中与其他时空的魔女战斗。",
+            "descriptionTextID": 1001145,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 22,
+            "unlockid": 1001209,
+            "activevalue": 20,
+            "rewardid": 1288,
+            "targettype": 1,
+            "progressnameTextID": [
+                1001149
+            ]
+        },
+        "30010": {
+            "missiontype": 3,
+            "progressname": [
+                "登录游戏"
+            ],
+            "id": 30010,
+            "jumptype": 0,
+            "unlockcondition": "-1,-1",
+            "sortid": 1,
+            "toptip": [
+                200006
+            ],
+            "instructionTextID": 1001150,
+            "missionname": "每日登录",
+            "missionnameTextID": 1001138,
+            "jumpvalue": [
+                0
+            ],
+            "description": "每日登录游戏",
+            "endevent": 22,
+            "instruction": "登录游戏。",
+            "descriptionTextID": 1001142,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 1,
+            "unlockid": 1001198,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 1,
+            "progressnameTextID": [
+                1001147
+            ]
+        },
+        "30011": {
+            "missiontype": 3,
+            "progressname": [
+                "通关主线关卡"
+            ],
+            "id": 30011,
+            "jumptype": 2,
+            "unlockcondition": "2,4",
+            "sortid": 2,
+            "toptip": [
+                200007
+            ],
+            "instructionTextID": 1000268,
+            "missionname": "时之塔",
+            "missionnameTextID": 1000232,
+            "jumpvalue": [
+                0
+            ],
+            "description": "通关3次主线关卡",
+            "endevent": 1,
+            "instruction": "继续向前探索，通关主线关卡。",
+            "descriptionTextID": 1000244,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 16,
+            "unlockid": 1001199,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 2,
+            "progressnameTextID": [
+                1000256
+            ]
+        },
+        "30012": {
+            "missiontype": 3,
+            "progressname": [
+                "消耗精神"
+            ],
+            "id": 30012,
+            "jumptype": 2,
+            "unlockcondition": "2,4",
+            "sortid": 3,
+            "toptip": [
+                200008
+            ],
+            "instructionTextID": 1000277,
+            "missionname": "精力充沛·一",
+            "missionnameTextID": 1001139,
+            "jumpvalue": [
+                0
+            ],
+            "description": "消耗60点精神",
+            "endevent": 25,
+            "instruction": "精神是支撑魔女前进的动力，探索地宫需要消耗精神。",
+            "descriptionTextID": 1001143,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 16,
+            "unlockid": 1001200,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 1,
+            "progressnameTextID": [
+                1000265
+            ]
+        },
+        "30013": {
+            "missiontype": 3,
+            "progressname": [
+                "消耗精神"
+            ],
+            "id": 30013,
+            "jumptype": 2,
+            "unlockcondition": "2,4",
+            "sortid": 4,
+            "toptip": [
+                200009
+            ],
+            "instructionTextID": 1000277,
+            "missionname": "精力充沛·二",
+            "missionnameTextID": 1000241,
+            "jumpvalue": [
+                0
+            ],
+            "description": "消耗100点精神",
+            "endevent": 10,
+            "instruction": "精神是支撑魔女前进的动力，探索地宫需要消耗精神。",
+            "descriptionTextID": 1000253,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 16,
+            "unlockid": 1001201,
+            "activevalue": 20,
+            "rewardid": 1288,
+            "targettype": 13,
+            "progressnameTextID": [
+                1000265
+            ]
+        },
+        "30014": {
+            "missiontype": 3,
+            "progressname": [
+                "人偶强化"
+            ],
+            "id": 30014,
+            "jumptype": 2,
+            "unlockcondition": "2,4",
+            "sortid": 5,
+            "toptip": [
+                200010
+            ],
+            "instructionTextID": 1000272,
+            "missionname": "人偶强化",
+            "missionnameTextID": 1000236,
+            "jumpvalue": [
+                0
+            ],
+            "description": "消耗玛那提升任意人偶的强化等级1次",
+            "endevent": 26,
+            "instruction": "消耗玛那可以快速提升人偶的强化等级。",
+            "descriptionTextID": 1000248,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 2,
+            "unlockid": 1001202,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 5,
+            "progressnameTextID": [
+                1000260
+            ]
+        },
+        "30015": {
+            "missiontype": 3,
+            "progressname": [
+                "赠送礼物"
+            ],
+            "id": 30015,
+            "jumptype": 2,
+            "unlockcondition": "2,4",
+            "sortid": 6,
+            "toptip": [
+                200011
+            ],
+            "instructionTextID": 1000273,
+            "missionname": "传达心意",
+            "missionnameTextID": 1000237,
+            "jumpvalue": [
+                0
+            ],
+            "description": "向任意人偶赠送1次礼物",
+            "endevent": 6,
+            "instruction": "向人偶赠送心仪的礼物可以提升羁绊等级。",
+            "descriptionTextID": 1000249,
+            "rewarditem": [],
+            "rewardquantity": [],
+            "UIjumpvalue": 26,
+            "unlockid": 1001203,
+            "activevalue": 10,
+            "rewardid": 1288,
+            "targettype": 6,
+            "progressnameTextID": [
+                1000261
+            ]
+        }
+    }
+}

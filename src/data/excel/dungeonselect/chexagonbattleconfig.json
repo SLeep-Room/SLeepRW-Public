@@ -1,0 +1,7402 @@
+{
+    "AllIds": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009,
+        10010,
+        10011,
+        10012,
+        10013,
+        10014,
+        10015,
+        10016,
+        10017,
+        10018,
+        10019,
+        10020,
+        10021,
+        10201,
+        10202,
+        10203,
+        10204,
+        10205,
+        10206,
+        10207,
+        10208,
+        10209,
+        10210,
+        10211,
+        10212,
+        10213,
+        10214,
+        10215,
+        10216,
+        10217,
+        10218,
+        10219,
+        10220,
+        10221,
+        10222,
+        10223,
+        10224,
+        10225,
+        10226,
+        10227,
+        10228,
+        10229,
+        10230,
+        10231,
+        10232,
+        10233,
+        10234,
+        10235,
+        10236,
+        10237,
+        10238,
+        10239,
+        10240,
+        10241,
+        10242,
+        10243,
+        10244,
+        10245,
+        10246,
+        10247,
+        10248,
+        10249,
+        10250,
+        10251,
+        10252,
+        10253,
+        10254,
+        10255,
+        10256,
+        10701,
+        10702,
+        10703,
+        18001,
+        18002,
+        18003,
+        18004,
+        18005,
+        18006,
+        18007,
+        18008,
+        18009,
+        18010,
+        18011,
+        18012,
+        18013,
+        18014,
+        18015,
+        18016,
+        18017,
+        18018,
+        18019,
+        18020,
+        18021,
+        18022,
+        18023,
+        18024,
+        18025,
+        18026,
+        18027,
+        18028,
+        18029,
+        18030,
+        18031,
+        18032,
+        18033,
+        18034,
+        18035,
+        18036,
+        18101,
+        18102,
+        18103,
+        18104,
+        18105,
+        18106,
+        18107,
+        18108,
+        18109,
+        18110,
+        18111,
+        18112,
+        18113,
+        18114,
+        18115,
+        18116,
+        18117,
+        18118,
+        18119,
+        18120,
+        18201,
+        18202,
+        18203,
+        18204,
+        18205,
+        18206,
+        18207,
+        18208,
+        18209,
+        18210,
+        18211,
+        18212,
+        18213,
+        18214,
+        18215,
+        18216,
+        18217,
+        18218,
+        18219,
+        18220,
+        18221,
+        18222,
+        18223,
+        18224,
+        18225,
+        18226,
+        18227,
+        18228,
+        18229,
+        18230,
+        18231,
+        18232,
+        18233,
+        18234,
+        18235,
+        27001,
+        27002,
+        27003,
+        27004,
+        27005,
+        27006,
+        27007,
+        27008,
+        27009,
+        27010,
+        27011,
+        27012,
+        27013,
+        27014,
+        27015,
+        27016,
+        27017,
+        27018,
+        27019,
+        27020,
+        27021,
+        27022,
+        27023,
+        27024,
+        27025,
+        27026,
+        27027,
+        27028,
+        27029,
+        27030,
+        27031,
+        27032,
+        27101,
+        27102,
+        27103,
+        27104,
+        27105,
+        27106,
+        27107,
+        27108
+    ],
+    "Data": {
+        "10240": {
+            "id": 10240,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 40,
+            "battleid": 10069,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901151,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": 1901160,
+            "sureDropItems": [
+                35033
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901130,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10241": {
+            "id": 10241,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10019
+            ],
+            "spirit": 10,
+            "battleid": 10070,
+            "mayDropItems": [
+                75000,
+                75001
+            ],
+            "levelinfo": 1901152,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35034
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901131,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10242": {
+            "id": 10242,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10019
+            ],
+            "spirit": 10,
+            "battleid": 10071,
+            "mayDropItems": [
+                75003,
+                75004
+            ],
+            "levelinfo": 1901152,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35034
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901132,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10243": {
+            "id": 10243,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10072,
+            "mayDropItems": [
+                75006,
+                75007
+            ],
+            "levelinfo": 1901152,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35034
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901133,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10244": {
+            "id": 10244,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10073,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901152,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35034
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901134,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10245": {
+            "id": 10245,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 30,
+            "battleid": 10074,
+            "mayDropItems": [
+                75012,
+                75013
+            ],
+            "levelinfo": 1901152,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35034
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901135,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10246": {
+            "id": 10246,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 30,
+            "battleid": 10075,
+            "mayDropItems": [
+                75015,
+                75016
+            ],
+            "levelinfo": 1901152,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35034
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901136,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10247": {
+            "id": 10247,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 40,
+            "battleid": 10076,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901152,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35034
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901137,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10248": {
+            "id": 10248,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 40,
+            "battleid": 10077,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901152,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": 1901161,
+            "sureDropItems": [
+                35034
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901138,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10249": {
+            "id": 10249,
+            "type": 2,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 10,
+            "battleid": 10086,
+            "mayDropItems": [],
+            "levelinfo": 1901153,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901139,
+            "monsterformid": 20171,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10250": {
+            "id": 10250,
+            "type": 2,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 10,
+            "battleid": 10087,
+            "mayDropItems": [],
+            "levelinfo": 1901153,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901140,
+            "monsterformid": 20171,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10251": {
+            "id": 10251,
+            "type": 2,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 20,
+            "battleid": 10088,
+            "mayDropItems": [],
+            "levelinfo": 1901153,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901141,
+            "monsterformid": 20171,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10252": {
+            "id": 10252,
+            "type": 2,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 20,
+            "battleid": 10089,
+            "mayDropItems": [],
+            "levelinfo": 1901153,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901142,
+            "monsterformid": 20171,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10253": {
+            "id": 10253,
+            "type": 2,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 30,
+            "battleid": 10090,
+            "mayDropItems": [],
+            "levelinfo": 1901153,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901143,
+            "monsterformid": 20171,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10254": {
+            "id": 10254,
+            "type": 2,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 30,
+            "battleid": 10091,
+            "mayDropItems": [],
+            "levelinfo": 1901153,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901144,
+            "monsterformid": 20171,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10255": {
+            "id": 10255,
+            "type": 2,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 40,
+            "battleid": 10092,
+            "mayDropItems": [],
+            "levelinfo": 1901153,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901145,
+            "monsterformid": 20171,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10256": {
+            "id": 10256,
+            "type": 2,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 40,
+            "battleid": 10093,
+            "mayDropItems": [],
+            "levelinfo": 1901153,
+            "firstItemNums": [
+                50,
+                1
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901146,
+            "monsterformid": 20171,
+            "firstItems": [
+                35008,
+                35068
+            ]
+        },
+        "10001": {
+            "id": 10001,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10017
+            ],
+            "spirit": 20,
+            "battleid": 10017,
+            "mayDropItems": [],
+            "levelinfo": 1901165,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 135,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901069,
+            "leveltitle": 1901048,
+            "monsterformid": 20157,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10002": {
+            "id": 10002,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10017
+            ],
+            "spirit": 20,
+            "battleid": 10018,
+            "mayDropItems": [],
+            "levelinfo": 1901166,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 135,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901070,
+            "leveltitle": 1901049,
+            "monsterformid": 20159,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10003": {
+            "id": 10003,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10019,
+            "mayDropItems": [],
+            "levelinfo": 1901167,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901071,
+            "leveltitle": 1901050,
+            "monsterformid": 20158,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10004": {
+            "id": 10004,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10020,
+            "mayDropItems": [],
+            "levelinfo": 1901168,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901072,
+            "leveltitle": 1901051,
+            "monsterformid": 20162,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10005": {
+            "id": 10005,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10021,
+            "mayDropItems": [],
+            "levelinfo": 1901169,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901073,
+            "leveltitle": 1901052,
+            "monsterformid": 20160,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10006": {
+            "id": 10006,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10019,
+                10021
+            ],
+            "spirit": 20,
+            "battleid": 10022,
+            "mayDropItems": [],
+            "levelinfo": 1901170,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 155,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901074,
+            "leveltitle": 1901053,
+            "monsterformid": 20161,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10007": {
+            "id": 10007,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10017,
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10023,
+            "mayDropItems": [],
+            "levelinfo": 1901171,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 165,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901075,
+            "leveltitle": 1901054,
+            "monsterformid": 20161,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10008": {
+            "id": 10008,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10018,
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10024,
+            "mayDropItems": [],
+            "levelinfo": 1901172,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 165,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901076,
+            "leveltitle": 1901055,
+            "monsterformid": 20163,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10009": {
+            "id": 10009,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 20,
+            "battleid": 10025,
+            "mayDropItems": [],
+            "levelinfo": 1901173,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 165,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901077,
+            "leveltitle": 1901056,
+            "monsterformid": 20157,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10010": {
+            "id": 10010,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10023,
+                10024
+            ],
+            "spirit": 20,
+            "battleid": 10026,
+            "mayDropItems": [],
+            "levelinfo": 1901174,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 175,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901078,
+            "leveltitle": 1901057,
+            "monsterformid": 20159,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10011": {
+            "id": 10011,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10027,
+            "mayDropItems": [],
+            "levelinfo": 1901175,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 175,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901079,
+            "leveltitle": 1901058,
+            "monsterformid": 20157,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10012": {
+            "id": 10012,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10028,
+            "mayDropItems": [],
+            "levelinfo": 1901176,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 175,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901080,
+            "leveltitle": 1901059,
+            "monsterformid": 20159,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10013": {
+            "id": 10013,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 20,
+            "battleid": 10029,
+            "mayDropItems": [],
+            "levelinfo": 1901177,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 175,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901081,
+            "leveltitle": 1901060,
+            "monsterformid": 20158,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10014": {
+            "id": 10014,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10030,
+            "mayDropItems": [],
+            "levelinfo": 1901178,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 185,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901082,
+            "leveltitle": 1901061,
+            "monsterformid": 20162,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10015": {
+            "id": 10015,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 20,
+            "battleid": 10031,
+            "mayDropItems": [],
+            "levelinfo": 1901179,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 185,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901083,
+            "leveltitle": 1901062,
+            "monsterformid": 20160,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10016": {
+            "id": 10016,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10018,
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10032,
+            "mayDropItems": [],
+            "levelinfo": 1901180,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 185,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901084,
+            "leveltitle": 1901063,
+            "monsterformid": 20161,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10017": {
+            "id": 10017,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 20,
+            "battleid": 10033,
+            "mayDropItems": [],
+            "levelinfo": 1901181,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 185,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901085,
+            "leveltitle": 1901064,
+            "monsterformid": 20161,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10018": {
+            "id": 10018,
+            "type": 1,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10019,
+                10021
+            ],
+            "spirit": 20,
+            "battleid": 10034,
+            "mayDropItems": [],
+            "levelinfo": 1901182,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 195,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901086,
+            "leveltitle": 1901065,
+            "monsterformid": 20163,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10019": {
+            "id": 10019,
+            "type": 1,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 20,
+            "battleid": 10035,
+            "mayDropItems": [],
+            "levelinfo": 1901183,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 195,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901087,
+            "leveltitle": 1901066,
+            "monsterformid": 20157,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10020": {
+            "id": 10020,
+            "type": 1,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10036,
+            "mayDropItems": [],
+            "levelinfo": 1901184,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 215,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901088,
+            "leveltitle": 1901067,
+            "monsterformid": 20159,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10021": {
+            "id": 10021,
+            "type": 1,
+            "battlesceneid": 20040,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10022
+            ],
+            "spirit": 20,
+            "battleid": 10037,
+            "mayDropItems": [],
+            "levelinfo": 1901185,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 215,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 1901089,
+            "leveltitle": 1901068,
+            "monsterformid": 20159,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18214": {
+            "id": 18214,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10030
+            ],
+            "spirit": 30,
+            "battleid": 10168,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901353,
+            "monsterformid": 20181,
+            "firstItems": [
+                35038,
+                74002
+            ]
+        },
+        "18215": {
+            "id": 18215,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 30,
+            "battleid": 10169,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901354,
+            "monsterformid": 20184,
+            "firstItems": [
+                35039,
+                31176
+            ]
+        },
+        "18216": {
+            "id": 18216,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 30,
+            "battleid": 10170,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901355,
+            "monsterformid": 20184,
+            "firstItems": [
+                35040,
+                31176
+            ]
+        },
+        "18217": {
+            "id": 18217,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 30,
+            "battleid": 10171,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901356,
+            "monsterformid": 20184,
+            "firstItems": [
+                35038,
+                79002
+            ]
+        },
+        "18218": {
+            "id": 18218,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10031
+            ],
+            "spirit": 30,
+            "battleid": 10172,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901357,
+            "monsterformid": 20184,
+            "firstItems": [
+                35039,
+                74002
+            ]
+        },
+        "18219": {
+            "id": 18219,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10031
+            ],
+            "spirit": 30,
+            "battleid": 10173,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901358,
+            "monsterformid": 20184,
+            "firstItems": [
+                35040,
+                74002
+            ]
+        },
+        "18220": {
+            "id": 18220,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10031
+            ],
+            "spirit": 30,
+            "battleid": 10174,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901359,
+            "monsterformid": 20184,
+            "firstItems": [
+                35039,
+                31176
+            ]
+        },
+        "18221": {
+            "id": 18221,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 30,
+            "battleid": 10175,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901360,
+            "monsterformid": 20182,
+            "firstItems": [
+                35040,
+                31176
+            ]
+        },
+        "18222": {
+            "id": 18222,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10176,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901361,
+            "monsterformid": 20182,
+            "firstItems": [
+                35038,
+                79002
+            ]
+        },
+        "18223": {
+            "id": 18223,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10177,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901362,
+            "monsterformid": 20182,
+            "firstItems": [
+                35039,
+                74002
+            ]
+        },
+        "18224": {
+            "id": 18224,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10178,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901363,
+            "monsterformid": 20182,
+            "firstItems": [
+                35040,
+                74002
+            ]
+        },
+        "18225": {
+            "id": 18225,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10179,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901364,
+            "monsterformid": 20182,
+            "firstItems": [
+                35038,
+                31176
+            ]
+        },
+        "18226": {
+            "id": 18226,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10180,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901365,
+            "monsterformid": 20182,
+            "firstItems": [
+                35039,
+                31176
+            ]
+        },
+        "18227": {
+            "id": 18227,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10181,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901366,
+            "monsterformid": 20182,
+            "firstItems": [
+                35040,
+                79002
+            ]
+        },
+        "18228": {
+            "id": 18228,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10182,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901367,
+            "monsterformid": 20182,
+            "firstItems": [
+                35038,
+                74002
+            ]
+        },
+        "18229": {
+            "id": 18229,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10183,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901368,
+            "monsterformid": 20182,
+            "firstItems": [
+                35039,
+                74002
+            ]
+        },
+        "18230": {
+            "id": 18230,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10184,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901369,
+            "monsterformid": 20182,
+            "firstItems": [
+                35040,
+                31176
+            ]
+        },
+        "18231": {
+            "id": 18231,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 40,
+            "battleid": 10185,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901370,
+            "monsterformid": 20183,
+            "firstItems": [
+                35038,
+                31176
+            ]
+        },
+        "18232": {
+            "id": 18232,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 40,
+            "battleid": 10186,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901371,
+            "monsterformid": 20183,
+            "firstItems": [
+                35039,
+                79002
+            ]
+        },
+        "18233": {
+            "id": 18233,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10187,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901372,
+            "monsterformid": 20182,
+            "firstItems": [
+                35040,
+                74002
+            ]
+        },
+        "18234": {
+            "id": 18234,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 40,
+            "battleid": 10188,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1,
+                1
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                74002,
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901373,
+            "monsterformid": 20183,
+            "firstItems": [
+                35038,
+                35039,
+                35040
+            ]
+        },
+        "18235": {
+            "id": 18235,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 40,
+            "battleid": 10189,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1,
+                1
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                79002,
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901374,
+            "monsterformid": 20182,
+            "firstItems": [
+                35038,
+                35039,
+                35040
+            ]
+        },
+        "18001": {
+            "id": 18001,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 10,
+            "battleid": 10097,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901271,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18002": {
+            "id": 18002,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 10,
+            "battleid": 10098,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901272,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18003": {
+            "id": 18003,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 15,
+            "battleid": 10099,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901273,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18004": {
+            "id": 18004,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10026,
+                10027
+            ],
+            "spirit": 15,
+            "battleid": 10100,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901274,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18005": {
+            "id": 18005,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 20,
+            "battleid": 10101,
+            "mayDropItems": [
+                75015,
+                75016
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901275,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18006": {
+            "id": 18006,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 20,
+            "battleid": 10102,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901276,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18007": {
+            "id": 18007,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 25,
+            "battleid": 10103,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901277,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18008": {
+            "id": 18008,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10026,
+                10027
+            ],
+            "spirit": 25,
+            "battleid": 10104,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901278,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18009": {
+            "id": 18009,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10026,
+                10027
+            ],
+            "spirit": 30,
+            "battleid": 10105,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901279,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18010": {
+            "id": 18010,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 30,
+            "battleid": 10106,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901280,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18011": {
+            "id": 18011,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10026,
+                10027
+            ],
+            "spirit": 40,
+            "battleid": 10107,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901281,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18012": {
+            "id": 18012,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10026,
+                10027
+            ],
+            "spirit": 40,
+            "battleid": 10108,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901307,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35038,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901282,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18013": {
+            "id": 18013,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030
+            ],
+            "spirit": 10,
+            "battleid": 10109,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901295,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18014": {
+            "id": 18014,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030
+            ],
+            "spirit": 10,
+            "battleid": 10110,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901296,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18015": {
+            "id": 18015,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030
+            ],
+            "spirit": 15,
+            "battleid": 10111,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901297,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18016": {
+            "id": 18016,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10031
+            ],
+            "spirit": 15,
+            "battleid": 10112,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901298,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18017": {
+            "id": 18017,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 20,
+            "battleid": 10113,
+            "mayDropItems": [
+                75015,
+                75016
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901299,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18018": {
+            "id": 18018,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 20,
+            "battleid": 10114,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901300,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18019": {
+            "id": 18019,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 25,
+            "battleid": 10115,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901301,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18020": {
+            "id": 18020,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 25,
+            "battleid": 10116,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901302,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18021": {
+            "id": 18021,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10031
+            ],
+            "spirit": 30,
+            "battleid": 10117,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901303,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18022": {
+            "id": 18022,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10031
+            ],
+            "spirit": 30,
+            "battleid": 10118,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901304,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18023": {
+            "id": 18023,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 40,
+            "battleid": 10119,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901305,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18024": {
+            "id": 18024,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10030,
+                10031
+            ],
+            "spirit": 40,
+            "battleid": 10120,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901309,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35039,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901306,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18025": {
+            "id": 18025,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 10,
+            "battleid": 10121,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901283,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18026": {
+            "id": 18026,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 10,
+            "battleid": 10122,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901284,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18027": {
+            "id": 18027,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 15,
+            "battleid": 10123,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901285,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18028": {
+            "id": 18028,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028,
+                10029
+            ],
+            "spirit": 15,
+            "battleid": 10124,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901286,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18029": {
+            "id": 18029,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 20,
+            "battleid": 10125,
+            "mayDropItems": [
+                75015,
+                75016
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901287,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18030": {
+            "id": 18030,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 20,
+            "battleid": 10126,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901288,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18031": {
+            "id": 18031,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 25,
+            "battleid": 10127,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901289,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18032": {
+            "id": 18032,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028,
+                10029
+            ],
+            "spirit": 25,
+            "battleid": 10128,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901290,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18033": {
+            "id": 18033,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 30,
+            "battleid": 10129,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901291,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18034": {
+            "id": 18034,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 30,
+            "battleid": 10130,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901292,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18035": {
+            "id": 18035,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028,
+                10029
+            ],
+            "spirit": 40,
+            "battleid": 10131,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901293,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18036": {
+            "id": 18036,
+            "type": 2,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [
+                1,
+                1
+            ],
+            "monsterbookid": [
+                10028,
+                10029
+            ],
+            "spirit": 40,
+            "battleid": 10132,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901308,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35040,
+                35042
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901294,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008
+            ]
+        },
+        "27001": {
+            "id": 27001,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                10
+            ],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 10,
+            "battleid": 11167,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901504,
+            "firstItemNums": [
+                50,
+                10
+            ],
+            "suggestlevel": 150,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901496,
+            "monsterformid": 20194,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27002": {
+            "id": 27002,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                20
+            ],
+            "monsterbookid": [
+                10038,
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11168,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901504,
+            "firstItemNums": [
+                50,
+                20
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                6
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901496,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27003": {
+            "id": 27003,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                30
+            ],
+            "monsterbookid": [
+                10039,
+                10040
+            ],
+            "spirit": 30,
+            "battleid": 11169,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901504,
+            "firstItemNums": [
+                50,
+                30
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                8
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901496,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27004": {
+            "id": 27004,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                44
+            ],
+            "monsterbookid": [
+                10040,
+                10037
+            ],
+            "spirit": 40,
+            "battleid": 11170,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901504,
+            "firstItemNums": [
+                50,
+                40
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                8
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901496,
+            "monsterformid": 20192,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27005": {
+            "id": 27005,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                10
+            ],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 10,
+            "battleid": 11171,
+            "mayDropItems": [
+                75000
+            ],
+            "levelinfo": 1901505,
+            "firstItemNums": [
+                50,
+                10
+            ],
+            "suggestlevel": 150,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901497,
+            "monsterformid": 20194,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27006": {
+            "id": 27006,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                20
+            ],
+            "monsterbookid": [
+                10038,
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11172,
+            "mayDropItems": [
+                75000
+            ],
+            "levelinfo": 1901505,
+            "firstItemNums": [
+                50,
+                20
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901497,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27007": {
+            "id": 27007,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                30
+            ],
+            "monsterbookid": [
+                10039,
+                10040
+            ],
+            "spirit": 30,
+            "battleid": 11173,
+            "mayDropItems": [
+                75001
+            ],
+            "levelinfo": 1901505,
+            "firstItemNums": [
+                50,
+                30
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                2
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901497,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27008": {
+            "id": 27008,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                44
+            ],
+            "monsterbookid": [
+                10040,
+                10037
+            ],
+            "spirit": 40,
+            "battleid": 11174,
+            "mayDropItems": [
+                75002
+            ],
+            "levelinfo": 1901505,
+            "firstItemNums": [
+                50,
+                40
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901497,
+            "monsterformid": 20192,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27009": {
+            "id": 27009,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                10
+            ],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 10,
+            "battleid": 11175,
+            "mayDropItems": [
+                75015
+            ],
+            "levelinfo": 1901506,
+            "firstItemNums": [
+                50,
+                10
+            ],
+            "suggestlevel": 150,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901498,
+            "monsterformid": 20194,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27010": {
+            "id": 27010,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                20
+            ],
+            "monsterbookid": [
+                10038,
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11176,
+            "mayDropItems": [
+                75015
+            ],
+            "levelinfo": 1901506,
+            "firstItemNums": [
+                50,
+                20
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901498,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27011": {
+            "id": 27011,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                30
+            ],
+            "monsterbookid": [
+                10039,
+                10040
+            ],
+            "spirit": 30,
+            "battleid": 11177,
+            "mayDropItems": [
+                75016
+            ],
+            "levelinfo": 1901506,
+            "firstItemNums": [
+                50,
+                30
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                2
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901498,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27012": {
+            "id": 27012,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                44
+            ],
+            "monsterbookid": [
+                10040,
+                10037
+            ],
+            "spirit": 40,
+            "battleid": 11178,
+            "mayDropItems": [
+                75017
+            ],
+            "levelinfo": 1901506,
+            "firstItemNums": [
+                50,
+                40
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901498,
+            "monsterformid": 20192,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27013": {
+            "id": 27013,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                10
+            ],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 10,
+            "battleid": 11179,
+            "mayDropItems": [
+                75009
+            ],
+            "levelinfo": 1901507,
+            "firstItemNums": [
+                50,
+                10
+            ],
+            "suggestlevel": 150,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901499,
+            "monsterformid": 20194,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27014": {
+            "id": 27014,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                20
+            ],
+            "monsterbookid": [
+                10038,
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11180,
+            "mayDropItems": [
+                75009
+            ],
+            "levelinfo": 1901507,
+            "firstItemNums": [
+                50,
+                20
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901499,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27015": {
+            "id": 27015,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                30
+            ],
+            "monsterbookid": [
+                10039,
+                10040
+            ],
+            "spirit": 30,
+            "battleid": 11181,
+            "mayDropItems": [
+                75010
+            ],
+            "levelinfo": 1901507,
+            "firstItemNums": [
+                50,
+                30
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                2
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901499,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27016": {
+            "id": 27016,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                44
+            ],
+            "monsterbookid": [
+                10040,
+                10037
+            ],
+            "spirit": 40,
+            "battleid": 11182,
+            "mayDropItems": [
+                75011
+            ],
+            "levelinfo": 1901507,
+            "firstItemNums": [
+                50,
+                40
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901499,
+            "monsterformid": 20192,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27017": {
+            "id": 27017,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                10
+            ],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 10,
+            "battleid": 11183,
+            "mayDropItems": [
+                75003
+            ],
+            "levelinfo": 1901508,
+            "firstItemNums": [
+                50,
+                10
+            ],
+            "suggestlevel": 150,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901500,
+            "monsterformid": 20194,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27018": {
+            "id": 27018,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                20
+            ],
+            "monsterbookid": [
+                10038,
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11184,
+            "mayDropItems": [
+                75003
+            ],
+            "levelinfo": 1901508,
+            "firstItemNums": [
+                50,
+                20
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901500,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27019": {
+            "id": 27019,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                30
+            ],
+            "monsterbookid": [
+                10039,
+                10040
+            ],
+            "spirit": 30,
+            "battleid": 11185,
+            "mayDropItems": [
+                75004
+            ],
+            "levelinfo": 1901508,
+            "firstItemNums": [
+                50,
+                30
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                2
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901500,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27020": {
+            "id": 27020,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                44
+            ],
+            "monsterbookid": [
+                10040,
+                10037
+            ],
+            "spirit": 40,
+            "battleid": 11186,
+            "mayDropItems": [
+                75005
+            ],
+            "levelinfo": 1901508,
+            "firstItemNums": [
+                50,
+                40
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901500,
+            "monsterformid": 20192,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27021": {
+            "id": 27021,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                10
+            ],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 10,
+            "battleid": 11187,
+            "mayDropItems": [
+                75012
+            ],
+            "levelinfo": 1901509,
+            "firstItemNums": [
+                50,
+                10
+            ],
+            "suggestlevel": 150,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901501,
+            "monsterformid": 20194,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27022": {
+            "id": 27022,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                20
+            ],
+            "monsterbookid": [
+                10038,
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11188,
+            "mayDropItems": [
+                75012
+            ],
+            "levelinfo": 1901509,
+            "firstItemNums": [
+                50,
+                20
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901501,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27023": {
+            "id": 27023,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                30
+            ],
+            "monsterbookid": [
+                10039,
+                10040
+            ],
+            "spirit": 30,
+            "battleid": 11189,
+            "mayDropItems": [
+                75013
+            ],
+            "levelinfo": 1901509,
+            "firstItemNums": [
+                50,
+                30
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                2
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901501,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27024": {
+            "id": 27024,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                44
+            ],
+            "monsterbookid": [
+                10040,
+                10037
+            ],
+            "spirit": 40,
+            "battleid": 11190,
+            "mayDropItems": [
+                75014
+            ],
+            "levelinfo": 1901509,
+            "firstItemNums": [
+                50,
+                40
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901501,
+            "monsterformid": 20192,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27025": {
+            "id": 27025,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                10
+            ],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 10,
+            "battleid": 11191,
+            "mayDropItems": [
+                75006
+            ],
+            "levelinfo": 1901510,
+            "firstItemNums": [
+                50,
+                10
+            ],
+            "suggestlevel": 150,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901502,
+            "monsterformid": 20194,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27026": {
+            "id": 27026,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                20
+            ],
+            "monsterbookid": [
+                10038,
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11192,
+            "mayDropItems": [
+                75006
+            ],
+            "levelinfo": 1901510,
+            "firstItemNums": [
+                50,
+                20
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901502,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27027": {
+            "id": 27027,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                30
+            ],
+            "monsterbookid": [
+                10039,
+                10040
+            ],
+            "spirit": 30,
+            "battleid": 11193,
+            "mayDropItems": [
+                75007
+            ],
+            "levelinfo": 1901510,
+            "firstItemNums": [
+                50,
+                30
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                2
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901502,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27028": {
+            "id": 27028,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                44
+            ],
+            "monsterbookid": [
+                10040,
+                10037
+            ],
+            "spirit": 40,
+            "battleid": 11194,
+            "mayDropItems": [
+                75008
+            ],
+            "levelinfo": 1901510,
+            "firstItemNums": [
+                50,
+                40
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901502,
+            "monsterformid": 20192,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27029": {
+            "id": 27029,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                10
+            ],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 10,
+            "battleid": 11195,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901511,
+            "firstItemNums": [
+                50,
+                10
+            ],
+            "suggestlevel": 150,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                2
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901503,
+            "monsterformid": 20194,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27030": {
+            "id": 27030,
+            "type": 2,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [
+                20
+            ],
+            "monsterbookid": [
+                10038,
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11196,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901511,
+            "firstItemNums": [
+                50,
+                20
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                3
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901503,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27031": {
+            "id": 27031,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                30
+            ],
+            "monsterbookid": [
+                10039,
+                10040
+            ],
+            "spirit": 30,
+            "battleid": 11197,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901511,
+            "firstItemNums": [
+                50,
+                30
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                4
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901503,
+            "monsterformid": 20195,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27032": {
+            "id": 27032,
+            "type": 2,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [
+                44
+            ],
+            "monsterbookid": [
+                10040,
+                10037
+            ],
+            "spirit": 40,
+            "battleid": 11198,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901511,
+            "firstItemNums": [
+                50,
+                40
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35044
+            ],
+            "mayDropItemsNums": [
+                5
+            ],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901503,
+            "monsterformid": 20192,
+            "firstItems": [
+                35008,
+                35044
+            ]
+        },
+        "27108": {
+            "id": 27108,
+            "type": 1,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10039
+            ],
+            "spirit": 20,
+            "battleid": 11166,
+            "mayDropItems": [],
+            "levelinfo": 1901495,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 165,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901487,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008
+            ]
+        },
+        "27107": {
+            "id": 27107,
+            "type": 1,
+            "battlesceneid": 20048,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10037
+            ],
+            "spirit": 20,
+            "battleid": 11165,
+            "mayDropItems": [],
+            "levelinfo": 1901494,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 165,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901486,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "27106": {
+            "id": 27106,
+            "type": 1,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11164,
+            "mayDropItems": [],
+            "levelinfo": 1901493,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 155,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901485,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "27105": {
+            "id": 27105,
+            "type": 1,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 20,
+            "battleid": 11163,
+            "mayDropItems": [],
+            "levelinfo": 1901492,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901484,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008
+            ]
+        },
+        "27104": {
+            "id": 27104,
+            "type": 1,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11162,
+            "mayDropItems": [],
+            "levelinfo": 1901491,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901483,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "27103": {
+            "id": 27103,
+            "type": 1,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 20,
+            "battleid": 11161,
+            "mayDropItems": [],
+            "levelinfo": 1901490,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901482,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "27102": {
+            "id": 27102,
+            "type": 1,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10040
+            ],
+            "spirit": 20,
+            "battleid": 11160,
+            "mayDropItems": [],
+            "levelinfo": 1901489,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 135,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901481,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008
+            ]
+        },
+        "27101": {
+            "id": 27101,
+            "type": 1,
+            "battlesceneid": 20047,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10038
+            ],
+            "spirit": 20,
+            "battleid": 11159,
+            "mayDropItems": [],
+            "levelinfo": 1901488,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 135,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 27001,
+            "levelname": 0,
+            "leveltitle": 1901480,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18101": {
+            "id": 18101,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 20,
+            "battleid": 10137,
+            "mayDropItems": [],
+            "levelinfo": 1901330,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 135,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901319,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18102": {
+            "id": 18102,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10026,
+                10027
+            ],
+            "spirit": 20,
+            "battleid": 10138,
+            "mayDropItems": [],
+            "levelinfo": 1901331,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 135,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901320,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18103": {
+            "id": 18103,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10027,
+                10028
+            ],
+            "spirit": 20,
+            "battleid": 10139,
+            "mayDropItems": [],
+            "levelinfo": 1901332,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901321,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18104": {
+            "id": 18104,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 20,
+            "battleid": 10140,
+            "mayDropItems": [],
+            "levelinfo": 1901333,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901322,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18105": {
+            "id": 18105,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 20,
+            "battleid": 10141,
+            "mayDropItems": [],
+            "levelinfo": 1901334,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 145,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901323,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18106": {
+            "id": 18106,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10028,
+                10030
+            ],
+            "spirit": 20,
+            "battleid": 10142,
+            "mayDropItems": [],
+            "levelinfo": 1901335,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 155,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901324,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18107": {
+            "id": 18107,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10027,
+                10030
+            ],
+            "spirit": 20,
+            "battleid": 10143,
+            "mayDropItems": [],
+            "levelinfo": 1901336,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 165,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901325,
+            "monsterformid": 20181,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18108": {
+            "id": 18108,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10031
+            ],
+            "spirit": 20,
+            "battleid": 10144,
+            "mayDropItems": [],
+            "levelinfo": 1901337,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 165,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901326,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18109": {
+            "id": 18109,
+            "type": 1,
+            "battlesceneid": 20041,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10032
+            ],
+            "spirit": 20,
+            "battleid": 10145,
+            "mayDropItems": [],
+            "levelinfo": 1901338,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 165,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901327,
+            "monsterformid": 20185,
+            "firstItems": [
+                35008
+            ]
+        },
+        "18110": {
+            "id": 18110,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 10,
+            "battleid": 10146,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                30000,
+                8
+            ],
+            "suggestlevel": 175,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901310,
+            "monsterformid": 20179,
+            "firstItems": [
+                35008,
+                35002,
+                35038
+            ]
+        },
+        "18111": {
+            "id": 18111,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 10,
+            "battleid": 10147,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                30000,
+                8
+            ],
+            "suggestlevel": 175,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901311,
+            "monsterformid": 20180,
+            "firstItems": [
+                35008,
+                35002,
+                35039
+            ]
+        },
+        "18112": {
+            "id": 18112,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 10,
+            "battleid": 10148,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                30000,
+                8
+            ],
+            "suggestlevel": 175,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901312,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008,
+                35002,
+                35040
+            ]
+        },
+        "18113": {
+            "id": 18113,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 10,
+            "battleid": 10149,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                30000,
+                8
+            ],
+            "suggestlevel": 175,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901313,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008,
+                35002,
+                35038
+            ]
+        },
+        "18114": {
+            "id": 18114,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10029
+            ],
+            "spirit": 10,
+            "battleid": 10150,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                30000,
+                8
+            ],
+            "suggestlevel": 185,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901314,
+            "monsterformid": 20183,
+            "firstItems": [
+                35008,
+                35002,
+                35039
+            ]
+        },
+        "18115": {
+            "id": 18115,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10028
+            ],
+            "spirit": 20,
+            "battleid": 10151,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                60000,
+                15
+            ],
+            "suggestlevel": 185,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901315,
+            "monsterformid": 20182,
+            "firstItems": [
+                35008,
+                35002,
+                35040
+            ]
+        },
+        "18116": {
+            "id": 18116,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10030
+            ],
+            "spirit": 20,
+            "battleid": 10152,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                60000,
+                15
+            ],
+            "suggestlevel": 185,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901316,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008,
+                35002,
+                35038
+            ]
+        },
+        "18117": {
+            "id": 18117,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10031
+            ],
+            "spirit": 20,
+            "battleid": 10153,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                60000,
+                15
+            ],
+            "suggestlevel": 185,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901317,
+            "monsterformid": 20184,
+            "firstItems": [
+                35008,
+                35002,
+                35039
+            ]
+        },
+        "18118": {
+            "id": 18118,
+            "type": 1,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [],
+            "monsterbookid": [
+                10032
+            ],
+            "spirit": 20,
+            "battleid": 10154,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                50,
+                60000,
+                15
+            ],
+            "suggestlevel": 195,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901318,
+            "monsterformid": 20185,
+            "firstItems": [
+                35008,
+                35002,
+                35040
+            ]
+        },
+        "18119": {
+            "id": 18119,
+            "type": 2,
+            "battlesceneid": 20043,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10032
+            ],
+            "spirit": 0,
+            "battleid": 10190,
+            "mayDropItems": [
+                35038,
+                35039,
+                35040
+            ],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                100,
+                50,
+                50
+            ],
+            "suggestlevel": 195,
+            "addition": -1,
+            "sureDropItems": [
+                35002
+            ],
+            "mayDropItemsNums": [
+                1,
+                1,
+                1
+            ],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901378,
+            "monsterformid": 20185,
+            "firstItems": [
+                35008,
+                35038,
+                35039
+            ]
+        },
+        "18120": {
+            "id": 18120,
+            "type": 2,
+            "battlesceneid": 20043,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10032
+            ],
+            "spirit": 0,
+            "battleid": 10191,
+            "mayDropItems": [],
+            "levelinfo": 1901339,
+            "firstItemNums": [
+                100,
+                50,
+                50
+            ],
+            "suggestlevel": 195,
+            "addition": -1,
+            "sureDropItems": [
+                31281
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901378,
+            "monsterformid": 20185,
+            "firstItems": [
+                35008,
+                35038,
+                35039
+            ]
+        },
+        "18213": {
+            "id": 18213,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10030
+            ],
+            "spirit": 30,
+            "battleid": 10167,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901352,
+            "monsterformid": 20181,
+            "firstItems": [
+                35040,
+                74002
+            ]
+        },
+        "18212": {
+            "id": 18212,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 30,
+            "battleid": 10166,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901351,
+            "monsterformid": 20179,
+            "firstItems": [
+                35039,
+                79001
+            ]
+        },
+        "18211": {
+            "id": 18211,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 30,
+            "battleid": 10165,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901350,
+            "monsterformid": 20179,
+            "firstItems": [
+                35038,
+                35002
+            ]
+        },
+        "18210": {
+            "id": 18210,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 30,
+            "battleid": 10164,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901349,
+            "monsterformid": 20180,
+            "firstItems": [
+                35040,
+                74000
+            ]
+        },
+        "10701": {
+            "id": 10701,
+            "type": 7,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [],
+            "spirit": 0,
+            "battleid": 10094,
+            "mayDropItems": [],
+            "levelinfo": 1900547,
+            "firstItemNums": [],
+            "suggestlevel": 80,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901162,
+            "monsterformid": 20172,
+            "firstItems": []
+        },
+        "10702": {
+            "id": 10702,
+            "type": 7,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [],
+            "spirit": 0,
+            "battleid": 10095,
+            "mayDropItems": [],
+            "levelinfo": 1900548,
+            "firstItemNums": [],
+            "suggestlevel": 80,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901163,
+            "monsterformid": 20173,
+            "firstItems": []
+        },
+        "10703": {
+            "id": 10703,
+            "type": 7,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [],
+            "monsterbookid": [],
+            "spirit": 0,
+            "battleid": 10096,
+            "mayDropItems": [],
+            "levelinfo": 1900549,
+            "firstItemNums": [],
+            "suggestlevel": 80,
+            "addition": -1,
+            "sureDropItems": [],
+            "mayDropItemsNums": [],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901164,
+            "monsterformid": 20174,
+            "firstItems": []
+        },
+        "18209": {
+            "id": 18209,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 30,
+            "battleid": 10163,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1,
+                1
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901348,
+            "monsterformid": 20179,
+            "firstItems": [
+                35039,
+                75009,
+                75010
+            ]
+        },
+        "18208": {
+            "id": 18208,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 30,
+            "battleid": 10162,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1,
+                1
+            ],
+            "suggestlevel": 300,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901347,
+            "monsterformid": 20180,
+            "firstItems": [
+                35038,
+                75009,
+                75010
+            ]
+        },
+        "18207": {
+            "id": 18207,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 20,
+            "battleid": 10161,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1,
+                1
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901346,
+            "monsterformid": 20179,
+            "firstItems": [
+                35038,
+                75015,
+                75016
+            ]
+        },
+        "18206": {
+            "id": 18206,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 20,
+            "battleid": 10160,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901345,
+            "monsterformid": 20180,
+            "firstItems": [
+                35040,
+                79001
+            ]
+        },
+        "18205": {
+            "id": 18205,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 20,
+            "battleid": 10159,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901344,
+            "monsterformid": 20179,
+            "firstItems": [
+                35039,
+                35002
+            ]
+        },
+        "18204": {
+            "id": 18204,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 20,
+            "battleid": 10158,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901343,
+            "monsterformid": 20180,
+            "firstItems": [
+                35038,
+                74000
+            ]
+        },
+        "18203": {
+            "id": 18203,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 20,
+            "battleid": 10157,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1,
+                1
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901342,
+            "monsterformid": 20179,
+            "firstItems": [
+                35040,
+                75009,
+                75010
+            ]
+        },
+        "18202": {
+            "id": 18202,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10027
+            ],
+            "spirit": 20,
+            "battleid": 10156,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1,
+                1
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901341,
+            "monsterformid": 20180,
+            "firstItems": [
+                35039,
+                75009,
+                75010
+            ]
+        },
+        "18201": {
+            "id": 18201,
+            "type": 2,
+            "battlesceneid": 20042,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10026
+            ],
+            "spirit": 20,
+            "battleid": 10155,
+            "mayDropItems": [],
+            "levelinfo": 1901375,
+            "firstItemNums": [
+                1,
+                1,
+                1
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35042
+            ],
+            "mayDropItemsNums": [],
+            "eventid": 18001,
+            "levelname": 0,
+            "leveltitle": 1901340,
+            "monsterformid": 20179,
+            "firstItems": [
+                35038,
+                75015,
+                75016
+            ]
+        },
+        "10201": {
+            "id": 10201,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10018,
+                10019
+            ],
+            "spirit": 10,
+            "battleid": 10038,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901147,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35028
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901091,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10202": {
+            "id": 10202,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10018,
+                10019
+            ],
+            "spirit": 10,
+            "battleid": 10039,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901147,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": 1901025,
+            "sureDropItems": [
+                35028
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901092,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10203": {
+            "id": 10203,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10018,
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10040,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901147,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": 1901026,
+            "sureDropItems": [
+                35028
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901093,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10204": {
+            "id": 10204,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10018,
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10041,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901147,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": 1901027,
+            "sureDropItems": [
+                35028
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901094,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10205": {
+            "id": 10205,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 30,
+            "battleid": 10042,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901147,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": 1901028,
+            "sureDropItems": [
+                35028
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901095,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10206": {
+            "id": 10206,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 30,
+            "battleid": 10043,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901147,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": 1901029,
+            "sureDropItems": [
+                35028
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901096,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10207": {
+            "id": 10207,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 40,
+            "battleid": 10044,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901147,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": 1901030,
+            "sureDropItems": [
+                35028
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901097,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10208": {
+            "id": 10208,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 40,
+            "battleid": 10045,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901147,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": 1901031,
+            "sureDropItems": [
+                35028
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901098,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10209": {
+            "id": 10209,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017,
+                10019
+            ],
+            "spirit": 10,
+            "battleid": 10046,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901148,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35029
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901099,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10210": {
+            "id": 10210,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017,
+                10019
+            ],
+            "spirit": 10,
+            "battleid": 10047,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901148,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": 1901032,
+            "sureDropItems": [
+                35029
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901100,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10211": {
+            "id": 10211,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017,
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10048,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901148,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": 1901033,
+            "sureDropItems": [
+                35029
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901101,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10212": {
+            "id": 10212,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017,
+                10019
+            ],
+            "spirit": 20,
+            "battleid": 10049,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901148,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": 1901034,
+            "sureDropItems": [
+                35029
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901102,
+            "monsterformid": 20169,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10213": {
+            "id": 10213,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 30,
+            "battleid": 10050,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901148,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": 1901035,
+            "sureDropItems": [
+                35029
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901103,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10214": {
+            "id": 10214,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 30,
+            "battleid": 10051,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901148,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": 1901036,
+            "sureDropItems": [
+                35029
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901104,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10215": {
+            "id": 10215,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 40,
+            "battleid": 10052,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901148,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": 1901037,
+            "sureDropItems": [
+                35029
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901105,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10216": {
+            "id": 10216,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 40,
+            "battleid": 10053,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901148,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": 1901038,
+            "sureDropItems": [
+                35029
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901106,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10217": {
+            "id": 10217,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017,
+                10018
+            ],
+            "spirit": 10,
+            "battleid": 10054,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901149,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35030
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901107,
+            "monsterformid": 20170,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10218": {
+            "id": 10218,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017,
+                10018
+            ],
+            "spirit": 10,
+            "battleid": 10055,
+            "mayDropItems": [
+                74003
+            ],
+            "levelinfo": 1901149,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": 1901039,
+            "sureDropItems": [
+                35030
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901108,
+            "monsterformid": 20170,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10219": {
+            "id": 10219,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017,
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10056,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901149,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": 1901040,
+            "sureDropItems": [
+                35030
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901109,
+            "monsterformid": 20170,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10220": {
+            "id": 10220,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017,
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10057,
+            "mayDropItems": [
+                74000
+            ],
+            "levelinfo": 1901149,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": 1901154,
+            "sureDropItems": [
+                35030
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901110,
+            "monsterformid": 20170,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10221": {
+            "id": 10221,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 30,
+            "battleid": 10058,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901149,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": 1901155,
+            "sureDropItems": [
+                35030
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901111,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10222": {
+            "id": 10222,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 30,
+            "battleid": 10059,
+            "mayDropItems": [
+                74001
+            ],
+            "levelinfo": 1901149,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": 1901156,
+            "sureDropItems": [
+                35030
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901112,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10223": {
+            "id": 10223,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 40,
+            "battleid": 10060,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901149,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": 1901157,
+            "sureDropItems": [
+                35030
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901113,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10224": {
+            "id": 10224,
+            "type": 2,
+            "battlesceneid": 20038,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10021
+            ],
+            "spirit": 40,
+            "battleid": 10061,
+            "mayDropItems": [
+                74002
+            ],
+            "levelinfo": 1901149,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": 1901158,
+            "sureDropItems": [
+                35030
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901114,
+            "monsterformid": 20168,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10225": {
+            "id": 10225,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10018
+            ],
+            "spirit": 10,
+            "battleid": 10078,
+            "mayDropItems": [
+                75000,
+                75001
+            ],
+            "levelinfo": 1901150,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35031
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901115,
+            "monsterformid": 20170,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10226": {
+            "id": 10226,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10018
+            ],
+            "spirit": 10,
+            "battleid": 10079,
+            "mayDropItems": [
+                75003,
+                75004
+            ],
+            "levelinfo": 1901150,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35031
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901116,
+            "monsterformid": 20170,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10227": {
+            "id": 10227,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10080,
+            "mayDropItems": [
+                75006,
+                75007
+            ],
+            "levelinfo": 1901150,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35031
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901117,
+            "monsterformid": 20170,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10228": {
+            "id": 10228,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10018
+            ],
+            "spirit": 20,
+            "battleid": 10081,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901150,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35031
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901118,
+            "monsterformid": 20170,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10229": {
+            "id": 10229,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 30,
+            "battleid": 10082,
+            "mayDropItems": [
+                75012,
+                75013
+            ],
+            "levelinfo": 1901150,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35031
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901119,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10230": {
+            "id": 10230,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 30,
+            "battleid": 10083,
+            "mayDropItems": [
+                75015,
+                75016
+            ],
+            "levelinfo": 1901150,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35031
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901120,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10231": {
+            "id": 10231,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 40,
+            "battleid": 10084,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901150,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35031
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901121,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10232": {
+            "id": 10232,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 40,
+            "battleid": 10085,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901150,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 300,
+            "addition": 1901159,
+            "sureDropItems": [
+                35031
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901122,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10233": {
+            "id": 10233,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017
+            ],
+            "spirit": 10,
+            "battleid": 10062,
+            "mayDropItems": [
+                75000,
+                75001
+            ],
+            "levelinfo": 1901151,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 170,
+            "addition": -1,
+            "sureDropItems": [
+                35033
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901123,
+            "monsterformid": 20167,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10234": {
+            "id": 10234,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017
+            ],
+            "spirit": 10,
+            "battleid": 10063,
+            "mayDropItems": [
+                75003,
+                75004
+            ],
+            "levelinfo": 1901151,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 190,
+            "addition": -1,
+            "sureDropItems": [
+                35033
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901124,
+            "monsterformid": 20167,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10235": {
+            "id": 10235,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017
+            ],
+            "spirit": 20,
+            "battleid": 10064,
+            "mayDropItems": [
+                75006,
+                75007
+            ],
+            "levelinfo": 1901151,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 210,
+            "addition": -1,
+            "sureDropItems": [
+                35033
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901125,
+            "monsterformid": 20167,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10236": {
+            "id": 10236,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10017
+            ],
+            "spirit": 20,
+            "battleid": 10065,
+            "mayDropItems": [
+                75009,
+                75010
+            ],
+            "levelinfo": 1901151,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 230,
+            "addition": -1,
+            "sureDropItems": [
+                35033
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901126,
+            "monsterformid": 20167,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10237": {
+            "id": 10237,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 30,
+            "battleid": 10066,
+            "mayDropItems": [
+                75012,
+                75013
+            ],
+            "levelinfo": 1901151,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 250,
+            "addition": -1,
+            "sureDropItems": [
+                35033
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901127,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10238": {
+            "id": 10238,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 30,
+            "battleid": 10067,
+            "mayDropItems": [
+                75015,
+                75016
+            ],
+            "levelinfo": 1901151,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 270,
+            "addition": -1,
+            "sureDropItems": [
+                35033
+            ],
+            "mayDropItemsNums": [
+                1,
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901128,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        },
+        "10239": {
+            "id": 10239,
+            "type": 2,
+            "battlesceneid": 20039,
+            "sureDropItemsNums": [
+                1
+            ],
+            "monsterbookid": [
+                10020
+            ],
+            "spirit": 40,
+            "battleid": 10068,
+            "mayDropItems": [
+                31176
+            ],
+            "levelinfo": 1901151,
+            "firstItemNums": [
+                50
+            ],
+            "suggestlevel": 290,
+            "addition": -1,
+            "sureDropItems": [
+                35033
+            ],
+            "mayDropItemsNums": [
+                1
+            ],
+            "eventid": 9001,
+            "levelname": 0,
+            "leveltitle": 1901129,
+            "monsterformid": 20166,
+            "firstItems": [
+                35008
+            ]
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "AllIds": [
+        31036,
+        31037,
+        31038,
+        31129,
+        31130,
+        31131,
+        31132,
+        31279,
+        31480
+    ],
+    "Data": {
+        "31132": {
+            "currencynums": 1,
+            "id": 31132,
+            "dailyLimitNum": -1,
+            "itemnums": -1,
+            "itemids": 35003
+        },
+        "31480": {
+            "currencynums": 1,
+            "id": 31480,
+            "dailyLimitNum": -1,
+            "itemnums": 100,
+            "itemids": 35003
+        },
+        "31129": {
+            "currencynums": 1,
+            "id": 31129,
+            "dailyLimitNum": -1,
+            "itemnums": 20,
+            "itemids": 35003
+        },
+        "31130": {
+            "currencynums": 1,
+            "id": 31130,
+            "dailyLimitNum": -1,
+            "itemnums": -2,
+            "itemids": 35003
+        },
+        "31131": {
+            "currencynums": 1,
+            "id": 31131,
+            "dailyLimitNum": -1,
+            "itemnums": -1,
+            "itemids": 35003
+        },
+        "31036": {
+            "currencynums": 1,
+            "id": 31036,
+            "dailyLimitNum": -1,
+            "itemnums": 20,
+            "itemids": 35003
+        },
+        "31037": {
+            "currencynums": 1,
+            "id": 31037,
+            "dailyLimitNum": -1,
+            "itemnums": -2,
+            "itemids": 35003
+        },
+        "31038": {
+            "currencynums": 1,
+            "id": 31038,
+            "dailyLimitNum": -1,
+            "itemnums": -1,
+            "itemids": 35003
+        },
+        "31279": {
+            "currencynums": 1,
+            "id": 31279,
+            "dailyLimitNum": -1,
+            "itemnums": 3,
+            "itemids": 35043
+        }
+    }
+}

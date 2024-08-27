@@ -1,0 +1,21 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "explorerarity": 12096
+        },
+        {
+            "id": 2,
+            "explorerarity": 12097
+        },
+        {
+            "id": 3,
+            "explorerarity": 12098
+        }
+    ]
+}

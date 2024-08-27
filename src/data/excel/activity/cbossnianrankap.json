@@ -1,0 +1,16 @@
+{
+    "AllIds": [
+        1
+    ],
+    "Data": [
+        {
+            "actPowerLimit": 3,
+            "actPowerId": 35043,
+            "rankForReward": 300000,
+            "id": 1,
+            "rankRewardIconId": 13826,
+            "getAwardWordId": 701663,
+            "PowerRecoverInterval": 480
+        }
+    ]
+}

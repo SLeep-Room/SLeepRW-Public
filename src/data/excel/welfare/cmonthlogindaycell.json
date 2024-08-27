@@ -1,0 +1,285 @@
+{
+    "AllIds": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009,
+        10010,
+        10011,
+        10012,
+        10013,
+        10014,
+        10015,
+        10016,
+        10017,
+        10018,
+        10019,
+        10020,
+        10021,
+        10022,
+        10023,
+        10024,
+        10025,
+        10026,
+        10027,
+        10028,
+        10029,
+        10030,
+        10031
+    ],
+    "Data": {
+        "10016": {
+            "itemcellbackID": 14640,
+            "day": 16,
+            "itemNum": 40,
+            "itemID": 35008,
+            "id": 10016,
+            "monthcardJurisdiction": 0
+        },
+        "10017": {
+            "itemcellbackID": 14640,
+            "day": 17,
+            "itemNum": 5,
+            "itemID": 35048,
+            "id": 10017,
+            "monthcardJurisdiction": 0
+        },
+        "10018": {
+            "itemcellbackID": 14640,
+            "day": 18,
+            "itemNum": 5,
+            "itemID": 74001,
+            "id": 10018,
+            "monthcardJurisdiction": 0
+        },
+        "10019": {
+            "itemcellbackID": 14640,
+            "day": 19,
+            "itemNum": 1,
+            "itemID": 31037,
+            "id": 10019,
+            "monthcardJurisdiction": 0
+        },
+        "10020": {
+            "itemcellbackID": 14640,
+            "day": 20,
+            "itemNum": 100,
+            "itemID": 35018,
+            "id": 10020,
+            "monthcardJurisdiction": 0
+        },
+        "10021": {
+            "itemcellbackID": 14641,
+            "day": 21,
+            "itemNum": 100,
+            "itemID": 35008,
+            "id": 10021,
+            "monthcardJurisdiction": 1
+        },
+        "10022": {
+            "itemcellbackID": 14640,
+            "day": 22,
+            "itemNum": 1,
+            "itemID": 70001,
+            "id": 10022,
+            "monthcardJurisdiction": 0
+        },
+        "10023": {
+            "itemcellbackID": 14640,
+            "day": 23,
+            "itemNum": 40,
+            "itemID": 35008,
+            "id": 10023,
+            "monthcardJurisdiction": 0
+        },
+        "10024": {
+            "itemcellbackID": 14640,
+            "day": 24,
+            "itemNum": 5,
+            "itemID": 35048,
+            "id": 10024,
+            "monthcardJurisdiction": 0
+        },
+        "10025": {
+            "itemcellbackID": 14640,
+            "day": 25,
+            "itemNum": 5,
+            "itemID": 74001,
+            "id": 10025,
+            "monthcardJurisdiction": 0
+        },
+        "10026": {
+            "itemcellbackID": 14640,
+            "day": 26,
+            "itemNum": 1,
+            "itemID": 31037,
+            "id": 10026,
+            "monthcardJurisdiction": 0
+        },
+        "10027": {
+            "itemcellbackID": 14640,
+            "day": 27,
+            "itemNum": 100,
+            "itemID": 35018,
+            "id": 10027,
+            "monthcardJurisdiction": 0
+        },
+        "10028": {
+            "itemcellbackID": 14641,
+            "day": 28,
+            "itemNum": 100,
+            "itemID": 35008,
+            "id": 10028,
+            "monthcardJurisdiction": 1
+        },
+        "10029": {
+            "itemcellbackID": 14640,
+            "day": 29,
+            "itemNum": 1,
+            "itemID": 70001,
+            "id": 10029,
+            "monthcardJurisdiction": 0
+        },
+        "10030": {
+            "itemcellbackID": 14640,
+            "day": 30,
+            "itemNum": 40,
+            "itemID": 35008,
+            "id": 10030,
+            "monthcardJurisdiction": 0
+        },
+        "10031": {
+            "itemcellbackID": 14640,
+            "day": 31,
+            "itemNum": 5,
+            "itemID": 35048,
+            "id": 10031,
+            "monthcardJurisdiction": 0
+        },
+        "10001": {
+            "itemcellbackID": 14640,
+            "day": 1,
+            "itemNum": 1,
+            "itemID": 70001,
+            "id": 10001,
+            "monthcardJurisdiction": 0
+        },
+        "10002": {
+            "itemcellbackID": 14640,
+            "day": 2,
+            "itemNum": 40,
+            "itemID": 35008,
+            "id": 10002,
+            "monthcardJurisdiction": 0
+        },
+        "10003": {
+            "itemcellbackID": 14640,
+            "day": 3,
+            "itemNum": 5,
+            "itemID": 35048,
+            "id": 10003,
+            "monthcardJurisdiction": 0
+        },
+        "10004": {
+            "itemcellbackID": 14640,
+            "day": 4,
+            "itemNum": 5,
+            "itemID": 74001,
+            "id": 10004,
+            "monthcardJurisdiction": 0
+        },
+        "10005": {
+            "itemcellbackID": 14640,
+            "day": 5,
+            "itemNum": 1,
+            "itemID": 31037,
+            "id": 10005,
+            "monthcardJurisdiction": 0
+        },
+        "10006": {
+            "itemcellbackID": 14640,
+            "day": 6,
+            "itemNum": 100,
+            "itemID": 35018,
+            "id": 10006,
+            "monthcardJurisdiction": 0
+        },
+        "10007": {
+            "itemcellbackID": 14641,
+            "day": 7,
+            "itemNum": 100,
+            "itemID": 35008,
+            "id": 10007,
+            "monthcardJurisdiction": 1
+        },
+        "10008": {
+            "itemcellbackID": 14640,
+            "day": 8,
+            "itemNum": 1,
+            "itemID": 70001,
+            "id": 10008,
+            "monthcardJurisdiction": 0
+        },
+        "10009": {
+            "itemcellbackID": 14640,
+            "day": 9,
+            "itemNum": 40,
+            "itemID": 35008,
+            "id": 10009,
+            "monthcardJurisdiction": 0
+        },
+        "10010": {
+            "itemcellbackID": 14640,
+            "day": 10,
+            "itemNum": 5,
+            "itemID": 35048,
+            "id": 10010,
+            "monthcardJurisdiction": 0
+        },
+        "10011": {
+            "itemcellbackID": 14640,
+            "day": 11,
+            "itemNum": 5,
+            "itemID": 74001,
+            "id": 10011,
+            "monthcardJurisdiction": 0
+        },
+        "10012": {
+            "itemcellbackID": 14640,
+            "day": 12,
+            "itemNum": 1,
+            "itemID": 31037,
+            "id": 10012,
+            "monthcardJurisdiction": 0
+        },
+        "10013": {
+            "itemcellbackID": 14640,
+            "day": 13,
+            "itemNum": 100,
+            "itemID": 35018,
+            "id": 10013,
+            "monthcardJurisdiction": 0
+        },
+        "10014": {
+            "itemcellbackID": 14641,
+            "day": 14,
+            "itemNum": 100,
+            "itemID": 35008,
+            "id": 10014,
+            "monthcardJurisdiction": 1
+        },
+        "10015": {
+            "itemcellbackID": 14640,
+            "day": 15,
+            "itemNum": 1,
+            "itemID": 70001,
+            "id": 10015,
+            "monthcardJurisdiction": 0
+        }
+    }
+}

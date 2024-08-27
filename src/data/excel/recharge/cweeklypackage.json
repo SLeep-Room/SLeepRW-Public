@@ -1,0 +1,66 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 2,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 3,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 4,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 5,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 6,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 7,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 8,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 9,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        },
+        {
+            "id": 10,
+            "CloseTime": "0",
+            "OpenTime": "0"
+        }
+    ]
+}

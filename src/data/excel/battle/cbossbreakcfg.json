@@ -1,0 +1,1950 @@
+{
+    "AllIds": [
+        10015,
+        20001,
+        20007,
+        20008,
+        20014,
+        20015,
+        20056,
+        20057,
+        20058,
+        20160,
+        20161,
+        20167,
+        20168,
+        20174,
+        20180,
+        20181,
+        20182,
+        20187,
+        20190,
+        20191,
+        20192,
+        20193,
+        20194,
+        20195,
+        20196,
+        20197,
+        20202,
+        20203,
+        20204,
+        20205,
+        20209,
+        20213,
+        20215,
+        20216,
+        20218,
+        20220,
+        20223,
+        20224,
+        20225,
+        20226,
+        20227,
+        20228,
+        20229,
+        20230,
+        20231,
+        20232,
+        20233,
+        20239,
+        20240,
+        20241,
+        20242,
+        20243,
+        60001,
+        60002,
+        60003,
+        60004,
+        60005,
+        60006,
+        60009,
+        60012,
+        60018,
+        60019,
+        60020,
+        60021,
+        60022,
+        60023,
+        60025,
+        60026,
+        60027,
+        60033,
+        60034,
+        60035,
+        60037,
+        60038,
+        60039,
+        60043,
+        60044,
+        62018,
+        62019,
+        62020,
+        62038,
+        62039,
+        62040,
+        62058,
+        62059,
+        62060,
+        62078,
+        62079,
+        62080,
+        62098,
+        62099,
+        62100,
+        62118,
+        62119,
+        62120,
+        62138,
+        62139,
+        62140,
+        62158,
+        62159,
+        62160,
+        62178,
+        62179,
+        62180,
+        63001,
+        63002,
+        63003,
+        63004,
+        63005,
+        63006,
+        63007,
+        63008,
+        63009,
+        63010,
+        63011,
+        64008,
+        65008,
+        66027,
+        66028,
+        66055,
+        66056
+    ],
+    "Data": {
+        "20224": {
+            "id": 20224,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20225": {
+            "id": 20225,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20226": {
+            "id": 20226,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20227": {
+            "id": 20227,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20228": {
+            "id": 20228,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20958",
+                "20958",
+                "20958"
+            ]
+        },
+        "20229": {
+            "id": 20229,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20230": {
+            "id": 20230,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "20231": {
+            "id": 20231,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822"
+            ]
+        },
+        "20232": {
+            "id": 20232,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "20233": {
+            "id": 20233,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "60043": {
+            "id": 60043,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "60044": {
+            "id": 60044,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "20239": {
+            "id": 20239,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "20240": {
+            "id": 20240,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20241": {
+            "id": 20241,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "20242": {
+            "id": 20242,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20243": {
+            "id": 20243,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62100": {
+            "id": 62100,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63001": {
+            "id": 63001,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63002": {
+            "id": 63002,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63003": {
+            "id": 63003,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63004": {
+            "id": 63004,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63005": {
+            "id": 63005,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63006": {
+            "id": 63006,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "10015": {
+            "id": 10015,
+            "breakbuffattr": [
+                "{time=30;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=30;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=30;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63008": {
+            "id": 63008,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=99999}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20211",
+                "20083",
+                "20083"
+            ]
+        },
+        "20001": {
+            "id": 20001,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63010": {
+            "id": 63010,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63011": {
+            "id": 63011,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "66056": {
+            "id": 66056,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "66055": {
+            "id": 66055,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "62118": {
+            "id": 62118,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20007": {
+            "id": 20007,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20008": {
+            "id": 20008,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "66028": {
+            "id": 66028,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "66027": {
+            "id": 66027,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "60012": {
+            "id": 60012,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "64008": {
+            "id": 64008,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63009": {
+            "id": 63009,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20014": {
+            "id": 20014,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20015": {
+            "id": 20015,
+            "breakbuffattr": [
+                "{time=1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20107",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "63007": {
+            "id": 63007,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62180": {
+            "id": 62180,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62179": {
+            "id": 62179,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62178": {
+            "id": 62178,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60038": {
+            "id": 60038,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "60039": {
+            "id": 60039,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "62158": {
+            "id": 62158,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62099": {
+            "id": 62099,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62119": {
+            "id": 62119,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62120": {
+            "id": 62120,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62138": {
+            "id": 62138,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62139": {
+            "id": 62139,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62140": {
+            "id": 62140,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62098": {
+            "id": 62098,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62080": {
+            "id": 62080,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62079": {
+            "id": 62079,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20160": {
+            "id": 20160,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20161": {
+            "id": 20161,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=99999}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20211",
+                "20083",
+                "20083"
+            ]
+        },
+        "62018": {
+            "id": 62018,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62019": {
+            "id": 62019,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62020": {
+            "id": 62020,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60001": {
+            "id": 60001,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "62060": {
+            "id": 62060,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20167": {
+            "id": 20167,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20168": {
+            "id": 20168,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62059": {
+            "id": 62059,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62058": {
+            "id": 62058,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62040": {
+            "id": 62040,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60033": {
+            "id": 60033,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822"
+            ]
+        },
+        "62038": {
+            "id": 62038,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20174": {
+            "id": 20174,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62159": {
+            "id": 62159,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62160": {
+            "id": 62160,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60037": {
+            "id": 60037,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "60035": {
+            "id": 60035,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "60034": {
+            "id": 60034,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822"
+            ]
+        },
+        "20180": {
+            "id": 20180,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20181": {
+            "id": 20181,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20182": {
+            "id": 20182,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "62039": {
+            "id": 62039,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20056": {
+            "id": 20056,
+            "breakbuffattr": [
+                "{time=9999999;physicalreduce_value=10000;magicreduce_value=10000;physicalbonus_value=10000;magicbonus_value=10000}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20109",
+                "20083"
+            ]
+        },
+        "20057": {
+            "id": 20057,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083"
+            ]
+        },
+        "20058": {
+            "id": 20058,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083"
+            ]
+        },
+        "20187": {
+            "id": 20187,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60003": {
+            "id": 60003,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "60026": {
+            "id": 60026,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822"
+            ]
+        },
+        "20190": {
+            "id": 20190,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20191": {
+            "id": 20191,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20192": {
+            "id": 20192,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20193": {
+            "id": 20193,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20194": {
+            "id": 20194,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20195": {
+            "id": 20195,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20196": {
+            "id": 20196,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=99999}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20211",
+                "20083",
+                "20083"
+            ]
+        },
+        "20197": {
+            "id": 20197,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=99999}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20211",
+                "20083",
+                "20083"
+            ]
+        },
+        "60006": {
+            "id": 60006,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790",
+                "20083"
+            ]
+        },
+        "60004": {
+            "id": 60004,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790",
+                "20083"
+            ]
+        },
+        "60023": {
+            "id": 60023,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "60009": {
+            "id": 60009,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "20202": {
+            "id": 20202,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083"
+            ]
+        },
+        "20203": {
+            "id": 20203,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20602",
+                "20602",
+                "20602",
+                "20602",
+                "20602"
+            ]
+        },
+        "20204": {
+            "id": 20204,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20205": {
+            "id": 20205,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60005": {
+            "id": 60005,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790",
+                "20083"
+            ]
+        },
+        "60021": {
+            "id": 60021,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "65008": {
+            "id": 65008,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20209": {
+            "id": 20209,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=99999}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20211",
+                "20083",
+                "20083"
+            ]
+        },
+        "60018": {
+            "id": 60018,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822"
+            ]
+        },
+        "60019": {
+            "id": 60019,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822"
+            ]
+        },
+        "60020": {
+            "id": 60020,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "20213": {
+            "id": 20213,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60022": {
+            "id": 60022,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "20215": {
+            "id": 20215,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20216": {
+            "id": 20216,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60025": {
+            "id": 60025,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822"
+            ]
+        },
+        "20218": {
+            "id": 20218,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60027": {
+            "id": 60027,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20822",
+                "20822",
+                "20822"
+            ]
+        },
+        "20220": {
+            "id": 20220,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "60002": {
+            "id": 60002,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20790"
+            ]
+        },
+        "62078": {
+            "id": 62078,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        },
+        "20223": {
+            "id": 20223,
+            "breakbuffattr": [
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}",
+                "{time=150;physicalreduce_value=-1;magicreduce_value=-1}"
+            ],
+            "breakbuff": [
+                "20083",
+                "20083",
+                "20083",
+                "20083",
+                "20083"
+            ]
+        }
+    }
+}

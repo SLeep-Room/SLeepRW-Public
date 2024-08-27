@@ -1,0 +1,182 @@
+{
+    "Data": [
+        {
+            "neednum": 10,
+            "rewardquantity": [
+                200000
+            ],
+            "id": 1,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 20,
+            "rewardquantity": [
+                10
+            ],
+            "id": 2,
+            "rewarditem": [
+                74001
+            ]
+        },
+        {
+            "neednum": 30,
+            "rewardquantity": [
+                5
+            ],
+            "id": 3,
+            "rewarditem": [
+                75003
+            ]
+        },
+        {
+            "neednum": 40,
+            "rewardquantity": [
+                5
+            ],
+            "id": 4,
+            "rewarditem": [
+                75004
+            ]
+        },
+        {
+            "neednum": 50,
+            "rewardquantity": [
+                5
+            ],
+            "id": 5,
+            "rewarditem": [
+                75005
+            ]
+        },
+        {
+            "neednum": 60,
+            "rewardquantity": [
+                10
+            ],
+            "id": 6,
+            "rewarditem": [
+                74002
+            ]
+        },
+        {
+            "neednum": 70,
+            "rewardquantity": [
+                500000
+            ],
+            "id": 7,
+            "rewarditem": [
+                35002
+            ]
+        },
+        {
+            "neednum": 80,
+            "rewardquantity": [
+                10
+            ],
+            "id": 8,
+            "rewarditem": [
+                74001
+            ]
+        },
+        {
+            "neednum": 100,
+            "rewardquantity": [
+                10
+            ],
+            "id": 9,
+            "rewarditem": [
+                75005
+            ]
+        },
+        {
+            "neednum": 110,
+            "rewardquantity": [
+                100
+            ],
+            "id": 10,
+            "rewarditem": [
+                35008
+            ]
+        },
+        {
+            "neednum": 130,
+            "rewardquantity": [
+                1
+            ],
+            "id": 11,
+            "rewarditem": [
+                30076
+            ]
+        },
+        {
+            "neednum": 150,
+            "rewardquantity": [
+                10
+            ],
+            "id": 12,
+            "rewarditem": [
+                74002
+            ]
+        },
+        {
+            "neednum": 170,
+            "rewardquantity": [
+                5
+            ],
+            "id": 13,
+            "rewarditem": [
+                75018
+            ]
+        },
+        {
+            "neednum": 200,
+            "rewardquantity": [
+                5
+            ],
+            "id": 14,
+            "rewarditem": [
+                74005
+            ]
+        },
+        {
+            "neednum": 220,
+            "rewardquantity": [
+                200
+            ],
+            "id": 15,
+            "rewarditem": [
+                35008
+            ]
+        },
+        {
+            "neednum": 250,
+            "rewardquantity": [
+                2
+            ],
+            "id": 16,
+            "rewarditem": [
+                30076
+            ]
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+    ]
+}

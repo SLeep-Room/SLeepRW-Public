@@ -1,0 +1,150 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+    ],
+    "Data": [
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 12999,
+            "id": 1,
+            "skipTime": -1,
+            "dialogList": "1-18"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 12999,
+            "id": 2,
+            "skipTime": -1,
+            "dialogList": "19-32"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 12999,
+            "id": 3,
+            "skipTime": -1,
+            "dialogList": "33-44"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 12999,
+            "id": 4,
+            "skipTime": -1,
+            "dialogList": "45-59"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 12999,
+            "id": 5,
+            "skipTime": -1,
+            "dialogList": "60-77"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 12999,
+            "id": 6,
+            "skipTime": -1,
+            "dialogList": "78-114"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 13000,
+            "id": 7,
+            "skipTime": -1,
+            "dialogList": "115-120"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 13000,
+            "id": 8,
+            "skipTime": -1,
+            "dialogList": "121-131"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 12999,
+            "id": 9,
+            "skipTime": -1,
+            "dialogList": "132-142"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 12999,
+            "id": 10,
+            "skipTime": -1,
+            "dialogList": "143-156"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 13000,
+            "id": 11,
+            "skipTime": -1,
+            "dialogList": "157-174"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 13000,
+            "id": 12,
+            "skipTime": -1,
+            "dialogList": "175-187"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 13000,
+            "id": 13,
+            "skipTime": -1,
+            "dialogList": "188-197"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 13000,
+            "id": 14,
+            "skipTime": -1,
+            "dialogList": "198-202"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 13000,
+            "id": 15,
+            "skipTime": -1,
+            "dialogList": "203-219"
+        },
+        {
+            "canSkip": 1,
+            "nextDialog": 0,
+            "bgImage": 13000,
+            "id": 16,
+            "skipTime": -1,
+            "dialogList": "220-263"
+        }
+    ]
+}

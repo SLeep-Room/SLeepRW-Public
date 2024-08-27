@@ -1,0 +1,16 @@
+{
+    "ProtocolID":"协议ID",
+    "Online":"在线",
+    "Offline":"下线",
+    "ReceivedPacket":"返回数据包",
+    "QuitGame":"离开游戏",
+    "RegisterAccount":"注册账号",
+    "NotFoundHandler":"没有找到对应Handler",
+    "SendBigPacket":"发送登录数据包",
+    "SendPacket":"发送数据包",
+    "UnknowError":"未知错误",
+    "ClientLoginSuccess":"客户端登陆成功",
+    "ClientDisConnect":"客户端断开连接",
+    "SendPacketError":"发送数据包时发生错误",
+    "CanotFoundProtocolName":"无法找到对应的协议名称"
+}

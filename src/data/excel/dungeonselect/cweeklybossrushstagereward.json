@@ -1,0 +1,135 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "Data": [
+        {
+            "stagecondition": 0,
+            "rewardid": [
+                31386,
+                31380,
+                31383
+            ],
+            "id": 1,
+            "rewardnum": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "stagecondition": 2,
+            "rewardid": [
+                31389,
+                31386,
+                31380
+            ],
+            "id": 2,
+            "rewardnum": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "stagecondition": 4,
+            "rewardid": [
+                31386,
+                31383,
+                31389
+            ],
+            "id": 3,
+            "rewardnum": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "stagecondition": 6,
+            "rewardid": [
+                31380,
+                31383,
+                31389
+            ],
+            "id": 4,
+            "rewardnum": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "stagecondition": 8,
+            "rewardid": [
+                31387,
+                31383,
+                31389
+            ],
+            "id": 5,
+            "rewardnum": [
+                5,
+                10,
+                10
+            ]
+        },
+        {
+            "stagecondition": 10,
+            "rewardid": [
+                31381,
+                31386,
+                31380
+            ],
+            "id": 6,
+            "rewardnum": [
+                5,
+                10,
+                10
+            ]
+        },
+        {
+            "stagecondition": 12,
+            "rewardid": [
+                31384,
+                31390
+            ],
+            "id": 7,
+            "rewardnum": [
+                5,
+                5
+            ]
+        },
+        {
+            "stagecondition": 14,
+            "rewardid": [
+                31387,
+                31381
+            ],
+            "id": 8,
+            "rewardnum": [
+                5,
+                5
+            ]
+        },
+        {
+            "stagecondition": 16,
+            "rewardid": [
+                31384,
+                31390
+            ],
+            "id": 9,
+            "rewardnum": [
+                5,
+                5
+            ]
+        }
+    ]
+}

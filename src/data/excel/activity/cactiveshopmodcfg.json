@@ -1,0 +1,22 @@
+{
+    "AllIds": [
+        45001,
+        45002
+    ],
+    "Data": {
+        "45002": {
+            "shopBuyBtn": 15601,
+            "id": 45002,
+            "shopBuyBtnPre": 15601,
+            "skinShopType": 0,
+            "shopCellBackImg": 15586
+        },
+        "45001": {
+            "shopBuyBtn": 15041,
+            "id": 45001,
+            "shopBuyBtnPre": 15041,
+            "skinShopType": 0,
+            "shopCellBackImg": 15012
+        }
+    }
+}

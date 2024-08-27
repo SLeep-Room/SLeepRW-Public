@@ -1,0 +1,3240 @@
+{
+    "AllIds": [
+        1001,
+        1004,
+        1008,
+        1017,
+        1018,
+        1019,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029,
+        1030,
+        1031,
+        1032,
+        1033,
+        1034,
+        1035,
+        1036,
+        1037,
+        1038,
+        1039,
+        1040,
+        1041,
+        1042,
+        1043,
+        1044,
+        1045,
+        1046,
+        1047,
+        1048,
+        1049,
+        1050,
+        1051,
+        1052,
+        1053,
+        1054,
+        1055,
+        1056,
+        1057,
+        1058,
+        1059,
+        1060,
+        1061,
+        1062,
+        1063,
+        1064,
+        1065,
+        1066,
+        1067,
+        1068,
+        1069,
+        1070,
+        1071,
+        1072,
+        1073,
+        1074,
+        1075,
+        1076,
+        1077,
+        1078,
+        1079,
+        1080,
+        1081,
+        1082,
+        1083,
+        1084,
+        1085,
+        1086,
+        1087,
+        1088,
+        1089,
+        1090,
+        1091,
+        1092,
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1098,
+        1099,
+        1100,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105,
+        1107,
+        1109,
+        1110,
+        1111,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1117,
+        1118,
+        1119,
+        1120,
+        1121,
+        1122,
+        1123,
+        1124,
+        1125,
+        1126,
+        1127,
+        1128,
+        1129,
+        1131,
+        1132,
+        1133,
+        1134,
+        1135,
+        1136,
+        1137,
+        1138,
+        1139,
+        1140,
+        1142,
+        1144,
+        1145,
+        1146,
+        1147,
+        1148,
+        1149,
+        1150,
+        1152,
+        1154,
+        1155,
+        1156,
+        1157,
+        1160,
+        1161,
+        1162,
+        1163,
+        1164,
+        1165,
+        1166,
+        1167,
+        1168,
+        1169,
+        1170,
+        1171,
+        1172,
+        1173,
+        1174,
+        1175,
+        1176,
+        1177,
+        1178,
+        1179,
+        1180,
+        1181,
+        1183,
+        1184,
+        1185,
+        1186,
+        1187,
+        1188,
+        1189,
+        1190,
+        1191,
+        1192,
+        1193,
+        1194,
+        1195,
+        1196,
+        1197,
+        1198,
+        1199,
+        1200,
+        1201,
+        1202,
+        1203,
+        1204,
+        1205,
+        1206,
+        1207,
+        1208,
+        1209,
+        1210,
+        1211,
+        1212,
+        1213,
+        1214,
+        1215,
+        1216,
+        1217,
+        1218,
+        1219,
+        1220,
+        1221,
+        1222,
+        1223,
+        1224,
+        1225,
+        1226,
+        1227,
+        1228,
+        1229,
+        1230,
+        1231,
+        1232,
+        1234,
+        1235,
+        1236,
+        1237,
+        1238,
+        1239,
+        1240,
+        1241,
+        1242,
+        1243,
+        1244,
+        1245,
+        1246,
+        1247,
+        1248,
+        1249,
+        1250,
+        1251,
+        1252,
+        1253,
+        1254,
+        1255,
+        1256,
+        1257,
+        1258,
+        1259,
+        1260,
+        1261,
+        1262,
+        1263,
+        1264,
+        1265,
+        1266,
+        1267,
+        1268,
+        1269,
+        1270,
+        1271,
+        1272,
+        1273,
+        1274,
+        1275,
+        1276,
+        1277,
+        1278,
+        1279,
+        1280,
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1286,
+        1287,
+        1288,
+        1289,
+        1290,
+        1291,
+        1292,
+        1293,
+        1294,
+        1295,
+        1296,
+        1297,
+        1298,
+        1299,
+        1300,
+        1301,
+        1302,
+        1303,
+        1305,
+        1306,
+        1307,
+        1308,
+        1309,
+        1310,
+        1311,
+        1312,
+        1313,
+        1314,
+        1315,
+        1316,
+        1317,
+        1318,
+        1319,
+        1320,
+        1321,
+        1322,
+        1323,
+        1324,
+        1325,
+        1326,
+        1327,
+        1328,
+        1329,
+        1330,
+        1331,
+        1332,
+        1333,
+        1334,
+        1335,
+        1336,
+        1337,
+        1338,
+        1339,
+        1340,
+        1341,
+        1342,
+        1343,
+        1344,
+        1345,
+        1346,
+        1347,
+        1348,
+        1349,
+        1350,
+        1351,
+        1352,
+        1353,
+        1354,
+        1355,
+        1356,
+        1357,
+        1358,
+        1359,
+        1360,
+        1361,
+        1362,
+        1363,
+        1364,
+        1365,
+        1366,
+        1367,
+        1368,
+        1369,
+        1370,
+        1371,
+        1372,
+        1373,
+        1374,
+        1375,
+        1376,
+        1377,
+        1378,
+        1379,
+        1380,
+        1381,
+        1382,
+        1383,
+        1384,
+        1385,
+        1386,
+        1387,
+        1388,
+        1389,
+        1390,
+        1391,
+        1392,
+        1393,
+        1394,
+        1395,
+        1396,
+        1397,
+        1398,
+        1399,
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1406,
+        1407,
+        1408,
+        1409,
+        1410,
+        1411,
+        1412,
+        1413,
+        1414,
+        1415,
+        1416,
+        1417,
+        1418,
+        1419,
+        1420,
+        1421,
+        1422,
+        1423,
+        1424,
+        1425,
+        1426,
+        1427,
+        1428,
+        1429,
+        1430,
+        1431,
+        1432,
+        1433,
+        1434,
+        1435,
+        1436,
+        1437,
+        1438,
+        1439,
+        1440,
+        1441,
+        1442,
+        1443,
+        1444,
+        1445,
+        1446,
+        1447,
+        1448,
+        1449,
+        1450,
+        1451,
+        1452,
+        1453,
+        1454,
+        1455,
+        1456,
+        1457,
+        1458,
+        1459,
+        1460,
+        1461,
+        1462,
+        1463,
+        1464,
+        1465,
+        1466,
+        1468,
+        1469,
+        1470,
+        1471,
+        1472,
+        1473,
+        1474,
+        1475,
+        1476,
+        1477,
+        1479,
+        1480,
+        1483,
+        1484,
+        1485,
+        1486,
+        1487,
+        1488,
+        1489,
+        1490,
+        1491,
+        1492
+    ],
+    "Data": {
+        "1024": {
+            "story": 0,
+            "id": 1024,
+            "Path": "FirstSceneTopDown_06",
+            "Name": 11000
+        },
+        "1025": {
+            "story": 0,
+            "id": 1025,
+            "Path": "FirstSceneTopDown_07",
+            "Name": 11000
+        },
+        "1026": {
+            "story": 0,
+            "id": 1026,
+            "Path": "FirstSceneTopDown_08",
+            "Name": 11000
+        },
+        "1027": {
+            "story": 0,
+            "id": 1027,
+            "Path": "FirstSceneTopDown_09",
+            "Name": 11000
+        },
+        "1028": {
+            "story": 0,
+            "id": 1028,
+            "Path": "Common_Upstairs",
+            "Name": 10001
+        },
+        "1029": {
+            "story": 0,
+            "id": 1029,
+            "Path": "Common_Upstairs_NoGap",
+            "Name": 10001
+        },
+        "1030": {
+            "story": 0,
+            "id": 1030,
+            "Path": "T1_Area_04_ForBuild_01",
+            "Name": 10001
+        },
+        "1031": {
+            "story": 0,
+            "id": 1031,
+            "Path": "T1_Area_04_ForBuild_02",
+            "Name": 10001
+        },
+        "1032": {
+            "story": 0,
+            "id": 1032,
+            "Path": "Common_Upstairs",
+            "Name": 10002
+        },
+        "1033": {
+            "story": 0,
+            "id": 1033,
+            "Path": "Common_Upstairs_NoGap",
+            "Name": 10002
+        },
+        "1034": {
+            "story": 0,
+            "id": 1034,
+            "Path": "T1_Area_12_ForBuild_01",
+            "Name": 10011
+        },
+        "1035": {
+            "story": 0,
+            "id": 1035,
+            "Path": "T1_Area_12_ForBuild_02",
+            "Name": 10011
+        },
+        "1036": {
+            "story": 0,
+            "id": 1036,
+            "Path": "T1_Area_05_ForBuild_01",
+            "Name": 10002
+        },
+        "1037": {
+            "story": 0,
+            "id": 1037,
+            "Path": "Common_Upstairs",
+            "Name": 10003
+        },
+        "1038": {
+            "story": 0,
+            "id": 1038,
+            "Path": "Common_Upstairs_NoGap",
+            "Name": 10003
+        },
+        "1039": {
+            "story": 0,
+            "id": 1039,
+            "Path": "Common_Upstairs",
+            "Name": 10004
+        },
+        "1040": {
+            "story": 0,
+            "id": 1040,
+            "Path": "Common_Upstairs_NoGap",
+            "Name": 10004
+        },
+        "1041": {
+            "story": 0,
+            "id": 1041,
+            "Path": "T1_Area_07_ForBuild_11",
+            "Name": 10004
+        },
+        "1042": {
+            "story": 0,
+            "id": 1042,
+            "Path": "T1_Area_10_ForBuild_01",
+            "Name": 10007
+        },
+        "1043": {
+            "story": 0,
+            "id": 1043,
+            "Path": "Common_Upstairs",
+            "Name": 10007
+        },
+        "1044": {
+            "story": 0,
+            "id": 1044,
+            "Path": "Common_Upstairs_NoGap",
+            "Name": 10007
+        },
+        "1045": {
+            "story": 0,
+            "id": 1045,
+            "Path": "T1_Area_10_ForBuild_02",
+            "Name": 10007
+        },
+        "1046": {
+            "story": 0,
+            "id": 1046,
+            "Path": "Common_Upstairs",
+            "Name": 10005
+        },
+        "1047": {
+            "story": 0,
+            "id": 1047,
+            "Path": "Common_Upstairs_DownSide",
+            "Name": 10005
+        },
+        "1048": {
+            "story": 0,
+            "id": 1048,
+            "Path": "Common_Upstairs",
+            "Name": 10011
+        },
+        "1049": {
+            "story": 0,
+            "id": 1049,
+            "Path": "FirstSceneTopDown_01",
+            "Name": 11000
+        },
+        "1050": {
+            "story": 0,
+            "id": 1050,
+            "Path": "T1_Area_07_ForBuild_10",
+            "Name": 10004
+        },
+        "1051": {
+            "story": 0,
+            "id": 1051,
+            "Path": "T1_Area_10_ForBuild_04",
+            "Name": 10007
+        },
+        "1052": {
+            "story": 0,
+            "id": 1052,
+            "Path": "T1_Area_10_ForBuild_04",
+            "Name": 10005
+        },
+        "1053": {
+            "story": 0,
+            "id": 1053,
+            "Path": "T1_Area_12_ForBuild_05",
+            "Name": 10011
+        },
+        "1054": {
+            "story": 0,
+            "id": 1054,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12002
+        },
+        "1055": {
+            "story": 0,
+            "id": 1055,
+            "Path": "W1_Area_02_Exit",
+            "Name": 12002
+        },
+        "1056": {
+            "story": 0,
+            "id": 1056,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12003
+        },
+        "1057": {
+            "story": 0,
+            "id": 1057,
+            "Path": "W1_Area_03_Exit",
+            "Name": 12003
+        },
+        "1058": {
+            "story": 0,
+            "id": 1058,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12004
+        },
+        "1059": {
+            "story": 0,
+            "id": 1059,
+            "Path": "W1_Area_04_Exit",
+            "Name": 12004
+        },
+        "1060": {
+            "story": 0,
+            "id": 1060,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12005
+        },
+        "1061": {
+            "story": 0,
+            "id": 1061,
+            "Path": "W1_Area_05_Exit",
+            "Name": 12005
+        },
+        "1062": {
+            "story": 0,
+            "id": 1062,
+            "Path": "Common_EnterScene_down",
+            "Name": 12006
+        },
+        "1063": {
+            "story": 0,
+            "id": 1063,
+            "Path": "W1_Area_06_Exit",
+            "Name": 12006
+        },
+        "1064": {
+            "story": 0,
+            "id": 1064,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12007
+        },
+        "1065": {
+            "story": 0,
+            "id": 1065,
+            "Path": "W1_Area_07_Exit1",
+            "Name": 12007
+        },
+        "1066": {
+            "story": 0,
+            "id": 1066,
+            "Path": "W1_Area_07_Exit2",
+            "Name": 12007
+        },
+        "1067": {
+            "story": 0,
+            "id": 1067,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12008
+        },
+        "1068": {
+            "story": 0,
+            "id": 1068,
+            "Path": "W1_Area_08_Exit",
+            "Name": 12008
+        },
+        "1069": {
+            "story": 0,
+            "id": 1069,
+            "Path": "Common_EnterScene_down",
+            "Name": 12009
+        },
+        "1070": {
+            "story": 0,
+            "id": 1070,
+            "Path": "W1_Area_09_Exit",
+            "Name": 12009
+        },
+        "1071": {
+            "story": 0,
+            "id": 1071,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12010
+        },
+        "1072": {
+            "story": 0,
+            "id": 1072,
+            "Path": "W1_Area_10_Exit",
+            "Name": 12010
+        },
+        "1073": {
+            "story": 0,
+            "id": 1073,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12011
+        },
+        "1074": {
+            "story": 0,
+            "id": 1074,
+            "Path": "W1_Area_11_Exit 1",
+            "Name": 12011
+        },
+        "1075": {
+            "story": 0,
+            "id": 1075,
+            "Path": "W1_Area_11_Exit 2",
+            "Name": 12011
+        },
+        "1076": {
+            "story": 0,
+            "id": 1076,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12012
+        },
+        "1077": {
+            "story": 0,
+            "id": 1077,
+            "Path": "W1_Area_12_Exit",
+            "Name": 12012
+        },
+        "1078": {
+            "story": 0,
+            "id": 1078,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12013
+        },
+        "1079": {
+            "story": 0,
+            "id": 1079,
+            "Path": "W1_Area_13_Exit",
+            "Name": 12013
+        },
+        "1080": {
+            "story": 0,
+            "id": 1080,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12014
+        },
+        "1081": {
+            "story": 0,
+            "id": 1081,
+            "Path": "W1_Area_14_Exit",
+            "Name": 12014
+        },
+        "1082": {
+            "story": 0,
+            "id": 1082,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12015
+        },
+        "1083": {
+            "story": 0,
+            "id": 1083,
+            "Path": "W1_Area_15_Exit",
+            "Name": 12015
+        },
+        "1084": {
+            "story": 0,
+            "id": 1084,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12016
+        },
+        "1085": {
+            "story": 0,
+            "id": 1085,
+            "Path": "W1_Area_16_Exit",
+            "Name": 12016
+        },
+        "1086": {
+            "story": 0,
+            "id": 1086,
+            "Path": "Common_EnterScene_down",
+            "Name": 12017
+        },
+        "1087": {
+            "story": 0,
+            "id": 1087,
+            "Path": "W1_Area_17_Exit",
+            "Name": 12017
+        },
+        "1088": {
+            "story": 0,
+            "id": 1088,
+            "Path": "Common_EnterScene_down",
+            "Name": 12018
+        },
+        "1089": {
+            "story": 0,
+            "id": 1089,
+            "Path": "W1_Area_18_Exit",
+            "Name": 12018
+        },
+        "1090": {
+            "story": 0,
+            "id": 1090,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12019
+        },
+        "1091": {
+            "story": 0,
+            "id": 1091,
+            "Path": "W1_Area_19_Exit",
+            "Name": 12019
+        },
+        "1092": {
+            "story": 0,
+            "id": 1092,
+            "Path": "Common_EnterScene_GoRight",
+            "Name": 12020
+        },
+        "1093": {
+            "story": 0,
+            "id": 1093,
+            "Path": "W1_Area_20_Exit",
+            "Name": 12020
+        },
+        "1094": {
+            "story": 0,
+            "id": 1094,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12021
+        },
+        "1095": {
+            "story": 0,
+            "id": 1095,
+            "Path": "W1_Area_21_Exit",
+            "Name": 12021
+        },
+        "1096": {
+            "story": 0,
+            "id": 1096,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12022
+        },
+        "1097": {
+            "story": 0,
+            "id": 1097,
+            "Path": "W1_Area_22_Exit",
+            "Name": 12022
+        },
+        "1098": {
+            "story": 0,
+            "id": 1098,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12023
+        },
+        "1099": {
+            "story": 0,
+            "id": 1099,
+            "Path": "W1_Area_23_Exit",
+            "Name": 12023
+        },
+        "1100": {
+            "story": 0,
+            "id": 1100,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12024
+        },
+        "1101": {
+            "story": 0,
+            "id": 1101,
+            "Path": "W1_Area_24_Exit",
+            "Name": 12024
+        },
+        "1102": {
+            "story": 0,
+            "id": 1102,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12025
+        },
+        "1103": {
+            "story": 0,
+            "id": 1103,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12008
+        },
+        "1104": {
+            "story": 0,
+            "id": 1104,
+            "Path": "Common_EnterScene_GoUp",
+            "Name": 12012
+        },
+        "1105": {
+            "story": 0,
+            "id": 1105,
+            "Path": "W1_Area_02_ForBuild_01",
+            "Name": 12002
+        },
+        "1107": {
+            "story": 0,
+            "id": 1107,
+            "Path": "W1_Area_03_ForBuild_01",
+            "Name": 12003
+        },
+        "1109": {
+            "story": 0,
+            "id": 1109,
+            "Path": "W1_Area_07_ForBuild_01",
+            "Name": 12012
+        },
+        "1110": {
+            "story": 0,
+            "id": 1110,
+            "Path": "W1_Area_07_ForBuild_02",
+            "Name": 12007
+        },
+        "1111": {
+            "story": 0,
+            "id": 1111,
+            "Path": "W1_Area_05_ForBuild_02",
+            "Name": 12005
+        },
+        "1112": {
+            "story": 0,
+            "id": 1112,
+            "Path": "W1_Area_05_ForBuild_03",
+            "Name": 12005
+        },
+        "1113": {
+            "story": 0,
+            "id": 1113,
+            "Path": "W1_Area_05_ForBuild_04",
+            "Name": 12005
+        },
+        "1114": {
+            "story": 0,
+            "id": 1114,
+            "Path": "W1_Area_02_ForBuild_03",
+            "Name": 12002
+        },
+        "1115": {
+            "story": 0,
+            "id": 1115,
+            "Path": "T1_Area_10_ForBuild_05",
+            "Name": 10007
+        },
+        "1116": {
+            "story": 0,
+            "id": 1116,
+            "Path": "T1_Area_08_ForBuild_02",
+            "Name": 10005
+        },
+        "1117": {
+            "story": 0,
+            "id": 1117,
+            "Path": "T1_Area_12_ForBuild_03",
+            "Name": 10011
+        },
+        "1118": {
+            "story": 0,
+            "id": 1118,
+            "Path": "T1_Area_12_ForBuild_04",
+            "Name": 10011
+        },
+        "1119": {
+            "story": 0,
+            "id": 1119,
+            "Path": "W1_Area_25_ForBuild_01",
+            "Name": 12025
+        },
+        "1120": {
+            "story": 0,
+            "id": 1120,
+            "Path": "W1_Area_25_ForBuild_02",
+            "Name": 12025
+        },
+        "1121": {
+            "story": 0,
+            "id": 1121,
+            "Path": "W1_Area_03_ForBuild_02",
+            "Name": 12003
+        },
+        "1122": {
+            "story": 0,
+            "id": 1122,
+            "Path": "W1_Area_09_ForBuild_01",
+            "Name": 12009
+        },
+        "1123": {
+            "story": 0,
+            "id": 1123,
+            "Path": "W1_Area_15_ForBuild_01",
+            "Name": 12014
+        },
+        "1124": {
+            "story": 0,
+            "id": 1124,
+            "Path": "W1_Area_16_ForBuild_02",
+            "Name": 12016
+        },
+        "1125": {
+            "story": 0,
+            "id": 1125,
+            "Path": "W1_Area_24_ForBuild_01",
+            "Name": 12024
+        },
+        "1126": {
+            "story": 0,
+            "id": 1126,
+            "Path": "W1_Area_21_ForBuild_01",
+            "Name": 12021
+        },
+        "1127": {
+            "story": 0,
+            "id": 1127,
+            "Path": "W1_Area_21_ForBuild_02",
+            "Name": 12021
+        },
+        "1128": {
+            "story": 0,
+            "id": 1128,
+            "Path": "W1_Area_08_ForBuild_01",
+            "Name": 12008
+        },
+        "1129": {
+            "story": 0,
+            "id": 1129,
+            "Path": "W1_Area_11_ForBuild_01",
+            "Name": 12011
+        },
+        "1131": {
+            "story": 0,
+            "id": 1131,
+            "Path": "W1_Area_22_ForBuild_01",
+            "Name": 12022
+        },
+        "1132": {
+            "story": 0,
+            "id": 1132,
+            "Path": "W1_Area_13_ForBuild_01",
+            "Name": 12013
+        },
+        "1133": {
+            "story": 0,
+            "id": 1133,
+            "Path": "T1_Area_12_ForBuild_end2",
+            "Name": 10011
+        },
+        "1134": {
+            "story": 0,
+            "id": 1134,
+            "Path": "T1_Area_07_ForBuild_12",
+            "Name": 10004
+        },
+        "1135": {
+            "story": 0,
+            "id": 1135,
+            "Path": "T1_Area_12_ForBuild_01VoiceOnly",
+            "Name": 10011
+        },
+        "1136": {
+            "story": 0,
+            "id": 1136,
+            "Path": "T1_Area_12_ForBuild_02VoiceOnly",
+            "Name": 10011
+        },
+        "1137": {
+            "story": 0,
+            "id": 1137,
+            "Path": "T1_Area_08_ForBuild_06",
+            "Name": 10009
+        },
+        "1138": {
+            "story": 0,
+            "id": 1138,
+            "Path": "T1_Area_09_ForBuild_01",
+            "Name": 10010
+        },
+        "1139": {
+            "story": 0,
+            "id": 1139,
+            "Path": "T1_Area_09_ForBuild_02",
+            "Name": 10010
+        },
+        "1140": {
+            "story": 0,
+            "id": 1140,
+            "Path": "T1_Area_09_ForBuild_03",
+            "Name": 10010
+        },
+        "1142": {
+            "story": 0,
+            "id": 1142,
+            "Path": "T1_Area_09_ForBuild_06",
+            "Name": 10010
+        },
+        "1144": {
+            "story": 0,
+            "id": 1144,
+            "Path": "T1_Area_08_ForBuild_07",
+            "Name": 10009
+        },
+        "1145": {
+            "story": 0,
+            "id": 1145,
+            "Path": "W1_Area_04_ForBuild_01",
+            "Name": 12004
+        },
+        "1146": {
+            "story": 0,
+            "id": 1146,
+            "Path": "W1_Area_06_ForBuild_01",
+            "Name": 12006
+        },
+        "1147": {
+            "story": 0,
+            "id": 1147,
+            "Path": "W1_Area_12_ForBuild_01",
+            "Name": 12012
+        },
+        "1148": {
+            "story": 0,
+            "id": 1148,
+            "Path": "W1_Area_12_ForBuild_02",
+            "Name": 12012
+        },
+        "1149": {
+            "story": 0,
+            "id": 1149,
+            "Path": "W1_Area_13_ForBuild_02",
+            "Name": 12013
+        },
+        "1150": {
+            "story": 0,
+            "id": 1150,
+            "Path": "W2_Area_03_ForBuild_01",
+            "Name": 13003
+        },
+        "1152": {
+            "story": 0,
+            "id": 1152,
+            "Path": "W2_Area_04_ForBuild_01",
+            "Name": 13004
+        },
+        "1154": {
+            "story": 0,
+            "id": 1154,
+            "Path": "W2_Area_02_ForBuild_01",
+            "Name": 13002
+        },
+        "1155": {
+            "story": 0,
+            "id": 1155,
+            "Path": "W2_Area_10_ForBuild_01",
+            "Name": 13010
+        },
+        "1156": {
+            "story": 0,
+            "id": 1156,
+            "Path": "W2_Area_35_ForBuild_01",
+            "Name": 13035
+        },
+        "1157": {
+            "story": 0,
+            "id": 1157,
+            "Path": "W2_Area_35_ForBuild_02",
+            "Name": 13035
+        },
+        "1160": {
+            "story": 0,
+            "id": 1160,
+            "Path": "W2_Area_08_ForBuild_01",
+            "Name": 13008
+        },
+        "1161": {
+            "story": 0,
+            "id": 1161,
+            "Path": "W2_Area_10_ForBuild_01",
+            "Name": 13010
+        },
+        "1162": {
+            "story": 0,
+            "id": 1162,
+            "Path": "W2_Area_10_ForBuild_02",
+            "Name": 13010
+        },
+        "1163": {
+            "story": 0,
+            "id": 1163,
+            "Path": "W2_Area_11_ForBuild_01",
+            "Name": 13011
+        },
+        "1164": {
+            "story": 0,
+            "id": 1164,
+            "Path": "W2_Area_14_ForBuild_01",
+            "Name": 13014
+        },
+        "1165": {
+            "story": 0,
+            "id": 1165,
+            "Path": "W2_Area_14_ForBuild_02",
+            "Name": 13014
+        },
+        "1166": {
+            "story": 0,
+            "id": 1166,
+            "Path": "W2_Area_14_ForBuild_03",
+            "Name": 13014
+        },
+        "1167": {
+            "story": 0,
+            "id": 1167,
+            "Path": "W2_Area_15_ForBuild_02",
+            "Name": 13015
+        },
+        "1168": {
+            "story": 0,
+            "id": 1168,
+            "Path": "T1_Area_11_ForBuild_01",
+            "Name": 10012
+        },
+        "1169": {
+            "story": 0,
+            "id": 1169,
+            "Path": "T1_Area_13_ForBuild_01",
+            "Name": 10014
+        },
+        "1170": {
+            "story": 0,
+            "id": 1170,
+            "Path": "T1_Area_20_ForBuild_01",
+            "Name": 10021
+        },
+        "1171": {
+            "story": 0,
+            "id": 1171,
+            "Path": "T1_Area_20_ForBuild_02",
+            "Name": 10021
+        },
+        "1172": {
+            "story": 0,
+            "id": 1172,
+            "Path": "T1_Area_20_ForBuild_03",
+            "Name": 10021
+        },
+        "1173": {
+            "story": 0,
+            "id": 1173,
+            "Path": "T1_Area_12_ForBuild_06",
+            "Name": 10011
+        },
+        "1174": {
+            "story": 0,
+            "id": 1174,
+            "Path": "W2_Area_20_ForBuild_01",
+            "Name": 13020
+        },
+        "1175": {
+            "story": 0,
+            "id": 1175,
+            "Path": "W2_Area_20_ForBuild_02",
+            "Name": 13020
+        },
+        "1176": {
+            "story": 0,
+            "id": 1176,
+            "Path": "W2_Area_24_ForBuild_01",
+            "Name": 13024
+        },
+        "1177": {
+            "story": 0,
+            "id": 1177,
+            "Path": "W2_Area_26_ForBuild_01",
+            "Name": 13026
+        },
+        "1178": {
+            "story": 0,
+            "id": 1178,
+            "Path": "W2_Area_27_ForBuild_01",
+            "Name": 13027
+        },
+        "1179": {
+            "story": 0,
+            "id": 1179,
+            "Path": "W2_Area_27_ForBuild_02",
+            "Name": 13027
+        },
+        "1180": {
+            "story": 0,
+            "id": 1180,
+            "Path": "W2_Area_28_ForBuild_01",
+            "Name": 13028
+        },
+        "1181": {
+            "story": 0,
+            "id": 1181,
+            "Path": "W2_Area_30_ForBuild_01",
+            "Name": 13030
+        },
+        "1183": {
+            "story": 0,
+            "id": 1183,
+            "Path": "W2_Area_33_ForBuild_01",
+            "Name": 13033
+        },
+        "1184": {
+            "story": 0,
+            "id": 1184,
+            "Path": "W2_Area_22_ForBuild_01",
+            "Name": 13022
+        },
+        "1185": {
+            "story": 0,
+            "id": 1185,
+            "Path": "W2_Area_22_ForBuild_02",
+            "Name": 13022
+        },
+        "1186": {
+            "story": 0,
+            "id": 1186,
+            "Path": "W2_Area_18_ForBuild_01",
+            "Name": 13018
+        },
+        "1187": {
+            "story": 0,
+            "id": 1187,
+            "Path": "W2_Area_01_ForBuild_01",
+            "Name": 13001
+        },
+        "1188": {
+            "story": 0,
+            "id": 1188,
+            "Path": "W2_Area_r4_ForBuild_01",
+            "Name": 13104
+        },
+        "1189": {
+            "story": 0,
+            "id": 1189,
+            "Path": "W2_Area_r4_ForBuild_02",
+            "Name": 13104
+        },
+        "1190": {
+            "story": 0,
+            "id": 1190,
+            "Path": "T1_Area_14_ForBuild_01",
+            "Name": 10015
+        },
+        "1191": {
+            "story": 0,
+            "id": 1191,
+            "Path": "T1_Area_14_ForBuild_02",
+            "Name": 10015
+        },
+        "1192": {
+            "story": 0,
+            "id": 1192,
+            "Path": "T1_Area_14_ForBuild_03",
+            "Name": 10015
+        },
+        "1193": {
+            "story": 0,
+            "id": 1193,
+            "Path": "T1_Area_18_ForBuild_01",
+            "Name": 10019
+        },
+        "1194": {
+            "story": 0,
+            "id": 1194,
+            "Path": "W2_Area_01_ForBuild_02",
+            "Name": 13001
+        },
+        "1195": {
+            "story": 0,
+            "id": 1195,
+            "Path": "W2_Area_05_ForBuild_01",
+            "Name": 13005
+        },
+        "1196": {
+            "story": 0,
+            "id": 1196,
+            "Path": "W2_Area_05_ForBuild_02",
+            "Name": 13005
+        },
+        "1197": {
+            "story": 0,
+            "id": 1197,
+            "Path": "T1_Area_04_ForBuild_03",
+            "Name": 10001
+        },
+        "1198": {
+            "story": 0,
+            "id": 1198,
+            "Path": "T1_Area_09_ForBuild_07",
+            "Name": 10010
+        },
+        "1199": {
+            "story": 0,
+            "id": 1199,
+            "Path": "T1_StepBack_Left",
+            "Name": 10007
+        },
+        "1200": {
+            "story": 0,
+            "id": 1200,
+            "Path": "T1_StepBack_Right",
+            "Name": 10015
+        },
+        "1201": {
+            "story": 0,
+            "id": 1201,
+            "Path": "W1_StepBack_Right",
+            "Name": 12005
+        },
+        "1202": {
+            "story": 0,
+            "id": 1202,
+            "Path": "W1_StepBack_Up",
+            "Name": 12021
+        },
+        "1203": {
+            "story": 0,
+            "id": 1203,
+            "Path": "W1_StepBack_Down",
+            "Name": 12025
+        },
+        "1204": {
+            "story": 0,
+            "id": 1204,
+            "Path": "W1_StepBack_Right",
+            "Name": 12013
+        },
+        "1205": {
+            "story": 0,
+            "id": 1205,
+            "Path": "W2_StepBack_Left",
+            "Name": 13005
+        },
+        "1206": {
+            "story": 0,
+            "id": 1206,
+            "Path": "W2_StepBack_Down",
+            "Name": 13010
+        },
+        "1207": {
+            "story": 0,
+            "id": 1207,
+            "Path": "W2_StepBack_Left",
+            "Name": 13014
+        },
+        "1208": {
+            "story": 0,
+            "id": 1208,
+            "Path": "W2_StepBack_Right",
+            "Name": 13020
+        },
+        "1209": {
+            "story": 0,
+            "id": 1209,
+            "Path": "W2_StepBack_Right",
+            "Name": 13022
+        },
+        "1210": {
+            "story": 0,
+            "id": 1210,
+            "Path": "W2_StepBack_Right",
+            "Name": 13027
+        },
+        "1211": {
+            "story": 0,
+            "id": 1211,
+            "Path": "W2_StepBack_Down",
+            "Name": 13030
+        },
+        "1212": {
+            "story": 0,
+            "id": 1212,
+            "Path": "T1_Area_12_ForBuild_07",
+            "Name": 10011
+        },
+        "1213": {
+            "story": 0,
+            "id": 1213,
+            "Path": "W2_Area_35_ForBuild_03",
+            "Name": 13035
+        },
+        "1214": {
+            "story": 0,
+            "id": 1214,
+            "Path": "T1_StepBack_Down",
+            "Name": 10011
+        },
+        "1215": {
+            "story": 0,
+            "id": 1215,
+            "Path": "W1_Area_05_ForBuild_06",
+            "Name": 12005
+        },
+        "1216": {
+            "story": 0,
+            "id": 1216,
+            "Path": "T1_Area_12_ForBuild_07VoiceOnly",
+            "Name": 10011
+        },
+        "1217": {
+            "story": 0,
+            "id": 1217,
+            "Path": "W2_Area_35_ForBuild_FogAdd",
+            "Name": 13035
+        },
+        "1218": {
+            "story": 0,
+            "id": 1218,
+            "Path": "W2_Area_35_ForBuild_Remove",
+            "Name": 13035
+        },
+        "1219": {
+            "story": 0,
+            "id": 1219,
+            "Path": "W2_StepBack_Down",
+            "Name": 13035
+        },
+        "1220": {
+            "story": 0,
+            "id": 1220,
+            "Path": "W1_Area_24_ForBuild_03",
+            "Name": 12024
+        },
+        "1221": {
+            "story": 0,
+            "id": 1221,
+            "Path": "W2_Area_08_ForBuild_02",
+            "Name": 13008
+        },
+        "1222": {
+            "story": 0,
+            "id": 1222,
+            "Path": "W2_Area_roomLeave",
+            "Name": 13101
+        },
+        "1223": {
+            "story": 0,
+            "id": 1223,
+            "Path": "W2_Area_roomLeave",
+            "Name": 13102
+        },
+        "1224": {
+            "story": 0,
+            "id": 1224,
+            "Path": "W2_Area_roomLeave",
+            "Name": 13103
+        },
+        "1225": {
+            "story": 0,
+            "id": 1225,
+            "Path": "W2_Area_roomLeave",
+            "Name": 13104
+        },
+        "1226": {
+            "story": 0,
+            "id": 1226,
+            "Path": "T1_Area_07_ForBuild_13",
+            "Name": 10004
+        },
+        "1227": {
+            "story": 0,
+            "id": 1227,
+            "Path": "FirstScene_Area_01_ForBuild_02",
+            "Name": 11004
+        },
+        "1228": {
+            "story": 0,
+            "id": 1228,
+            "Path": "FirstScene_Area_01_ForBuild_03",
+            "Name": 11004
+        },
+        "1229": {
+            "story": 0,
+            "id": 1229,
+            "Path": "FirstScene_Area_01_ForBuild_01",
+            "Name": 11005
+        },
+        "1230": {
+            "story": 0,
+            "id": 1230,
+            "Path": "FirstScene_Area_01_ForBuild_04",
+            "Name": 11003
+        },
+        "1231": {
+            "story": 0,
+            "id": 1231,
+            "Path": "T1_Area_22_ForBuild_01",
+            "Name": 10023
+        },
+        "1232": {
+            "story": 0,
+            "id": 1232,
+            "Path": "T1_Area_22_ForBuild_02",
+            "Name": 10023
+        },
+        "1234": {
+            "story": 0,
+            "id": 1234,
+            "Path": "T1_Area_24_ForBuild_01",
+            "Name": 10025
+        },
+        "1235": {
+            "story": 0,
+            "id": 1235,
+            "Path": "T1_Area_24_ForBuild_02",
+            "Name": 10025
+        },
+        "1236": {
+            "story": 0,
+            "id": 1236,
+            "Path": "T1_Area_24_ForBuild_03",
+            "Name": 10025
+        },
+        "1237": {
+            "story": 0,
+            "id": 1237,
+            "Path": "T1_Area_30_ForBuild_01",
+            "Name": 10031
+        },
+        "1238": {
+            "story": 0,
+            "id": 1238,
+            "Path": "T1_Area_30_ForBuild_02",
+            "Name": 10031
+        },
+        "1239": {
+            "story": 0,
+            "id": 1239,
+            "Path": "T1_Area_30_ForBuild_03",
+            "Name": 10031
+        },
+        "1240": {
+            "story": 0,
+            "id": 1240,
+            "Path": "T1_Area_24_ForBuild_04",
+            "Name": 10025
+        },
+        "1241": {
+            "story": 0,
+            "id": 1241,
+            "Path": "T1_Area_25_ForBuild_01",
+            "Name": 10026
+        },
+        "1242": {
+            "story": 0,
+            "id": 1242,
+            "Path": "T1_Area_29_ForBuild_01",
+            "Name": 10030
+        },
+        "1243": {
+            "story": 0,
+            "id": 1243,
+            "Path": "T1_Area_30_ForBuild_04",
+            "Name": 10031
+        },
+        "1244": {
+            "story": 0,
+            "id": 1244,
+            "Path": "W2_Area_n01_ForBuild_01",
+            "Name": 14001
+        },
+        "1245": {
+            "story": 0,
+            "id": 1245,
+            "Path": "W2_Area_n02_ForBuild_01",
+            "Name": 14002
+        },
+        "1246": {
+            "story": 0,
+            "id": 1246,
+            "Path": "W2_Area_n03_ForBuild_01",
+            "Name": 14003
+        },
+        "1247": {
+            "story": 0,
+            "id": 1247,
+            "Path": "W2_Area_n03_ForBuild_02",
+            "Name": 14003
+        },
+        "1248": {
+            "story": 0,
+            "id": 1248,
+            "Path": "W2_Area_n04_ForBuild_01",
+            "Name": 14004
+        },
+        "1249": {
+            "story": 0,
+            "id": 1249,
+            "Path": "W2_Area_n06_ForBuild_01",
+            "Name": 14006
+        },
+        "1250": {
+            "story": 0,
+            "id": 1250,
+            "Path": "W2_Area_n06_ForBuild_02",
+            "Name": 14006
+        },
+        "1251": {
+            "story": 0,
+            "id": 1251,
+            "Path": "W2_StepBack_Left",
+            "Name": 14006
+        },
+        "1252": {
+            "story": 0,
+            "id": 1252,
+            "Path": "W2_Area_n07_ForBuild_01",
+            "Name": 14007
+        },
+        "1253": {
+            "story": 0,
+            "id": 1253,
+            "Path": "W2_Area_n08_ForBuild_01",
+            "Name": 14008
+        },
+        "1254": {
+            "story": 0,
+            "id": 1254,
+            "Path": "W2_Area_n08_ForBuild_02",
+            "Name": 14008
+        },
+        "1255": {
+            "story": 0,
+            "id": 1255,
+            "Path": "W2_Area_n08_ForBuild_03",
+            "Name": 14008
+        },
+        "1256": {
+            "story": 0,
+            "id": 1256,
+            "Path": "W2_StepBack_Down",
+            "Name": 14008
+        },
+        "1257": {
+            "story": 0,
+            "id": 1257,
+            "Path": "W2_Area_n10_ForBuild_01",
+            "Name": 14010
+        },
+        "1258": {
+            "story": 0,
+            "id": 1258,
+            "Path": "W2_Area_n11_ForBuild_01",
+            "Name": 14011
+        },
+        "1259": {
+            "story": 0,
+            "id": 1259,
+            "Path": "W2_Area_n11_ForBuild_02",
+            "Name": 14011
+        },
+        "1260": {
+            "story": 0,
+            "id": 1260,
+            "Path": "W2_Area_n11_ForBuild_03",
+            "Name": 14011
+        },
+        "1261": {
+            "story": 0,
+            "id": 1261,
+            "Path": "W2_StepBack_Down",
+            "Name": 14011
+        },
+        "1262": {
+            "story": 0,
+            "id": 1262,
+            "Path": "W2_Area_n13_ForBuild_01",
+            "Name": 14013
+        },
+        "1263": {
+            "story": 0,
+            "id": 1263,
+            "Path": "W2_Area_n14_ForBuild_01",
+            "Name": 14014
+        },
+        "1264": {
+            "story": 0,
+            "id": 1264,
+            "Path": "W2_Area_n14_ForBuild_02",
+            "Name": 14014
+        },
+        "1265": {
+            "story": 0,
+            "id": 1265,
+            "Path": "W2_Area_n16_ForBuild_01",
+            "Name": 14016
+        },
+        "1266": {
+            "story": 0,
+            "id": 1266,
+            "Path": "W2_Area_n16_ForBuild_02",
+            "Name": 14016
+        },
+        "1267": {
+            "story": 0,
+            "id": 1267,
+            "Path": "W2_Area_n16_ForBuild_03",
+            "Name": 14016
+        },
+        "1268": {
+            "story": 0,
+            "id": 1268,
+            "Path": "W2_StepBack_Down",
+            "Name": 14016
+        },
+        "1269": {
+            "story": 0,
+            "id": 1269,
+            "Path": "W2_Area_n19_ForBuild_01",
+            "Name": 14019
+        },
+        "1270": {
+            "story": 0,
+            "id": 1270,
+            "Path": "W2_Area_n20_ForBuild_01",
+            "Name": 14020
+        },
+        "1271": {
+            "story": 0,
+            "id": 1271,
+            "Path": "W2_Area_n20_ForBuild_02",
+            "Name": 14020
+        },
+        "1272": {
+            "story": 0,
+            "id": 1272,
+            "Path": "W2_StepBack_Right",
+            "Name": 14020
+        },
+        "1273": {
+            "story": 0,
+            "id": 1273,
+            "Path": "W2_Area_n21_ForBuild_01",
+            "Name": 14021
+        },
+        "1274": {
+            "story": 0,
+            "id": 1274,
+            "Path": "W2_Area_n21_ForBuild_02",
+            "Name": 14021
+        },
+        "1275": {
+            "story": 0,
+            "id": 1275,
+            "Path": "W2_StepBack_Down",
+            "Name": 14021
+        },
+        "1276": {
+            "story": 0,
+            "id": 1276,
+            "Path": "W2_Area_n25_ForBuild_01",
+            "Name": 14025
+        },
+        "1277": {
+            "story": 0,
+            "id": 1277,
+            "Path": "W2_Area_n28_ForBuild_01",
+            "Name": 14028
+        },
+        "1278": {
+            "story": 0,
+            "id": 1278,
+            "Path": "W2_Area_n28_ForBuild_02",
+            "Name": 14028
+        },
+        "1279": {
+            "story": 0,
+            "id": 1279,
+            "Path": "W2_StepBack_Down",
+            "Name": 14028
+        },
+        "1280": {
+            "story": 0,
+            "id": 1280,
+            "Path": "W4_Area_06_ForBuild_01",
+            "Name": 14034
+        },
+        "1281": {
+            "story": 0,
+            "id": 1281,
+            "Path": "W2_Area_n18_ForBuild_02",
+            "Name": 14018
+        },
+        "1282": {
+            "story": 0,
+            "id": 1282,
+            "Path": "W4_Area_07_ForBuild_01",
+            "Name": 14035
+        },
+        "1283": {
+            "story": 0,
+            "id": 1283,
+            "Path": "W4_Area_07_ForBuild_02",
+            "Name": 14035
+        },
+        "1284": {
+            "story": 0,
+            "id": 1284,
+            "Path": "W4_Area_07_ForBuild_03",
+            "Name": 14038
+        },
+        "1285": {
+            "story": 0,
+            "id": 1285,
+            "Path": "W4_Area_07_ForBuild_04",
+            "Name": 14038
+        },
+        "1286": {
+            "story": 0,
+            "id": 1286,
+            "Path": "W4_StepBack_Down",
+            "Name": 14035
+        },
+        "1287": {
+            "story": 0,
+            "id": 1287,
+            "Path": "W4_StepBack_Down",
+            "Name": 14038
+        },
+        "1288": {
+            "story": 0,
+            "id": 1288,
+            "Path": "W2_Area_n25_ForBuild_02",
+            "Name": 14036
+        },
+        "1289": {
+            "story": 0,
+            "id": 1289,
+            "Path": "W2_Area_n25_ForBuild_03",
+            "Name": 14036
+        },
+        "1290": {
+            "story": 0,
+            "id": 1290,
+            "Path": "W2_Area_n27_ForBuild_01",
+            "Name": 14037
+        },
+        "1291": {
+            "story": 0,
+            "id": 1291,
+            "Path": "W2_StepBack_Down",
+            "Name": 14027
+        },
+        "1292": {
+            "story": 0,
+            "id": 1292,
+            "Path": "W2_StepBack_Up",
+            "Name": 13001
+        },
+        "1293": {
+            "story": 0,
+            "id": 1293,
+            "Path": "W2_Area_01_ForBuild_03",
+            "Name": 13001
+        },
+        "1294": {
+            "story": 0,
+            "id": 1294,
+            "Path": "T1_Area_27_ForBuild_01",
+            "Name": 10028
+        },
+        "1295": {
+            "story": 0,
+            "id": 1295,
+            "Path": "W2_Area_n14_ForBuild_03",
+            "Name": 14014
+        },
+        "1296": {
+            "story": 0,
+            "id": 1296,
+            "Path": "T1_Area_05_ForBuild_02",
+            "Name": 10002
+        },
+        "1297": {
+            "story": 0,
+            "id": 1297,
+            "Path": "FirstScene_Area_01_ForBuild_05",
+            "Name": 11004
+        },
+        "1298": {
+            "story": 0,
+            "id": 1298,
+            "Path": "FirstScene_Area_01_ForBuild_06",
+            "Name": 11004
+        },
+        "1299": {
+            "story": 0,
+            "id": 1299,
+            "Path": "T1_Area_12_ForBuild_01RunOnInit",
+            "Name": 10011
+        },
+        "1300": {
+            "story": 0,
+            "id": 1300,
+            "Path": "T1_Area_20_ForBuild_01RunOnInit",
+            "Name": 10021
+        },
+        "1301": {
+            "story": 0,
+            "id": 1301,
+            "Path": "W2_Area_35_ForBuild_04",
+            "Name": 13035
+        },
+        "1302": {
+            "story": 0,
+            "id": 1302,
+            "Path": "W1_Area_08_ForBuild_02",
+            "Name": 12008
+        },
+        "1303": {
+            "story": 0,
+            "id": 1303,
+            "Path": "W1_Area_12_ForBuild_03",
+            "Name": 12012
+        },
+        "1305": {
+            "story": 0,
+            "id": 1305,
+            "Path": "W1_Area_22_ForBuild_02",
+            "Name": 12022
+        },
+        "1306": {
+            "story": 0,
+            "id": 1306,
+            "Path": "W1_Area_22_ForBuild_03",
+            "Name": 12022
+        },
+        "1307": {
+            "story": 0,
+            "id": 1307,
+            "Path": "W1_Area_12_ForBuild_04",
+            "Name": 12012
+        },
+        "1308": {
+            "story": 0,
+            "id": 1308,
+            "Path": "T1_Area_31_ForBuild_01",
+            "Name": 10032
+        },
+        "1309": {
+            "story": 0,
+            "id": 1309,
+            "Path": "T1_Area_32_ForBuild_01",
+            "Name": 10033
+        },
+        "1310": {
+            "story": 0,
+            "id": 1310,
+            "Path": "T1_Area_33_ForBuild_01",
+            "Name": 10034
+        },
+        "1311": {
+            "story": 0,
+            "id": 1311,
+            "Path": "T1_Area_37_ForBuild_01",
+            "Name": 10038
+        },
+        "1312": {
+            "story": 0,
+            "id": 1312,
+            "Path": "T1_Area_40_ForBuild_01",
+            "Name": 10041
+        },
+        "1313": {
+            "story": 0,
+            "id": 1313,
+            "Path": "T1_Area_40_ForBuild_02",
+            "Name": 10041
+        },
+        "1314": {
+            "story": 0,
+            "id": 1314,
+            "Path": "T1_Area_40_ForBuild_03",
+            "Name": 10041
+        },
+        "1315": {
+            "story": 0,
+            "id": 1315,
+            "Path": "T1_StepBack_Down",
+            "Name": 10041
+        },
+        "1316": {
+            "story": 0,
+            "id": 1316,
+            "Path": "FirstScene_SideStory_05_Forbuild_01",
+            "Name": 60007
+        },
+        "1317": {
+            "story": 0,
+            "id": 1317,
+            "Path": "FirstScene_SideStory_05_Forbuild_02",
+            "Name": 60007
+        },
+        "1318": {
+            "story": 0,
+            "id": 1318,
+            "Path": "T1_Area_40_ForBuild_end",
+            "Name": 10041
+        },
+        "1319": {
+            "story": 0,
+            "id": 1319,
+            "Path": "W3_Area_02_ForBuild_01",
+            "Name": 15002
+        },
+        "1320": {
+            "story": 0,
+            "id": 1320,
+            "Path": "W3_Area_02_ForBuild_02",
+            "Name": 15002
+        },
+        "1321": {
+            "story": 0,
+            "id": 1321,
+            "Path": "W3_StepBack_Down",
+            "Name": 15002
+        },
+        "1322": {
+            "story": 0,
+            "id": 1322,
+            "Path": "W3_Area_02_ForBuild_03",
+            "Name": 15002
+        },
+        "1323": {
+            "story": 0,
+            "id": 1323,
+            "Path": "W3_Area_03_ForBuild_01",
+            "Name": 15003
+        },
+        "1324": {
+            "story": 0,
+            "id": 1324,
+            "Path": "W3_Area_03_ForBuild_02",
+            "Name": 15003
+        },
+        "1325": {
+            "story": 0,
+            "id": 1325,
+            "Path": "W3_StepBack_Down",
+            "Name": 15003
+        },
+        "1326": {
+            "story": 0,
+            "id": 1326,
+            "Path": "W3_Area_05_ForBuild_01",
+            "Name": 15005
+        },
+        "1327": {
+            "story": 0,
+            "id": 1327,
+            "Path": "W3_Area_07_ForBuild_01",
+            "Name": 15007
+        },
+        "1328": {
+            "story": 0,
+            "id": 1328,
+            "Path": "W3_Area_07_ForBuild_02",
+            "Name": 15007
+        },
+        "1329": {
+            "story": 0,
+            "id": 1329,
+            "Path": "W3_Area_07_ForBuild_03",
+            "Name": 15007
+        },
+        "1330": {
+            "story": 0,
+            "id": 1330,
+            "Path": "W3_Area_07_ForBuild_04",
+            "Name": 15007
+        },
+        "1331": {
+            "story": 0,
+            "id": 1331,
+            "Path": "W3_StepBack_Down",
+            "Name": 15007
+        },
+        "1332": {
+            "story": 0,
+            "id": 1332,
+            "Path": "W3_Area_09_ForBuild_01",
+            "Name": 15009
+        },
+        "1333": {
+            "story": 0,
+            "id": 1333,
+            "Path": "W3_Area_09_ForBuild_02",
+            "Name": 15009
+        },
+        "1334": {
+            "story": 0,
+            "id": 1334,
+            "Path": "W3_Area_11_ForBuild_01",
+            "Name": 15011
+        },
+        "1335": {
+            "story": 0,
+            "id": 1335,
+            "Path": "W3_Area_12_ForBuild_01",
+            "Name": 15012
+        },
+        "1336": {
+            "story": 0,
+            "id": 1336,
+            "Path": "W3_Area_12_ForBuild_02",
+            "Name": 15012
+        },
+        "1337": {
+            "story": 0,
+            "id": 1337,
+            "Path": "W3_Area_12_ForBuild_03",
+            "Name": 15012
+        },
+        "1338": {
+            "story": 0,
+            "id": 1338,
+            "Path": "W3_Area_12_ForBuild_04",
+            "Name": 15012
+        },
+        "1339": {
+            "story": 0,
+            "id": 1339,
+            "Path": "W3_Area_12_ForBuild_05",
+            "Name": 15012
+        },
+        "1340": {
+            "story": 0,
+            "id": 1340,
+            "Path": "W3_StepBack_15012",
+            "Name": 15012
+        },
+        "1341": {
+            "story": 0,
+            "id": 1341,
+            "Path": "W3_Area_12_ForBuild_06",
+            "Name": 15012
+        },
+        "1342": {
+            "story": 0,
+            "id": 1342,
+            "Path": "W3_Area_14_ForBuild_01",
+            "Name": 15014
+        },
+        "1343": {
+            "story": 0,
+            "id": 1343,
+            "Path": "W3_Area_14_ForBuild_02",
+            "Name": 15014
+        },
+        "1344": {
+            "story": 0,
+            "id": 1344,
+            "Path": "W3_Area_16_ForBuild_01",
+            "Name": 15016
+        },
+        "1345": {
+            "story": 0,
+            "id": 1345,
+            "Path": "FirstScene_SideStory_01_ForBuild_01",
+            "Name": 60001
+        },
+        "1346": {
+            "story": 0,
+            "id": 1346,
+            "Path": "FirstScene_SideStory_01_ForBuild_02",
+            "Name": 60001
+        },
+        "1347": {
+            "story": 0,
+            "id": 1347,
+            "Path": "FirstScene_SideStory_01_ForBuild_03",
+            "Name": 60001
+        },
+        "1348": {
+            "story": 0,
+            "id": 1348,
+            "Path": "W3_Area_17_ForBuild_01",
+            "Name": 15017
+        },
+        "1349": {
+            "story": 0,
+            "id": 1349,
+            "Path": "W3_Area_17_ForBuild_02",
+            "Name": 15017
+        },
+        "1350": {
+            "story": 0,
+            "id": 1350,
+            "Path": "W3_StepBack_Left",
+            "Name": 15017
+        },
+        "1351": {
+            "story": 0,
+            "id": 1351,
+            "Path": "W3_Area_17_ForBuild_04",
+            "Name": 15017
+        },
+        "1352": {
+            "story": 0,
+            "id": 1352,
+            "Path": "W3_Area_18_ForBuild_01",
+            "Name": 15018
+        },
+        "1353": {
+            "story": 0,
+            "id": 1353,
+            "Path": "W3_Area_20_ForBuild_01",
+            "Name": 15020
+        },
+        "1354": {
+            "story": 0,
+            "id": 1354,
+            "Path": "W3_Area_22_ForBuild_01",
+            "Name": 15022
+        },
+        "1355": {
+            "story": 0,
+            "id": 1355,
+            "Path": "W3_Area_23_ForBuild_01",
+            "Name": 15023
+        },
+        "1356": {
+            "story": 0,
+            "id": 1356,
+            "Path": "W3_Area_24_ForBuild_01",
+            "Name": 15024
+        },
+        "1357": {
+            "story": 0,
+            "id": 1357,
+            "Path": "W3_Area_24_ForBuild_02",
+            "Name": 15024
+        },
+        "1358": {
+            "story": 0,
+            "id": 1358,
+            "Path": "W3_Area_24_ForBuild_03",
+            "Name": 15024
+        },
+        "1359": {
+            "story": 0,
+            "id": 1359,
+            "Path": "W3_StepBack_Down",
+            "Name": 15024
+        },
+        "1360": {
+            "story": 0,
+            "id": 1360,
+            "Path": "W3_Area_25_ForBuild_01",
+            "Name": 15025
+        },
+        "1361": {
+            "story": 0,
+            "id": 1361,
+            "Path": "W3_Area_25_ForBuild_02",
+            "Name": 15025
+        },
+        "1362": {
+            "story": 0,
+            "id": 1362,
+            "Path": "W3_Area_28_ForBuild_01",
+            "Name": 15028
+        },
+        "1363": {
+            "story": 0,
+            "id": 1363,
+            "Path": "W3_Area_29_ForBuild_01",
+            "Name": 15029
+        },
+        "1364": {
+            "story": 0,
+            "id": 1364,
+            "Path": "W3_Area_30_ForBuild_01",
+            "Name": 15030
+        },
+        "1365": {
+            "story": 0,
+            "id": 1365,
+            "Path": "W3_Area_30_ForBuild_02",
+            "Name": 15030
+        },
+        "1366": {
+            "story": 0,
+            "id": 1366,
+            "Path": "W3_StepBack_Down",
+            "Name": 15030
+        },
+        "1367": {
+            "story": 0,
+            "id": 1367,
+            "Path": "FirstScene_SideStory_02_ForBuild_01",
+            "Name": 60002
+        },
+        "1368": {
+            "story": 0,
+            "id": 1368,
+            "Path": "FirstScene_SideStory_02_ForBuild_02",
+            "Name": 60002
+        },
+        "1369": {
+            "story": 0,
+            "id": 1369,
+            "Path": "FirstScene_SideStory_02_ForBuild_03",
+            "Name": 60002
+        },
+        "1370": {
+            "story": 0,
+            "id": 1370,
+            "Path": "FirstScene_SideStory_02_ForBuild_04",
+            "Name": 60002
+        },
+        "1371": {
+            "story": 0,
+            "id": 1371,
+            "Path": "FirstScene_SideStory_03_ForBuild_01",
+            "Name": 60003
+        },
+        "1372": {
+            "story": 0,
+            "id": 1372,
+            "Path": "FirstScene_SideStory_03_ForBuild_02",
+            "Name": 60003
+        },
+        "1373": {
+            "story": 0,
+            "id": 1373,
+            "Path": "FirstScene_SideStory_03_ForBuild_03",
+            "Name": 60003
+        },
+        "1374": {
+            "story": 0,
+            "id": 1374,
+            "Path": "FirstScene_SideStory_04_ForBuild_01",
+            "Name": 60004
+        },
+        "1375": {
+            "story": 0,
+            "id": 1375,
+            "Path": "FirstScene_SideStory_04_ForBuild_02",
+            "Name": 60004
+        },
+        "1376": {
+            "story": 0,
+            "id": 1376,
+            "Path": "FirstScene_SideStory_04_ForBuild_03",
+            "Name": 60004
+        },
+        "1377": {
+            "story": 0,
+            "id": 1377,
+            "Path": "FirstScene_SideStory_04_ForBuild_04",
+            "Name": 60004
+        },
+        "1378": {
+            "story": 0,
+            "id": 1378,
+            "Path": "FirstScene_SideStory_04_ForBuild_05",
+            "Name": 60004
+        },
+        "1379": {
+            "story": 0,
+            "id": 1379,
+            "Path": "W3_Area_31_ForBuild_01",
+            "Name": 15031
+        },
+        "1380": {
+            "story": 0,
+            "id": 1380,
+            "Path": "W3_Area_33_ForBuild_01",
+            "Name": 15033
+        },
+        "1381": {
+            "story": 0,
+            "id": 1381,
+            "Path": "W3_Area_34_ForBuild_01",
+            "Name": 15034
+        },
+        "1382": {
+            "story": 0,
+            "id": 1382,
+            "Path": "FirstScene_SideStory_10_Forbuild_01",
+            "Name": 60005
+        },
+        "1383": {
+            "story": 0,
+            "id": 1383,
+            "Path": "FirstScene_SideStory_10_Forbuild_02",
+            "Name": 60006
+        },
+        "1384": {
+            "story": 0,
+            "id": 1384,
+            "Path": "W3_Area_34_ForBuild_end",
+            "Name": 15035
+        },
+        "1385": {
+            "story": 0,
+            "id": 1385,
+            "Path": "W3_Area_34_ForBuild_end2",
+            "Name": 15035
+        },
+        "1386": {
+            "story": 0,
+            "id": 1386,
+            "Path": "W3_Area_34_ForBuild_02",
+            "Name": 15035
+        },
+        "1387": {
+            "story": 0,
+            "id": 1387,
+            "Path": "W3_StepBack_Down",
+            "Name": 15035
+        },
+        "1388": {
+            "story": 0,
+            "id": 1388,
+            "Path": "W3_Area_02_ForBuild_04",
+            "Name": 15002
+        },
+        "1389": {
+            "story": 0,
+            "id": 1389,
+            "Path": "FirstScene_SideStory_02_ForBuild_05",
+            "Name": 60002
+        },
+        "1390": {
+            "story": 0,
+            "id": 1390,
+            "Path": "T1_Area_36_ForBuild_01",
+            "Name": 10037
+        },
+        "1391": {
+            "story": 0,
+            "id": 1391,
+            "Path": "T1_Area_36_ForBuild_02",
+            "Name": 10037
+        },
+        "1392": {
+            "story": 0,
+            "id": 1392,
+            "Path": "T1_Area_37_ForBuild_02",
+            "Name": 10038
+        },
+        "1393": {
+            "story": 0,
+            "id": 1393,
+            "Path": "T1_StepBack_Left",
+            "Name": 10038
+        },
+        "1394": {
+            "story": 0,
+            "id": 1394,
+            "Path": "T1_Area_37_ForBuild_03",
+            "Name": 10038
+        },
+        "1395": {
+            "story": 0,
+            "id": 1395,
+            "Path": "FirstScene_SideStory_01_ForBuild_04",
+            "Name": 60001
+        },
+        "1396": {
+            "story": 0,
+            "id": 1396,
+            "Path": "FirstScene_SideStory_02_ForBuild_06",
+            "Name": 60002
+        },
+        "1397": {
+            "story": 0,
+            "id": 1397,
+            "Path": "W2_Area_25_ForBuild_01",
+            "Name": 13025
+        },
+        "1398": {
+            "story": 0,
+            "id": 1398,
+            "Path": "W2_Area_25_ForBuild_02",
+            "Name": 13025
+        },
+        "1399": {
+            "story": 0,
+            "id": 1399,
+            "Path": "W2_StepBack_Down",
+            "Name": 13025
+        },
+        "1400": {
+            "story": 0,
+            "id": 1400,
+            "Path": "T1_StepBack_Left",
+            "Name": 10004
+        },
+        "1401": {
+            "story": 0,
+            "id": 1401,
+            "Path": "T1_StepForward",
+            "Name": 10004
+        },
+        "1402": {
+            "story": 0,
+            "id": 1402,
+            "Path": "FirstScene_SideStory_03_ForBuild_04",
+            "Name": 60003
+        },
+        "1403": {
+            "story": 0,
+            "id": 1403,
+            "Path": "W4_Area_ForBuild_02",
+            "Name": 14029
+        },
+        "1404": {
+            "story": 0,
+            "id": 1404,
+            "Path": "W4_Area_ForBuild_03",
+            "Name": 14029
+        },
+        "1405": {
+            "story": 0,
+            "id": 1405,
+            "Path": "W4_Area_01_ForBuild_01",
+            "Name": 14031
+        },
+        "1406": {
+            "story": 0,
+            "id": 1406,
+            "Path": "W4_Area_01_ForBuild_02",
+            "Name": 14031
+        },
+        "1407": {
+            "story": 0,
+            "id": 1407,
+            "Path": "W4_Area_05_ForBuild_01",
+            "Name": 14033
+        },
+        "1408": {
+            "story": 0,
+            "id": 1408,
+            "Path": "W4_Area_05_ForBuild_02",
+            "Name": 14033
+        },
+        "1409": {
+            "story": 0,
+            "id": 1409,
+            "Path": "T1_Area_34_ForBuild_01",
+            "Name": 10035
+        },
+        "1410": {
+            "story": 0,
+            "id": 1410,
+            "Path": "T1_Area_39_ForBuild_01",
+            "Name": 10040
+        },
+        "1411": {
+            "story": 0,
+            "id": 1411,
+            "Path": "FirstScene_SideStory_05_Forbuild_03",
+            "Name": 60007
+        },
+        "1412": {
+            "story": 0,
+            "id": 1412,
+            "Path": "W1_Area_10_ForBuild_03",
+            "Name": 12010
+        },
+        "1413": {
+            "story": 0,
+            "id": 1413,
+            "Path": "W1_Area_16_ForBuild_04",
+            "Name": 12016
+        },
+        "1414": {
+            "story": 0,
+            "id": 1414,
+            "Path": "W1_Area_06_ForBuild_02",
+            "Name": 12006
+        },
+        "1415": {
+            "story": 0,
+            "id": 1415,
+            "Path": "W1_Area_09_ForBuild_02",
+            "Name": 12009
+        },
+        "1416": {
+            "story": 0,
+            "id": 1416,
+            "Path": "W1_Area_12_ForBuild_05",
+            "Name": 12012
+        },
+        "1417": {
+            "story": 0,
+            "id": 1417,
+            "Path": "W1_Area_14_ForBuild_01",
+            "Name": 12014
+        },
+        "1418": {
+            "story": 0,
+            "id": 1418,
+            "Path": "W1_Area_15_ForBuild_03",
+            "Name": 12015
+        },
+        "1419": {
+            "story": 0,
+            "id": 1419,
+            "Path": "W1_Area_08_ForBuild_03",
+            "Name": 12008
+        },
+        "1420": {
+            "story": 0,
+            "id": 1420,
+            "Path": "W1_Area_16_ForBuild_05",
+            "Name": 12016
+        },
+        "1421": {
+            "story": 0,
+            "id": 1421,
+            "Path": "W1_Area_17_ForBuild_01",
+            "Name": 12017
+        },
+        "1422": {
+            "story": 0,
+            "id": 1422,
+            "Path": "W1_Area_19_ForBuild_01",
+            "Name": 12019
+        },
+        "1423": {
+            "story": 0,
+            "id": 1423,
+            "Path": "W1_Area_20_ForBuild_01",
+            "Name": 12020
+        },
+        "1424": {
+            "story": 0,
+            "id": 1424,
+            "Path": "W1_Area_23_ForBuild_01",
+            "Name": 12023
+        },
+        "1425": {
+            "story": 0,
+            "id": 1425,
+            "Path": "T1_Area_12_ForBuild_10",
+            "Name": 10013
+        },
+        "1426": {
+            "story": 0,
+            "id": 1426,
+            "Path": "T1_Area_16_ForBuild_01",
+            "Name": 10017
+        },
+        "1427": {
+            "story": 0,
+            "id": 1427,
+            "Path": "T1_Area_18_ForBuild_02",
+            "Name": 10019
+        },
+        "1428": {
+            "story": 0,
+            "id": 1428,
+            "Path": "W2_Area_06_ForBuild_01",
+            "Name": 13006
+        },
+        "1429": {
+            "story": 0,
+            "id": 1429,
+            "Path": "W2_Area_07_ForBuild_01",
+            "Name": 13007
+        },
+        "1430": {
+            "story": 0,
+            "id": 1430,
+            "Path": "W2_Area_09_ForBuild_01",
+            "Name": 13009
+        },
+        "1431": {
+            "story": 0,
+            "id": 1431,
+            "Path": "W2_Area_25_ForBuild_03",
+            "Name": 13025
+        },
+        "1432": {
+            "story": 0,
+            "id": 1432,
+            "Path": "W2_Area_26_ForBuild_02",
+            "Name": 13026
+        },
+        "1433": {
+            "story": 0,
+            "id": 1433,
+            "Path": "W2_Area_29_ForBuild_01",
+            "Name": 13029
+        },
+        "1434": {
+            "story": 0,
+            "id": 1434,
+            "Path": "W2_Area_n27_ForBuild_02",
+            "Name": 14027
+        },
+        "1435": {
+            "story": 0,
+            "id": 1435,
+            "Path": "FirstSceneTopDown_10",
+            "Name": 11000
+        },
+        "1436": {
+            "story": 0,
+            "id": 1436,
+            "Path": "T1_Area_04_ForBuild_04",
+            "Name": 10003
+        },
+        "1437": {
+            "story": 0,
+            "id": 1437,
+            "Path": "W1_Area_21_ForBuild_03",
+            "Name": 12021
+        },
+        "1438": {
+            "story": 0,
+            "id": 1438,
+            "Path": "T1_Area_05_ForBuild_03",
+            "Name": 10002
+        },
+        "1439": {
+            "story": 0,
+            "id": 1439,
+            "Path": "W3_FirstScene_04",
+            "Name": 30006
+        },
+        "1440": {
+            "story": 0,
+            "id": 1440,
+            "Path": "W3_FirstScene_Overlook",
+            "Name": 30006
+        },
+        "1441": {
+            "story": 0,
+            "id": 1441,
+            "Path": "FirstScene_SideStory_06_Forbuild_01",
+            "Name": 60008
+        },
+        "1442": {
+            "story": 0,
+            "id": 1442,
+            "Path": "FirstScene_SideStory_06_Forbuild_02",
+            "Name": 60008
+        },
+        "1443": {
+            "story": 0,
+            "id": 1443,
+            "Path": "FirstScene_SideStory_07_Forbuild_01",
+            "Name": 60009
+        },
+        "1444": {
+            "story": 0,
+            "id": 1444,
+            "Path": "FirstScene_SideStory_07_Forbuild_02",
+            "Name": 60009
+        },
+        "1445": {
+            "story": 0,
+            "id": 1445,
+            "Path": "FirstScene_SideStory_08_Forbuild_01",
+            "Name": 60010
+        },
+        "1446": {
+            "story": 0,
+            "id": 1446,
+            "Path": "FirstScene_SideStory_08_Forbuild_02",
+            "Name": 60010
+        },
+        "1447": {
+            "story": 0,
+            "id": 1447,
+            "Path": "FirstScene_SideStory_09_Forbuild_01",
+            "Name": 60011
+        },
+        "1448": {
+            "story": 0,
+            "id": 1448,
+            "Path": "FirstScene_SideStory_09_Forbuild_02",
+            "Name": 60011
+        },
+        "1449": {
+            "story": 0,
+            "id": 1449,
+            "Path": "W3_Area_n01_ForBuild_01",
+            "Name": 16001
+        },
+        "1450": {
+            "story": 0,
+            "id": 1450,
+            "Path": "W3_Area_n03_ForBuild_01",
+            "Name": 16003
+        },
+        "1451": {
+            "story": 0,
+            "id": 1451,
+            "Path": "W3_Area_n04_ForBuild_01",
+            "Name": 16004
+        },
+        "1452": {
+            "story": 0,
+            "id": 1452,
+            "Path": "W3_Area_n05_ForBuild_01",
+            "Name": 16005
+        },
+        "1453": {
+            "story": 0,
+            "id": 1453,
+            "Path": "W3_Area_n35_ForBuild_01",
+            "Name": 16035
+        },
+        "1454": {
+            "story": 0,
+            "id": 1454,
+            "Path": "W3_StepBack_Down",
+            "Name": 16035
+        },
+        "1455": {
+            "story": 0,
+            "id": 1455,
+            "Path": "W3_Area_n35_ForBuild_02",
+            "Name": 16035
+        },
+        "1456": {
+            "story": 0,
+            "id": 1456,
+            "Path": "W3_Area_n06_ForBuild_01",
+            "Name": 16006
+        },
+        "1457": {
+            "story": 0,
+            "id": 1457,
+            "Path": "W3_Area_n06_ForBuild_02",
+            "Name": 16006
+        },
+        "1458": {
+            "story": 0,
+            "id": 1458,
+            "Path": "W3_Area_n08_ForBuild_01",
+            "Name": 16008
+        },
+        "1459": {
+            "story": 0,
+            "id": 1459,
+            "Path": "W3_Area_n10_ForBuild_01",
+            "Name": 16010
+        },
+        "1460": {
+            "story": 0,
+            "id": 1460,
+            "Path": "W3_Area_n10_ForBuild_02",
+            "Name": 16010
+        },
+        "1461": {
+            "story": 0,
+            "id": 1461,
+            "Path": "W3_StepBack_Up",
+            "Name": 16010
+        },
+        "1462": {
+            "story": 0,
+            "id": 1462,
+            "Path": "W3_Area_n13_ForBuild_01",
+            "Name": 16013
+        },
+        "1463": {
+            "story": 0,
+            "id": 1463,
+            "Path": "W3_Area_n15_ForBuild_01",
+            "Name": 16015
+        },
+        "1464": {
+            "story": 0,
+            "id": 1464,
+            "Path": "W3_Area_n15_ForBuild_02",
+            "Name": 16015
+        },
+        "1465": {
+            "story": 0,
+            "id": 1465,
+            "Path": "W3_Area_n15_ForBuild_03",
+            "Name": 16015
+        },
+        "1466": {
+            "story": 0,
+            "id": 1466,
+            "Path": "W3_Area_n15_ForBuild_04",
+            "Name": 16015
+        },
+        "1468": {
+            "story": 0,
+            "id": 1468,
+            "Path": "W3_Area_n27_ForBuild_01",
+            "Name": 16027
+        },
+        "1469": {
+            "story": 0,
+            "id": 1469,
+            "Path": "W3_Area_n27_ForBuild_02",
+            "Name": 16027
+        },
+        "1470": {
+            "story": 0,
+            "id": 1470,
+            "Path": "W3_Area_n28_ForBuild_01",
+            "Name": 16028
+        },
+        "1471": {
+            "story": 0,
+            "id": 1471,
+            "Path": "W3_Area_n28_ForBuild_02",
+            "Name": 16028
+        },
+        "1472": {
+            "story": 0,
+            "id": 1472,
+            "Path": "W3_Area_n16_ForBuild_01",
+            "Name": 16016
+        },
+        "1473": {
+            "story": 0,
+            "id": 1473,
+            "Path": "W3_Area_n17_ForBuild_01",
+            "Name": 16017
+        },
+        "1474": {
+            "story": 0,
+            "id": 1474,
+            "Path": "W3_Area_n29_ForBuild_01",
+            "Name": 16029
+        },
+        "1475": {
+            "story": 0,
+            "id": 1475,
+            "Path": "W3_Area_n30_ForBuild_01",
+            "Name": 16030
+        },
+        "1476": {
+            "story": 0,
+            "id": 1476,
+            "Path": "W3_Area_n30_ForBuild_02",
+            "Name": 16030
+        },
+        "1477": {
+            "story": 0,
+            "id": 1477,
+            "Path": "W3_Area_n32_ForBuild_01",
+            "Name": 16032
+        },
+        "1479": {
+            "story": 0,
+            "id": 1479,
+            "Path": "W3_Area_n33_ForBuild_01",
+            "Name": 16033
+        },
+        "1480": {
+            "story": 0,
+            "id": 1480,
+            "Path": "W3_StepBack_Down",
+            "Name": 16030
+        },
+        "1483": {
+            "story": 0,
+            "id": 1483,
+            "Path": "W3_Area_n19_ForBuild_01",
+            "Name": 16019
+        },
+        "1484": {
+            "story": 0,
+            "id": 1484,
+            "Path": "W3_Area_n19_ForBuild_02",
+            "Name": 16019
+        },
+        "1485": {
+            "story": 0,
+            "id": 1485,
+            "Path": "W3_Area_n20_ForBuild_01",
+            "Name": 16020
+        },
+        "1486": {
+            "story": 0,
+            "id": 1486,
+            "Path": "W3_Area_n20_ForBuild_02",
+            "Name": 16020
+        },
+        "1487": {
+            "story": 0,
+            "id": 1487,
+            "Path": "W3_Area_n21_ForBuild_01",
+            "Name": 16021
+        },
+        "1488": {
+            "story": 0,
+            "id": 1488,
+            "Path": "W3_Area_n24_ForBuild_01",
+            "Name": 16024
+        },
+        "1489": {
+            "story": 0,
+            "id": 1489,
+            "Path": "W3_Area_n25_ForBuild_01",
+            "Name": 16025
+        },
+        "1490": {
+            "story": 0,
+            "id": 1490,
+            "Path": "W3_Area_n25_ForBuild_02",
+            "Name": 16025
+        },
+        "1491": {
+            "story": 0,
+            "id": 1491,
+            "Path": "W3_StepBack_Down",
+            "Name": 16020
+        },
+        "1492": {
+            "story": 0,
+            "id": 1492,
+            "Path": "W3_StepBack_Down",
+            "Name": 16025
+        },
+        "1001": {
+            "story": 0,
+            "id": 1001,
+            "Path": "FirstSceneTopDown_01",
+            "Name": 11000
+        },
+        "1004": {
+            "story": 0,
+            "id": 1004,
+            "Path": "T1_Area_07_ForBuild_01",
+            "Name": 10004
+        },
+        "1008": {
+            "story": 0,
+            "id": 1008,
+            "Path": "T1_Area_07_ForBuild_02",
+            "Name": 10004
+        },
+        "1017": {
+            "story": 0,
+            "id": 1017,
+            "Path": "FirstSceneTopDown_02",
+            "Name": 11000
+        },
+        "1018": {
+            "story": 0,
+            "id": 1018,
+            "Path": "T1_Area_08_ForBuild_01",
+            "Name": 10005
+        },
+        "1019": {
+            "story": 0,
+            "id": 1019,
+            "Path": "T1_Area_12_ForBuild_end",
+            "Name": 10011
+        },
+        "1021": {
+            "story": 0,
+            "id": 1021,
+            "Path": "FirstSceneTopDown_03",
+            "Name": 11000
+        },
+        "1022": {
+            "story": 0,
+            "id": 1022,
+            "Path": "FirstSceneTopDown_04",
+            "Name": 11000
+        },
+        "1023": {
+            "story": 0,
+            "id": 1023,
+            "Path": "FirstSceneTopDown_05",
+            "Name": 11000
+        }
+    }
+}

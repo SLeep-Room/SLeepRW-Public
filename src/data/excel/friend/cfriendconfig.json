@@ -1,0 +1,20 @@
+{
+    "Data": [
+        {
+            "BlackListMax": 100,
+            "MessageMax": 100,
+            "id": 1,
+            "UnreadMax": 100,
+            "FirstMessageTextID": 100001,
+            "FirstMessage": "我们已经成为好友啦",
+            "ReceiveMax": 100,
+            "FriendMax": 100,
+            "FriendRecommendation": 8,
+            "SendMax": 100,
+            "RefreshLimit": "5"
+        }
+    ],
+    "AllIds": [
+        1
+    ]
+}

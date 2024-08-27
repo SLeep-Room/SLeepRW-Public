@@ -1,0 +1,396 @@
+{
+    "Data": {
+        "150001": {
+            "rewardquantity": [
+                10
+            ],
+            "missionname": "每日登录",
+            "progresspath": [
+                "1,1"
+            ],
+            "rewardid": 3749,
+            "UIjumpvalue": 0,
+            "id": 150001,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 0,
+            "description": "每日登录游戏",
+            "missionnameTextID": 1001627,
+            "descriptionTextID": 1001642,
+            "sortid": 1,
+            "endevent": 1
+        },
+        "150002": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "异界之镜",
+            "progresspath": [
+                "14,1"
+            ],
+            "rewardid": 3750,
+            "UIjumpvalue": 24,
+            "id": 150002,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "异界之镜收取1次奖励",
+            "missionnameTextID": 1001628,
+            "descriptionTextID": 1001643,
+            "sortid": 2,
+            "endevent": 14
+        },
+        "150003": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "魔女小屋",
+            "progresspath": [
+                "5,1"
+            ],
+            "rewardid": 3750,
+            "UIjumpvalue": 23,
+            "id": 150003,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "魔女小屋中入驻1次人偶",
+            "missionnameTextID": 1001629,
+            "descriptionTextID": 1001644,
+            "sortid": 2,
+            "endevent": 5
+        },
+        "150004": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "友谊万岁",
+            "progresspath": [
+                "6,1"
+            ],
+            "rewardid": 3750,
+            "UIjumpvalue": 25,
+            "id": 150004,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "使用友情点购买1次商品",
+            "missionnameTextID": 1001630,
+            "descriptionTextID": 1001645,
+            "sortid": 2,
+            "endevent": 6
+        },
+        "150005": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "予人玫瑰",
+            "progresspath": [
+                "8,1"
+            ],
+            "rewardid": 3750,
+            "UIjumpvalue": 26,
+            "id": 150005,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "向任意人偶赠送1次礼物",
+            "missionnameTextID": 1001631,
+            "descriptionTextID": 1001646,
+            "sortid": 2,
+            "endevent": 8
+        },
+        "150006": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "装备强化",
+            "progresspath": [
+                "9,1"
+            ],
+            "rewardid": 3750,
+            "UIjumpvalue": 1,
+            "id": 150006,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "装备强化1次",
+            "missionnameTextID": 1001632,
+            "descriptionTextID": 1001647,
+            "sortid": 2,
+            "endevent": 9
+        },
+        "150007": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "精神抖擞",
+            "progresspath": [
+                "12,1"
+            ],
+            "rewardid": 3750,
+            "UIjumpvalue": 16,
+            "id": 150007,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "消耗30点精神",
+            "missionnameTextID": 1001633,
+            "descriptionTextID": 1001648,
+            "sortid": 2,
+            "endevent": 12
+        },
+        "150008": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "属性增强",
+            "progresspath": [
+                "11,1"
+            ],
+            "rewardid": 3750,
+            "UIjumpvalue": 2,
+            "id": 150008,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "任意强化1次人偶",
+            "missionnameTextID": 1001634,
+            "descriptionTextID": 1001649,
+            "sortid": 2,
+            "endevent": 11
+        },
+        "150009": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "人偶召唤",
+            "progresspath": [
+                "13,1"
+            ],
+            "rewardid": 3751,
+            "UIjumpvalue": 5,
+            "id": 150009,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "进行1次人偶召唤",
+            "missionnameTextID": 1001635,
+            "descriptionTextID": 1001650,
+            "sortid": 3,
+            "endevent": 13
+        },
+        "150010": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "时空裂隙",
+            "progresspath": [
+                "15,1"
+            ],
+            "rewardid": 3751,
+            "UIjumpvalue": 22,
+            "id": 150010,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "完成1次时空裂隙",
+            "missionnameTextID": 1001636,
+            "descriptionTextID": 1001651,
+            "sortid": 3,
+            "endevent": 15
+        },
+        "150011": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "玛那副本",
+            "progresspath": [
+                "2,1"
+            ],
+            "rewardid": 3751,
+            "UIjumpvalue": 17,
+            "id": 150011,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "完成3次玛那副本",
+            "missionnameTextID": 1001637,
+            "descriptionTextID": 1001652,
+            "sortid": 3,
+            "endevent": 2
+        },
+        "150012": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "突破副本",
+            "progresspath": [
+                "4,1"
+            ],
+            "rewardid": 3751,
+            "UIjumpvalue": 17,
+            "id": 150012,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "完成3次突破副本",
+            "missionnameTextID": 1001638,
+            "descriptionTextID": 1001653,
+            "sortid": 3,
+            "endevent": 4
+        },
+        "150013": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "技能副本",
+            "progresspath": [
+                "10,1"
+            ],
+            "rewardid": 3751,
+            "UIjumpvalue": 17,
+            "id": 150013,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "完成3次技能副本",
+            "missionnameTextID": 1001639,
+            "descriptionTextID": 1001655,
+            "sortid": 3,
+            "endevent": 10
+        },
+        "150014": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "装备副本",
+            "progresspath": [
+                "7,1"
+            ],
+            "rewardid": 3751,
+            "UIjumpvalue": 17,
+            "id": 150014,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "完成3次装备副本",
+            "missionnameTextID": 1001640,
+            "descriptionTextID": 1001654,
+            "sortid": 3,
+            "endevent": 7
+        },
+        "150015": {
+            "rewardquantity": [
+                20
+            ],
+            "missionname": "主线关卡",
+            "progresspath": [
+                "3,1"
+            ],
+            "rewardid": 3751,
+            "UIjumpvalue": 16,
+            "id": 150015,
+            "jumpvalue": [
+                0
+            ],
+            "rewarditem": [
+                35055
+            ],
+            "missiontype": 15,
+            "jumptype": 2,
+            "description": "通过1次主线关卡",
+            "missionnameTextID": 1001641,
+            "descriptionTextID": 1001656,
+            "sortid": 3,
+            "endevent": 3
+        }
+    },
+    "AllIds": [
+        150001,
+        150002,
+        150003,
+        150004,
+        150005,
+        150006,
+        150007,
+        150008,
+        150009,
+        150010,
+        150011,
+        150012,
+        150013,
+        150014,
+        150015
+    ]
+}

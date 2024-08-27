@@ -1,0 +1,302 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+    ],
+    "Data": [
+        {
+            "contentTextID": 600023,
+            "id": 1,
+            "endAni": "PopUpClose",
+            "img": 10618,
+            "titleTextID": 600001
+        },
+        {
+            "contentTextID": 600024,
+            "id": 2,
+            "endAni": "PopUpClose",
+            "img": 10626,
+            "titleTextID": 600002
+        },
+        {
+            "contentTextID": 600025,
+            "id": 3,
+            "endAni": "BrandClose",
+            "img": 11911,
+            "titleTextID": 600003
+        },
+        {
+            "contentTextID": 600026,
+            "id": 4,
+            "endAni": "BrandClose",
+            "img": 11912,
+            "titleTextID": 600004
+        },
+        {
+            "contentTextID": 600027,
+            "id": 5,
+            "endAni": "BrandClose",
+            "img": 11913,
+            "titleTextID": 600005
+        },
+        {
+            "contentTextID": 600028,
+            "id": 6,
+            "endAni": "PopUpClose",
+            "img": 11064,
+            "titleTextID": 600006
+        },
+        {
+            "contentTextID": 600029,
+            "id": 7,
+            "endAni": "PopUpClose",
+            "img": 11058,
+            "titleTextID": 600007
+        },
+        {
+            "contentTextID": 600030,
+            "id": 8,
+            "endAni": "PopUpClose",
+            "img": 11054,
+            "titleTextID": 600008
+        },
+        {
+            "contentTextID": 600031,
+            "id": 9,
+            "endAni": "PopUpClose",
+            "img": 11056,
+            "titleTextID": 600009
+        },
+        {
+            "contentTextID": 600032,
+            "id": 10,
+            "endAni": "PopUpClose",
+            "img": 11060,
+            "titleTextID": 600010
+        },
+        {
+            "contentTextID": 600033,
+            "id": 11,
+            "endAni": "PopUpClose",
+            "img": 11341,
+            "titleTextID": 600011
+        },
+        {
+            "contentTextID": 600034,
+            "id": 12,
+            "endAni": "PopUpClose",
+            "img": 11063,
+            "titleTextID": 600012
+        },
+        {
+            "contentTextID": 600035,
+            "id": 13,
+            "endAni": "PopUpClose",
+            "img": 11040,
+            "titleTextID": 600013
+        },
+        {
+            "contentTextID": 600036,
+            "id": 14,
+            "endAni": "PopUpClose",
+            "img": 10625,
+            "titleTextID": 600014
+        },
+        {
+            "contentTextID": 600037,
+            "id": 15,
+            "endAni": "PopUpClose",
+            "img": 10619,
+            "titleTextID": 600015
+        },
+        {
+            "contentTextID": 600038,
+            "id": 16,
+            "endAni": "PopUpClose",
+            "img": 11342,
+            "titleTextID": 600016
+        },
+        {
+            "contentTextID": 600039,
+            "id": 17,
+            "endAni": "PopUpClose",
+            "img": 11588,
+            "titleTextID": 600017
+        },
+        {
+            "contentTextID": 600040,
+            "id": 18,
+            "endAni": "PopUpClose",
+            "img": 11590,
+            "titleTextID": 600018
+        },
+        {
+            "contentTextID": 600041,
+            "id": 19,
+            "endAni": "PopUpClose",
+            "img": 11585,
+            "titleTextID": 600019
+        },
+        {
+            "contentTextID": 600042,
+            "id": 20,
+            "endAni": "PopUpClose",
+            "img": 11591,
+            "titleTextID": 600020
+        },
+        {
+            "contentTextID": 600043,
+            "id": 21,
+            "endAni": "PopUpClose",
+            "img": 11587,
+            "titleTextID": 600021
+        },
+        {
+            "contentTextID": 600044,
+            "id": 22,
+            "endAni": "PopUpClose",
+            "img": 11589,
+            "titleTextID": 600022
+        },
+        {
+            "contentTextID": 600033,
+            "id": 23,
+            "endAni": "PopUpClose",
+            "img": 11185,
+            "titleTextID": 600086
+        },
+        {
+            "contentTextID": 600088,
+            "id": 24,
+            "endAni": "PopUpClose",
+            "img": 11845,
+            "titleTextID": 600087
+        },
+        {
+            "contentTextID": 600090,
+            "id": 25,
+            "endAni": "PopUpClose",
+            "img": 11592,
+            "titleTextID": 600089
+        },
+        {
+            "contentTextID": 600092,
+            "id": 26,
+            "endAni": "PopUpClose",
+            "img": 10301,
+            "titleTextID": 600091
+        },
+        {
+            "contentTextID": 600093,
+            "id": 27,
+            "endAni": "BrandClose",
+            "img": 11913,
+            "titleTextID": 600005
+        },
+        {
+            "contentTextID": 600100,
+            "id": 28,
+            "endAni": "PopUpClose",
+            "img": 10508,
+            "titleTextID": 600099
+        },
+        {
+            "contentTextID": 600109,
+            "id": 29,
+            "endAni": "PopUpClose",
+            "img": 10509,
+            "titleTextID": 600108
+        },
+        {
+            "contentTextID": 600113,
+            "id": 30,
+            "endAni": "PopUpClose",
+            "img": 12394,
+            "titleTextID": 600111
+        },
+        {
+            "contentTextID": 600114,
+            "id": 31,
+            "endAni": "PopUpClose",
+            "img": 12395,
+            "titleTextID": 600112
+        },
+        {
+            "contentTextID": 600195,
+            "id": 32,
+            "endAni": "PopUpClose",
+            "img": 13659,
+            "titleTextID": 600194
+        },
+        {
+            "contentTextID": 600195,
+            "id": 33,
+            "endAni": "PopUpClose",
+            "img": 13660,
+            "titleTextID": 600194
+        },
+        {
+            "contentTextID": 600195,
+            "id": 34,
+            "endAni": "PopUpClose",
+            "img": 13661,
+            "titleTextID": 600194
+        },
+        {
+            "contentTextID": 600195,
+            "id": 35,
+            "endAni": "PopUpClose",
+            "img": 13662,
+            "titleTextID": 600194
+        },
+        {
+            "contentTextID": 600195,
+            "id": 36,
+            "endAni": "PopUpClose",
+            "img": 13663,
+            "titleTextID": 600194
+        },
+        {
+            "contentTextID": 600198,
+            "id": 37,
+            "endAni": "PopUpClose",
+            "img": 15027,
+            "titleTextID": 600197
+        }
+    ]
+}

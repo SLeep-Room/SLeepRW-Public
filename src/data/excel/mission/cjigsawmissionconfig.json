@@ -1,0 +1,604 @@
+{
+    "AllIds": [
+        50002,
+        50003,
+        50004,
+        50005,
+        50006,
+        50007,
+        50008,
+        50009,
+        50010,
+        50011,
+        50012,
+        50013,
+        50014,
+        50015,
+        50016,
+        50017,
+        50020,
+        50021,
+        50022,
+        50023,
+        50024,
+        50025,
+        50026
+    ],
+    "Data": {
+        "50016": {
+            "missiontype": 5,
+            "id": 50016,
+            "progresspath": [
+                "16,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001501,
+            "rewardid": 3317,
+            "sortid": 16,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 20,
+            "endevent": 16,
+            "description": "异界之镜探索1次",
+            "missionname": "异界之镜",
+            "missionnameTextID": 1001475,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50017": {
+            "missiontype": 5,
+            "id": 50017,
+            "progresspath": [
+                "17,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001502,
+            "rewardid": 3318,
+            "sortid": 17,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 20,
+            "endevent": 17,
+            "description": "异界之镜探索2次",
+            "missionname": "异界之镜",
+            "missionnameTextID": 1001476,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50020": {
+            "missiontype": 5,
+            "id": 50020,
+            "progresspath": [
+                "20,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001505,
+            "rewardid": 3321,
+            "sortid": 20,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 20,
+            "description": "使用1次好友助战",
+            "missionname": "好友助战",
+            "missionnameTextID": 1001479,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50021": {
+            "missiontype": 5,
+            "id": 50021,
+            "progresspath": [
+                "21,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001506,
+            "rewardid": 3322,
+            "sortid": 21,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 21,
+            "description": "使用2次好友助战",
+            "missionname": "好友助战",
+            "missionnameTextID": 1001480,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50022": {
+            "missiontype": 5,
+            "id": 50022,
+            "progresspath": [
+                "22,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001507,
+            "rewardid": 3323,
+            "sortid": 22,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 5,
+            "endevent": 22,
+            "description": "进行1次人偶召唤",
+            "missionname": "召唤练习",
+            "missionnameTextID": 1001481,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50023": {
+            "missiontype": 5,
+            "id": 50023,
+            "progresspath": [
+                "23,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001508,
+            "rewardid": 3324,
+            "sortid": 23,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 8,
+            "endevent": 23,
+            "description": "消耗10000点玛那",
+            "missionname": "消耗玛那",
+            "missionnameTextID": 1001482,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50024": {
+            "missiontype": 5,
+            "id": 50024,
+            "progresspath": [
+                "24,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001509,
+            "rewardid": 3325,
+            "sortid": 24,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 8,
+            "endevent": 24,
+            "description": "消耗50000点玛那",
+            "missionname": "消耗玛那",
+            "missionnameTextID": 1001483,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50025": {
+            "missiontype": 5,
+            "id": 50025,
+            "progresspath": [
+                "25,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001510,
+            "rewardid": 3326,
+            "sortid": 27,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 5,
+            "endevent": 25,
+            "description": "消耗10点灵魂",
+            "missionname": "消耗灵魂",
+            "missionnameTextID": 1001484,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50026": {
+            "missiontype": 5,
+            "id": 50026,
+            "progresspath": [
+                "26,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001511,
+            "rewardid": 3327,
+            "sortid": 28,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 5,
+            "endevent": 26,
+            "description": "消耗20点灵魂",
+            "missionname": "消耗灵魂",
+            "missionnameTextID": 1001485,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50002": {
+            "missiontype": 5,
+            "id": 50002,
+            "progresspath": [
+                "2,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001487,
+            "rewardid": 3211,
+            "sortid": 2,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 2,
+            "description": "通关1次主线关卡",
+            "missionname": "冒险之旅",
+            "missionnameTextID": 1001461,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50003": {
+            "missiontype": 5,
+            "id": 50003,
+            "progresspath": [
+                "3,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001488,
+            "rewardid": 3212,
+            "sortid": 3,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 3,
+            "description": "通关2次主线关卡",
+            "missionname": "冒险之旅",
+            "missionnameTextID": 1001462,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50004": {
+            "missiontype": 5,
+            "id": 50004,
+            "progresspath": [
+                "4,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001489,
+            "rewardid": 3213,
+            "sortid": 4,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 4,
+            "description": "消耗30点精神",
+            "missionname": "精力充沛",
+            "missionnameTextID": 1001463,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50005": {
+            "missiontype": 5,
+            "id": 50005,
+            "progresspath": [
+                "5,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001490,
+            "rewardid": 3214,
+            "sortid": 5,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 16,
+            "endevent": 5,
+            "description": "消耗50点精神",
+            "missionname": "精力充沛",
+            "missionnameTextID": 1001464,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50006": {
+            "missiontype": 5,
+            "id": 50006,
+            "progresspath": [
+                "6,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001491,
+            "rewardid": 3215,
+            "sortid": 6,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 17,
+            "endevent": 6,
+            "description": "完成玛那副本1次",
+            "missionname": "玛娜梦境",
+            "missionnameTextID": 1001465,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50007": {
+            "missiontype": 5,
+            "id": 50007,
+            "progresspath": [
+                "7,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001492,
+            "rewardid": 3216,
+            "sortid": 7,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 17,
+            "endevent": 7,
+            "description": "完成玛那副本2次",
+            "missionname": "玛娜梦境",
+            "missionnameTextID": 1001466,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50008": {
+            "missiontype": 5,
+            "id": 50008,
+            "progresspath": [
+                "8,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001493,
+            "rewardid": 3217,
+            "sortid": 8,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 17,
+            "endevent": 8,
+            "description": "完成突破副本1次",
+            "missionname": "突破试炼",
+            "missionnameTextID": 1001467,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50009": {
+            "missiontype": 5,
+            "id": 50009,
+            "progresspath": [
+                "9,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001494,
+            "rewardid": 3218,
+            "sortid": 9,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 17,
+            "endevent": 9,
+            "description": "完成突破副本2次",
+            "missionname": "突破试炼",
+            "missionnameTextID": 1001468,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50010": {
+            "missiontype": 5,
+            "id": 50010,
+            "progresspath": [
+                "10,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001495,
+            "rewardid": 3219,
+            "sortid": 10,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 17,
+            "endevent": 10,
+            "description": "完成技能副本1次",
+            "missionname": "技能书库",
+            "missionnameTextID": 1001469,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50011": {
+            "missiontype": 5,
+            "id": 50011,
+            "progresspath": [
+                "11,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001496,
+            "rewardid": 3220,
+            "sortid": 11,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 17,
+            "endevent": 11,
+            "description": "完成技能副本2次",
+            "missionname": "技能书库",
+            "missionnameTextID": 1001470,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50012": {
+            "missiontype": 5,
+            "id": 50012,
+            "progresspath": [
+                "12,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001497,
+            "rewardid": 3221,
+            "sortid": 12,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 17,
+            "endevent": 12,
+            "description": "完成装备副本1次",
+            "missionname": "装备幻境",
+            "missionnameTextID": 1001471,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50013": {
+            "missiontype": 5,
+            "id": 50013,
+            "progresspath": [
+                "13,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001498,
+            "rewardid": 3314,
+            "sortid": 13,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 17,
+            "endevent": 13,
+            "description": "完成装备副本2次",
+            "missionname": "装备幻境",
+            "missionnameTextID": 1001472,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50014": {
+            "missiontype": 5,
+            "id": 50014,
+            "progresspath": [
+                "14,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001499,
+            "rewardid": 3315,
+            "sortid": 14,
+            "rewardquantity": [
+                2
+            ],
+            "UIjumpvalue": 13,
+            "endevent": 14,
+            "description": "装备强化1次",
+            "missionname": "装备强化",
+            "missionnameTextID": 1001473,
+            "jumpvalue": [
+                0
+            ]
+        },
+        "50015": {
+            "missiontype": 5,
+            "id": 50015,
+            "progresspath": [
+                "15,1"
+            ],
+            "jumptype": 2,
+            "rewarditem": [
+                35027
+            ],
+            "descriptionTextID": 1001500,
+            "rewardid": 3316,
+            "sortid": 15,
+            "rewardquantity": [
+                3
+            ],
+            "UIjumpvalue": 13,
+            "endevent": 15,
+            "description": "装备强化2次",
+            "missionname": "装备强化",
+            "missionnameTextID": 1001474,
+            "jumpvalue": [
+                0
+            ]
+        }
+    }
+}

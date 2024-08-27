@@ -1,0 +1,8471 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565
+    ],
+    "Data": {
+        "1": {
+            "area": "Head",
+            "id": 1,
+            "role_id": 1,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "2": {
+            "area": "Face",
+            "id": 2,
+            "role_id": 1,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "3": {
+            "area": "Breast",
+            "id": 3,
+            "role_id": 1,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "4": {
+            "area": "Skirt",
+            "id": 4,
+            "role_id": 1,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "5": {
+            "area": "Leg",
+            "id": 5,
+            "role_id": 1,
+            "volume_id": [
+                "touch,5",
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "6": {
+            "area": "Head",
+            "id": 6,
+            "role_id": 2,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "7": {
+            "area": "Face",
+            "id": 7,
+            "role_id": 2,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "8": {
+            "area": "Breast",
+            "id": 8,
+            "role_id": 2,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "9": {
+            "area": "Skirt",
+            "id": 9,
+            "role_id": 2,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "10": {
+            "area": "Leg",
+            "id": 10,
+            "role_id": 2,
+            "volume_id": [
+                "touch,5",
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "11": {
+            "area": "Head",
+            "id": 11,
+            "role_id": 3,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "12": {
+            "area": "Face",
+            "id": 12,
+            "role_id": 3,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "13": {
+            "area": "Breast",
+            "id": 13,
+            "role_id": 3,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "14": {
+            "area": "Skirt",
+            "id": 14,
+            "role_id": 3,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "15": {
+            "area": "Leg",
+            "id": 15,
+            "role_id": 3,
+            "volume_id": [
+                "touch,5",
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "16": {
+            "area": "Head",
+            "id": 16,
+            "role_id": 4,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "17": {
+            "area": "Face",
+            "id": 17,
+            "role_id": 4,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "18": {
+            "area": "Breast",
+            "id": 18,
+            "role_id": 4,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "19": {
+            "area": "Skirt",
+            "id": 19,
+            "role_id": 4,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "20": {
+            "area": "Leg",
+            "id": 20,
+            "role_id": 4,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "21": {
+            "area": "Head",
+            "id": 21,
+            "role_id": 6,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "22": {
+            "area": "Face",
+            "id": 22,
+            "role_id": 6,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "23": {
+            "area": "Breast",
+            "id": 23,
+            "role_id": 6,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "24": {
+            "area": "Skirt",
+            "id": 24,
+            "role_id": 6,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "25": {
+            "area": "Leg",
+            "id": 25,
+            "role_id": 6,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "26": {
+            "area": "Head",
+            "id": 26,
+            "role_id": 8,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "27": {
+            "area": "Face",
+            "id": 27,
+            "role_id": 8,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "28": {
+            "area": "Breast",
+            "id": 28,
+            "role_id": 8,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "29": {
+            "area": "Skirt",
+            "id": 29,
+            "role_id": 8,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "30": {
+            "area": "Leg",
+            "id": 30,
+            "role_id": 8,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "31": {
+            "area": "Head",
+            "id": 31,
+            "role_id": 9,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "32": {
+            "area": "Face",
+            "id": 32,
+            "role_id": 9,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "33": {
+            "area": "Breast",
+            "id": 33,
+            "role_id": 9,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "34": {
+            "area": "Skirt",
+            "id": 34,
+            "role_id": 9,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "35": {
+            "area": "Leg",
+            "id": 35,
+            "role_id": 9,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "36": {
+            "area": "Head",
+            "id": 36,
+            "role_id": 10,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "37": {
+            "area": "Face",
+            "id": 37,
+            "role_id": 10,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "38": {
+            "area": "Breast",
+            "id": 38,
+            "role_id": 10,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "39": {
+            "area": "Skirt",
+            "id": 39,
+            "role_id": 10,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "40": {
+            "area": "Leg",
+            "id": 40,
+            "role_id": 10,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "41": {
+            "area": "Head",
+            "id": 41,
+            "role_id": 11,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "42": {
+            "area": "Face",
+            "id": 42,
+            "role_id": 11,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "43": {
+            "area": "Breast",
+            "id": 43,
+            "role_id": 11,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "44": {
+            "area": "Skirt",
+            "id": 44,
+            "role_id": 11,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "45": {
+            "area": "Leg",
+            "id": 45,
+            "role_id": 11,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "46": {
+            "area": "Head",
+            "id": 46,
+            "role_id": 12,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "47": {
+            "area": "Face",
+            "id": 47,
+            "role_id": 12,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "48": {
+            "area": "Breast",
+            "id": 48,
+            "role_id": 12,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "49": {
+            "area": "Skirt",
+            "id": 49,
+            "role_id": 12,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "50": {
+            "area": "Leg",
+            "id": 50,
+            "role_id": 12,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "51": {
+            "area": "Head",
+            "id": 51,
+            "role_id": 13,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "52": {
+            "area": "Face",
+            "id": 52,
+            "role_id": 13,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "53": {
+            "area": "Breast",
+            "id": 53,
+            "role_id": 13,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "54": {
+            "area": "Skirt",
+            "id": 54,
+            "role_id": 13,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "55": {
+            "area": "Leg",
+            "id": 55,
+            "role_id": 13,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "56": {
+            "area": "Head",
+            "id": 56,
+            "role_id": 14,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "57": {
+            "area": "Face",
+            "id": 57,
+            "role_id": 14,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "58": {
+            "area": "Breast",
+            "id": 58,
+            "role_id": 14,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "59": {
+            "area": "Skirt",
+            "id": 59,
+            "role_id": 14,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "60": {
+            "area": "Leg",
+            "id": 60,
+            "role_id": 14,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "61": {
+            "area": "Head",
+            "id": 61,
+            "role_id": 15,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "62": {
+            "area": "Face",
+            "id": 62,
+            "role_id": 15,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "63": {
+            "area": "Breast",
+            "id": 63,
+            "role_id": 15,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "64": {
+            "area": "Skirt",
+            "id": 64,
+            "role_id": 15,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "65": {
+            "area": "Leg",
+            "id": 65,
+            "role_id": 15,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "66": {
+            "area": "Head",
+            "id": 66,
+            "role_id": 16,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "67": {
+            "area": "Face",
+            "id": 67,
+            "role_id": 16,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "68": {
+            "area": "Breast",
+            "id": 68,
+            "role_id": 16,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "69": {
+            "area": "Skirt",
+            "id": 69,
+            "role_id": 16,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "70": {
+            "area": "Leg",
+            "id": 70,
+            "role_id": 16,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "71": {
+            "area": "Head",
+            "id": 71,
+            "role_id": 17,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "72": {
+            "area": "Face",
+            "id": 72,
+            "role_id": 17,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "73": {
+            "area": "Breast",
+            "id": 73,
+            "role_id": 17,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "74": {
+            "area": "Skirt",
+            "id": 74,
+            "role_id": 17,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "75": {
+            "area": "Leg",
+            "id": 75,
+            "role_id": 17,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "76": {
+            "area": "Head",
+            "id": 76,
+            "role_id": 18,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "77": {
+            "area": "Face",
+            "id": 77,
+            "role_id": 18,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "78": {
+            "area": "Breast",
+            "id": 78,
+            "role_id": 18,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "79": {
+            "area": "Skirt",
+            "id": 79,
+            "role_id": 18,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "80": {
+            "area": "Leg",
+            "id": 80,
+            "role_id": 18,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "81": {
+            "area": "Head",
+            "id": 81,
+            "role_id": 19,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "82": {
+            "area": "Face",
+            "id": 82,
+            "role_id": 19,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "83": {
+            "area": "Breast",
+            "id": 83,
+            "role_id": 19,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "84": {
+            "area": "Skirt",
+            "id": 84,
+            "role_id": 19,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "85": {
+            "area": "Leg",
+            "id": 85,
+            "role_id": 19,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "86": {
+            "area": "Head",
+            "id": 86,
+            "role_id": 22,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "87": {
+            "area": "Face",
+            "id": 87,
+            "role_id": 22,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "88": {
+            "area": "Breast",
+            "id": 88,
+            "role_id": 22,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "89": {
+            "area": "Skirt",
+            "id": 89,
+            "role_id": 22,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "90": {
+            "area": "Leg",
+            "id": 90,
+            "role_id": 22,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "91": {
+            "area": "Head",
+            "id": 91,
+            "role_id": 23,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "92": {
+            "area": "Face",
+            "id": 92,
+            "role_id": 23,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "93": {
+            "area": "Breast",
+            "id": 93,
+            "role_id": 23,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "94": {
+            "area": "Skirt",
+            "id": 94,
+            "role_id": 23,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "95": {
+            "area": "Leg",
+            "id": 95,
+            "role_id": 23,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "96": {
+            "area": "Head",
+            "id": 96,
+            "role_id": 24,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "97": {
+            "area": "Face",
+            "id": 97,
+            "role_id": 24,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "98": {
+            "area": "Breast",
+            "id": 98,
+            "role_id": 24,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "99": {
+            "area": "Skirt",
+            "id": 99,
+            "role_id": 24,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "100": {
+            "area": "Leg",
+            "id": 100,
+            "role_id": 24,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "101": {
+            "area": "Head",
+            "id": 101,
+            "role_id": 25,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "102": {
+            "area": "Face",
+            "id": 102,
+            "role_id": 25,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "103": {
+            "area": "Breast",
+            "id": 103,
+            "role_id": 25,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "104": {
+            "area": "Skirt",
+            "id": 104,
+            "role_id": 25,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "105": {
+            "area": "Leg",
+            "id": 105,
+            "role_id": 25,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "106": {
+            "area": "Head",
+            "id": 106,
+            "role_id": 27,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "107": {
+            "area": "Face",
+            "id": 107,
+            "role_id": 27,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "108": {
+            "area": "Breast",
+            "id": 108,
+            "role_id": 27,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "109": {
+            "area": "Skirt",
+            "id": 109,
+            "role_id": 27,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "110": {
+            "area": "Leg",
+            "id": 110,
+            "role_id": 27,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "111": {
+            "area": "Head",
+            "id": 111,
+            "role_id": 28,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "112": {
+            "area": "Face",
+            "id": 112,
+            "role_id": 28,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "113": {
+            "area": "Breast",
+            "id": 113,
+            "role_id": 28,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "114": {
+            "area": "Skirt",
+            "id": 114,
+            "role_id": 28,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "115": {
+            "area": "Leg",
+            "id": 115,
+            "role_id": 28,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "116": {
+            "area": "Head",
+            "id": 116,
+            "role_id": 29,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "117": {
+            "area": "Face",
+            "id": 117,
+            "role_id": 29,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "118": {
+            "area": "Breast",
+            "id": 118,
+            "role_id": 29,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "119": {
+            "area": "Skirt",
+            "id": 119,
+            "role_id": 29,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "120": {
+            "area": "Leg",
+            "id": 120,
+            "role_id": 29,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "121": {
+            "area": "Head",
+            "id": 121,
+            "role_id": 30,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "122": {
+            "area": "Face",
+            "id": 122,
+            "role_id": 30,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "123": {
+            "area": "Breast",
+            "id": 123,
+            "role_id": 30,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "124": {
+            "area": "Skirt",
+            "id": 124,
+            "role_id": 30,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "125": {
+            "area": "Leg",
+            "id": 125,
+            "role_id": 30,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "126": {
+            "area": "Head",
+            "id": 126,
+            "role_id": 32,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "127": {
+            "area": "Face",
+            "id": 127,
+            "role_id": 32,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "128": {
+            "area": "Breast",
+            "id": 128,
+            "role_id": 32,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "129": {
+            "area": "Skirt",
+            "id": 129,
+            "role_id": 32,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "130": {
+            "area": "Leg",
+            "id": 130,
+            "role_id": 32,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "131": {
+            "area": "Head",
+            "id": 131,
+            "role_id": 33,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "132": {
+            "area": "Face",
+            "id": 132,
+            "role_id": 33,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "133": {
+            "area": "Breast",
+            "id": 133,
+            "role_id": 33,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "134": {
+            "area": "Skirt",
+            "id": 134,
+            "role_id": 33,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "135": {
+            "area": "Leg",
+            "id": 135,
+            "role_id": 33,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "136": {
+            "area": "Head",
+            "id": 136,
+            "role_id": 34,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "137": {
+            "area": "Face",
+            "id": 137,
+            "role_id": 34,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "138": {
+            "area": "Breast",
+            "id": 138,
+            "role_id": 34,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "139": {
+            "area": "Skirt",
+            "id": 139,
+            "role_id": 34,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "140": {
+            "area": "Leg",
+            "id": 140,
+            "role_id": 34,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "141": {
+            "area": "Head",
+            "id": 141,
+            "role_id": 35,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "142": {
+            "area": "Face",
+            "id": 142,
+            "role_id": 35,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "143": {
+            "area": "Breast",
+            "id": 143,
+            "role_id": 35,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "144": {
+            "area": "Skirt",
+            "id": 144,
+            "role_id": 35,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "145": {
+            "area": "Leg",
+            "id": 145,
+            "role_id": 35,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "146": {
+            "area": "Head",
+            "id": 146,
+            "role_id": 36,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "147": {
+            "area": "Face",
+            "id": 147,
+            "role_id": 36,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "148": {
+            "area": "Breast",
+            "id": 148,
+            "role_id": 36,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "149": {
+            "area": "Skirt",
+            "id": 149,
+            "role_id": 36,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "150": {
+            "area": "Leg",
+            "id": 150,
+            "role_id": 36,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "151": {
+            "area": "Head",
+            "id": 151,
+            "role_id": 38,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "152": {
+            "area": "Face",
+            "id": 152,
+            "role_id": 38,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "153": {
+            "area": "Breast",
+            "id": 153,
+            "role_id": 38,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "154": {
+            "area": "Skirt",
+            "id": 154,
+            "role_id": 38,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "155": {
+            "area": "Leg",
+            "id": 155,
+            "role_id": 38,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "156": {
+            "area": "Head",
+            "id": 156,
+            "role_id": 39,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "157": {
+            "area": "Face",
+            "id": 157,
+            "role_id": 39,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "158": {
+            "area": "Breast",
+            "id": 158,
+            "role_id": 39,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "159": {
+            "area": "Skirt",
+            "id": 159,
+            "role_id": 39,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "160": {
+            "area": "Leg",
+            "id": 160,
+            "role_id": 39,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "161": {
+            "area": "Head",
+            "id": 161,
+            "role_id": 40,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "162": {
+            "area": "Face",
+            "id": 162,
+            "role_id": 40,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "163": {
+            "area": "Breast",
+            "id": 163,
+            "role_id": 40,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "164": {
+            "area": "Skirt",
+            "id": 164,
+            "role_id": 40,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "165": {
+            "area": "Leg",
+            "id": 165,
+            "role_id": 40,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "166": {
+            "area": "Head",
+            "id": 166,
+            "role_id": 41,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "167": {
+            "area": "Face",
+            "id": 167,
+            "role_id": 41,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "168": {
+            "area": "Breast",
+            "id": 168,
+            "role_id": 41,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "169": {
+            "area": "Skirt",
+            "id": 169,
+            "role_id": 41,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "170": {
+            "area": "Leg",
+            "id": 170,
+            "role_id": 41,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "171": {
+            "area": "Head",
+            "id": 171,
+            "role_id": 42,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "172": {
+            "area": "Face",
+            "id": 172,
+            "role_id": 42,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "173": {
+            "area": "Breast",
+            "id": 173,
+            "role_id": 42,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "174": {
+            "area": "Skirt",
+            "id": 174,
+            "role_id": 42,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "175": {
+            "area": "Leg",
+            "id": 175,
+            "role_id": 42,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "176": {
+            "area": "Head",
+            "id": 176,
+            "role_id": 43,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "177": {
+            "area": "Face",
+            "id": 177,
+            "role_id": 43,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "178": {
+            "area": "Breast",
+            "id": 178,
+            "role_id": 43,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "179": {
+            "area": "Skirt",
+            "id": 179,
+            "role_id": 43,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "180": {
+            "area": "Leg",
+            "id": 180,
+            "role_id": 43,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "181": {
+            "area": "Head",
+            "id": 181,
+            "role_id": 44,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "182": {
+            "area": "Face",
+            "id": 182,
+            "role_id": 44,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "183": {
+            "area": "Breast",
+            "id": 183,
+            "role_id": 44,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "184": {
+            "area": "Skirt",
+            "id": 184,
+            "role_id": 44,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "185": {
+            "area": "Leg",
+            "id": 185,
+            "role_id": 44,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "186": {
+            "area": "Head",
+            "id": 186,
+            "role_id": 45,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "187": {
+            "area": "Face",
+            "id": 187,
+            "role_id": 45,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "188": {
+            "area": "Breast",
+            "id": 188,
+            "role_id": 45,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "189": {
+            "area": "Skirt",
+            "id": 189,
+            "role_id": 45,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "190": {
+            "area": "Leg",
+            "id": 190,
+            "role_id": 45,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "191": {
+            "area": "Head",
+            "id": 191,
+            "role_id": 47,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "192": {
+            "area": "Face",
+            "id": 192,
+            "role_id": 47,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "193": {
+            "area": "Breast",
+            "id": 193,
+            "role_id": 47,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "194": {
+            "area": "Skirt",
+            "id": 194,
+            "role_id": 47,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "195": {
+            "area": "Leg",
+            "id": 195,
+            "role_id": 47,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "196": {
+            "area": "Head",
+            "id": 196,
+            "role_id": 48,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "197": {
+            "area": "Face",
+            "id": 197,
+            "role_id": 48,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "198": {
+            "area": "Breast",
+            "id": 198,
+            "role_id": 48,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "199": {
+            "area": "Skirt",
+            "id": 199,
+            "role_id": 48,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "200": {
+            "area": "Leg",
+            "id": 200,
+            "role_id": 48,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "201": {
+            "area": "Head",
+            "id": 201,
+            "role_id": 49,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "202": {
+            "area": "Face",
+            "id": 202,
+            "role_id": 49,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "203": {
+            "area": "Breast",
+            "id": 203,
+            "role_id": 49,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "204": {
+            "area": "Skirt",
+            "id": 204,
+            "role_id": 49,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "205": {
+            "area": "Leg",
+            "id": 205,
+            "role_id": 49,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "206": {
+            "area": "Head",
+            "id": 206,
+            "role_id": 51,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "207": {
+            "area": "Face",
+            "id": 207,
+            "role_id": 51,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "208": {
+            "area": "Breast",
+            "id": 208,
+            "role_id": 51,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "209": {
+            "area": "Skirt",
+            "id": 209,
+            "role_id": 51,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "210": {
+            "area": "Leg",
+            "id": 210,
+            "role_id": 51,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "211": {
+            "area": "Head",
+            "id": 211,
+            "role_id": 52,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "212": {
+            "area": "Face",
+            "id": 212,
+            "role_id": 52,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "213": {
+            "area": "Breast",
+            "id": 213,
+            "role_id": 52,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "214": {
+            "area": "Skirt",
+            "id": 214,
+            "role_id": 52,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "215": {
+            "area": "Leg",
+            "id": 215,
+            "role_id": 52,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "216": {
+            "area": "Head",
+            "id": 216,
+            "role_id": 53,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "217": {
+            "area": "Face",
+            "id": 217,
+            "role_id": 53,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "218": {
+            "area": "Breast",
+            "id": 218,
+            "role_id": 53,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "219": {
+            "area": "Skirt",
+            "id": 219,
+            "role_id": 53,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "220": {
+            "area": "Leg",
+            "id": 220,
+            "role_id": 53,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "221": {
+            "area": "Head",
+            "id": 221,
+            "role_id": 54,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "222": {
+            "area": "Face",
+            "id": 222,
+            "role_id": 54,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "223": {
+            "area": "Breast",
+            "id": 223,
+            "role_id": 54,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "224": {
+            "area": "Skirt",
+            "id": 224,
+            "role_id": 54,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "225": {
+            "area": "Leg",
+            "id": 225,
+            "role_id": 54,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "226": {
+            "area": "Head",
+            "id": 226,
+            "role_id": 55,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "227": {
+            "area": "Face",
+            "id": 227,
+            "role_id": 55,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "228": {
+            "area": "Breast",
+            "id": 228,
+            "role_id": 55,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "229": {
+            "area": "Skirt",
+            "id": 229,
+            "role_id": 55,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "230": {
+            "area": "Leg",
+            "id": 230,
+            "role_id": 55,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "231": {
+            "area": "Head",
+            "id": 231,
+            "role_id": 56,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "232": {
+            "area": "Face",
+            "id": 232,
+            "role_id": 56,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "233": {
+            "area": "Breast",
+            "id": 233,
+            "role_id": 56,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "234": {
+            "area": "Skirt",
+            "id": 234,
+            "role_id": 56,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "235": {
+            "area": "Leg",
+            "id": 235,
+            "role_id": 56,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "236": {
+            "area": "Head",
+            "id": 236,
+            "role_id": 57,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "237": {
+            "area": "Face",
+            "id": 237,
+            "role_id": 57,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "238": {
+            "area": "Breast",
+            "id": 238,
+            "role_id": 57,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "239": {
+            "area": "Skirt",
+            "id": 239,
+            "role_id": 57,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "240": {
+            "area": "Leg",
+            "id": 240,
+            "role_id": 57,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "241": {
+            "area": "Head",
+            "id": 241,
+            "role_id": 59,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "242": {
+            "area": "Face",
+            "id": 242,
+            "role_id": 59,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "243": {
+            "area": "Breast",
+            "id": 243,
+            "role_id": 59,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "244": {
+            "area": "Skirt",
+            "id": 244,
+            "role_id": 59,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "245": {
+            "area": "Leg",
+            "id": 245,
+            "role_id": 59,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "246": {
+            "area": "Head",
+            "id": 246,
+            "role_id": 61,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "247": {
+            "area": "Face",
+            "id": 247,
+            "role_id": 61,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "248": {
+            "area": "Breast",
+            "id": 248,
+            "role_id": 61,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "249": {
+            "area": "Skirt",
+            "id": 249,
+            "role_id": 61,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "250": {
+            "area": "Leg",
+            "id": 250,
+            "role_id": 61,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "251": {
+            "area": "Head",
+            "id": 251,
+            "role_id": 63,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "252": {
+            "area": "Face",
+            "id": 252,
+            "role_id": 63,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "253": {
+            "area": "Breast",
+            "id": 253,
+            "role_id": 63,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "254": {
+            "area": "Skirt",
+            "id": 254,
+            "role_id": 63,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "255": {
+            "area": "Leg",
+            "id": 255,
+            "role_id": 63,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "256": {
+            "area": "Head",
+            "id": 256,
+            "role_id": 64,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "257": {
+            "area": "Face",
+            "id": 257,
+            "role_id": 64,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "258": {
+            "area": "Breast",
+            "id": 258,
+            "role_id": 64,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "259": {
+            "area": "Skirt",
+            "id": 259,
+            "role_id": 64,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "260": {
+            "area": "Leg",
+            "id": 260,
+            "role_id": 64,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "261": {
+            "area": "Head",
+            "id": 261,
+            "role_id": 65,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "262": {
+            "area": "Face",
+            "id": 262,
+            "role_id": 65,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "263": {
+            "area": "Breast",
+            "id": 263,
+            "role_id": 65,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "264": {
+            "area": "Skirt",
+            "id": 264,
+            "role_id": 65,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "265": {
+            "area": "Leg",
+            "id": 265,
+            "role_id": 65,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "266": {
+            "area": "Head",
+            "id": 266,
+            "role_id": 66,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "267": {
+            "area": "Face",
+            "id": 267,
+            "role_id": 66,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "268": {
+            "area": "Breast",
+            "id": 268,
+            "role_id": 66,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "269": {
+            "area": "Skirt",
+            "id": 269,
+            "role_id": 66,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "270": {
+            "area": "Leg",
+            "id": 270,
+            "role_id": 66,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "271": {
+            "area": "Head",
+            "id": 271,
+            "role_id": 67,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "272": {
+            "area": "Face",
+            "id": 272,
+            "role_id": 67,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "273": {
+            "area": "Breast",
+            "id": 273,
+            "role_id": 67,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "274": {
+            "area": "Skirt",
+            "id": 274,
+            "role_id": 67,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "275": {
+            "area": "Leg",
+            "id": 275,
+            "role_id": 67,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "276": {
+            "area": "Head",
+            "id": 276,
+            "role_id": 68,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "277": {
+            "area": "Face",
+            "id": 277,
+            "role_id": 68,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "278": {
+            "area": "Breast",
+            "id": 278,
+            "role_id": 68,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "279": {
+            "area": "Skirt",
+            "id": 279,
+            "role_id": 68,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "280": {
+            "area": "Leg",
+            "id": 280,
+            "role_id": 68,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "281": {
+            "area": "Head",
+            "id": 281,
+            "role_id": 69,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "282": {
+            "area": "Face",
+            "id": 282,
+            "role_id": 69,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "283": {
+            "area": "Breast",
+            "id": 283,
+            "role_id": 69,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "284": {
+            "area": "Skirt",
+            "id": 284,
+            "role_id": 69,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "285": {
+            "area": "Leg",
+            "id": 285,
+            "role_id": 69,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "286": {
+            "area": "Head",
+            "id": 286,
+            "role_id": 70,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "287": {
+            "area": "Face",
+            "id": 287,
+            "role_id": 70,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "288": {
+            "area": "Breast",
+            "id": 288,
+            "role_id": 70,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "289": {
+            "area": "Skirt",
+            "id": 289,
+            "role_id": 70,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "290": {
+            "area": "Leg",
+            "id": 290,
+            "role_id": 70,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "291": {
+            "area": "Head",
+            "id": 291,
+            "role_id": 71,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "292": {
+            "area": "Face",
+            "id": 292,
+            "role_id": 71,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "293": {
+            "area": "Breast",
+            "id": 293,
+            "role_id": 71,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "294": {
+            "area": "Skirt",
+            "id": 294,
+            "role_id": 71,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "295": {
+            "area": "Leg",
+            "id": 295,
+            "role_id": 71,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "296": {
+            "area": "Head",
+            "id": 296,
+            "role_id": 72,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "297": {
+            "area": "Face",
+            "id": 297,
+            "role_id": 72,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "298": {
+            "area": "Breast",
+            "id": 298,
+            "role_id": 72,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "299": {
+            "area": "Skirt",
+            "id": 299,
+            "role_id": 72,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "300": {
+            "area": "Leg",
+            "id": 300,
+            "role_id": 72,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "301": {
+            "area": "Head",
+            "id": 301,
+            "role_id": 73,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "302": {
+            "area": "Face",
+            "id": 302,
+            "role_id": 73,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "303": {
+            "area": "Breast",
+            "id": 303,
+            "role_id": 73,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "304": {
+            "area": "Skirt",
+            "id": 304,
+            "role_id": 73,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "305": {
+            "area": "Leg",
+            "id": 305,
+            "role_id": 73,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "306": {
+            "area": "Head",
+            "id": 306,
+            "role_id": 74,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "307": {
+            "area": "Face",
+            "id": 307,
+            "role_id": 74,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "308": {
+            "area": "Breast",
+            "id": 308,
+            "role_id": 74,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "309": {
+            "area": "Skirt",
+            "id": 309,
+            "role_id": 74,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "310": {
+            "area": "Leg",
+            "id": 310,
+            "role_id": 74,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "311": {
+            "area": "Head",
+            "id": 311,
+            "role_id": 75,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "312": {
+            "area": "Face",
+            "id": 312,
+            "role_id": 75,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "313": {
+            "area": "Breast",
+            "id": 313,
+            "role_id": 75,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "314": {
+            "area": "Skirt",
+            "id": 314,
+            "role_id": 75,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "315": {
+            "area": "Leg",
+            "id": 315,
+            "role_id": 75,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "316": {
+            "area": "Head",
+            "id": 316,
+            "role_id": 76,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "317": {
+            "area": "Face",
+            "id": 317,
+            "role_id": 76,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "318": {
+            "area": "Breast",
+            "id": 318,
+            "role_id": 76,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "319": {
+            "area": "Skirt",
+            "id": 319,
+            "role_id": 76,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "320": {
+            "area": "Leg",
+            "id": 320,
+            "role_id": 76,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "321": {
+            "area": "Head",
+            "id": 321,
+            "role_id": 78,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1",
+                "touch,3"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk",
+                "shock"
+            ]
+        },
+        "322": {
+            "area": "Face",
+            "id": 322,
+            "role_id": 78,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,2",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk",
+                "shock"
+            ]
+        },
+        "323": {
+            "area": "Breast",
+            "id": 323,
+            "role_id": 78,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative",
+                "shock"
+            ]
+        },
+        "324": {
+            "area": "Skirt",
+            "id": 324,
+            "role_id": 78,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative",
+                "shock"
+            ]
+        },
+        "325": {
+            "area": "Leg",
+            "id": 325,
+            "role_id": 78,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "326": {
+            "area": "Head",
+            "id": 326,
+            "role_id": 79,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "327": {
+            "area": "Face",
+            "id": 327,
+            "role_id": 79,
+            "volume_id": [
+                "touch,3",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "328": {
+            "area": "Breast",
+            "id": 328,
+            "role_id": 79,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2",
+                "touch,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative",
+                "angry",
+                "negative"
+            ]
+        },
+        "329": {
+            "area": "Skirt",
+            "id": 329,
+            "role_id": 79,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "330": {
+            "area": "Leg",
+            "id": 330,
+            "role_id": 79,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "331": {
+            "area": "Head",
+            "id": 331,
+            "role_id": 81,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1",
+                "Emotion,2"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk",
+                "negative"
+            ]
+        },
+        "332": {
+            "area": "Face",
+            "id": 332,
+            "role_id": 81,
+            "volume_id": [
+                "touch,3",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "333": {
+            "area": "Breast",
+            "id": 333,
+            "role_id": 81,
+            "volume_id": [
+                "touch,2",
+                "touch,2",
+                "touch,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative",
+                "angry",
+                "negative"
+            ]
+        },
+        "334": {
+            "area": "Skirt",
+            "id": 334,
+            "role_id": 81,
+            "volume_id": [
+                "touch,4",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "335": {
+            "area": "Leg",
+            "id": 335,
+            "role_id": 81,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "336": {
+            "area": "Head",
+            "id": 336,
+            "role_id": 89,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "337": {
+            "area": "Face",
+            "id": 337,
+            "role_id": 89,
+            "volume_id": [
+                "touch,3",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "338": {
+            "area": "Breast",
+            "id": 338,
+            "role_id": 89,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2",
+                "touch,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative",
+                "angry",
+                "negative"
+            ]
+        },
+        "339": {
+            "area": "Skirt",
+            "id": 339,
+            "role_id": 89,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "340": {
+            "area": "Leg",
+            "id": 340,
+            "role_id": 89,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "341": {
+            "area": "Head",
+            "id": 341,
+            "role_id": 90,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "342": {
+            "area": "Face",
+            "id": 342,
+            "role_id": 90,
+            "volume_id": [
+                "touch,3",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "343": {
+            "area": "Breast",
+            "id": 343,
+            "role_id": 90,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2",
+                "touch,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative",
+                "angry",
+                "negative"
+            ]
+        },
+        "344": {
+            "area": "Skirt",
+            "id": 344,
+            "role_id": 90,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "345": {
+            "area": "Leg",
+            "id": 345,
+            "role_id": 90,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "346": {
+            "area": "Head",
+            "id": 346,
+            "role_id": 83,
+            "volume_id": [
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "negative",
+                "angry"
+            ]
+        },
+        "347": {
+            "area": "Face",
+            "id": 347,
+            "role_id": 83,
+            "volume_id": [
+                "touch,3",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "negative",
+                "angry",
+                "talk"
+            ]
+        },
+        "348": {
+            "area": "Breast",
+            "id": 348,
+            "role_id": 83,
+            "volume_id": [
+                "touch,2",
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "angry",
+                "shock"
+            ]
+        },
+        "349": {
+            "area": "Skirt",
+            "id": 349,
+            "role_id": 83,
+            "volume_id": [
+                "touch,4",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "angry"
+            ]
+        },
+        "350": {
+            "area": "Leg",
+            "id": 350,
+            "role_id": 83,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "talk",
+                "negative"
+            ]
+        },
+        "351": {
+            "area": "Head",
+            "id": 351,
+            "role_id": 95,
+            "volume_id": [
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "shy",
+                "smile"
+            ]
+        },
+        "352": {
+            "area": "Face",
+            "id": 352,
+            "role_id": 95,
+            "volume_id": [
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "smile",
+                "shy"
+            ]
+        },
+        "353": {
+            "area": "Breast",
+            "id": 353,
+            "role_id": 95,
+            "volume_id": [
+                "touch,2",
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "shock",
+                "negative",
+                "talk"
+            ]
+        },
+        "354": {
+            "area": "Skirt",
+            "id": 354,
+            "role_id": 95,
+            "volume_id": [
+                "touch,4",
+                "Emotion,2",
+                "touch,4",
+                "touch,4"
+            ],
+            "state": [
+                "shy",
+                "negative",
+                "talk",
+                "angry"
+            ]
+        },
+        "355": {
+            "area": "Leg",
+            "id": 355,
+            "role_id": 95,
+            "volume_id": [
+                "touch,5",
+                "touch,5",
+                "Emotion,2"
+            ],
+            "state": [
+                "shy",
+                "negative",
+                "angry"
+            ]
+        },
+        "356": {
+            "area": "Head",
+            "id": 356,
+            "role_id": 80,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "357": {
+            "area": "Face",
+            "id": 357,
+            "role_id": 80,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "358": {
+            "area": "Breast",
+            "id": 358,
+            "role_id": 80,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "359": {
+            "area": "Skirt",
+            "id": 359,
+            "role_id": 80,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "360": {
+            "area": "Leg",
+            "id": 360,
+            "role_id": 80,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "361": {
+            "area": "Head",
+            "id": 361,
+            "role_id": 108,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "362": {
+            "area": "Face",
+            "id": 362,
+            "role_id": 108,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "363": {
+            "area": "Breast",
+            "id": 363,
+            "role_id": 108,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "364": {
+            "area": "Skirt",
+            "id": 364,
+            "role_id": 108,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "365": {
+            "area": "Leg",
+            "id": 365,
+            "role_id": 108,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "366": {
+            "area": "Head",
+            "id": 366,
+            "role_id": 110,
+            "volume_id": [
+                "touch,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "367": {
+            "area": "Face",
+            "id": 367,
+            "role_id": 110,
+            "volume_id": [
+                "touch,2",
+                "Emotion,1",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "368": {
+            "area": "Breast",
+            "id": 368,
+            "role_id": 110,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "369": {
+            "area": "Skirt",
+            "id": 369,
+            "role_id": 110,
+            "volume_id": [
+                "Emotion,2",
+                "Emotion,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "370": {
+            "area": "Leg",
+            "id": 370,
+            "role_id": 110,
+            "volume_id": [
+                "touch,5",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "371": {
+            "area": "Head",
+            "id": 371,
+            "role_id": 100,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "372": {
+            "area": "Breast",
+            "id": 372,
+            "role_id": 100,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "373": {
+            "area": "Face",
+            "id": 373,
+            "role_id": 100,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "374": {
+            "area": "Skirt",
+            "id": 374,
+            "role_id": 100,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "375": {
+            "area": "Leg",
+            "id": 375,
+            "role_id": 100,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "376": {
+            "area": "Head",
+            "id": 376,
+            "role_id": 106,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "377": {
+            "area": "Breast",
+            "id": 377,
+            "role_id": 106,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "378": {
+            "area": "Face",
+            "id": 378,
+            "role_id": 106,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "379": {
+            "area": "Skirt",
+            "id": 379,
+            "role_id": 106,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "380": {
+            "area": "Leg",
+            "id": 380,
+            "role_id": 106,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "381": {
+            "area": "Head",
+            "id": 381,
+            "role_id": 86,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "382": {
+            "area": "Breast",
+            "id": 382,
+            "role_id": 86,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "383": {
+            "area": "Face",
+            "id": 383,
+            "role_id": 86,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "384": {
+            "area": "Skirt",
+            "id": 384,
+            "role_id": 86,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "385": {
+            "area": "Leg",
+            "id": 385,
+            "role_id": 86,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "386": {
+            "area": "Head",
+            "id": 386,
+            "role_id": 99,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "387": {
+            "area": "Breast",
+            "id": 387,
+            "role_id": 99,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "388": {
+            "area": "Face",
+            "id": 388,
+            "role_id": 99,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "389": {
+            "area": "Skirt",
+            "id": 389,
+            "role_id": 99,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "390": {
+            "area": "Leg",
+            "id": 390,
+            "role_id": 99,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "391": {
+            "area": "Head",
+            "id": 391,
+            "role_id": 91,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "392": {
+            "area": "Breast",
+            "id": 392,
+            "role_id": 91,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "393": {
+            "area": "Face",
+            "id": 393,
+            "role_id": 91,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "394": {
+            "area": "Skirt",
+            "id": 394,
+            "role_id": 91,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "395": {
+            "area": "Leg",
+            "id": 395,
+            "role_id": 91,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "396": {
+            "area": "Head",
+            "id": 396,
+            "role_id": 92,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "397": {
+            "area": "Breast",
+            "id": 397,
+            "role_id": 92,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "398": {
+            "area": "Face",
+            "id": 398,
+            "role_id": 92,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "399": {
+            "area": "Skirt",
+            "id": 399,
+            "role_id": 92,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "400": {
+            "area": "Leg",
+            "id": 400,
+            "role_id": 92,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "401": {
+            "area": "Head",
+            "id": 401,
+            "role_id": 103,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "402": {
+            "area": "Breast",
+            "id": 402,
+            "role_id": 103,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "403": {
+            "area": "Face",
+            "id": 403,
+            "role_id": 103,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "404": {
+            "area": "Skirt",
+            "id": 404,
+            "role_id": 103,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "405": {
+            "area": "Leg",
+            "id": 405,
+            "role_id": 103,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "406": {
+            "area": "Head",
+            "id": 406,
+            "role_id": 102,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "407": {
+            "area": "Breast",
+            "id": 407,
+            "role_id": 102,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "408": {
+            "area": "Face",
+            "id": 408,
+            "role_id": 102,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "409": {
+            "area": "Skirt",
+            "id": 409,
+            "role_id": 102,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "410": {
+            "area": "Leg",
+            "id": 410,
+            "role_id": 102,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "411": {
+            "area": "Head",
+            "id": 411,
+            "role_id": 84,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "412": {
+            "area": "Breast",
+            "id": 412,
+            "role_id": 84,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "413": {
+            "area": "Face",
+            "id": 413,
+            "role_id": 84,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "414": {
+            "area": "Skirt",
+            "id": 414,
+            "role_id": 84,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "415": {
+            "area": "Leg",
+            "id": 415,
+            "role_id": 84,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "416": {
+            "area": "Head",
+            "id": 416,
+            "role_id": 85,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "417": {
+            "area": "Breast",
+            "id": 417,
+            "role_id": 85,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "418": {
+            "area": "Face",
+            "id": 418,
+            "role_id": 85,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "419": {
+            "area": "Skirt",
+            "id": 419,
+            "role_id": 85,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "420": {
+            "area": "Leg",
+            "id": 420,
+            "role_id": 85,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "421": {
+            "area": "Head",
+            "id": 421,
+            "role_id": 94,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "422": {
+            "area": "Breast",
+            "id": 422,
+            "role_id": 94,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "423": {
+            "area": "Face",
+            "id": 423,
+            "role_id": 94,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "424": {
+            "area": "Skirt",
+            "id": 424,
+            "role_id": 94,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "425": {
+            "area": "Leg",
+            "id": 425,
+            "role_id": 94,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "426": {
+            "area": "Head",
+            "id": 426,
+            "role_id": 101,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "427": {
+            "area": "Breast",
+            "id": 427,
+            "role_id": 101,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "428": {
+            "area": "Face",
+            "id": 428,
+            "role_id": 101,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "429": {
+            "area": "Skirt",
+            "id": 429,
+            "role_id": 101,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "430": {
+            "area": "Leg",
+            "id": 430,
+            "role_id": 101,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "431": {
+            "area": "Head",
+            "id": 431,
+            "role_id": 97,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "432": {
+            "area": "Breast",
+            "id": 432,
+            "role_id": 97,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "433": {
+            "area": "Face",
+            "id": 433,
+            "role_id": 97,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "434": {
+            "area": "Skirt",
+            "id": 434,
+            "role_id": 97,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "435": {
+            "area": "Leg",
+            "id": 435,
+            "role_id": 97,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "436": {
+            "area": "Head",
+            "id": 436,
+            "role_id": 88,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "437": {
+            "area": "Breast",
+            "id": 437,
+            "role_id": 88,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "438": {
+            "area": "Face",
+            "id": 438,
+            "role_id": 88,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "439": {
+            "area": "Skirt",
+            "id": 439,
+            "role_id": 88,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "440": {
+            "area": "Leg",
+            "id": 440,
+            "role_id": 88,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "441": {
+            "area": "Head",
+            "id": 441,
+            "role_id": 112,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "442": {
+            "area": "Breast",
+            "id": 442,
+            "role_id": 112,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "443": {
+            "area": "Face",
+            "id": 443,
+            "role_id": 112,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "444": {
+            "area": "Skirt",
+            "id": 444,
+            "role_id": 112,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "445": {
+            "area": "Leg",
+            "id": 445,
+            "role_id": 112,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "446": {
+            "area": "Head",
+            "id": 446,
+            "role_id": 104,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "447": {
+            "area": "Breast",
+            "id": 447,
+            "role_id": 104,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "448": {
+            "area": "Face",
+            "id": 448,
+            "role_id": 104,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "449": {
+            "area": "Skirt",
+            "id": 449,
+            "role_id": 104,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "450": {
+            "area": "Leg",
+            "id": 450,
+            "role_id": 104,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "451": {
+            "area": "Head",
+            "id": 451,
+            "role_id": 120,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "452": {
+            "area": "Breast",
+            "id": 452,
+            "role_id": 120,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "453": {
+            "area": "Face",
+            "id": 453,
+            "role_id": 120,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "454": {
+            "area": "Skirt",
+            "id": 454,
+            "role_id": 120,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "455": {
+            "area": "Leg",
+            "id": 455,
+            "role_id": 120,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "456": {
+            "area": "Head",
+            "id": 456,
+            "role_id": 111,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "457": {
+            "area": "Breast",
+            "id": 457,
+            "role_id": 111,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "458": {
+            "area": "Face",
+            "id": 458,
+            "role_id": 111,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "459": {
+            "area": "Skirt",
+            "id": 459,
+            "role_id": 111,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "460": {
+            "area": "Leg",
+            "id": 460,
+            "role_id": 111,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "461": {
+            "area": "Head",
+            "id": 461,
+            "role_id": 113,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "462": {
+            "area": "Breast",
+            "id": 462,
+            "role_id": 113,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "463": {
+            "area": "Face",
+            "id": 463,
+            "role_id": 113,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "464": {
+            "area": "Skirt",
+            "id": 464,
+            "role_id": 113,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "465": {
+            "area": "Leg",
+            "id": 465,
+            "role_id": 113,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "466": {
+            "area": "Head",
+            "id": 466,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "467": {
+            "area": "Breast",
+            "id": 467,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "468": {
+            "area": "Face",
+            "id": 468,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "469": {
+            "area": "Skirt",
+            "id": 469,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "470": {
+            "area": "Leg",
+            "id": 470,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "471": {
+            "area": "Head",
+            "id": 471,
+            "role_id": 115,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "472": {
+            "area": "Breast",
+            "id": 472,
+            "role_id": 115,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "473": {
+            "area": "Face",
+            "id": 473,
+            "role_id": 115,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "474": {
+            "area": "Skirt",
+            "id": 474,
+            "role_id": 115,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "475": {
+            "area": "Leg",
+            "id": 475,
+            "role_id": 115,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "476": {
+            "area": "Head",
+            "id": 476,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "477": {
+            "area": "Breast",
+            "id": 477,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "478": {
+            "area": "Face",
+            "id": 478,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "479": {
+            "area": "Skirt",
+            "id": 479,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "480": {
+            "area": "Leg",
+            "id": 480,
+            "role_id": 109,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "481": {
+            "area": "Head",
+            "id": 481,
+            "role_id": 107,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "482": {
+            "area": "Breast",
+            "id": 482,
+            "role_id": 107,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "483": {
+            "area": "Face",
+            "id": 483,
+            "role_id": 107,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "484": {
+            "area": "Skirt",
+            "id": 484,
+            "role_id": 107,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "485": {
+            "area": "Leg",
+            "id": 485,
+            "role_id": 107,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "486": {
+            "area": "Head",
+            "id": 486,
+            "role_id": 119,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "487": {
+            "area": "Breast",
+            "id": 487,
+            "role_id": 119,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "488": {
+            "area": "Face",
+            "id": 488,
+            "role_id": 119,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "489": {
+            "area": "Skirt",
+            "id": 489,
+            "role_id": 119,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "490": {
+            "area": "Leg",
+            "id": 490,
+            "role_id": 119,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "491": {
+            "area": "Head",
+            "id": 491,
+            "role_id": 105,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "492": {
+            "area": "Breast",
+            "id": 492,
+            "role_id": 105,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "493": {
+            "area": "Face",
+            "id": 493,
+            "role_id": 105,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "494": {
+            "area": "Skirt",
+            "id": 494,
+            "role_id": 105,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "495": {
+            "area": "Leg",
+            "id": 495,
+            "role_id": 105,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "496": {
+            "area": "Head",
+            "id": 496,
+            "role_id": 122,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "497": {
+            "area": "Breast",
+            "id": 497,
+            "role_id": 122,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "498": {
+            "area": "Face",
+            "id": 498,
+            "role_id": 122,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "499": {
+            "area": "Skirt",
+            "id": 499,
+            "role_id": 122,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "500": {
+            "area": "Leg",
+            "id": 500,
+            "role_id": 122,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "501": {
+            "area": "Head",
+            "id": 501,
+            "role_id": 118,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "502": {
+            "area": "Breast",
+            "id": 502,
+            "role_id": 118,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "503": {
+            "area": "Face",
+            "id": 503,
+            "role_id": 118,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "504": {
+            "area": "Skirt",
+            "id": 504,
+            "role_id": 118,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "505": {
+            "area": "Leg",
+            "id": 505,
+            "role_id": 118,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "506": {
+            "area": "Head",
+            "id": 506,
+            "role_id": 93,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "507": {
+            "area": "Breast",
+            "id": 507,
+            "role_id": 93,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "508": {
+            "area": "Face",
+            "id": 508,
+            "role_id": 93,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "509": {
+            "area": "Skirt",
+            "id": 509,
+            "role_id": 93,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "510": {
+            "area": "Leg",
+            "id": 510,
+            "role_id": 93,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "516": {
+            "area": "Head",
+            "id": 516,
+            "role_id": 117,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "517": {
+            "area": "Breast",
+            "id": 517,
+            "role_id": 117,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "518": {
+            "area": "Face",
+            "id": 518,
+            "role_id": 117,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "519": {
+            "area": "Skirt",
+            "id": 519,
+            "role_id": 117,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "520": {
+            "area": "Leg",
+            "id": 520,
+            "role_id": 117,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "521": {
+            "area": "Head",
+            "id": 521,
+            "role_id": 82,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "522": {
+            "area": "Breast",
+            "id": 522,
+            "role_id": 82,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "523": {
+            "area": "Face",
+            "id": 523,
+            "role_id": 82,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "524": {
+            "area": "Skirt",
+            "id": 524,
+            "role_id": 82,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "525": {
+            "area": "Leg",
+            "id": 525,
+            "role_id": 82,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "526": {
+            "area": "Head",
+            "id": 526,
+            "role_id": 130,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "527": {
+            "area": "Breast",
+            "id": 527,
+            "role_id": 130,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "528": {
+            "area": "Face",
+            "id": 528,
+            "role_id": 130,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "529": {
+            "area": "Skirt",
+            "id": 529,
+            "role_id": 130,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "530": {
+            "area": "Leg",
+            "id": 530,
+            "role_id": 130,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "531": {
+            "area": "Head",
+            "id": 531,
+            "role_id": 123,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "532": {
+            "area": "Breast",
+            "id": 532,
+            "role_id": 123,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "533": {
+            "area": "Face",
+            "id": 533,
+            "role_id": 123,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "534": {
+            "area": "Skirt",
+            "id": 534,
+            "role_id": 123,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "535": {
+            "area": "Leg",
+            "id": 535,
+            "role_id": 123,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "536": {
+            "area": "Head",
+            "id": 536,
+            "role_id": 124,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "537": {
+            "area": "Breast",
+            "id": 537,
+            "role_id": 124,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "538": {
+            "area": "Face",
+            "id": 538,
+            "role_id": 124,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "539": {
+            "area": "Skirt",
+            "id": 539,
+            "role_id": 124,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "540": {
+            "area": "Leg",
+            "id": 540,
+            "role_id": 124,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "541": {
+            "area": "Head",
+            "id": 541,
+            "role_id": 121,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "542": {
+            "area": "Breast",
+            "id": 542,
+            "role_id": 121,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "543": {
+            "area": "Face",
+            "id": 543,
+            "role_id": 121,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "544": {
+            "area": "Skirt",
+            "id": 544,
+            "role_id": 121,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "545": {
+            "area": "Leg",
+            "id": 545,
+            "role_id": 121,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "546": {
+            "area": "Head",
+            "id": 546,
+            "role_id": 116,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "547": {
+            "area": "Breast",
+            "id": 547,
+            "role_id": 116,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "548": {
+            "area": "Face",
+            "id": 548,
+            "role_id": 116,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "549": {
+            "area": "Skirt",
+            "id": 549,
+            "role_id": 116,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "550": {
+            "area": "Leg",
+            "id": 550,
+            "role_id": 116,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "556": {
+            "area": "Head",
+            "id": 556,
+            "role_id": 126,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "557": {
+            "area": "Breast",
+            "id": 557,
+            "role_id": 126,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "558": {
+            "area": "Face",
+            "id": 558,
+            "role_id": 126,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "559": {
+            "area": "Skirt",
+            "id": 559,
+            "role_id": 126,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "560": {
+            "area": "Leg",
+            "id": 560,
+            "role_id": 126,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        },
+        "561": {
+            "area": "Head",
+            "id": 561,
+            "role_id": 98,
+            "volume_id": [
+                "Emotion,1",
+                "Emotion,1",
+                "touch,1",
+                "touch,1"
+            ],
+            "state": [
+                "smile",
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "562": {
+            "area": "Breast",
+            "id": 562,
+            "role_id": 98,
+            "volume_id": [
+                "Emotion,2",
+                "touch,2"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "563": {
+            "area": "Face",
+            "id": 563,
+            "role_id": 98,
+            "volume_id": [
+                "Emotion,1",
+                "touch,3",
+                "touch,3"
+            ],
+            "state": [
+                "happy",
+                "positive",
+                "talk"
+            ]
+        },
+        "564": {
+            "area": "Skirt",
+            "id": 564,
+            "role_id": 98,
+            "volume_id": [
+                "Emotion,2",
+                "touch,4"
+            ],
+            "state": [
+                "angry",
+                "negative"
+            ]
+        },
+        "565": {
+            "area": "Leg",
+            "id": 565,
+            "role_id": 98,
+            "volume_id": [
+                "Emotion,2",
+                "touch,5"
+            ],
+            "state": [
+                "negative",
+                "talk"
+            ]
+        }
+    }
+}

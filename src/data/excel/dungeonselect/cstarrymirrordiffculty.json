@@ -1,0 +1,74 @@
+{
+    "Data": [
+        {
+            "currency": 35024,
+            "eventid": 6001,
+            "eventmainbackground": 12999,
+            "id": 1,
+            "bossdetaileffect": 1149,
+            "levelpic": 12170,
+            "diffculty": 1,
+            "bgm": 1252,
+            "bosspagetxt": 1900766,
+            "bossdetailtitle": 13057,
+            "backeffect": 1147,
+            "difficultystart": "2021-06-24 04:00:00",
+            "difficultyend": "2021-08-05 04:00:00",
+            "bosspage": 13001
+        },
+        {
+            "currency": 35025,
+            "eventid": 6001,
+            "eventmainbackground": 13000,
+            "id": 2,
+            "bossdetaileffect": 1150,
+            "levelpic": 12173,
+            "diffculty": 2,
+            "bgm": 1253,
+            "bosspagetxt": 1900767,
+            "bossdetailtitle": 13058,
+            "backeffect": 1146,
+            "difficultystart": "2021-06-24 04:00:00",
+            "difficultyend": "2021-08-05 04:00:00",
+            "bosspage": 13002
+        },
+        {
+            "currency": 35069,
+            "eventid": 47001,
+            "eventmainbackground": 12999,
+            "id": 3,
+            "bossdetaileffect": 1149,
+            "levelpic": 12170,
+            "diffculty": 1,
+            "bgm": 1252,
+            "bosspagetxt": 1900766,
+            "bossdetailtitle": 13057,
+            "backeffect": 1147,
+            "difficultystart": "2021-06-24 04:00:00",
+            "difficultyend": "2022-09-01 03:59:59",
+            "bosspage": 13001
+        },
+        {
+            "currency": 35070,
+            "eventid": 47001,
+            "eventmainbackground": 13000,
+            "id": 4,
+            "bossdetaileffect": 1150,
+            "levelpic": 12173,
+            "diffculty": 2,
+            "bgm": 1253,
+            "bosspagetxt": 1900767,
+            "bossdetailtitle": 13058,
+            "backeffect": 1146,
+            "difficultystart": "2022-08-25 04:00:00",
+            "difficultyend": "2022-09-01 03:59:59",
+            "bosspage": 13002
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ]
+}

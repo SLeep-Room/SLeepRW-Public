@@ -1,0 +1,174 @@
+{
+    "Data": [
+        {
+            "playerLevel": 12,
+            "headPhoto": 5,
+            "headPhotoFrame": 1,
+            "id": 1,
+            "npcCardRoleId": [
+                9,
+                1,
+                17
+            ]
+        },
+        {
+            "playerLevel": 13,
+            "headPhoto": 2,
+            "headPhotoFrame": 1,
+            "id": 2,
+            "npcCardRoleId": [
+                10,
+                3,
+                23
+            ]
+        },
+        {
+            "playerLevel": 13,
+            "headPhoto": 42,
+            "headPhotoFrame": 1,
+            "id": 3,
+            "npcCardRoleId": [
+                11,
+                2,
+                18
+            ]
+        },
+        {
+            "playerLevel": 12,
+            "headPhoto": 1,
+            "headPhotoFrame": 1,
+            "id": 4,
+            "npcCardRoleId": [
+                12,
+                5,
+                21
+            ]
+        },
+        {
+            "playerLevel": 13,
+            "headPhoto": 35,
+            "headPhotoFrame": 1,
+            "id": 5,
+            "npcCardRoleId": [
+                13,
+                4,
+                22
+            ]
+        },
+        {
+            "playerLevel": 14,
+            "headPhoto": 4,
+            "headPhotoFrame": 1,
+            "id": 6,
+            "npcCardRoleId": [
+                14,
+                7,
+                20
+            ]
+        },
+        {
+            "playerLevel": 12,
+            "headPhoto": 27,
+            "headPhotoFrame": 1,
+            "id": 7,
+            "npcCardRoleId": [
+                15,
+                6,
+                19
+            ]
+        },
+        {
+            "playerLevel": 12,
+            "headPhoto": 48,
+            "headPhotoFrame": 1,
+            "id": 8,
+            "npcCardRoleId": [
+                16,
+                8,
+                24
+            ]
+        },
+        {
+            "playerLevel": 13,
+            "headPhoto": 6,
+            "headPhotoFrame": 1,
+            "id": 9,
+            "npcCardRoleId": [
+                13,
+                5,
+                21
+            ]
+        },
+        {
+            "playerLevel": 14,
+            "headPhoto": 49,
+            "headPhotoFrame": 1,
+            "id": 10,
+            "npcCardRoleId": [
+                10,
+                2,
+                18
+            ]
+        },
+        {
+            "playerLevel": 13,
+            "headPhoto": 12,
+            "headPhotoFrame": 1,
+            "id": 11,
+            "npcCardRoleId": [
+                14,
+                6,
+                22
+            ]
+        },
+        {
+            "playerLevel": 13,
+            "headPhoto": 23,
+            "headPhotoFrame": 1,
+            "id": 12,
+            "npcCardRoleId": [
+                11,
+                3,
+                19
+            ]
+        },
+        {
+            "playerLevel": 12,
+            "headPhoto": 13,
+            "headPhotoFrame": 1,
+            "id": 13,
+            "npcCardRoleId": [
+                15,
+                7,
+                23
+            ]
+        },
+        {
+            "playerLevel": 12,
+            "headPhoto": 9,
+            "headPhotoFrame": 1,
+            "id": 14,
+            "npcCardRoleId": [
+                12,
+                4,
+                20
+            ]
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+    ]
+}

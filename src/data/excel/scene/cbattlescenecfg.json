@@ -1,0 +1,336 @@
+{
+    "Data": {
+        "20032": {
+            "hasBulletTime": 1,
+            "id": 20032,
+            "alwaysenterbattle": 1
+        },
+        "20033": {
+            "hasBulletTime": 1,
+            "id": 20033,
+            "alwaysenterbattle": 0
+        },
+        "20034": {
+            "hasBulletTime": 0,
+            "id": 20034,
+            "alwaysenterbattle": 0
+        },
+        "20035": {
+            "hasBulletTime": 1,
+            "id": 20035,
+            "alwaysenterbattle": 0
+        },
+        "20036": {
+            "hasBulletTime": 1,
+            "id": 20036,
+            "alwaysenterbattle": 1
+        },
+        "20037": {
+            "hasBulletTime": 1,
+            "id": 20037,
+            "alwaysenterbattle": 1
+        },
+        "20038": {
+            "hasBulletTime": 1,
+            "id": 20038,
+            "alwaysenterbattle": 1
+        },
+        "20039": {
+            "hasBulletTime": 1,
+            "id": 20039,
+            "alwaysenterbattle": 1
+        },
+        "20040": {
+            "hasBulletTime": 1,
+            "id": 20040,
+            "alwaysenterbattle": 1
+        },
+        "20041": {
+            "hasBulletTime": 1,
+            "id": 20041,
+            "alwaysenterbattle": 1
+        },
+        "20042": {
+            "hasBulletTime": 1,
+            "id": 20042,
+            "alwaysenterbattle": 1
+        },
+        "20043": {
+            "hasBulletTime": 1,
+            "id": 20043,
+            "alwaysenterbattle": 1
+        },
+        "20044": {
+            "hasBulletTime": 1,
+            "id": 20044,
+            "alwaysenterbattle": 1
+        },
+        "20045": {
+            "hasBulletTime": 1,
+            "id": 20045,
+            "alwaysenterbattle": 1
+        },
+        "20046": {
+            "hasBulletTime": 1,
+            "id": 20046,
+            "alwaysenterbattle": 1
+        },
+        "20047": {
+            "hasBulletTime": 1,
+            "id": 20047,
+            "alwaysenterbattle": 1
+        },
+        "20048": {
+            "hasBulletTime": 1,
+            "id": 20048,
+            "alwaysenterbattle": 1
+        },
+        "20049": {
+            "hasBulletTime": 1,
+            "id": 20049,
+            "alwaysenterbattle": 1
+        },
+        "20050": {
+            "hasBulletTime": 1,
+            "id": 20050,
+            "alwaysenterbattle": 1
+        },
+        "20051": {
+            "hasBulletTime": 1,
+            "id": 20051,
+            "alwaysenterbattle": 1
+        },
+        "20052": {
+            "hasBulletTime": 1,
+            "id": 20052,
+            "alwaysenterbattle": 1
+        },
+        "20053": {
+            "hasBulletTime": 1,
+            "id": 20053,
+            "alwaysenterbattle": 1
+        },
+        "20054": {
+            "hasBulletTime": 1,
+            "id": 20054,
+            "alwaysenterbattle": 1
+        },
+        "20055": {
+            "hasBulletTime": 1,
+            "id": 20055,
+            "alwaysenterbattle": 1
+        },
+        "20001": {
+            "hasBulletTime": 0,
+            "id": 20001,
+            "alwaysenterbattle": 0
+        },
+        "20002": {
+            "hasBulletTime": 0,
+            "id": 20002,
+            "alwaysenterbattle": 0
+        },
+        "20003": {
+            "hasBulletTime": 0,
+            "id": 20003,
+            "alwaysenterbattle": 0
+        },
+        "20004": {
+            "hasBulletTime": 0,
+            "id": 20004,
+            "alwaysenterbattle": 0
+        },
+        "20005": {
+            "hasBulletTime": 1,
+            "id": 20005,
+            "alwaysenterbattle": 1
+        },
+        "20006": {
+            "hasBulletTime": 0,
+            "id": 20006,
+            "alwaysenterbattle": 0
+        },
+        "20007": {
+            "hasBulletTime": 1,
+            "id": 20007,
+            "alwaysenterbattle": 1
+        },
+        "20008": {
+            "hasBulletTime": 0,
+            "id": 20008,
+            "alwaysenterbattle": 0
+        },
+        "20009": {
+            "hasBulletTime": 0,
+            "id": 20009,
+            "alwaysenterbattle": 0
+        },
+        "20010": {
+            "hasBulletTime": 1,
+            "id": 20010,
+            "alwaysenterbattle": 1
+        },
+        "20011": {
+            "hasBulletTime": 1,
+            "id": 20011,
+            "alwaysenterbattle": 1
+        },
+        "20012": {
+            "hasBulletTime": 0,
+            "id": 20012,
+            "alwaysenterbattle": 0
+        },
+        "20013": {
+            "hasBulletTime": 0,
+            "id": 20013,
+            "alwaysenterbattle": 0
+        },
+        "20014": {
+            "hasBulletTime": 0,
+            "id": 20014,
+            "alwaysenterbattle": 0
+        },
+        "20015": {
+            "hasBulletTime": 1,
+            "id": 20015,
+            "alwaysenterbattle": 1
+        },
+        "20016": {
+            "hasBulletTime": 0,
+            "id": 20016,
+            "alwaysenterbattle": 0
+        },
+        "20017": {
+            "hasBulletTime": 1,
+            "id": 20017,
+            "alwaysenterbattle": 1
+        },
+        "20018": {
+            "hasBulletTime": 1,
+            "id": 20018,
+            "alwaysenterbattle": 1
+        },
+        "20019": {
+            "hasBulletTime": 0,
+            "id": 20019,
+            "alwaysenterbattle": 0
+        },
+        "20020": {
+            "hasBulletTime": 1,
+            "id": 20020,
+            "alwaysenterbattle": 1
+        },
+        "20021": {
+            "hasBulletTime": 1,
+            "id": 20021,
+            "alwaysenterbattle": 1
+        },
+        "20022": {
+            "hasBulletTime": 1,
+            "id": 20022,
+            "alwaysenterbattle": 1
+        },
+        "20023": {
+            "hasBulletTime": 1,
+            "id": 20023,
+            "alwaysenterbattle": 1
+        },
+        "20024": {
+            "hasBulletTime": 1,
+            "id": 20024,
+            "alwaysenterbattle": 1
+        },
+        "20025": {
+            "hasBulletTime": 1,
+            "id": 20025,
+            "alwaysenterbattle": 1
+        },
+        "20026": {
+            "hasBulletTime": 1,
+            "id": 20026,
+            "alwaysenterbattle": 1
+        },
+        "20027": {
+            "hasBulletTime": 0,
+            "id": 20027,
+            "alwaysenterbattle": 0
+        },
+        "20028": {
+            "hasBulletTime": 0,
+            "id": 20028,
+            "alwaysenterbattle": 0
+        },
+        "20029": {
+            "hasBulletTime": 0,
+            "id": 20029,
+            "alwaysenterbattle": 0
+        },
+        "20030": {
+            "hasBulletTime": 0,
+            "id": 20030,
+            "alwaysenterbattle": 0
+        },
+        "20031": {
+            "hasBulletTime": 1,
+            "id": 20031,
+            "alwaysenterbattle": 1
+        }
+    },
+    "AllIds": [
+        20001,
+        20002,
+        20003,
+        20004,
+        20005,
+        20006,
+        20007,
+        20008,
+        20009,
+        20010,
+        20011,
+        20012,
+        20013,
+        20014,
+        20015,
+        20016,
+        20017,
+        20018,
+        20019,
+        20020,
+        20021,
+        20022,
+        20023,
+        20024,
+        20025,
+        20026,
+        20027,
+        20028,
+        20029,
+        20030,
+        20031,
+        20032,
+        20033,
+        20034,
+        20035,
+        20036,
+        20037,
+        20038,
+        20039,
+        20040,
+        20041,
+        20042,
+        20043,
+        20044,
+        20045,
+        20046,
+        20047,
+        20048,
+        20049,
+        20050,
+        20051,
+        20052,
+        20053,
+        20054,
+        20055
+    ]
+}

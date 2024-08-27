@@ -1,0 +1,54 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "itemNum3": 1,
+            "itemNum1": 20,
+            "itemNum2": 3,
+            "itemId1": 35044,
+            "itemId2": 35045,
+            "buyNum": 1,
+            "itemId3": 35046,
+            "item3Probability": 20
+        },
+        {
+            "id": 2,
+            "itemNum3": 1,
+            "itemNum1": 20,
+            "itemNum2": 3,
+            "itemId1": 35044,
+            "itemId2": 35045,
+            "buyNum": 10,
+            "itemId3": 35046,
+            "item3Probability": 20
+        },
+        {
+            "id": 3,
+            "itemNum3": 1,
+            "itemNum1": 20,
+            "itemNum2": 2,
+            "itemId1": 35044,
+            "itemId2": 35045,
+            "buyNum": 1,
+            "itemId3": 35046,
+            "item3Probability": 80
+        },
+        {
+            "id": 4,
+            "itemNum3": 1,
+            "itemNum1": 20,
+            "itemNum2": 2,
+            "itemId1": 35044,
+            "itemId2": 35045,
+            "buyNum": 10,
+            "itemId3": 35046,
+            "item3Probability": 80
+        }
+    ]
+}

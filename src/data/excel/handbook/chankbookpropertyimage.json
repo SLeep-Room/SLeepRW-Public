@@ -1,0 +1,16 @@
+{
+    "Data": [
+        {
+            "mdScoreImage": 10152,
+            "mixScoreImage": 10153,
+            "pdScoreImage": 10154,
+            "hpScoreImage": 10150,
+            "apScoreImage": 10151,
+            "id": 1,
+            "adScoreImage": 10153
+        }
+    ],
+    "AllIds": [
+        1
+    ]
+}

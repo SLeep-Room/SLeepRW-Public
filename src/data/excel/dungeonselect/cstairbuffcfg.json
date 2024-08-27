@@ -1,0 +1,78 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "Data": [
+        {
+            "value": 10,
+            "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+            "imgID": 10950,
+            "textID": 1900451,
+            "attrID": 20,
+            "assetName": "tower_buff_01",
+            "assetNameBattle": "tower_buff_m01",
+            "id": 1,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        {
+            "value": 5,
+            "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+            "imgID": 10947,
+            "textID": 1900452,
+            "attrID": 90,
+            "assetName": "tower_buff_02",
+            "assetNameBattle": "tower_buff_m02",
+            "id": 2,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        {
+            "value": 5,
+            "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+            "imgID": 10949,
+            "textID": 1900453,
+            "attrID": 100,
+            "assetName": "tower_buff_03",
+            "assetNameBattle": "tower_buff_m03",
+            "id": 3,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        {
+            "value": 5,
+            "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+            "imgID": 10947,
+            "textID": 1900454,
+            "attrID": 110,
+            "assetName": "tower_buff_04",
+            "assetNameBattle": "tower_buff_m04",
+            "id": 4,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        {
+            "value": 5,
+            "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+            "imgID": 10949,
+            "textID": 1900455,
+            "attrID": 120,
+            "assetName": "tower_buff_05",
+            "assetNameBattle": "tower_buff_m05",
+            "id": 5,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        },
+        {
+            "value": 5,
+            "assetBundleBattle": "sceneobjects/tower.prefabs.assetbundle",
+            "imgID": 10948,
+            "textID": 1900456,
+            "attrID": 130,
+            "assetName": "tower_buff_06",
+            "assetNameBattle": "tower_buff_m06",
+            "id": 6,
+            "assetBundle": "sceneobjects/tower.prefabs.assetbundle"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "Data": [
+        {
+            "text": 701814,
+            "id": 1,
+            "clowntype": "BattleIdle"
+        },
+        {
+            "text": 701815,
+            "id": 2,
+            "clowntype": "BattleIdle"
+        },
+        {
+            "text": 701816,
+            "id": 3,
+            "clowntype": "BattleIdle"
+        },
+        {
+            "text": 701817,
+            "id": 4,
+            "clowntype": "BattleIdle"
+        },
+        {
+            "text": 701818,
+            "id": 5,
+            "clowntype": "Down"
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}

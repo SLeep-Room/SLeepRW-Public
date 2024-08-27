@@ -1,0 +1,46 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "type": 1,
+            "nameid": 502897,
+            "typename": 502901,
+            "sort": 1
+        },
+        {
+            "id": 2,
+            "type": 1,
+            "nameid": 502898,
+            "typename": 502901,
+            "sort": 2
+        },
+        {
+            "id": 3,
+            "type": 2,
+            "nameid": 502899,
+            "typename": 502902,
+            "sort": 3
+        },
+        {
+            "id": 4,
+            "type": 2,
+            "nameid": 502900,
+            "typename": 502902,
+            "sort": 4
+        },
+        {
+            "id": 5,
+            "type": 1,
+            "nameid": 503060,
+            "typename": 502901,
+            "sort": 5
+        }
+    ]
+}

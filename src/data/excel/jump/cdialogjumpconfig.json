@@ -1,0 +1,21 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "jump_value": 1
+        },
+        {
+            "id": 2,
+            "jump_value": 2
+        },
+        {
+            "id": 3,
+            "jump_value": 3
+        }
+    ],
+    "AllIds": [
+        1,
+        2,
+        3
+    ]
+}

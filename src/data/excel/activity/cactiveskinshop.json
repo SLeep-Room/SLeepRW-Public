@@ -1,0 +1,104 @@
+{
+    "AllIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "activeID": 45001,
+            "skinID": 90016,
+            "openTime": 1001886
+        },
+        {
+            "id": 2,
+            "activeID": 45001,
+            "skinID": 90037,
+            "openTime": 1001887
+        },
+        {
+            "id": 3,
+            "activeID": 45001,
+            "skinID": 90032,
+            "openTime": 1001888
+        },
+        {
+            "id": 4,
+            "activeID": 45001,
+            "skinID": 90030,
+            "openTime": 1001889
+        },
+        {
+            "id": 5,
+            "activeID": 45001,
+            "skinID": 90038,
+            "openTime": 1001890
+        },
+        {
+            "id": 6,
+            "activeID": 45001,
+            "skinID": 90020,
+            "openTime": 1001891
+        },
+        {
+            "id": 7,
+            "activeID": 45001,
+            "skinID": 90016,
+            "openTime": 1001892
+        },
+        {
+            "id": 8,
+            "activeID": 45001,
+            "skinID": 90037,
+            "openTime": 1001893
+        },
+        {
+            "id": 9,
+            "activeID": 45001,
+            "skinID": 90032,
+            "openTime": 1001894
+        },
+        {
+            "id": 10,
+            "activeID": 45001,
+            "skinID": 90030,
+            "openTime": 1001895
+        },
+        {
+            "id": 11,
+            "activeID": 45001,
+            "skinID": 90038,
+            "openTime": 1001896
+        },
+        {
+            "id": 12,
+            "activeID": 45001,
+            "skinID": 90020,
+            "openTime": 1001897
+        },
+        {
+            "id": 13,
+            "activeID": 45001,
+            "skinID": 90016,
+            "openTime": 1001898
+        },
+        {
+            "id": 14,
+            "activeID": 45001,
+            "skinID": 90037,
+            "openTime": 1001899
+        }
+    ]
+}

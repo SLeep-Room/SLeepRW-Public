@@ -1,0 +1,298 @@
+{
+    "AllIds": [
+        101,
+        102,
+        103,
+        201,
+        202,
+        203,
+        204,
+        301,
+        401,
+        402,
+        403,
+        501,
+        502,
+        503,
+        601,
+        602,
+        603,
+        701
+    ],
+    "Data": {
+        "101": {
+            "functionID": 100,
+            "nums": [],
+            "items": [],
+            "id": 101,
+            "time": 0,
+            "openCondition": -1,
+            "unlockEffect": [],
+            "houseState": 0
+        },
+        "102": {
+            "functionID": 100,
+            "nums": [
+                100,
+                1
+            ],
+            "items": [
+                35014,
+                31083
+            ],
+            "id": 102,
+            "time": 60,
+            "openCondition": 1,
+            "unlockEffect": [
+                6,
+                1,
+                4,
+                22
+            ],
+            "houseState": 0
+        },
+        "103": {
+            "functionID": 100,
+            "nums": [
+                500,
+                1
+            ],
+            "items": [
+                35015,
+                31085
+            ],
+            "id": 103,
+            "time": 600,
+            "openCondition": 2,
+            "unlockEffect": [
+                6,
+                2,
+                21,
+                5,
+                27
+            ],
+            "houseState": 0
+        },
+        "201": {
+            "functionID": 200,
+            "nums": [],
+            "items": [],
+            "id": 201,
+            "time": 0,
+            "openCondition": 1,
+            "unlockEffect": [
+                7
+            ],
+            "houseState": 0
+        },
+        "202": {
+            "functionID": 200,
+            "nums": [
+                100
+            ],
+            "items": [
+                35014
+            ],
+            "id": 202,
+            "time": 60,
+            "openCondition": 1,
+            "unlockEffect": [
+                8,
+                9
+            ],
+            "houseState": 0
+        },
+        "203": {
+            "functionID": 200,
+            "nums": [
+                1000
+            ],
+            "items": [
+                35015
+            ],
+            "id": 203,
+            "time": 300,
+            "openCondition": 2,
+            "unlockEffect": [
+                10,
+                11
+            ],
+            "houseState": 0
+        },
+        "204": {
+            "functionID": 200,
+            "nums": [
+                3000
+            ],
+            "items": [
+                35016
+            ],
+            "id": 204,
+            "time": 600,
+            "openCondition": 3,
+            "unlockEffect": [
+                12,
+                13
+            ],
+            "houseState": 0
+        },
+        "301": {
+            "functionID": 300,
+            "nums": [],
+            "items": [],
+            "id": 301,
+            "time": 0,
+            "openCondition": 1,
+            "unlockEffect": [
+                14
+            ],
+            "houseState": 0
+        },
+        "401": {
+            "functionID": 400,
+            "nums": [],
+            "items": [],
+            "id": 401,
+            "time": 0,
+            "openCondition": 1,
+            "unlockEffect": [
+                15
+            ],
+            "houseState": 1
+        },
+        "402": {
+            "functionID": 400,
+            "nums": [
+                500
+            ],
+            "items": [
+                35015
+            ],
+            "id": 402,
+            "time": 60,
+            "openCondition": 2,
+            "unlockEffect": [
+                16
+            ],
+            "houseState": 1
+        },
+        "403": {
+            "functionID": 400,
+            "nums": [
+                1500
+            ],
+            "items": [
+                35016
+            ],
+            "id": 403,
+            "time": 300,
+            "openCondition": 3,
+            "unlockEffect": [
+                29
+            ],
+            "houseState": 2
+        },
+        "501": {
+            "functionID": 500,
+            "nums": [],
+            "items": [],
+            "id": 501,
+            "time": 0,
+            "openCondition": 1,
+            "unlockEffect": [
+                18
+            ],
+            "houseState": 1
+        },
+        "502": {
+            "functionID": 500,
+            "nums": [
+                500
+            ],
+            "items": [
+                35015
+            ],
+            "id": 502,
+            "time": 60,
+            "openCondition": 2,
+            "unlockEffect": [
+                19
+            ],
+            "houseState": 1
+        },
+        "503": {
+            "functionID": 500,
+            "nums": [
+                1500
+            ],
+            "items": [
+                35016
+            ],
+            "id": 503,
+            "time": 300,
+            "openCondition": 3,
+            "unlockEffect": [
+                20
+            ],
+            "houseState": 2
+        },
+        "601": {
+            "functionID": 600,
+            "nums": [],
+            "items": [],
+            "id": 601,
+            "time": 0,
+            "openCondition": 2,
+            "unlockEffect": [
+                22
+            ],
+            "houseState": 0
+        },
+        "602": {
+            "functionID": 600,
+            "nums": [
+                500
+            ],
+            "items": [
+                35015
+            ],
+            "id": 602,
+            "time": 60,
+            "openCondition": 2,
+            "unlockEffect": [
+                23,
+                24
+            ],
+            "houseState": 0
+        },
+        "603": {
+            "functionID": 600,
+            "nums": [
+                1500
+            ],
+            "items": [
+                35016
+            ],
+            "id": 603,
+            "time": 300,
+            "openCondition": 3,
+            "unlockEffect": [
+                25,
+                26
+            ],
+            "houseState": 0
+        },
+        "701": {
+            "functionID": 700,
+            "nums": [],
+            "items": [],
+            "id": 701,
+            "time": 0,
+            "openCondition": 3,
+            "unlockEffect": [
+                27
+            ],
+            "houseState": 0
+        }
+    }
+}

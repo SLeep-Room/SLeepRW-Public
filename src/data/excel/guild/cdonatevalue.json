@@ -1,0 +1,204 @@
+{
+    "AllIds": [
+        75000,
+        75001,
+        75002,
+        75003,
+        75004,
+        75005,
+        75006,
+        75007,
+        75008,
+        75009,
+        75010,
+        75011,
+        75012,
+        75013,
+        75014,
+        75015,
+        75016,
+        75017,
+        76000,
+        76001,
+        76002,
+        76003
+    ],
+    "Data": {
+        "75008": {
+            "Awardnumicon": 15,
+            "itemvalue": 6,
+            "weekcontribution": 15,
+            "id": 75008,
+            "GuildExpnum": 15,
+            "Donatenum": 15
+        },
+        "75009": {
+            "Awardnumicon": 5,
+            "itemvalue": 4,
+            "weekcontribution": 5,
+            "id": 75009,
+            "GuildExpnum": 5,
+            "Donatenum": 5
+        },
+        "75010": {
+            "Awardnumicon": 10,
+            "itemvalue": 5,
+            "weekcontribution": 10,
+            "id": 75010,
+            "GuildExpnum": 10,
+            "Donatenum": 10
+        },
+        "75011": {
+            "Awardnumicon": 15,
+            "itemvalue": 6,
+            "weekcontribution": 15,
+            "id": 75011,
+            "GuildExpnum": 15,
+            "Donatenum": 15
+        },
+        "75012": {
+            "Awardnumicon": 5,
+            "itemvalue": 4,
+            "weekcontribution": 5,
+            "id": 75012,
+            "GuildExpnum": 5,
+            "Donatenum": 5
+        },
+        "75013": {
+            "Awardnumicon": 10,
+            "itemvalue": 5,
+            "weekcontribution": 10,
+            "id": 75013,
+            "GuildExpnum": 10,
+            "Donatenum": 10
+        },
+        "75014": {
+            "Awardnumicon": 15,
+            "itemvalue": 6,
+            "weekcontribution": 15,
+            "id": 75014,
+            "GuildExpnum": 15,
+            "Donatenum": 15
+        },
+        "75015": {
+            "Awardnumicon": 5,
+            "itemvalue": 4,
+            "weekcontribution": 5,
+            "id": 75015,
+            "GuildExpnum": 5,
+            "Donatenum": 5
+        },
+        "75016": {
+            "Awardnumicon": 10,
+            "itemvalue": 5,
+            "weekcontribution": 10,
+            "id": 75016,
+            "GuildExpnum": 10,
+            "Donatenum": 10
+        },
+        "75017": {
+            "Awardnumicon": 15,
+            "itemvalue": 6,
+            "weekcontribution": 15,
+            "id": 75017,
+            "GuildExpnum": 15,
+            "Donatenum": 15
+        },
+        "76003": {
+            "Awardnumicon": 4,
+            "itemvalue": 3,
+            "weekcontribution": 4,
+            "id": 76003,
+            "GuildExpnum": 4,
+            "Donatenum": 4
+        },
+        "76002": {
+            "Awardnumicon": 2,
+            "itemvalue": 2,
+            "weekcontribution": 2,
+            "id": 76002,
+            "GuildExpnum": 2,
+            "Donatenum": 2
+        },
+        "76001": {
+            "Awardnumicon": 1,
+            "itemvalue": 1,
+            "weekcontribution": 1,
+            "id": 76001,
+            "GuildExpnum": 1,
+            "Donatenum": 1
+        },
+        "76000": {
+            "Awardnumicon": 1,
+            "itemvalue": 1,
+            "weekcontribution": 1,
+            "id": 76000,
+            "GuildExpnum": 1,
+            "Donatenum": 1
+        },
+        "75000": {
+            "Awardnumicon": 5,
+            "itemvalue": 4,
+            "weekcontribution": 5,
+            "id": 75000,
+            "GuildExpnum": 5,
+            "Donatenum": 5
+        },
+        "75001": {
+            "Awardnumicon": 10,
+            "itemvalue": 5,
+            "weekcontribution": 10,
+            "id": 75001,
+            "GuildExpnum": 10,
+            "Donatenum": 10
+        },
+        "75002": {
+            "Awardnumicon": 15,
+            "itemvalue": 6,
+            "weekcontribution": 15,
+            "id": 75002,
+            "GuildExpnum": 15,
+            "Donatenum": 15
+        },
+        "75003": {
+            "Awardnumicon": 5,
+            "itemvalue": 4,
+            "weekcontribution": 5,
+            "id": 75003,
+            "GuildExpnum": 5,
+            "Donatenum": 5
+        },
+        "75004": {
+            "Awardnumicon": 10,
+            "itemvalue": 5,
+            "weekcontribution": 10,
+            "id": 75004,
+            "GuildExpnum": 10,
+            "Donatenum": 10
+        },
+        "75005": {
+            "Awardnumicon": 15,
+            "itemvalue": 6,
+            "weekcontribution": 15,
+            "id": 75005,
+            "GuildExpnum": 15,
+            "Donatenum": 15
+        },
+        "75006": {
+            "Awardnumicon": 5,
+            "itemvalue": 4,
+            "weekcontribution": 5,
+            "id": 75006,
+            "GuildExpnum": 5,
+            "Donatenum": 5
+        },
+        "75007": {
+            "Awardnumicon": 10,
+            "itemvalue": 5,
+            "weekcontribution": 10,
+            "id": 75007,
+            "GuildExpnum": 10,
+            "Donatenum": 10
+        }
+    }
+}

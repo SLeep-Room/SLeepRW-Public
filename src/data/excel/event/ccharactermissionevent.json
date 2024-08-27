@@ -1,0 +1,86 @@
+{
+    "Data": {
+        "700008": {
+            "imageId": 0,
+            "coordinate": "0",
+            "condition": 8,
+            "scene": "0",
+            "isShowMinimapIcon": 0,
+            "id": 700008,
+            "effect": 0
+        },
+        "700001": {
+            "imageId": 0,
+            "coordinate": "0",
+            "condition": 1,
+            "scene": "0",
+            "isShowMinimapIcon": 0,
+            "id": 700001,
+            "effect": 0
+        },
+        "700002": {
+            "imageId": 0,
+            "coordinate": "0",
+            "condition": 2,
+            "scene": "0",
+            "isShowMinimapIcon": 0,
+            "id": 700002,
+            "effect": 0
+        },
+        "700003": {
+            "imageId": 0,
+            "coordinate": "0",
+            "condition": 3,
+            "scene": "0",
+            "isShowMinimapIcon": 0,
+            "id": 700003,
+            "effect": 0
+        },
+        "700004": {
+            "imageId": 0,
+            "coordinate": "0",
+            "condition": 4,
+            "scene": "0",
+            "isShowMinimapIcon": 0,
+            "id": 700004,
+            "effect": 0
+        },
+        "700005": {
+            "imageId": 0,
+            "coordinate": "0",
+            "condition": 5,
+            "scene": "0",
+            "isShowMinimapIcon": 0,
+            "id": 700005,
+            "effect": 0
+        },
+        "700006": {
+            "imageId": 0,
+            "coordinate": "0",
+            "condition": 6,
+            "scene": "0",
+            "isShowMinimapIcon": 0,
+            "id": 700006,
+            "effect": 0
+        },
+        "700007": {
+            "imageId": 0,
+            "coordinate": "0",
+            "condition": 7,
+            "scene": "0",
+            "isShowMinimapIcon": 0,
+            "id": 700007,
+            "effect": 0
+        }
+    },
+    "AllIds": [
+        700001,
+        700002,
+        700003,
+        700004,
+        700005,
+        700006,
+        700007,
+        700008
+    ]
+}
